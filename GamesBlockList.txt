@@ -132,3 +132,5 @@ neal.fun
 cpstest.click
 granny2.io
 www.cooljuegos.com
+cooljuegos.com
+geometrylitepc.io
