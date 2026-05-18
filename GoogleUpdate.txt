@@ -1,5 +1,6 @@
 update.googleapis.com
+chromewebstore.google.com
 dl.google.com
 addons.mozilla.org
 addons.opera.com
-
+search.brave.com
