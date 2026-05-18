@@ -164,5 +164,10 @@ itch.io
 www.itch.io
 www.msn.com
 msn.com
+msngames.com
+zone.msn.com.edgesuite.net
+zone.msn.com
+www.msngames.com
+edge.games.msn.com
 www.newgrounds.com
 newgrounds.com
