@@ -171,3 +171,8 @@ www.msngames.com
 edge.games.msn.com
 www.newgrounds.com
 newgrounds.com
+mine-craft.io
+api.msn.com
+c.msn.com
+softgames.cdn.msnfun.com
+assets.gd.sbs.softgames.de
