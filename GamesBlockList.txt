@@ -164,3 +164,5 @@ itch.io
 www.itch.io
 www.msn.com
 msn.com
+www.newgrounds.com
+newgrounds.com
