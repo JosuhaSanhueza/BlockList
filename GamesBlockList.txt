@@ -174,5 +174,8 @@ newgrounds.com
 mine-craft.io
 api.msn.com
 c.msn.com
+tapnation.cdn.msnfun.com
+assets.msn.com
 softgames.cdn.msnfun.com
 assets.gd.sbs.softgames.de
+hotgames.io
