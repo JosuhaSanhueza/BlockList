@@ -181,8 +181,6 @@ mergecraft.cleverappssg.com
 multi.cleverappssg.com
 cleverappssg.com
 67clicker.bitbucket.io
-www.chess.com
-chess.com
 cdn.mergecakegame.com
 gs.prod.mergecakegame.com
 inlogic.cdn.msnfun.com
@@ -214,3 +212,4 @@ frivclasico.co
 snokido.com
 makeitmeme.com
 geometrydashwave.com
+kour.io
