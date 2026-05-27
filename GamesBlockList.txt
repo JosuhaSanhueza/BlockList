@@ -213,3 +213,4 @@ snokido.com
 makeitmeme.com
 geometrydashwave.com
 kour.io
+krunker.io
