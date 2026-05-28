@@ -214,3 +214,5 @@ makeitmeme.com
 geometrydashwave.com
 kour.io
 krunker.io
+fr9.es
+narrow.one
