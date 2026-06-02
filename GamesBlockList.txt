@@ -235,3 +235,5 @@ cryzen.io
 api.cryzen.io
 us-5.cryzen.io
 us.cryzen.io
+www.gamepix.com
+gamepix.com
