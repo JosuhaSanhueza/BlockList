@@ -232,3 +232,6 @@ epicgames.com
 web.cloudmoonapp.com
 cloudmoonapp.com
 cryzen.io
+api.cryzen.io
+us-5.cryzen.io
+us.cryzen.io
