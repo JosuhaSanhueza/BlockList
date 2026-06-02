@@ -231,3 +231,4 @@ store.epicgames.com
 epicgames.com
 web.cloudmoonapp.com
 cloudmoonapp.com
+cryzen.io
