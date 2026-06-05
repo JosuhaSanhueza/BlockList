@@ -25,22 +25,22 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 <tbody>
 <tr>
 <td>Games</td>
-<td><a href="https://josuhasanhueza.github.io/blocklist/GamesBlockList.txt" rel="nofollow">Link</a></td>
+<td><a href="https://josuhasanhueza.github.io/lista/GamesBlockList.txt" rel="nofollow">Link</a></td>
 <td>Paginas de Juegos.</td>
 </tr>
 <tr>
 <td>School </td>
-<td><a href="https://josuhasanhueza.github.io/blocklist/SchoolBlockList.txt" rel="nofollow">Link</a></td>
+<td><a href="https://josuhasanhueza.github.io/lista/SchoolBlockList.txt" rel="nofollow">Link</a></td>
 <td>descargas,streaming.</td>
 </tr>
 <tr>
 <td>Windows Update </td>
-<td><a href="https://josuhasanhueza.github.io/blocklist/WindowsUpdate.txt" rel="nofollow">Link</a></td>
+<td><a href="https://josuhasanhueza.github.io/lista/WindowsUpdate.txt" rel="nofollow">Link</a></td>
 <td>Actualizaciones.</td>
 </tr>
 <tr>
 <td>Google Update </td>
-<td><a href="https://josuhasanhueza.github.io/blocklist/GoogleUpdate.txt" rel="nofollow">Link</a></td>
+<td><a href="https://josuhasanhueza.github.io/lista/GoogleUpdate.txt" rel="nofollow">Link</a></td>
 <td>Actualizaciones.</td>
 </tr>
 </tbody>
