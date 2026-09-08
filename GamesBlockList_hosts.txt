@@ -109,6 +109,7 @@
 0.0.0.0 badtimesimulator.io
 0.0.0.0 badtimesimulator.org
 0.0.0.0 base44.app
+0.0.0.0 baseball-bros.org
 0.0.0.0 basketball-stars.io
 0.0.0.0 basketballbros.site
 0.0.0.0 basketballlegends.fun
@@ -206,8 +207,11 @@
 0.0.0.0 consto.uk
 0.0.0.0 cookie-clicker2.com
 0.0.0.0 cookieclicker-unblocked.pages.dev
+0.0.0.0 cookieclicker.eu
 0.0.0.0 cookieclicker2.io
 0.0.0.0 cookieclickernew.com
+0.0.0.0 cookieclickerplay.github.io
+0.0.0.0 cookieclickerunblocked.site
 0.0.0.0 cookinggames.com
 0.0.0.0 cool-orpin.vercel.app
 0.0.0.0 cooljuegos.com
@@ -217,6 +221,7 @@
 0.0.0.0 copero.com.ar
 0.0.0.0 copyofmasite.pages.dev
 0.0.0.0 corriscant.github.io
+0.0.0.0 couchfriends.com
 0.0.0.0 country-defense-bheng.vercel.app
 0.0.0.0 cpstest.click
 0.0.0.0 cpstest.net
@@ -278,6 +283,7 @@
 0.0.0.0 drawize.com
 0.0.0.0 dress-up-games.github.io
 0.0.0.0 drift-hunters.co
+0.0.0.0 drift-hunters.com
 0.0.0.0 driftboss-unblocked.com
 0.0.0.0 driftboss.io
 0.0.0.0 driftbossonline.bitbucket.io
@@ -285,6 +291,7 @@
 0.0.0.0 driftbossunblocked.io
 0.0.0.0 drifthunters.org
 0.0.0.0 drifthunters66online.github.io
+0.0.0.0 drifthuntersonline.gitlab.io
 0.0.0.0 drillur.itch.io
 0.0.0.0 drivequest.io
 0.0.0.0 duck-math.gitlab.io
@@ -368,6 +375,7 @@
 0.0.0.0 fog.com
 0.0.0.0 football-games.io
 0.0.0.0 forgeofempires.com
+0.0.0.0 fosiper.com
 0.0.0.0 fr9.es
 0.0.0.0 free-aigames.com
 0.0.0.0 freeciv.org
@@ -376,6 +384,7 @@
 0.0.0.0 freegame.com
 0.0.0.0 freegames.com
 0.0.0.0 freegames.io
+0.0.0.0 freegames.org
 0.0.0.0 freegames2.com
 0.0.0.0 freegames9.com
 0.0.0.0 freemcserver.net
@@ -499,6 +508,7 @@
 0.0.0.0 geometry-dash-lite.io
 0.0.0.0 geometry-dash-unbanned.github.io
 0.0.0.0 geometry-dash-unblocked-nine.vercel.app
+0.0.0.0 geometry-dash-unblocked.com
 0.0.0.0 geometry-dash-unblocked.vercel.app
 0.0.0.0 geometry-dash.net
 0.0.0.0 geometry-dashpc.com
@@ -506,15 +516,18 @@
 0.0.0.0 geometry-lite.com
 0.0.0.0 geometry-lite2.io
 0.0.0.0 geometry.games
+0.0.0.0 geometrydash-pc.com
 0.0.0.0 geometrydash.com.mx
 0.0.0.0 geometrydash.com
 0.0.0.0 geometrydash.es
 0.0.0.0 geometrydash.gg
 0.0.0.0 geometrydash.ie
 0.0.0.0 geometrydash.online
+0.0.0.0 geometrydash.us.com
 0.0.0.0 geometrydashh.es
 0.0.0.0 geometrydashlite2.io
 0.0.0.0 geometrydashlite22.io
+0.0.0.0 geometrydashlitefree.com
 0.0.0.0 geometrydashwave.com
 0.0.0.0 geometrylitepc.com
 0.0.0.0 geometrylitepc.io
@@ -727,8 +740,11 @@
 0.0.0.0 minecraft-mp.com
 0.0.0.0 minecraft.com
 0.0.0.0 minecraft.net
+0.0.0.0 minecraft194eaglercraft.weebly.com
 0.0.0.0 minecraftclassic.online
 0.0.0.0 minecraftclassic.org
+0.0.0.0 minecrafteaglercraft.gitlab.io
+0.0.0.0 minecrafteaglercraft.vercel.app
 0.0.0.0 minecraftforfreex.com
 0.0.0.0 minecraftforge.net
 0.0.0.0 minecraftjava.net
@@ -916,8 +932,10 @@
 0.0.0.0 resent5.pages.dev
 0.0.0.0 resurviv.biz
 0.0.0.0 retroarch.com
+0.0.0.0 retrobowl.app
 0.0.0.0 retrobowl.me
 0.0.0.0 retrobowl.school
+0.0.0.0 retrobowl26play.org
 0.0.0.0 retrogames.cc
 0.0.0.0 roblox-unblock.github.io
 0.0.0.0 rocketgames.io
@@ -978,7 +996,9 @@
 0.0.0.0 slope2unblocked.com
 0.0.0.0 slope3.com
 0.0.0.0 slope3unblocked.github.io
+0.0.0.0 slope911.com
 0.0.0.0 slopecom.com
+0.0.0.0 slopefree.org
 0.0.0.0 slopegame-online.com
 0.0.0.0 slopegame.io
 0.0.0.0 slopegame2.com
@@ -1041,6 +1061,7 @@
 0.0.0.0 subwaysurfers-unblocked.github.io
 0.0.0.0 subwaysurfers-unblocked.gitlab.io
 0.0.0.0 subwaysurfers.gg
+0.0.0.0 subwaysurfersunblocked.org
 0.0.0.0 suite.saltyspamz.xyz
 0.0.0.0 sunfs.app
 0.0.0.0 sunstudio.io
@@ -1127,6 +1148,7 @@
 0.0.0.0 unblockedgamesbrowser.com
 0.0.0.0 unblockedgamesgg.com
 0.0.0.0 unblockedgamesheaven.brownwebdesign.com
+0.0.0.0 unblockedgamespod.gitlab.io
 0.0.0.0 unblockedgamespremiumonline.github.io
 0.0.0.0 unblockedrush.com
 0.0.0.0 unity3d.com
