@@ -1,6 +1,7 @@
 ||0ntimer.github.io^
 ||1001games.com^
 ||1001jogos.com.br^
+||1001jogos.pt^
 ||1001juegos.com^
 ||1255.areso.pro^
 ||13acae8c-ec6a-4823-b1a2-8ea20cea56e7.poki-gdn.com^
@@ -393,6 +394,7 @@
 ||fosiper.com^
 ||fr9.es^
 ||free-aigames.com^
+||free80sarcade.com^
 ||freeciv.org^
 ||freecivweb.com^
 ||freedombrowser.org^
@@ -402,11 +404,14 @@
 ||freegames.org^
 ||freegames2.com^
 ||freegames9.com^
+||freegamesonline.com^
 ||freemcserver.net^
 ||freeonlinegames.com^
 ||freetogame.com^
 ||freetypinggame.net^
+||freewebarcade.com^
 ||freewebgames.io^
+||frev.info^
 ||friclassic.online^
 ||fridaynightfunkin.app^
 ||fridaynightfunkin.net^
@@ -452,6 +457,7 @@
 ||frivextra.com^
 ||frivez.com^
 ||frivjogosonline.com.br^
+||frivls.com^
 ||frivmax.com^
 ||frivoriginal.com^
 ||frivplus.com^
@@ -645,6 +651,7 @@
 ||jklm.fun^
 ||joalor64.itch.io^
 ||joeheyming.github.io^
+||jogofriv.com^
 ||jogos-friv.com^
 ||jogos.com^
 ||jopi.com^
@@ -848,6 +855,7 @@
 ||ofogames.com^
 ||oh-hell-mu.vercel.app^
 ||ohgames.io^
+||ojogos.com.br^
 ||omigames.com^
 ||one.io^
 ||onlinegames.com^
@@ -897,6 +905,7 @@
 ||plarium.com^
 ||play-games.com^
 ||play.gilect.com^
+||play123.com^
 ||play2048.co^
 ||playable.game^
 ||playbloonstowerdefense.com^
@@ -944,6 +953,7 @@
 ||primarygames.com^
 ||primarygames.gitlab.io^
 ||princeton-tower-defense.vercel.app^
+||prinxy.app^
 ||privategameservers.com^
 ||project-scythe.vercel.app^
 ||projectoutfox.com^
@@ -1068,6 +1078,7 @@
 ||splix.io^
 ||sprunki.org^
 ||srunners.com^
+||stardoll.com^
 ||starlighttt.netlify.app^
 ||start.gg^
 ||staticquasar931.github.io^

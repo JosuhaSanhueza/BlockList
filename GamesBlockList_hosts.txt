@@ -2,6 +2,7 @@
 0.0.0.0 0ntimer.github.io
 0.0.0.0 1001games.com
 0.0.0.0 1001jogos.com.br
+0.0.0.0 1001jogos.pt
 0.0.0.0 1001juegos.com
 0.0.0.0 1255.areso.pro
 0.0.0.0 13acae8c-ec6a-4823-b1a2-8ea20cea56e7.poki-gdn.com
@@ -394,6 +395,7 @@
 0.0.0.0 fosiper.com
 0.0.0.0 fr9.es
 0.0.0.0 free-aigames.com
+0.0.0.0 free80sarcade.com
 0.0.0.0 freeciv.org
 0.0.0.0 freecivweb.com
 0.0.0.0 freedombrowser.org
@@ -403,11 +405,14 @@
 0.0.0.0 freegames.org
 0.0.0.0 freegames2.com
 0.0.0.0 freegames9.com
+0.0.0.0 freegamesonline.com
 0.0.0.0 freemcserver.net
 0.0.0.0 freeonlinegames.com
 0.0.0.0 freetogame.com
 0.0.0.0 freetypinggame.net
+0.0.0.0 freewebarcade.com
 0.0.0.0 freewebgames.io
+0.0.0.0 frev.info
 0.0.0.0 friclassic.online
 0.0.0.0 fridaynightfunkin.app
 0.0.0.0 fridaynightfunkin.net
@@ -453,6 +458,7 @@
 0.0.0.0 frivextra.com
 0.0.0.0 frivez.com
 0.0.0.0 frivjogosonline.com.br
+0.0.0.0 frivls.com
 0.0.0.0 frivmax.com
 0.0.0.0 frivoriginal.com
 0.0.0.0 frivplus.com
@@ -646,6 +652,7 @@
 0.0.0.0 jklm.fun
 0.0.0.0 joalor64.itch.io
 0.0.0.0 joeheyming.github.io
+0.0.0.0 jogofriv.com
 0.0.0.0 jogos-friv.com
 0.0.0.0 jogos.com
 0.0.0.0 jopi.com
@@ -849,6 +856,7 @@
 0.0.0.0 ofogames.com
 0.0.0.0 oh-hell-mu.vercel.app
 0.0.0.0 ohgames.io
+0.0.0.0 ojogos.com.br
 0.0.0.0 omigames.com
 0.0.0.0 one.io
 0.0.0.0 onlinegames.com
@@ -898,6 +906,7 @@
 0.0.0.0 plarium.com
 0.0.0.0 play-games.com
 0.0.0.0 play.gilect.com
+0.0.0.0 play123.com
 0.0.0.0 play2048.co
 0.0.0.0 playable.game
 0.0.0.0 playbloonstowerdefense.com
@@ -945,6 +954,7 @@
 0.0.0.0 primarygames.com
 0.0.0.0 primarygames.gitlab.io
 0.0.0.0 princeton-tower-defense.vercel.app
+0.0.0.0 prinxy.app
 0.0.0.0 privategameservers.com
 0.0.0.0 project-scythe.vercel.app
 0.0.0.0 projectoutfox.com
@@ -1069,6 +1079,7 @@
 0.0.0.0 splix.io
 0.0.0.0 sprunki.org
 0.0.0.0 srunners.com
+0.0.0.0 stardoll.com
 0.0.0.0 starlighttt.netlify.app
 0.0.0.0 start.gg
 0.0.0.0 staticquasar931.github.io
