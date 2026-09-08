@@ -975,3 +975,9 @@ shellshocker
 tanktrouble4
 blogbucket
 techgrapple
+
+# --- Búsqueda dirigida (5 confirmados: eaglercraft launcher, minecraft launcher, kart racers, slime keyboard escape), 2026-09-08 ---
+eaglerlauncher
+kartbros
+gokarts
+slimekeyboardescape

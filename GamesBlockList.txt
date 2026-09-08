@@ -1264,3 +1264,8 @@
 ||sites.google.com/*/super-mario-world^
 ||sites.google.com/view/*game*^
 ||sites.google.com/view/totalgameinn/*^
+||eaglercraft-launcher.vexr.dev^
+||minecraftjava.pages.dev^
+||kartbros.io^
+||gokarts.io^
+||slimekeyboardescape.com^

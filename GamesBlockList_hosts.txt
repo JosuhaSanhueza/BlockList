@@ -305,6 +305,7 @@
 0.0.0.0 eaglecraft.com
 0.0.0.0 eaglecraftgame.io
 0.0.0.0 eaglecraftonline.bitbucket.io
+0.0.0.0 eaglercraft-launcher.vexr.dev
 0.0.0.0 eaglercraft-minecraft.com
 0.0.0.0 eaglercraft.42web.io
 0.0.0.0 eaglercraft.app
@@ -554,6 +555,7 @@
 0.0.0.0 gladihoppers.io
 0.0.0.0 glazegames.com
 0.0.0.0 gogamego.io
+0.0.0.0 gokarts.io
 0.0.0.0 gomestable.netlify.app
 0.0.0.0 googlehosted.com
 0.0.0.0 googlesnake.org
@@ -678,6 +680,7 @@
 0.0.0.0 juegosjuegos.com
 0.0.0.0 juegosjuegos.ws
 0.0.0.0 jugarmccomportal.base44.app
+0.0.0.0 kartbros.io
 0.0.0.0 kazwire.com
 0.0.0.0 kbhgames.com
 0.0.0.0 kbhgamesonline.github.io
@@ -763,6 +766,7 @@
 0.0.0.0 minecraftforfreex.com
 0.0.0.0 minecraftforge.net
 0.0.0.0 minecraftjava.net
+0.0.0.0 minecraftjava.pages.dev
 0.0.0.0 minecraftlist.com
 0.0.0.0 minecraftservers.us
 0.0.0.0 minelatino.com
@@ -1008,6 +1012,7 @@
 0.0.0.0 skinsmc.org
 0.0.0.0 skribbl.io
 0.0.0.0 skribbl.org
+0.0.0.0 slimekeyboardescape.com
 0.0.0.0 slither.com
 0.0.0.0 slither.io
 0.0.0.0 slithergame.io
