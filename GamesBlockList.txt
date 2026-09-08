@@ -39,6 +39,7 @@
 ||67clicker.org^
 ||6922b02c-40d6-4b41-8250-70ff32fd9b3c.poki-gdn.com^
 ||6x-classroom.bitbucket.io^
+||6xgames.com^
 ||6zar.com^
 ||75kh0.github.io^
 ||76-games.bitbucket.io^
@@ -122,6 +123,7 @@
 ||basketball-random-unblocked.bitbucket.io^
 ||basketball-stars.io^
 ||basketballbros.site^
+||basketballlegends.bitbucket.io^
 ||basketballlegends.fun^
 ||basketballrandom.com^
 ||basketballstarss.github.io^
@@ -129,6 +131,7 @@
 ||basketbros-unblocked.github.io^
 ||basketrandom.io^
 ||battleon.com^
+||bearclicker.net^
 ||bee.games^
 ||bemuse.ninja^
 ||bestcrazygames.com^
@@ -203,6 +206,7 @@
 ||ciudadelas.net^
 ||clash3d.com^
 ||class-76.github.io^
+||classgame77.com^
 ||classicgamezone.com^
 ||classicjoy.games^
 ||classicminecraft.github.io^
@@ -458,6 +462,7 @@
 ||freegames2.com^
 ||freegames9.com^
 ||freegamesonline.com^
+||freeinvaders.org^
 ||freemcserver.net^
 ||freeonlinegames.com^
 ||freetogame.com^
@@ -520,6 +525,7 @@
 ||fuegoyagua.es^
 ||funbrain.com^
 ||funclicker.com^
+||funclicker.org^
 ||funkin.me^
 ||funny-school.github.io^
 ||funnygames.it^
@@ -579,6 +585,7 @@
 ||gartic.com^
 ||gartic.io^
 ||garticphone.com^
+||gazpo.com^
 ||gd.games^
 ||genarcy.github.io^
 ||genizymath.github.io^
@@ -648,6 +655,7 @@
 ||grannyhorror.com^
 ||grannyhorror.io^
 ||grannyonline.io^
+||grow-agarden.io^
 ||grrd.ch^
 ||guildmaster.yht.one^
 ||gx.games^
@@ -684,6 +692,7 @@
 ||idlegames.win^
 ||idolsofash.live^
 ||igre.games^
+||ihackedgames.com^
 ||imagineisland.game^
 ||img.poki-cdn.com^
 ||impossiblequiz.net^
@@ -769,6 +778,7 @@
 ||kemono.games^
 ||kevin.games^
 ||kickoutgames.com^
+||kickthebuddy.lol^
 ||king.com^
 ||kingdomarchitect.netlify.app^
 ||kingdomofmarionettes.live^
@@ -804,6 +814,8 @@
 ||littlebigsnake.com^
 ||littlewargame.com^
 ||livegameserverlist.com^
+||lol-beans.org^
+||lolbeans.us^
 ||lps7x.csb.app^
 ||luckyblocks.io^
 ||lullwood.vercel.app^
@@ -818,6 +830,7 @@
 ||manasource.itch.io^
 ||marbleblast-abhiverse.dedyn.io^
 ||marianogappa.github.io^
+||maskedgames.com^
 ||mathwizard.pages.dev^
 ||mattmakesgames.itch.io^
 ||maxwellstevenson.com^
@@ -994,6 +1007,7 @@
 ||playeagler.blog^
 ||playeaglercraft.com^
 ||player2.game^
+||playercounter.com^
 ||playgama.com^
 ||playgames.io^
 ||playgeodash.com^
@@ -1007,6 +1021,7 @@
 ||playpager.com^
 ||playpicross.com^
 ||playretrogames.com^
+||playscarymazegame.net^
 ||playschoolgames.com^
 ||playspark.net^
 ||playzen.io^
@@ -1044,8 +1059,11 @@
 ||puzzio.io^
 ||puzzlegarage.com^
 ||q13x.com^
+||quake-io.com^
 ||quantum-backrooms.vercel.app^
 ||raftlife.io^
+||ragdoll-archers.github.io^
+||ragdollarchers.github.io^
 ||ragdollarchers.io^
 ||ragdollarchers2.io^
 ||ragdollhit.com^
@@ -1090,6 +1108,7 @@
 ||santiagodebus.com^
 ||say.games^
 ||scalacube.com^
+||scary-maze.com^
 ||scaryteacher-3d.io^
 ||scattergoriesonline.net^
 ||schoolgamethingy.github.io^
@@ -1123,6 +1142,7 @@
 ||skinsmc.org^
 ||skribbl.io^
 ||skribbl.org^
+||slice-master.io^
 ||slimekeyboardescape.com^
 ||slither.com^
 ||slither.io^
@@ -1178,6 +1198,7 @@
 ||sprunki.org^
 ||sprunkin.com^
 ||sprunky.org^
+||squid-game.pro^
 ||srunners.com^
 ||stardoll.com^
 ||starlighttt.netlify.app^
@@ -1224,6 +1245,7 @@
 ||suroi.io^
 ||surviv.io^
 ||swordbattle.io^
+||sycesgameshack.com^
 ||sz-games.github.io^
 ||szgames.net^
 ||szunami.itch.io^
@@ -1290,6 +1312,7 @@
 ||twoplayergames.org^
 ||typingstudy.com^
 ||ubg365.github.io^
+||ubg67.com^
 ||ubg6969.gitlab.io^
 ||ubg76.com^
 ||ubg76.gitlab.io^
@@ -1310,6 +1333,7 @@
 ||unblocked-games.org^
 ||unblocked-steal-a-brainrot.github.io^
 ||unblocked76.org^
+||unblocked911games.com^
 ||unblockedgaames.com^
 ||unblockedgame.io^
 ||unblockedgame67.github.io^
@@ -1354,6 +1378,7 @@
 ||viberverse.github.io^
 ||vidaextra.com^
 ||vim-snake-navy.vercel.app^
+||virlan.co^
 ||vitalitygames.com^
 ||viverse.com^
 ||voltygames.com^
@@ -1381,6 +1406,7 @@
 ||wordles.org^
 ||wordleunlimitedgame.org^
 ||wordlyplay.com^
+||worms.zone^
 ||wowubg.github.io^
 ||wtfgame.gitlab.io^
 ||wtfgames.io^
