@@ -7,6 +7,7 @@
 ||1b.games^
 ||1games.com^
 ||1games.io^
+||1v1-lol.cc^
 ||1v1lol-gg.github.io^
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
@@ -18,6 +19,7 @@
 ||2v2io.io^
 ||3kh0.github.io^
 ||40servidoresmc.es^
+||4gameground.com^
 ||4k-teavm.pages.dev^
 ||55gms.com^
 ||5dd2c5c4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com^
@@ -361,6 +363,7 @@
 ||fivenightsatfreddys.com^
 ||fivenightsatfreddysgame.com^
 ||fivenightsatfreddysgame.io^
+||fizzerz.com^
 ||flappybird.io^
 ||flqmedev.github.io^
 ||fnaf-unblock.github.io^
@@ -379,6 +382,7 @@
 ||fog.com^
 ||football-games.io^
 ||forgeofempires.com^
+||fortnite-unblocked.pages.dev^
 ||fosiper.com^
 ||fr9.es^
 ||free-aigames.com^
@@ -522,6 +526,7 @@
 ||geometry-lite.com^
 ||geometry-lite2.io^
 ||geometry.games^
+||geometryarrow.io^
 ||geometrydash-pc.com^
 ||geometrydash.com.mx^
 ||geometrydash.com^
@@ -695,6 +700,7 @@
 ||kongregate.io^
 ||kongregate.online^
 ||kour.io^
+||krunker.co.uk^
 ||krunker.io^
 ||kyabai.com^
 ||lablockedgames.com^
@@ -702,6 +708,7 @@
 ||lagged.com^
 ||lastline.011203.xyz^
 ||legionsdk.com^
+||leveldevil.io^
 ||lichess.org^
 ||ligadegamers.com^
 ||listamc.com^
@@ -855,6 +862,7 @@
 ||pacogames.com^
 ||pages.dev^
 ||paisdelosjuegos.net^
+||papas-arcade.com^
 ||papas-games.io^
 ||papasgames.fit^
 ||papasgamesfree.com^
@@ -918,6 +926,7 @@
 ||poki2.online^
 ||pomu.com^
 ||poncle.itch.io^
+||poppyplaytimegames.github.io^
 ||primarygames.com^
 ||primarygames.gitlab.io^
 ||princeton-tower-defense.vercel.app^
@@ -979,6 +988,7 @@
 ||sgames.io^
 ||sgames.org^
 ||shawgames.com^
+||shell-shocker.github.io^
 ||shellshock.com^
 ||shellshock.io^
 ||shellshockers.io^
@@ -1091,6 +1101,7 @@
 ||taming.io^
 ||tankionline.com^
 ||tankstroubleunblocked.com^
+||tanktrouble4.com^
 ||tanukisunsetgame.github.io^
 ||tb.caeland.ca^
 ||teamgames.club^
@@ -1155,6 +1166,8 @@
 ||unblocked-steal-a-brainrot.github.io^
 ||unblocked76.org^
 ||unblockedgame67.github.io^
+||unblockedgames.blogbucket.org^
+||unblockedgames.techgrapple.com^
 ||unblockedgames66.org^
 ||unblockedgames76.com^
 ||unblockedgames76.gitlab.io^
@@ -1168,6 +1181,7 @@
 ||unity3d.com^
 ||untitledproxy.pages.dev^
 ||us.com^
+||usaunblockedgames.com^
 ||uunnblockedgames.weebly.com^
 ||v.poki-cdn.com^
 ||valuxshop.github.io^
@@ -1233,6 +1247,7 @@
 ||yurk.com^
 ||zapgames.io^
 ||zapgames.site^
+||zazgames.com^
 ||zelgirl.com^
 ||zenith391.itch.io^
 ||zenithub.pages.dev^

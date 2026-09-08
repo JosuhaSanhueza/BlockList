@@ -8,6 +8,7 @@
 0.0.0.0 1b.games
 0.0.0.0 1games.com
 0.0.0.0 1games.io
+0.0.0.0 1v1-lol.cc
 0.0.0.0 1v1lol-gg.github.io
 0.0.0.0 1v1lol-unblocked.bitbucket.io
 0.0.0.0 1v1lol.me
@@ -19,6 +20,7 @@
 0.0.0.0 2v2io.io
 0.0.0.0 3kh0.github.io
 0.0.0.0 40servidoresmc.es
+0.0.0.0 4gameground.com
 0.0.0.0 4k-teavm.pages.dev
 0.0.0.0 55gms.com
 0.0.0.0 5dd2c5c4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
@@ -362,6 +364,7 @@
 0.0.0.0 fivenightsatfreddys.com
 0.0.0.0 fivenightsatfreddysgame.com
 0.0.0.0 fivenightsatfreddysgame.io
+0.0.0.0 fizzerz.com
 0.0.0.0 flappybird.io
 0.0.0.0 flqmedev.github.io
 0.0.0.0 fnaf-unblock.github.io
@@ -380,6 +383,7 @@
 0.0.0.0 fog.com
 0.0.0.0 football-games.io
 0.0.0.0 forgeofempires.com
+0.0.0.0 fortnite-unblocked.pages.dev
 0.0.0.0 fosiper.com
 0.0.0.0 fr9.es
 0.0.0.0 free-aigames.com
@@ -523,6 +527,7 @@
 0.0.0.0 geometry-lite.com
 0.0.0.0 geometry-lite2.io
 0.0.0.0 geometry.games
+0.0.0.0 geometryarrow.io
 0.0.0.0 geometrydash-pc.com
 0.0.0.0 geometrydash.com.mx
 0.0.0.0 geometrydash.com
@@ -696,6 +701,7 @@
 0.0.0.0 kongregate.io
 0.0.0.0 kongregate.online
 0.0.0.0 kour.io
+0.0.0.0 krunker.co.uk
 0.0.0.0 krunker.io
 0.0.0.0 kyabai.com
 0.0.0.0 lablockedgames.com
@@ -703,6 +709,7 @@
 0.0.0.0 lagged.com
 0.0.0.0 lastline.011203.xyz
 0.0.0.0 legionsdk.com
+0.0.0.0 leveldevil.io
 0.0.0.0 lichess.org
 0.0.0.0 ligadegamers.com
 0.0.0.0 listamc.com
@@ -856,6 +863,7 @@
 0.0.0.0 pacogames.com
 0.0.0.0 pages.dev
 0.0.0.0 paisdelosjuegos.net
+0.0.0.0 papas-arcade.com
 0.0.0.0 papas-games.io
 0.0.0.0 papasgames.fit
 0.0.0.0 papasgamesfree.com
@@ -919,6 +927,7 @@
 0.0.0.0 poki2.online
 0.0.0.0 pomu.com
 0.0.0.0 poncle.itch.io
+0.0.0.0 poppyplaytimegames.github.io
 0.0.0.0 primarygames.com
 0.0.0.0 primarygames.gitlab.io
 0.0.0.0 princeton-tower-defense.vercel.app
@@ -980,6 +989,7 @@
 0.0.0.0 sgames.io
 0.0.0.0 sgames.org
 0.0.0.0 shawgames.com
+0.0.0.0 shell-shocker.github.io
 0.0.0.0 shellshock.com
 0.0.0.0 shellshock.io
 0.0.0.0 shellshockers.io
@@ -1092,6 +1102,7 @@
 0.0.0.0 taming.io
 0.0.0.0 tankionline.com
 0.0.0.0 tankstroubleunblocked.com
+0.0.0.0 tanktrouble4.com
 0.0.0.0 tanukisunsetgame.github.io
 0.0.0.0 tb.caeland.ca
 0.0.0.0 teamgames.club
@@ -1156,6 +1167,8 @@
 0.0.0.0 unblocked-steal-a-brainrot.github.io
 0.0.0.0 unblocked76.org
 0.0.0.0 unblockedgame67.github.io
+0.0.0.0 unblockedgames.blogbucket.org
+0.0.0.0 unblockedgames.techgrapple.com
 0.0.0.0 unblockedgames66.org
 0.0.0.0 unblockedgames76.com
 0.0.0.0 unblockedgames76.gitlab.io
@@ -1169,6 +1182,7 @@
 0.0.0.0 unity3d.com
 0.0.0.0 untitledproxy.pages.dev
 0.0.0.0 us.com
+0.0.0.0 usaunblockedgames.com
 0.0.0.0 uunnblockedgames.weebly.com
 0.0.0.0 v.poki-cdn.com
 0.0.0.0 valuxshop.github.io
@@ -1234,6 +1248,7 @@
 0.0.0.0 yurk.com
 0.0.0.0 zapgames.io
 0.0.0.0 zapgames.site
+0.0.0.0 zazgames.com
 0.0.0.0 zelgirl.com
 0.0.0.0 zenith391.itch.io
 0.0.0.0 zenithub.pages.dev
