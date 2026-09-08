@@ -1,5 +1,6 @@
 ||0ntimer.github.io^
 ||1001games.com^
+||1001jeux.fr^
 ||1001jogos.com.br^
 ||1001jogos.pt^
 ||1001juegos.com^
@@ -137,6 +138,7 @@
 ||bitlifegame.com^
 ||bitlifeunblockedonline.github.io^
 ||blipzi.com^
+||blockblaast.com^
 ||blockblast.es^
 ||blockpostonlineplay.github.io^
 ||blooket1.com^
@@ -156,6 +158,7 @@
 ||brawl-stars.eu^
 ||breakbar.itch.io^
 ||breakplay.fun^
+||browsergame-base.de^
 ||bubbleshooteonline.github.io^
 ||bubbleshooter.net^
 ||buff.game^
@@ -349,6 +352,7 @@
 ||emulatorjs.org^
 ||emupedia.net^
 ||emuvault-2.firebaseapp.com^
+||en.gameslol.net^
 ||epic-craft.vercel.app^
 ||epicgames.com^
 ||epiconlinegames.com^
@@ -572,6 +576,7 @@
 ||googlehosted.com^
 ||googlesnake.org^
 ||goose.game^
+||gorillatagonline.com^
 ||got.gtarcade.com^
 ||got.r2games.com^
 ||gplusgames.gitlab.io^
@@ -643,6 +648,8 @@
 ||jerryshell.itch.io^
 ||jetspaz.com^
 ||jetyehs.github.io^
+||jeux.fr^
+||jeux123.fr^
 ||jeuxdefriv.com^
 ||jeuxdefriv2014.com^
 ||jeuxdefriv2015.com^
@@ -1074,6 +1081,7 @@
 ||solitaires.com^
 ||spacewaves2.org^
 ||spades.co^
+||spiele-kostenlos-online.de^
 ||spinhook.ir^
 ||splix.io^
 ||sprunki.org^
@@ -1239,6 +1247,7 @@
 ||vim-snake-navy.vercel.app^
 ||vitalitygames.com^
 ||viverse.com^
+||wacky-flip.io^
 ||wafercafe.com^
 ||wavedash.com^
 ||we-dashers.github.io^

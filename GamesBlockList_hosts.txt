@@ -1,6 +1,7 @@
 # --- GamesBlockList (Formato Estándar Hosts / OPNsense Unbound) ---
 0.0.0.0 0ntimer.github.io
 0.0.0.0 1001games.com
+0.0.0.0 1001jeux.fr
 0.0.0.0 1001jogos.com.br
 0.0.0.0 1001jogos.pt
 0.0.0.0 1001juegos.com
@@ -138,6 +139,7 @@
 0.0.0.0 bitlifegame.com
 0.0.0.0 bitlifeunblockedonline.github.io
 0.0.0.0 blipzi.com
+0.0.0.0 blockblaast.com
 0.0.0.0 blockblast.es
 0.0.0.0 blockpostonlineplay.github.io
 0.0.0.0 blooket1.com
@@ -157,6 +159,7 @@
 0.0.0.0 brawl-stars.eu
 0.0.0.0 breakbar.itch.io
 0.0.0.0 breakplay.fun
+0.0.0.0 browsergame-base.de
 0.0.0.0 bubbleshooteonline.github.io
 0.0.0.0 bubbleshooter.net
 0.0.0.0 buff.game
@@ -350,6 +353,7 @@
 0.0.0.0 emulatorjs.org
 0.0.0.0 emupedia.net
 0.0.0.0 emuvault-2.firebaseapp.com
+0.0.0.0 en.gameslol.net
 0.0.0.0 epic-craft.vercel.app
 0.0.0.0 epicgames.com
 0.0.0.0 epiconlinegames.com
@@ -573,6 +577,7 @@
 0.0.0.0 googlehosted.com
 0.0.0.0 googlesnake.org
 0.0.0.0 goose.game
+0.0.0.0 gorillatagonline.com
 0.0.0.0 got.gtarcade.com
 0.0.0.0 got.r2games.com
 0.0.0.0 gplusgames.gitlab.io
@@ -644,6 +649,8 @@
 0.0.0.0 jerryshell.itch.io
 0.0.0.0 jetspaz.com
 0.0.0.0 jetyehs.github.io
+0.0.0.0 jeux.fr
+0.0.0.0 jeux123.fr
 0.0.0.0 jeuxdefriv.com
 0.0.0.0 jeuxdefriv2014.com
 0.0.0.0 jeuxdefriv2015.com
@@ -1075,6 +1082,7 @@
 0.0.0.0 solitaires.com
 0.0.0.0 spacewaves2.org
 0.0.0.0 spades.co
+0.0.0.0 spiele-kostenlos-online.de
 0.0.0.0 spinhook.ir
 0.0.0.0 splix.io
 0.0.0.0 sprunki.org
@@ -1240,6 +1248,7 @@
 0.0.0.0 vim-snake-navy.vercel.app
 0.0.0.0 vitalitygames.com
 0.0.0.0 viverse.com
+0.0.0.0 wacky-flip.io
 0.0.0.0 wafercafe.com
 0.0.0.0 wavedash.com
 0.0.0.0 we-dashers.github.io
