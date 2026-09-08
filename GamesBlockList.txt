@@ -81,6 +81,7 @@
 ||amongus-online.net^
 ||amongus.uk^
 ||amongusfree.io^
+||amongusgame.io^
 ||amongusonline.io^
 ||amongusplay.online^
 ||ant.games^
@@ -120,14 +121,17 @@
 ||base44.app^
 ||baseball-bros.org^
 ||basket-random.bitbucket.io^
+||basketball-bros.github.io^
 ||basketball-random-unblocked.bitbucket.io^
 ||basketball-stars.io^
+||basketballbros.cc^
 ||basketballbros.site^
 ||basketballlegends.bitbucket.io^
 ||basketballlegends.fun^
 ||basketballrandom.com^
 ||basketballstarss.github.io^
 ||basketballstarsunblocked.vercel.app^
+||basketbros-game.github.io^
 ||basketbros-unblocked.github.io^
 ||basketrandom.io^
 ||battleon.com^
@@ -157,7 +161,9 @@
 ||bloonstower-defense.github.io^
 ||bloonstowerdefense.org^
 ||bloxd.io^
+||bloxfruitsonline.com^
 ||bloxorz.org^
+||blumgislime.com^
 ||boardgamearena.com^
 ||boing.es^
 ||bonk-io.com^
@@ -292,6 +298,8 @@
 ||curvefever.pro^
 ||cutedressup.com^
 ||cutegames.io^
+||cuttherope.github.io^
+||cuttherope.net^
 ||cxong.github.io^
 ||d11jzht7mj96rr.cloudfront.net^
 ||d1tmbzjih4bfq6.cloudfront.net^
@@ -339,6 +347,7 @@
 ||driftbossonline.bitbucket.io^
 ||driftbossonline.github.io^
 ||driftbossunblocked.io^
+||drifted.com^
 ||drifthunters.org^
 ||drifthunters66online.github.io^
 ||drifthuntersonline.gitlab.io^
@@ -395,6 +404,7 @@
 ||eggycarunblocked.org^
 ||elgoog.im^
 ||ellieeet123.github.io^
+||emojitest.com^
 ||emubrowser.com^
 ||emulatorjs.com^
 ||emulatorjs.org^
@@ -536,6 +546,7 @@
 ||funtrivia.com^
 ||funyoursgames.com^
 ||futbol-11.com^
+||g7r.com^
 ||galaxy.click^
 ||gamalod.com^
 ||gamaverse.com^
@@ -574,6 +585,7 @@
 ||games44.com^
 ||gamesdizi.com^
 ||gamesfree.io^
+||gamesgames.com^
 ||gamesgamescdn.com^
 ||gamesgo.net^
 ||gamesiknow.com^
@@ -662,6 +674,7 @@
 ||grannyonline.io^
 ||grow-agarden.io^
 ||grrd.ch^
+||gswitch.org^
 ||guildmaster.yht.one^
 ||gx.games^
 ||hahagames.com^
@@ -679,6 +692,7 @@
 ||higherlowergame.com^
 ||highwaytrafficonline.github.io^
 ||hihoy.com^
+||hill-climb-racing.com^
 ||holajuegos.com^
 ||hole-io.com^
 ||hoodamath.com^
@@ -694,6 +708,9 @@
 ||hypixel.net^
 ||ice-wallo-come.github.io^
 ||idle-ants.github.io^
+||idle-breakout.github.io^
+||idle-dice.github.io^
+||idledice.github.io^
 ||idlegames.win^
 ||idolsofash.live^
 ||igre.games^
@@ -827,6 +844,7 @@
 ||lullwood.vercel.app^
 ||machita66.com^
 ||mackeylol.github.io^
+||madalinstuntcars2.io^
 ||maddox.games^
 ||mafiakill.com^
 ||magbei.com^
@@ -878,6 +896,7 @@
 ||mineplay.io^
 ||minerank.com^
 ||miniblox.io^
+||minigamesville.com^
 ||minijuegos.com^
 ||minijuegos.games^
 ||minijuegos.mx^
@@ -892,6 +911,8 @@
 ||mobirix.com^
 ||mobirix.net^
 ||mochig.com^
+||monkeymart.one^
+||monkeymart.org^
 ||monkeymath.pages.dev^
 ||moomoo.io^
 ||mope.io^
@@ -1000,6 +1021,7 @@
 ||pinturillo2.com^
 ||pizza-edition-unblocked.github.io^
 ||pla.bad-time-simulator.com^
+||plantsvszombies.onl^
 ||plarium.com^
 ||play-games.com^
 ||play-time-past.vercel.app^
@@ -1007,6 +1029,7 @@
 ||play123.com^
 ||play2048.co^
 ||playable.game^
+||playbasketballbros.com^
 ||playbloonstowerdefense.com^
 ||playbrain.com^
 ||playbrain.games^
@@ -1032,7 +1055,9 @@
 ||playscarymazegame.net^
 ||playschoolgames.com^
 ||playspark.net^
+||playvio.io^
 ||playzen.io^
+||plinkod.com^
 ||pog.com^
 ||pogo.com^
 ||poki-es.bitbucket.io^
@@ -1054,6 +1079,7 @@
 ||poorbunny.io^
 ||popcorngames.io^
 ||poppyplaytimegames.github.io^
+||populargames.io^
 ||premiumunblockedgames.gitlab.io^
 ||primarygames.com^
 ||primarygames.gitlab.io^
@@ -1069,6 +1095,7 @@
 ||q13x.com^
 ||quake-io.com^
 ||quantum-backrooms.vercel.app^
+||racinglimits.net^
 ||raftlife.io^
 ||ragdoll-archers.github.io^
 ||ragdollarchers.github.io^
@@ -1096,10 +1123,12 @@
 ||retrogames.cz^
 ||retrogames.games^
 ||roblox-unblock.github.io^
+||rocket-league.io^
 ||rocketgames.io^
 ||rocketgames.net^
 ||rocketgoal.io^
 ||rocketleague.com^
+||rocketsoccer-derby.com^
 ||rocketsoccerderby.gitlab.io^
 ||roll20.net^
 ||romsmania.games^
@@ -1133,6 +1162,7 @@
 ||shell-shocker.github.io^
 ||shellshock.com^
 ||shellshock.io^
+||shellshockers.com.co^
 ||shellshockers.io^
 ||shellshockers2.com^
 ||shellshockers2.io^
@@ -1460,6 +1490,7 @@
 ||zgames.io^
 ||zlite.zatoga.net^
 ||zohair-racing-portfolio.vercel.app^
+||zohoho.org^
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
