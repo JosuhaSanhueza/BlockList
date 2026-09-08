@@ -941,3 +941,11 @@ slope911
 slopefree
 cookieclickerplay
 cookieclickerunblocked
+
+# --- Manual del usuario (7 dominios: friv, eaglercraft, trex-game, dinosaur.gg, retrogames.cz), 2026-09-08 ---
+friv1000000000
+friv2017
+skipser
+trexgame
+retrogamescz
+eaglercraftonline

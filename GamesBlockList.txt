@@ -268,6 +268,7 @@
 ||dinogame.gg^
 ||dinorunner.com^
 ||dinosaur.game^
+||dinosaur.gg^
 ||dinosaurgame-free.io^
 ||dinosaurgame.io^
 ||dog-squad-game-app.web.app^
@@ -306,6 +307,7 @@
 ||eaglercraft.club^
 ||eaglercraft.com^
 ||eaglercraft.dev^
+||eaglercraft.global.ssl.fastly.net^
 ||eaglercraft.io^
 ||eaglercraft.ir^
 ||eaglercraft.tools^
@@ -316,6 +318,7 @@
 ||eaglercraftgame.io^
 ||eaglercrafthub.com^
 ||eaglercraftonline.bitbucket.io^
+||eaglercraftonline.gitlab.io^
 ||eaglercraftservers.com^
 ||eaglercraftweb.com^
 ||eaglercraftx.com^
@@ -410,11 +413,13 @@
 ||friv.vip^
 ||friv1000.com^
 ||friv1000.net^
+||friv1000000000.net^
 ||friv20.org^
 ||friv2000.com^
 ||friv2010.com^
 ||friv2012.com^
 ||friv2015.com^
+||friv2017.com^
 ||friv2017.us^
 ||friv2021.com^
 ||friv2025.com^
@@ -936,6 +941,7 @@
 ||retrobowl.school^
 ||retrobowl26play.org^
 ||retrogames.cc^
+||retrogames.cz^
 ||roblox-unblock.github.io^
 ||rocketgames.io^
 ||rocketgames.net^
@@ -1111,6 +1117,7 @@
 ||tower.codealuxz.fr^
 ||transformice.com^
 ||treeshateyou-game.com^
+||trex-game.skipser.com^
 ||trex-runner.com^
 ||trickjoker312.github.io^
 ||tsyuay.github.io^

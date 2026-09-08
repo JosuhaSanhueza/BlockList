@@ -20,6 +20,13 @@ WHITELIST = {
     "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com",
 }
 
+# Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
+# SÍ son un sitio de juegos concreto (no la plataforma compartida entera) y por
+# lo tanto sí se bloquean, igual que se hace con subdominios de gitlab.io/github.io.
+WHITELIST_SUBDOMAIN_EXCEPTIONS = {
+    "eaglercraft.global.ssl.fastly.net",
+}
+
 def check_line(line_clean, line_num, domains_seen):
     """Valida una línea de la blocklist. Devuelve (errores, dominio_o_None).
 
@@ -50,8 +57,9 @@ def check_line(line_clean, line_num, domains_seen):
     domains_seen.add(domain)
 
     # 3. Validar presencia accidental de Whitelist (solo servicios no-juegos)
-    if domain in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST):
-        errors.append(f"Línea {line_num}: CRÍTICO - Dominio infraestructura en Whitelist detectado '{domain}'.")
+    if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS:
+        if domain in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST):
+            errors.append(f"Línea {line_num}: CRÍTICO - Dominio infraestructura en Whitelist detectado '{domain}'.")
 
     # 4. Validar formato de caracteres de dominio
     if not re.match(r'^[a-z0-9.-]+\.[a-z]{2,10}$', domain):

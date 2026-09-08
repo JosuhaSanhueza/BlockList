@@ -269,6 +269,7 @@
 0.0.0.0 dinogame.gg
 0.0.0.0 dinorunner.com
 0.0.0.0 dinosaur.game
+0.0.0.0 dinosaur.gg
 0.0.0.0 dinosaurgame-free.io
 0.0.0.0 dinosaurgame.io
 0.0.0.0 dog-squad-game-app.web.app
@@ -307,6 +308,7 @@
 0.0.0.0 eaglercraft.club
 0.0.0.0 eaglercraft.com
 0.0.0.0 eaglercraft.dev
+0.0.0.0 eaglercraft.global.ssl.fastly.net
 0.0.0.0 eaglercraft.io
 0.0.0.0 eaglercraft.ir
 0.0.0.0 eaglercraft.tools
@@ -317,6 +319,7 @@
 0.0.0.0 eaglercraftgame.io
 0.0.0.0 eaglercrafthub.com
 0.0.0.0 eaglercraftonline.bitbucket.io
+0.0.0.0 eaglercraftonline.gitlab.io
 0.0.0.0 eaglercraftservers.com
 0.0.0.0 eaglercraftweb.com
 0.0.0.0 eaglercraftx.com
@@ -411,11 +414,13 @@
 0.0.0.0 friv.vip
 0.0.0.0 friv1000.com
 0.0.0.0 friv1000.net
+0.0.0.0 friv1000000000.net
 0.0.0.0 friv20.org
 0.0.0.0 friv2000.com
 0.0.0.0 friv2010.com
 0.0.0.0 friv2012.com
 0.0.0.0 friv2015.com
+0.0.0.0 friv2017.com
 0.0.0.0 friv2017.us
 0.0.0.0 friv2021.com
 0.0.0.0 friv2025.com
@@ -937,6 +942,7 @@
 0.0.0.0 retrobowl.school
 0.0.0.0 retrobowl26play.org
 0.0.0.0 retrogames.cc
+0.0.0.0 retrogames.cz
 0.0.0.0 roblox-unblock.github.io
 0.0.0.0 rocketgames.io
 0.0.0.0 rocketgames.net
@@ -1112,6 +1118,7 @@
 0.0.0.0 tower.codealuxz.fr
 0.0.0.0 transformice.com
 0.0.0.0 treeshateyou-game.com
+0.0.0.0 trex-game.skipser.com
 0.0.0.0 trex-runner.com
 0.0.0.0 trickjoker312.github.io
 0.0.0.0 tsyuay.github.io

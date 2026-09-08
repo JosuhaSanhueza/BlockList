@@ -112,6 +112,13 @@ WHITELIST = {
     "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com",
 }
 
+# Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
+# SÍ son un sitio de juegos concreto (no la plataforma compartida entera) y por
+# lo tanto sí se bloquean, igual que se hace con subdominios de gitlab.io/github.io.
+WHITELIST_SUBDOMAIN_EXCEPTIONS = {
+    "eaglercraft.global.ssl.fastly.net",
+}
+
 # CDNs / Infraestructura crítica que NUNCA debemos bloquear al escanear iframe o CDNs embebidos
 SAFE_CDN_INFRASTRUCTURE = {
     "google.com", "gstatic.com", "googleapis.com", "googletagmanager.com",
@@ -431,8 +438,9 @@ def process_single_keyword(kw):
 
 def is_game_website(domain):
     root_dom = get_root_domain(domain)
-    if domain in WHITELIST or root_dom in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST) or any(root_dom.endswith("." + w) for w in WHITELIST):
-        return False
+    if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS:
+        if domain in WHITELIST or root_dom in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST) or any(root_dom.endswith("." + w) for w in WHITELIST):
+            return False
 
     if any(non_game in domain for non_game in ["clinical", "medical", "appliance", "hospital", "pharma"]):
         return False
