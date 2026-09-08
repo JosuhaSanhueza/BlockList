@@ -118,6 +118,7 @@
 0.0.0.0 basketballlegends.fun
 0.0.0.0 basketballstarss.github.io
 0.0.0.0 basketballstarsunblocked.vercel.app
+0.0.0.0 basketbros-unblocked.github.io
 0.0.0.0 basketrandom.io
 0.0.0.0 battleon.com
 0.0.0.0 bee.games
@@ -159,6 +160,7 @@
 0.0.0.0 bubbleshooter.net
 0.0.0.0 buff.game
 0.0.0.0 buildroyale.io
+0.0.0.0 bulletbros.io
 0.0.0.0 c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com
 0.0.0.0 calcsolver.net
 0.0.0.0 camcimahir.itch.io
@@ -240,6 +242,7 @@
 0.0.0.0 crazygames.org
 0.0.0.0 crazygames2.com
 0.0.0.0 crazygames8.com
+0.0.0.0 crazygamesunblocked.co.uk
 0.0.0.0 crazymonkeygames.com
 0.0.0.0 crazyschoolgames.com
 0.0.0.0 cribbage-online.net
@@ -297,6 +300,9 @@
 0.0.0.0 drifthunters66online.github.io
 0.0.0.0 drifthuntersonline.gitlab.io
 0.0.0.0 drillur.itch.io
+0.0.0.0 drive-mad-unblock.github.io
+0.0.0.0 drivemad.net
+0.0.0.0 drivemad.school
 0.0.0.0 drivequest.io
 0.0.0.0 duck-math.gitlab.io
 0.0.0.0 dynetisgames.com
@@ -546,6 +552,7 @@
 0.0.0.0 geometrylitepc.io
 0.0.0.0 geometydashwave.io
 0.0.0.0 geonautica.pages.dev
+0.0.0.0 getawayshootout-game.github.io
 0.0.0.0 girlsgogames.com
 0.0.0.0 github.io
 0.0.0.0 githubgames.gitlab.io
@@ -862,6 +869,7 @@
 0.0.0.0 outred.org
 0.0.0.0 ovo-games-online.github.io
 0.0.0.0 ovoclassic-pro.github.io
+0.0.0.0 ovoonline.bitbucket.io
 0.0.0.0 ozgames.io
 0.0.0.0 ozogames.com
 0.0.0.0 p0xgames.online
@@ -885,6 +893,7 @@
 0.0.0.0 petezahgames.com
 0.0.0.0 picklekid31.github.io
 0.0.0.0 pinturillo2.com
+0.0.0.0 pizza-edition-unblocked.github.io
 0.0.0.0 pla.bad-time-simulator.com
 0.0.0.0 plarium.com
 0.0.0.0 play-games.com
@@ -972,6 +981,7 @@
 0.0.0.0 roll20.net
 0.0.0.0 rooftoprun.net
 0.0.0.0 rossygames.github.io
+0.0.0.0 run-3.bitbucket.io
 0.0.0.0 run3-game-unblocked.github.io
 0.0.0.0 runescape.com
 0.0.0.0 rutai.kia.prz.edu.pl
@@ -1115,6 +1125,7 @@
 0.0.0.0 teamgames.club
 0.0.0.0 teddblue.github.io
 0.0.0.0 templerungames.github.io
+0.0.0.0 templerununblocked.github.io
 0.0.0.0 terrycavanaghgames.com
 0.0.0.0 tetr.io
 0.0.0.0 thefreakcircus.my
@@ -1162,9 +1173,11 @@
 0.0.0.0 ubg76.com
 0.0.0.0 ubg76.gitlab.io
 0.0.0.0 ubg98.github.io
+0.0.0.0 ubggames.com
 0.0.0.0 ubghyper.github.io
 0.0.0.0 ug66.gitlab.io
 0.0.0.0 ug76.gitlab.io
+0.0.0.0 unbanned-gplus.gitlab.io
 0.0.0.0 unbannedgames.io
 0.0.0.0 unbl0ck.github.io
 0.0.0.0 unblocked-2026.github.io
@@ -1259,6 +1272,7 @@
 0.0.0.0 yucata.de
 0.0.0.0 yunyin.wenzi.games
 0.0.0.0 yupgames.io
+0.0.0.0 yupijuegos.com
 0.0.0.0 yurk.com
 0.0.0.0 zapgames.io
 0.0.0.0 zapgames.site

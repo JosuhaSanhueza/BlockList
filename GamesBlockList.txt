@@ -117,6 +117,7 @@
 ||basketballlegends.fun^
 ||basketballstarss.github.io^
 ||basketballstarsunblocked.vercel.app^
+||basketbros-unblocked.github.io^
 ||basketrandom.io^
 ||battleon.com^
 ||bee.games^
@@ -158,6 +159,7 @@
 ||bubbleshooter.net^
 ||buff.game^
 ||buildroyale.io^
+||bulletbros.io^
 ||c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com^
 ||calcsolver.net^
 ||camcimahir.itch.io^
@@ -239,6 +241,7 @@
 ||crazygames.org^
 ||crazygames2.com^
 ||crazygames8.com^
+||crazygamesunblocked.co.uk^
 ||crazymonkeygames.com^
 ||crazyschoolgames.com^
 ||cribbage-online.net^
@@ -296,6 +299,9 @@
 ||drifthunters66online.github.io^
 ||drifthuntersonline.gitlab.io^
 ||drillur.itch.io^
+||drive-mad-unblock.github.io^
+||drivemad.net^
+||drivemad.school^
 ||drivequest.io^
 ||duck-math.gitlab.io^
 ||dynetisgames.com^
@@ -545,6 +551,7 @@
 ||geometrylitepc.io^
 ||geometydashwave.io^
 ||geonautica.pages.dev^
+||getawayshootout-game.github.io^
 ||girlsgogames.com^
 ||github.io^
 ||githubgames.gitlab.io^
@@ -861,6 +868,7 @@
 ||outred.org^
 ||ovo-games-online.github.io^
 ||ovoclassic-pro.github.io^
+||ovoonline.bitbucket.io^
 ||ozgames.io^
 ||ozogames.com^
 ||p0xgames.online^
@@ -884,6 +892,7 @@
 ||petezahgames.com^
 ||picklekid31.github.io^
 ||pinturillo2.com^
+||pizza-edition-unblocked.github.io^
 ||pla.bad-time-simulator.com^
 ||plarium.com^
 ||play-games.com^
@@ -971,6 +980,7 @@
 ||roll20.net^
 ||rooftoprun.net^
 ||rossygames.github.io^
+||run-3.bitbucket.io^
 ||run3-game-unblocked.github.io^
 ||runescape.com^
 ||rutai.kia.prz.edu.pl^
@@ -1114,6 +1124,7 @@
 ||teamgames.club^
 ||teddblue.github.io^
 ||templerungames.github.io^
+||templerununblocked.github.io^
 ||terrycavanaghgames.com^
 ||tetr.io^
 ||thefreakcircus.my^
@@ -1161,9 +1172,11 @@
 ||ubg76.com^
 ||ubg76.gitlab.io^
 ||ubg98.github.io^
+||ubggames.com^
 ||ubghyper.github.io^
 ||ug66.gitlab.io^
 ||ug76.gitlab.io^
+||unbanned-gplus.gitlab.io^
 ||unbannedgames.io^
 ||unbl0ck.github.io^
 ||unblocked-2026.github.io^
@@ -1258,6 +1271,7 @@
 ||yucata.de^
 ||yunyin.wenzi.games^
 ||yupgames.io^
+||yupijuegos.com^
 ||yurk.com^
 ||zapgames.io^
 ||zapgames.site^

@@ -992,3 +992,17 @@ ozgames
 skibiditoiletonline
 unblockedsgames
 wordleunlimitedgame
+
+# --- Búsqueda dirigida (14 confirmados: getaway shootout, ovo, temple run, paper.io2, drive mad, basketbros mirrors), 2026-09-08 ---
+getawayshootout
+unbannedgplus
+ovoonline
+templerununblocked
+yupijuegos
+pizzaedition
+crazygamesunblocked
+drivemad
+drivemadunblock
+basketbrosunblocked
+bulletbros
+ubggames
