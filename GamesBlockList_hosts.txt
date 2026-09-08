@@ -391,6 +391,9 @@
 0.0.0.0 edgesuite.net
 0.0.0.0 education.com
 0.0.0.0 education.minecraft.net
+0.0.0.0 eggy-car-unblocked.github.io
+0.0.0.0 eggycar1.com
+0.0.0.0 eggycarunblocked.org
 0.0.0.0 elgoog.im
 0.0.0.0 ellieeet123.github.io
 0.0.0.0 emubrowser.com
@@ -542,6 +545,7 @@
 0.0.0.0 game.giantshaft.com
 0.0.0.0 game.zerodayclock.com
 0.0.0.0 gamebanana.com
+0.0.0.0 gamecomets.com
 0.0.0.0 gamedistribution.com
 0.0.0.0 gameflare.com
 0.0.0.0 gameflare.net
@@ -575,6 +579,7 @@
 0.0.0.0 gamesgo.net
 0.0.0.0 gamesiknow.com
 0.0.0.0 gameslol.net
+0.0.0.0 gamesunblocked.gitlab.io
 0.0.0.0 gameszap.com
 0.0.0.0 gametop.com
 0.0.0.0 gamevgames.com
@@ -819,6 +824,7 @@
 0.0.0.0 lolbeans.us
 0.0.0.0 lps7x.csb.app
 0.0.0.0 luckyblocks.io
+0.0.0.0 ludorex.com
 0.0.0.0 lullwood.vercel.app
 0.0.0.0 machita66.com
 0.0.0.0 mackeylol.github.io
@@ -892,9 +898,11 @@
 0.0.0.0 mope.io
 0.0.0.0 morefriv.com
 0.0.0.0 morphz.io
+0.0.0.0 moto-games.com
 0.0.0.0 moto-x3m.net
 0.0.0.0 moto-x3monline.github.io
 0.0.0.0 motox3mwinter.com
+0.0.0.0 motox3mwinter.github.io
 0.0.0.0 mountain-game-games.github.io
 0.0.0.0 mountain658.github.io
 0.0.0.0 mountjustin.github.io
@@ -1137,6 +1145,7 @@
 0.0.0.0 sigmally.com
 0.0.0.0 silvergames.com
 0.0.0.0 silvergames.io
+0.0.0.0 sinistersquidward.com
 0.0.0.0 skap.nightly.pw
 0.0.0.0 sketchful.io
 0.0.0.0 skibiditoiletonline.github.io
@@ -1194,6 +1203,7 @@
 0.0.0.0 spiele-kostenlos-online.de
 0.0.0.0 spinhook.ir
 0.0.0.0 splix.io
+0.0.0.0 sports-games.io
 0.0.0.0 sprunkedgame.com
 0.0.0.0 sprunki.com
 0.0.0.0 sprunki.org
@@ -1245,6 +1255,7 @@
 0.0.0.0 superjocs.com
 0.0.0.0 suroi.io
 0.0.0.0 surviv.io
+0.0.0.0 survivoridlerun.web.app
 0.0.0.0 swordbattle.io
 0.0.0.0 sycesgameshack.com
 0.0.0.0 sz-games.github.io
@@ -1261,6 +1272,7 @@
 0.0.0.0 tb.caeland.ca
 0.0.0.0 teamgames.club
 0.0.0.0 teddblue.github.io
+0.0.0.0 teespure.github.io
 0.0.0.0 temple-of-boom.gitlab.io
 0.0.0.0 templerungames.github.io
 0.0.0.0 templerununblocked.github.io
@@ -1279,6 +1291,7 @@
 0.0.0.0 tinyfishing.io
 0.0.0.0 tinytakinteller.itch.io
 0.0.0.0 titotu.io
+0.0.0.0 tocabocagames.com
 0.0.0.0 todojuegosgratis.es
 0.0.0.0 tombofthemask.com
 0.0.0.0 tooladda.online
@@ -1348,9 +1361,11 @@
 0.0.0.0 unblockedgamesbrowser.com
 0.0.0.0 unblockedgamesgg.com
 0.0.0.0 unblockedgamesheaven.brownwebdesign.com
+0.0.0.0 unblockedgamesio.com
 0.0.0.0 unblockedgamesplay.com
 0.0.0.0 unblockedgamespod.gitlab.io
 0.0.0.0 unblockedgamespremiumonline.github.io
+0.0.0.0 unblockedpremiumgames.github.io
 0.0.0.0 unblockedrush.com
 0.0.0.0 unblockeds-games.com
 0.0.0.0 unblockgamegplus.github.io
@@ -1400,6 +1415,8 @@
 0.0.0.0 wheeliebike.org
 0.0.0.0 wheeliebikegame.github.io
 0.0.0.0 wimpress.itch.io
+0.0.0.0 wobbly-lifeplay.com
+0.0.0.0 wobblylifegame.com
 0.0.0.0 woogames.io
 0.0.0.0 wordle-games.com
 0.0.0.0 wordle.net

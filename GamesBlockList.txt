@@ -390,6 +390,9 @@
 ||edgesuite.net^
 ||education.com^
 ||education.minecraft.net^
+||eggy-car-unblocked.github.io^
+||eggycar1.com^
+||eggycarunblocked.org^
 ||elgoog.im^
 ||ellieeet123.github.io^
 ||emubrowser.com^
@@ -541,6 +544,7 @@
 ||game.giantshaft.com^
 ||game.zerodayclock.com^
 ||gamebanana.com^
+||gamecomets.com^
 ||gamedistribution.com^
 ||gameflare.com^
 ||gameflare.net^
@@ -574,6 +578,7 @@
 ||gamesgo.net^
 ||gamesiknow.com^
 ||gameslol.net^
+||gamesunblocked.gitlab.io^
 ||gameszap.com^
 ||gametop.com^
 ||gamevgames.com^
@@ -818,6 +823,7 @@
 ||lolbeans.us^
 ||lps7x.csb.app^
 ||luckyblocks.io^
+||ludorex.com^
 ||lullwood.vercel.app^
 ||machita66.com^
 ||mackeylol.github.io^
@@ -891,9 +897,11 @@
 ||mope.io^
 ||morefriv.com^
 ||morphz.io^
+||moto-games.com^
 ||moto-x3m.net^
 ||moto-x3monline.github.io^
 ||motox3mwinter.com^
+||motox3mwinter.github.io^
 ||mountain-game-games.github.io^
 ||mountain658.github.io^
 ||mountjustin.github.io^
@@ -1136,6 +1144,7 @@
 ||sigmally.com^
 ||silvergames.com^
 ||silvergames.io^
+||sinistersquidward.com^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibiditoiletonline.github.io^
@@ -1193,6 +1202,7 @@
 ||spiele-kostenlos-online.de^
 ||spinhook.ir^
 ||splix.io^
+||sports-games.io^
 ||sprunkedgame.com^
 ||sprunki.com^
 ||sprunki.org^
@@ -1244,6 +1254,7 @@
 ||superjocs.com^
 ||suroi.io^
 ||surviv.io^
+||survivoridlerun.web.app^
 ||swordbattle.io^
 ||sycesgameshack.com^
 ||sz-games.github.io^
@@ -1260,6 +1271,7 @@
 ||tb.caeland.ca^
 ||teamgames.club^
 ||teddblue.github.io^
+||teespure.github.io^
 ||temple-of-boom.gitlab.io^
 ||templerungames.github.io^
 ||templerununblocked.github.io^
@@ -1278,6 +1290,7 @@
 ||tinyfishing.io^
 ||tinytakinteller.itch.io^
 ||titotu.io^
+||tocabocagames.com^
 ||todojuegosgratis.es^
 ||tombofthemask.com^
 ||tooladda.online^
@@ -1347,9 +1360,11 @@
 ||unblockedgamesbrowser.com^
 ||unblockedgamesgg.com^
 ||unblockedgamesheaven.brownwebdesign.com^
+||unblockedgamesio.com^
 ||unblockedgamesplay.com^
 ||unblockedgamespod.gitlab.io^
 ||unblockedgamespremiumonline.github.io^
+||unblockedpremiumgames.github.io^
 ||unblockedrush.com^
 ||unblockeds-games.com^
 ||unblockgamegplus.github.io^
@@ -1399,6 +1414,8 @@
 ||wheeliebike.org^
 ||wheeliebikegame.github.io^
 ||wimpress.itch.io^
+||wobbly-lifeplay.com^
+||wobblylifegame.com^
 ||woogames.io^
 ||wordle-games.com^
 ||wordle.net^
