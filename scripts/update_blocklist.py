@@ -109,7 +109,7 @@ WHITELIST = {
     "world-geography-games.com", "juegos-geograficos.com", "sandboxeducacion.es",
     "tablasdemultiplicar.com", "tablas-multiplicar.com", "vedoque.com",
     "velocidactil.es", "typing.com", "dibujosparacolorearte.com", "freefocusgames.com",
-    "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com",
+    "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com", "blockly.games",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
