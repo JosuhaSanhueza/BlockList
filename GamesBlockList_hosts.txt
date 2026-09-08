@@ -82,6 +82,7 @@
 0.0.0.0 anygames-free.bitbucket.io
 0.0.0.0 anygames-us1.bitbucket.io
 0.0.0.0 arbyusuf.github.io
+0.0.0.0 arcadeok.com
 0.0.0.0 arcadino.com
 0.0.0.0 arch.lol
 0.0.0.0 arch.mc
@@ -334,6 +335,7 @@
 0.0.0.0 education.minecraft.net
 0.0.0.0 elgoog.im
 0.0.0.0 ellieeet123.github.io
+0.0.0.0 emubrowser.com
 0.0.0.0 emulatorjs.com
 0.0.0.0 emulatorjs.org
 0.0.0.0 emupedia.net
@@ -629,6 +631,7 @@
 0.0.0.0 jigsawpuzzles.io
 0.0.0.0 jklm.fun
 0.0.0.0 joalor64.itch.io
+0.0.0.0 joeheyming.github.io
 0.0.0.0 jogos-friv.com
 0.0.0.0 jogos.com
 0.0.0.0 jopi.com
@@ -817,6 +820,7 @@
 0.0.0.0 nitrado.com
 0.0.0.0 nitrado.net
 0.0.0.0 nocache.pomu.com
+0.0.0.0 nointernetgame.com
 0.0.0.0 novaskin.me
 0.0.0.0 now.gg
 0.0.0.0 nowgames.io
@@ -832,6 +836,7 @@
 0.0.0.0 onlinegames.com
 0.0.0.0 onlinegames.io
 0.0.0.0 onlinegames.net
+0.0.0.0 onlinequicktool.com
 0.0.0.0 ooooooooo.ooo
 0.0.0.0 opium-games.com
 0.0.0.0 opticraft.net
@@ -932,6 +937,7 @@
 0.0.0.0 re-pack-delta.vercel.app
 0.0.0.0 realhack101sunblockedunq.webnode.page
 0.0.0.0 realmofthemadgod.com
+0.0.0.0 rec0ded88.com
 0.0.0.0 remarkablegames.itch.io
 0.0.0.0 remarkablegames.org
 0.0.0.0 resent5.pages.dev
@@ -1020,6 +1026,8 @@
 0.0.0.0 snake-shadrouh.netlify.app
 0.0.0.0 snakejuego.com
 0.0.0.0 snakex-game.vercel.app
+0.0.0.0 snes.party
+0.0.0.0 sneslive.com
 0.0.0.0 snokido.com
 0.0.0.0 snow-rider-3d.bitbucket.io
 0.0.0.0 snowrider.pro

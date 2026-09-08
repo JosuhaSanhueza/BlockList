@@ -81,6 +81,7 @@
 ||anygames-free.bitbucket.io^
 ||anygames-us1.bitbucket.io^
 ||arbyusuf.github.io^
+||arcadeok.com^
 ||arcadino.com^
 ||arch.lol^
 ||arch.mc^
@@ -333,6 +334,7 @@
 ||education.minecraft.net^
 ||elgoog.im^
 ||ellieeet123.github.io^
+||emubrowser.com^
 ||emulatorjs.com^
 ||emulatorjs.org^
 ||emupedia.net^
@@ -628,6 +630,7 @@
 ||jigsawpuzzles.io^
 ||jklm.fun^
 ||joalor64.itch.io^
+||joeheyming.github.io^
 ||jogos-friv.com^
 ||jogos.com^
 ||jopi.com^
@@ -816,6 +819,7 @@
 ||nitrado.com^
 ||nitrado.net^
 ||nocache.pomu.com^
+||nointernetgame.com^
 ||novaskin.me^
 ||now.gg^
 ||nowgames.io^
@@ -831,6 +835,7 @@
 ||onlinegames.com^
 ||onlinegames.io^
 ||onlinegames.net^
+||onlinequicktool.com^
 ||ooooooooo.ooo^
 ||opium-games.com^
 ||opticraft.net^
@@ -931,6 +936,7 @@
 ||re-pack-delta.vercel.app^
 ||realhack101sunblockedunq.webnode.page^
 ||realmofthemadgod.com^
+||rec0ded88.com^
 ||remarkablegames.itch.io^
 ||remarkablegames.org^
 ||resent5.pages.dev^
@@ -1019,6 +1025,8 @@
 ||snake-shadrouh.netlify.app^
 ||snakejuego.com^
 ||snakex-game.vercel.app^
+||snes.party^
+||sneslive.com^
 ||snokido.com^
 ||snow-rider-3d.bitbucket.io^
 ||snowrider.pro^

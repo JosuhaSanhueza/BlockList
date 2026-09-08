@@ -949,3 +949,13 @@ skipser
 trexgame
 retrogamescz
 eaglercraftonline
+
+# --- Búsqueda adicional (8 confirmados: trex/dino runner, emuladores retro NES/SNES), 2026-09-08 ---
+nointernetgame
+joeheyming
+onlinequicktool
+snesparty
+rec0ded88
+emubrowser
+sneslive
+arcadeok
