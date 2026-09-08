@@ -304,6 +304,7 @@
 ||eaglecraft.com^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
+||eaglercraft-launcher.vexr.dev^
 ||eaglercraft-minecraft.com^
 ||eaglercraft.42web.io^
 ||eaglercraft.app^
@@ -553,6 +554,7 @@
 ||gladihoppers.io^
 ||glazegames.com^
 ||gogamego.io^
+||gokarts.io^
 ||gomestable.netlify.app^
 ||googlehosted.com^
 ||googlesnake.org^
@@ -677,6 +679,7 @@
 ||juegosjuegos.com^
 ||juegosjuegos.ws^
 ||jugarmccomportal.base44.app^
+||kartbros.io^
 ||kazwire.com^
 ||kbhgames.com^
 ||kbhgamesonline.github.io^
@@ -762,6 +765,7 @@
 ||minecraftforfreex.com^
 ||minecraftforge.net^
 ||minecraftjava.net^
+||minecraftjava.pages.dev^
 ||minecraftlist.com^
 ||minecraftservers.us^
 ||minelatino.com^
@@ -857,6 +861,7 @@
 ||outred.org^
 ||ovo-games-online.github.io^
 ||ovoclassic-pro.github.io^
+||ozgames.io^
 ||ozogames.com^
 ||p0xgames.online^
 ||pacogames.com^
@@ -1004,9 +1009,11 @@
 ||silvergames.io^
 ||skap.nightly.pw^
 ||sketchful.io^
+||skibiditoiletonline.github.io^
 ||skinsmc.org^
 ||skribbl.io^
 ||skribbl.org^
+||slimekeyboardescape.com^
 ||slither.com^
 ||slither.io^
 ||slithergame.io^
@@ -1165,6 +1172,7 @@
 ||unblocked-games.gamesroid.com^
 ||unblocked-steal-a-brainrot.github.io^
 ||unblocked76.org^
+||unblockedgame.io^
 ||unblockedgame67.github.io^
 ||unblockedgames.blogbucket.org^
 ||unblockedgames.techgrapple.com^
@@ -1175,9 +1183,11 @@
 ||unblockedgamesbrowser.com^
 ||unblockedgamesgg.com^
 ||unblockedgamesheaven.brownwebdesign.com^
+||unblockedgamesplay.com^
 ||unblockedgamespod.gitlab.io^
 ||unblockedgamespremiumonline.github.io^
 ||unblockedrush.com^
+||unblockeds-games.com^
 ||unity3d.com^
 ||untitledproxy.pages.dev^
 ||us.com^
@@ -1195,8 +1205,10 @@
 ||venge.io^
 ||vercel.app^
 ||vex4unblocked.github.io^
+||vex7.org^
 ||vexgame-unblocked.github.io^
 ||vexgames.online^
+||vexx3m.com^
 ||vibearcade.com^
 ||viberverse.github.io^
 ||vidaextra.com^
@@ -1222,6 +1234,7 @@
 ||wordle-games.com^
 ||wordle.net^
 ||wordles.org^
+||wordleunlimitedgame.org^
 ||wordlyplay.com^
 ||wowubg.github.io^
 ||wtfgames.io^
@@ -1241,6 +1254,7 @@
 ||ynrbsu.github.io^
 ||yoplay.io^
 ||youmakethishouseahome.online^
+||yourwebgame.com^
 ||yucata.de^
 ||yunyin.wenzi.games^
 ||yupgames.io^
@@ -1264,8 +1278,3 @@
 ||sites.google.com/*/super-mario-world^
 ||sites.google.com/view/*game*^
 ||sites.google.com/view/totalgameinn/*^
-||eaglercraft-launcher.vexr.dev^
-||minecraftjava.pages.dev^
-||kartbros.io^
-||gokarts.io^
-||slimekeyboardescape.com^

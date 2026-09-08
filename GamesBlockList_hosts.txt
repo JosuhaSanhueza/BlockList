@@ -862,6 +862,7 @@
 0.0.0.0 outred.org
 0.0.0.0 ovo-games-online.github.io
 0.0.0.0 ovoclassic-pro.github.io
+0.0.0.0 ozgames.io
 0.0.0.0 ozogames.com
 0.0.0.0 p0xgames.online
 0.0.0.0 pacogames.com
@@ -1009,6 +1010,7 @@
 0.0.0.0 silvergames.io
 0.0.0.0 skap.nightly.pw
 0.0.0.0 sketchful.io
+0.0.0.0 skibiditoiletonline.github.io
 0.0.0.0 skinsmc.org
 0.0.0.0 skribbl.io
 0.0.0.0 skribbl.org
@@ -1171,6 +1173,7 @@
 0.0.0.0 unblocked-games.gamesroid.com
 0.0.0.0 unblocked-steal-a-brainrot.github.io
 0.0.0.0 unblocked76.org
+0.0.0.0 unblockedgame.io
 0.0.0.0 unblockedgame67.github.io
 0.0.0.0 unblockedgames.blogbucket.org
 0.0.0.0 unblockedgames.techgrapple.com
@@ -1181,9 +1184,11 @@
 0.0.0.0 unblockedgamesbrowser.com
 0.0.0.0 unblockedgamesgg.com
 0.0.0.0 unblockedgamesheaven.brownwebdesign.com
+0.0.0.0 unblockedgamesplay.com
 0.0.0.0 unblockedgamespod.gitlab.io
 0.0.0.0 unblockedgamespremiumonline.github.io
 0.0.0.0 unblockedrush.com
+0.0.0.0 unblockeds-games.com
 0.0.0.0 unity3d.com
 0.0.0.0 untitledproxy.pages.dev
 0.0.0.0 us.com
@@ -1201,8 +1206,10 @@
 0.0.0.0 venge.io
 0.0.0.0 vercel.app
 0.0.0.0 vex4unblocked.github.io
+0.0.0.0 vex7.org
 0.0.0.0 vexgame-unblocked.github.io
 0.0.0.0 vexgames.online
+0.0.0.0 vexx3m.com
 0.0.0.0 vibearcade.com
 0.0.0.0 viberverse.github.io
 0.0.0.0 vidaextra.com
@@ -1228,6 +1235,7 @@
 0.0.0.0 wordle-games.com
 0.0.0.0 wordle.net
 0.0.0.0 wordles.org
+0.0.0.0 wordleunlimitedgame.org
 0.0.0.0 wordlyplay.com
 0.0.0.0 wowubg.github.io
 0.0.0.0 wtfgames.io
@@ -1247,6 +1255,7 @@
 0.0.0.0 ynrbsu.github.io
 0.0.0.0 yoplay.io
 0.0.0.0 youmakethishouseahome.online
+0.0.0.0 yourwebgame.com
 0.0.0.0 yucata.de
 0.0.0.0 yunyin.wenzi.games
 0.0.0.0 yupgames.io

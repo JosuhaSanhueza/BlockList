@@ -981,3 +981,14 @@ eaglerlauncher
 kartbros
 gokarts
 slimekeyboardescape
+
+# --- Búsqueda dirigida (9 confirmados: vex/moto x3m, bloxd.io, skibidi toilet, wordle), 2026-09-08 ---
+vex7
+unblockedgame
+vexx3m
+yourwebgame
+unblockedgamesplay
+ozgames
+skibiditoiletonline
+unblockedsgames
+wordleunlimitedgame
