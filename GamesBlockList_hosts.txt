@@ -85,6 +85,7 @@
 0.0.0.0 amongusgame.io
 0.0.0.0 amongusonline.io
 0.0.0.0 amongusplay.online
+0.0.0.0 andrewclark3244.github.io
 0.0.0.0 ant.games
 0.0.0.0 anygames-ad.bitbucket.io
 0.0.0.0 anygames-com.bitbucket.io
@@ -270,6 +271,7 @@
 0.0.0.0 corriscant.github.io
 0.0.0.0 couchfriends.com
 0.0.0.0 country-defense-bheng.vercel.app
+0.0.0.0 cpsgames.org
 0.0.0.0 cpstest.click
 0.0.0.0 cpstest.net
 0.0.0.0 cpstest.org
@@ -361,6 +363,7 @@
 0.0.0.0 duck-duckclicker.com
 0.0.0.0 duck-math.gitlab.io
 0.0.0.0 duckclicker.io
+0.0.0.0 ducklet.net
 0.0.0.0 ducklife.app
 0.0.0.0 ducklife.gitlab.io
 0.0.0.0 dynetisgames.com
@@ -790,8 +793,10 @@
 0.0.0.0 juegosjuegos.ws
 0.0.0.0 jugarmccomportal.base44.app
 0.0.0.0 jumponly.io
+0.0.0.0 just-fall.com
 0.0.0.0 just-falllol.github.io
 0.0.0.0 justbuild-lol.com
+0.0.0.0 justfall-online.github.io
 0.0.0.0 kagura.games
 0.0.0.0 kartbros.io
 0.0.0.0 kazwire.com
@@ -1029,6 +1034,7 @@
 0.0.0.0 play.gilect.com
 0.0.0.0 play123.com
 0.0.0.0 play2048.co
+0.0.0.0 play67.github.io
 0.0.0.0 playable.game
 0.0.0.0 playbasketballbros.com
 0.0.0.0 playbloonstowerdefense.com

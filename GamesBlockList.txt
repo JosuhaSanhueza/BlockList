@@ -13,8 +13,8 @@
 ||1v1lol-gg.github.io^
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
-||1v1lol.us.com^
 ||1v1lol.us^
+||1v1lol.us.com^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -84,6 +84,7 @@
 ||amongusgame.io^
 ||amongusonline.io^
 ||amongusplay.online^
+||andrewclark3244.github.io^
 ||ant.games^
 ||anygames-ad.bitbucket.io^
 ||anygames-com.bitbucket.io^
@@ -269,6 +270,7 @@
 ||corriscant.github.io^
 ||couchfriends.com^
 ||country-defense-bheng.vercel.app^
+||cpsgames.org^
 ||cpstest.click^
 ||cpstest.net^
 ||cpstest.org^
@@ -277,11 +279,11 @@
 ||crazy-game.bitbucket.io^
 ||crazycargames.com^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com.es^
 ||crazygames.com^
+||crazygames.com.es^
 ||crazygames.gg^
-||crazygames.org.es^
 ||crazygames.org^
+||crazygames.org.es^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -360,12 +362,13 @@
 ||duck-duckclicker.com^
 ||duck-math.gitlab.io^
 ||duckclicker.io^
+||ducklet.net^
 ||ducklife.app^
 ||ducklife.gitlab.io^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com.co^
 ||eaglecraft.com^
+||eaglecraft.com.co^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eaglercraft-launcher.vexr.dev^
@@ -493,8 +496,8 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
-||friv.com.br^
 ||friv.com^
+||friv.com.br^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -621,8 +624,8 @@
 ||geometry.games^
 ||geometryarrow.io^
 ||geometrydash-pc.com^
-||geometrydash.com.mx^
 ||geometrydash.com^
+||geometrydash.com.mx^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -789,8 +792,10 @@
 ||juegosjuegos.ws^
 ||jugarmccomportal.base44.app^
 ||jumponly.io^
+||just-fall.com^
 ||just-falllol.github.io^
 ||justbuild-lol.com^
+||justfall-online.github.io^
 ||kagura.games^
 ||kartbros.io^
 ||kazwire.com^
@@ -1028,6 +1033,7 @@
 ||play.gilect.com^
 ||play123.com^
 ||play2048.co^
+||play67.github.io^
 ||playable.game^
 ||playbasketballbros.com^
 ||playbloonstowerdefense.com^
@@ -1175,6 +1181,11 @@
 ||silvergames.com^
 ||silvergames.io^
 ||sinistersquidward.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibiditoiletonline.github.io^
@@ -1494,8 +1505,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
