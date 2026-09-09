@@ -530,8 +530,10 @@
 0.0.0.0 friv2017.com
 0.0.0.0 friv2017.us
 0.0.0.0 friv2018.com
+0.0.0.0 friv2019.com
 0.0.0.0 friv2020.com
 0.0.0.0 friv2021.com
+0.0.0.0 friv2022.com
 0.0.0.0 friv2025.com
 0.0.0.0 friv2online.com
 0.0.0.0 friv4school.com
@@ -1323,6 +1325,7 @@
 0.0.0.0 subwaysurfers-unblocked.github.io
 0.0.0.0 subwaysurfers-unblocked.gitlab.io
 0.0.0.0 subwaysurfers.gg
+0.0.0.0 subwaysurfersonline.com
 0.0.0.0 subwaysurfersonline.es
 0.0.0.0 subwaysurfersunblocked.org
 0.0.0.0 sugarshock.io

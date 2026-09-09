@@ -1215,3 +1215,19 @@ sugarshock
 swordz
 ufreegames
 yobogames
+
+# --- Mirrors friv agregados manualmente por el usuario (bloqueo en caliente, alumnos los usaban), 2026-09-09 ---
+frivcomtr
+friv2013
+friv2014
+friv2016
+friv2018
+friv2020
+friv10000
+friv20000
+friv1000000
+jogosdefriv2015
+jogos360
+subwaysurfersonline
+friv2019
+friv2022
