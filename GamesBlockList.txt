@@ -467,6 +467,7 @@
 ||fnfans.com^
 ||fnfgo.com^
 ||fnfmod.online^
+||fnfmods.io^
 ||fngames.io^
 ||fog.com^
 ||football-games.io^
@@ -613,6 +614,7 @@
 ||gamesgo.net^
 ||gamesiknow.com^
 ||gameslol.net^
+||gamesonly.com^
 ||gamesunblocked.gitlab.io^
 ||gameszap.com^
 ||gametop.com^
@@ -881,6 +883,7 @@
 ||mackeylol.github.io^
 ||madalinstuntcars2.io^
 ||maddox.games^
+||madkidgames.com^
 ||mafiakill.com^
 ||magbei.com^
 ||makeitmeme.com^
@@ -1030,9 +1033,12 @@
 ||outof.games^
 ||outred.org^
 ||overtide.io^
+||ovo-classic.github.io^
 ||ovo-games-online.github.io^
+||ovo-unblock.github.io^
 ||ovoclassic-pro.github.io^
 ||ovoonline.bitbucket.io^
+||ovounblocked.gitlab.io^
 ||ozgames.io^
 ||ozogames.com^
 ||p0xgames.online^
@@ -1047,6 +1053,7 @@
 ||papasgamesfree.com^
 ||papasgamesfree.io^
 ||papasgamesonline.github.io^
+||papasgaming.com^
 ||papaspizzeria-unblocked.github.io^
 ||papasunblockedgames.github.io^
 ||paper.io^
@@ -1056,6 +1063,7 @@
 ||paweljarosz.itch.io^
 ||pcmobilegames.com^
 ||penaltyshooters.gitlab.io^
+||penaltyshooters.io^
 ||petezahgames.com^
 ||picklekid31.github.io^
 ||pinturillo2.com^
@@ -1180,6 +1188,11 @@
 ||rossygames.github.io^
 ||run-3.bitbucket.io^
 ||run3-game-unblocked.github.io^
+||run3.live^
+||run3free.github.io^
+||run4.space^
+||run4unblocked.blogspot.com^
+||run4unblocked.weebly.com^
 ||runescape.com^
 ||rutai.kia.prz.edu.pl^
 ||rycellgames.github.io^
@@ -1314,8 +1327,11 @@
 ||stickmanshook.com^
 ||stickmanshook.io^
 ||stickmanswing.io^
+||stickpage.com^
 ||stickthefighter.github.io^
 ||stickwar.org^
+||stickwarlegacy.io^
+||stickwarsaga.io^
 ||stickypiston.co^
 ||strategygame.org^
 ||stumbleguys.com^
@@ -1435,6 +1451,7 @@
 ||unblockedgame67.github.io^
 ||unblockedgames.blogbucket.org^
 ||unblockedgames.techgrapple.com^
+||unblockedgames66.gitlab.io^
 ||unblockedgames66.org^
 ||unblockedgames6x.bitbucket.io^
 ||unblockedgames76.com^
@@ -1451,6 +1468,7 @@
 ||unblockedrush.com^
 ||unblockeds-games.com^
 ||unblockgamegplus.github.io^
+||undeadcorridor.io^
 ||unity3d.com^
 ||untitledproxy.pages.dev^
 ||us.com^
@@ -1519,6 +1537,7 @@
 ||y8games.net^
 ||y8games2.com^
 ||y9freegames.com^
+||yad.com^
 ||yandex.com^
 ||yandexgames.online^
 ||yee.pages.dev^
