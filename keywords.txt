@@ -1248,3 +1248,7 @@ fnfmods
 papasgaming
 unblockedgames66gh
 undeadcorridor
+
+# --- Mirrors agregados manualmente por el usuario (bloqueo en caliente), 2026-09-10 ---
+snakeapplegame
+sorrybob

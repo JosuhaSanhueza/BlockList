@@ -1262,6 +1262,7 @@
 0.0.0.0 slopegamebox.com
 0.0.0.0 slopeio.org
 0.0.0.0 slopeonline.bitbucket.io
+0.0.0.0 slopeonline.online
 0.0.0.0 slopeunblocked.bitbucket.io
 0.0.0.0 slopeunblocked.games
 0.0.0.0 smashkarts-unblocked.pages.dev
@@ -1271,6 +1272,7 @@
 0.0.0.0 smcraft.fun
 0.0.0.0 smdgames.github.io
 0.0.0.0 snake-shadrouh.netlify.app
+0.0.0.0 snakeapplegame.com
 0.0.0.0 snakejuego.com
 0.0.0.0 snakex-game.vercel.app
 0.0.0.0 snes.party
@@ -1286,6 +1288,7 @@
 0.0.0.0 soccerrandom.io
 0.0.0.0 solitaired.com
 0.0.0.0 solitaires.com
+0.0.0.0 sorrybob.io
 0.0.0.0 spacewaves2.org
 0.0.0.0 spades.co
 0.0.0.0 speedescape.io
