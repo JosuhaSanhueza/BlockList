@@ -176,6 +176,7 @@
 0.0.0.0 boredomgames.pages.dev
 0.0.0.0 boxinggames.org
 0.0.0.0 boxingrandom.net
+0.0.0.0 brainking.com
 0.0.0.0 brainrot-games.io
 0.0.0.0 brainrotclicker.io
 0.0.0.0 brainrotgames.games
@@ -185,6 +186,7 @@
 0.0.0.0 browsergame-base.de
 0.0.0.0 bubbleshooteonline.github.io
 0.0.0.0 bubbleshooter.net
+0.0.0.0 buckshotroulette.com
 0.0.0.0 buff.game
 0.0.0.0 buildroyale.io
 0.0.0.0 bulletbros.io
@@ -200,6 +202,7 @@
 0.0.0.0 capybaraclickergame.github.io
 0.0.0.0 capybaragame.io
 0.0.0.0 caraccio.itch.io
+0.0.0.0 cardgames.io
 0.0.0.0 carrot-craft.org
 0.0.0.0 catmario.org
 0.0.0.0 cattn.github.io
@@ -253,6 +256,7 @@
 0.0.0.0 colorwars.io
 0.0.0.0 congusbongus.itch.io
 0.0.0.0 consto.uk
+0.0.0.0 cookie-clicker.co.uk
 0.0.0.0 cookie-clicker2.com
 0.0.0.0 cookieclicker-unblocked.pages.dev
 0.0.0.0 cookieclicker.eu
@@ -263,6 +267,7 @@
 0.0.0.0 cookieclickerunblocked.site
 0.0.0.0 cookinggames.com
 0.0.0.0 cool-orpin.vercel.app
+0.0.0.0 coolgamesfree.org
 0.0.0.0 cooljuegos.com
 0.0.0.0 coolmathcoolgames.com
 0.0.0.0 coolmathgames.com
@@ -343,6 +348,7 @@
 0.0.0.0 dominoes365.io
 0.0.0.0 donteatthecashier.live
 0.0.0.0 doodlejump.io
+0.0.0.0 doodlejumponline.github.io
 0.0.0.0 dragonawaken.com
 0.0.0.0 dragonbound.net
 0.0.0.0 drawbattle.io
@@ -562,6 +568,7 @@
 0.0.0.0 fuegoyagua.es
 0.0.0.0 funbrain.com
 0.0.0.0 funclicker.com
+0.0.0.0 funclicker.games
 0.0.0.0 funclicker.org
 0.0.0.0 funkin.me
 0.0.0.0 funny-school.github.io
@@ -1092,6 +1099,7 @@
 0.0.0.0 playercounter.com
 0.0.0.0 playgama.com
 0.0.0.0 playgames.io
+0.0.0.0 playgamor.com
 0.0.0.0 playgeodash.com
 0.0.0.0 playgeodash.pages.dev
 0.0.0.0 playhop.com
@@ -1248,6 +1256,7 @@
 0.0.0.0 slithergame.io
 0.0.0.0 slope-game-io.github.io
 0.0.0.0 slope-online.github.io
+0.0.0.0 slope-slope.github.io
 0.0.0.0 slope-unblockedgames.github.io
 0.0.0.0 slope.faav.top
 0.0.0.0 slope2unblocked.com
@@ -1258,6 +1267,7 @@
 0.0.0.0 slopefree.org
 0.0.0.0 slopegame-online.com
 0.0.0.0 slopegame.io
+0.0.0.0 slopegame.lol
 0.0.0.0 slopegame2.com
 0.0.0.0 slopegamebox.com
 0.0.0.0 slopeio.org
@@ -1272,7 +1282,10 @@
 0.0.0.0 smcraft.fun
 0.0.0.0 smdgames.github.io
 0.0.0.0 snake-shadrouh.netlify.app
+0.0.0.0 snakeappgame.com
+0.0.0.0 snakeapplega.me
 0.0.0.0 snakeapplegame.com
+0.0.0.0 snakegames.online
 0.0.0.0 snakejuego.com
 0.0.0.0 snakex-game.vercel.app
 0.0.0.0 snes.party

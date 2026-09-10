@@ -175,6 +175,7 @@
 ||boredomgames.pages.dev^
 ||boxinggames.org^
 ||boxingrandom.net^
+||brainking.com^
 ||brainrot-games.io^
 ||brainrotclicker.io^
 ||brainrotgames.games^
@@ -184,6 +185,7 @@
 ||browsergame-base.de^
 ||bubbleshooteonline.github.io^
 ||bubbleshooter.net^
+||buckshotroulette.com^
 ||buff.game^
 ||buildroyale.io^
 ||bulletbros.io^
@@ -199,6 +201,7 @@
 ||capybaraclickergame.github.io^
 ||capybaragame.io^
 ||caraccio.itch.io^
+||cardgames.io^
 ||carrot-craft.org^
 ||catmario.org^
 ||cattn.github.io^
@@ -252,6 +255,7 @@
 ||colorwars.io^
 ||congusbongus.itch.io^
 ||consto.uk^
+||cookie-clicker.co.uk^
 ||cookie-clicker2.com^
 ||cookieclicker-unblocked.pages.dev^
 ||cookieclicker.eu^
@@ -262,6 +266,7 @@
 ||cookieclickerunblocked.site^
 ||cookinggames.com^
 ||cool-orpin.vercel.app^
+||coolgamesfree.org^
 ||cooljuegos.com^
 ||coolmathcoolgames.com^
 ||coolmathgames.com^
@@ -342,6 +347,7 @@
 ||dominoes365.io^
 ||donteatthecashier.live^
 ||doodlejump.io^
+||doodlejumponline.github.io^
 ||dragonawaken.com^
 ||dragonbound.net^
 ||drawbattle.io^
@@ -561,6 +567,7 @@
 ||fuegoyagua.es^
 ||funbrain.com^
 ||funclicker.com^
+||funclicker.games^
 ||funclicker.org^
 ||funkin.me^
 ||funny-school.github.io^
@@ -1091,6 +1098,7 @@
 ||playercounter.com^
 ||playgama.com^
 ||playgames.io^
+||playgamor.com^
 ||playgeodash.com^
 ||playgeodash.pages.dev^
 ||playhop.com^
@@ -1247,6 +1255,7 @@
 ||slithergame.io^
 ||slope-game-io.github.io^
 ||slope-online.github.io^
+||slope-slope.github.io^
 ||slope-unblockedgames.github.io^
 ||slope.faav.top^
 ||slope2unblocked.com^
@@ -1257,6 +1266,7 @@
 ||slopefree.org^
 ||slopegame-online.com^
 ||slopegame.io^
+||slopegame.lol^
 ||slopegame2.com^
 ||slopegamebox.com^
 ||slopeio.org^
@@ -1271,7 +1281,10 @@
 ||smcraft.fun^
 ||smdgames.github.io^
 ||snake-shadrouh.netlify.app^
+||snakeappgame.com^
+||snakeapplega.me^
 ||snakeapplegame.com^
+||snakegames.online^
 ||snakejuego.com^
 ||snakex-game.vercel.app^
 ||snes.party^
