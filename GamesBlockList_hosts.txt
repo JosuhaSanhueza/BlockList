@@ -95,6 +95,7 @@
 0.0.0.0 arcadegameplace.com
 0.0.0.0 arcadeok.com
 0.0.0.0 arcadino.com
+0.0.0.0 arcadrome.com
 0.0.0.0 arch.lol
 0.0.0.0 arch.mc
 0.0.0.0 areajugones.sport.es
@@ -453,6 +454,7 @@
 0.0.0.0 fireboywatergirl6.github.io
 0.0.0.0 fishfolk.org
 0.0.0.0 fishinggames.us
+0.0.0.0 five-nights-at-freddys-high-school.fandom.com
 0.0.0.0 fivenightsatfreddys-fnaf.io
 0.0.0.0 fivenightsatfreddys.com
 0.0.0.0 fivenightsatfreddysgame.com

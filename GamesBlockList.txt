@@ -94,6 +94,7 @@
 ||arcadegameplace.com^
 ||arcadeok.com^
 ||arcadino.com^
+||arcadrome.com^
 ||arch.lol^
 ||arch.mc^
 ||areajugones.sport.es^
@@ -452,6 +453,7 @@
 ||fireboywatergirl6.github.io^
 ||fishfolk.org^
 ||fishinggames.us^
+||five-nights-at-freddys-high-school.fandom.com^
 ||fivenightsatfreddys-fnaf.io^
 ||fivenightsatfreddys.com^
 ||fivenightsatfreddysgame.com^
@@ -669,10 +671,10 @@
 ||geometrydash.online^
 ||geometrydash.us.com^
 ||geometrydashh.es^
-||geometrydashonline.com^
 ||geometrydashlite2.io^
 ||geometrydashlite22.io^
 ||geometrydashlitefree.com^
+||geometrydashonline.com^
 ||geometrydashwave.com^
 ||geometrylitepc.com^
 ||geometrylitepc.io^

@@ -117,6 +117,7 @@ WHITELIST = {
 # lo tanto sí se bloquean, igual que se hace con subdominios de gitlab.io/github.io.
 WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "eaglercraft.global.ssl.fastly.net",
+    "five-nights-at-freddys-high-school.fandom.com",
 }
 
 # CDNs / Infraestructura crítica que NUNCA debemos bloquear al escanear iframe o CDNs embebidos
