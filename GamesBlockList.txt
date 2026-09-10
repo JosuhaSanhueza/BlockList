@@ -195,6 +195,7 @@
 ||burritobisonrevenge.github.io^
 ||c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com^
 ||calcsolver.net^
+||calculatorforyou.online^
 ||camcimahir.itch.io^
 ||capprime.netlify.app^
 ||capybara-game.com^
@@ -214,6 +215,8 @@
 ||checkcps.com^
 ||checkergames.com^
 ||chess.com^
+||chill-guyclicker.github.io^
+||chillguyclicker.io^
 ||chroma48.com^
 ||chromedino.com^
 ||ciudadelas.net^
@@ -227,11 +230,13 @@
 ||classroom-6x.bitbucket.io^
 ||classroom-6x.io^
 ||classroom20x.com^
+||classroom6x.gg^
 ||classroom6x.lol^
 ||classroom6x.us.com^
 ||classroom80x.com^
 ||classroomgame.github.io^
 ||classroomlite.vercel.app^
+||classrooms-6x.com^
 ||classrooms6x.gitlab.io^
 ||clavejuegos.com^
 ||cleverappssg.com^
@@ -588,6 +593,7 @@
 ||gamecomets.com^
 ||gamedistribution.com^
 ||gameduell.com^
+||gamefabrique.com^
 ||gameflare.com^
 ||gameflare.net^
 ||gameflare.online^
@@ -614,6 +620,7 @@
 ||games.serp.co^
 ||games4.com^
 ||games44.com^
+||gamesdisney.com^
 ||gamesdizi.com^
 ||gamesfree.io^
 ||gamesgames.com^
@@ -714,6 +721,7 @@
 ||grrd.ch^
 ||gswitch.org^
 ||guildmaster.yht.one^
+||gunspin.org^
 ||gx.games^
 ||hahagames.com^
 ||handdrawngames.com^
@@ -1064,6 +1072,7 @@
 ||papasgaming.com^
 ||papaspizzeria-unblocked.github.io^
 ||papasunblockedgames.github.io^
+||paper-io-2.github.io^
 ||paper.io^
 ||papergames.io^
 ||paperiogame.io^
@@ -1274,6 +1283,7 @@
 ||slopeonline.online^
 ||slopeunblocked.bitbucket.io^
 ||slopeunblocked.games^
+||smashkarts-online.github.io^
 ||smashkarts-unblocked.pages.dev^
 ||smashkarts.bitbucket.io^
 ||smashkarts.com^

@@ -196,6 +196,7 @@
 0.0.0.0 burritobisonrevenge.github.io
 0.0.0.0 c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com
 0.0.0.0 calcsolver.net
+0.0.0.0 calculatorforyou.online
 0.0.0.0 camcimahir.itch.io
 0.0.0.0 capprime.netlify.app
 0.0.0.0 capybara-game.com
@@ -215,6 +216,8 @@
 0.0.0.0 checkcps.com
 0.0.0.0 checkergames.com
 0.0.0.0 chess.com
+0.0.0.0 chill-guyclicker.github.io
+0.0.0.0 chillguyclicker.io
 0.0.0.0 chroma48.com
 0.0.0.0 chromedino.com
 0.0.0.0 ciudadelas.net
@@ -228,11 +231,13 @@
 0.0.0.0 classroom-6x.bitbucket.io
 0.0.0.0 classroom-6x.io
 0.0.0.0 classroom20x.com
+0.0.0.0 classroom6x.gg
 0.0.0.0 classroom6x.lol
 0.0.0.0 classroom6x.us.com
 0.0.0.0 classroom80x.com
 0.0.0.0 classroomgame.github.io
 0.0.0.0 classroomlite.vercel.app
+0.0.0.0 classrooms-6x.com
 0.0.0.0 classrooms6x.gitlab.io
 0.0.0.0 clavejuegos.com
 0.0.0.0 cleverappssg.com
@@ -589,6 +594,7 @@
 0.0.0.0 gamecomets.com
 0.0.0.0 gamedistribution.com
 0.0.0.0 gameduell.com
+0.0.0.0 gamefabrique.com
 0.0.0.0 gameflare.com
 0.0.0.0 gameflare.net
 0.0.0.0 gameflare.online
@@ -615,6 +621,7 @@
 0.0.0.0 games.serp.co
 0.0.0.0 games4.com
 0.0.0.0 games44.com
+0.0.0.0 gamesdisney.com
 0.0.0.0 gamesdizi.com
 0.0.0.0 gamesfree.io
 0.0.0.0 gamesgames.com
@@ -715,6 +722,7 @@
 0.0.0.0 grrd.ch
 0.0.0.0 gswitch.org
 0.0.0.0 guildmaster.yht.one
+0.0.0.0 gunspin.org
 0.0.0.0 gx.games
 0.0.0.0 hahagames.com
 0.0.0.0 handdrawngames.com
@@ -1065,6 +1073,7 @@
 0.0.0.0 papasgaming.com
 0.0.0.0 papaspizzeria-unblocked.github.io
 0.0.0.0 papasunblockedgames.github.io
+0.0.0.0 paper-io-2.github.io
 0.0.0.0 paper.io
 0.0.0.0 papergames.io
 0.0.0.0 paperiogame.io
@@ -1275,6 +1284,7 @@
 0.0.0.0 slopeonline.online
 0.0.0.0 slopeunblocked.bitbucket.io
 0.0.0.0 slopeunblocked.games
+0.0.0.0 smashkarts-online.github.io
 0.0.0.0 smashkarts-unblocked.pages.dev
 0.0.0.0 smashkarts.bitbucket.io
 0.0.0.0 smashkarts.com
