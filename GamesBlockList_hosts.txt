@@ -673,6 +673,7 @@
 0.0.0.0 geometrydashlite2.io
 0.0.0.0 geometrydashlite22.io
 0.0.0.0 geometrydashlitefree.com
+0.0.0.0 geometrydashonline.com
 0.0.0.0 geometrydashwave.com
 0.0.0.0 geometrylitepc.com
 0.0.0.0 geometrylitepc.io
@@ -780,7 +781,9 @@
 0.0.0.0 itch.io
 0.0.0.0 itchio.top
 0.0.0.0 iwin.com
+0.0.0.0 izzygames.com
 0.0.0.0 jackpot-games-damifidy.vercel.app
+0.0.0.0 jamir.io
 0.0.0.0 jerryshell.itch.io
 0.0.0.0 jetspaz.com
 0.0.0.0 jetyehs.github.io
@@ -851,6 +854,7 @@
 0.0.0.0 keepwork.com
 0.0.0.0 kemono.games
 0.0.0.0 kevin.games
+0.0.0.0 kibagames.com
 0.0.0.0 kickoutgames.com
 0.0.0.0 kickthebuddy.lol
 0.0.0.0 king.com
@@ -890,6 +894,7 @@
 0.0.0.0 littlewargame.com
 0.0.0.0 livegameserverlist.com
 0.0.0.0 lol-beans.org
+0.0.0.0 lolbeans.io
 0.0.0.0 lolbeans.us
 0.0.0.0 lps7x.csb.app
 0.0.0.0 luckyblocks.io
@@ -995,6 +1000,7 @@
 0.0.0.0 musicgames.io
 0.0.0.0 my.games
 0.0.0.0 myabandonware.com
+0.0.0.0 myfreegames.net
 0.0.0.0 myunblockedgames.com
 0.0.0.0 myunblockedgames.io
 0.0.0.0 mywordle.net
@@ -1062,6 +1068,7 @@
 0.0.0.0 pacogames.com
 0.0.0.0 pages.dev
 0.0.0.0 paisdelosjuegos.net
+0.0.0.0 pandafreegames.net
 0.0.0.0 papagames.net
 0.0.0.0 papas-arcade.com
 0.0.0.0 papas-freezeria.io

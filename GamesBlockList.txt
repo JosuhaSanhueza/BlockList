@@ -669,6 +669,7 @@
 ||geometrydash.online^
 ||geometrydash.us.com^
 ||geometrydashh.es^
+||geometrydashonline.com^
 ||geometrydashlite2.io^
 ||geometrydashlite22.io^
 ||geometrydashlitefree.com^
@@ -779,7 +780,9 @@
 ||itch.io^
 ||itchio.top^
 ||iwin.com^
+||izzygames.com^
 ||jackpot-games-damifidy.vercel.app^
+||jamir.io^
 ||jerryshell.itch.io^
 ||jetspaz.com^
 ||jetyehs.github.io^
@@ -850,6 +853,7 @@
 ||keepwork.com^
 ||kemono.games^
 ||kevin.games^
+||kibagames.com^
 ||kickoutgames.com^
 ||kickthebuddy.lol^
 ||king.com^
@@ -889,6 +893,7 @@
 ||littlewargame.com^
 ||livegameserverlist.com^
 ||lol-beans.org^
+||lolbeans.io^
 ||lolbeans.us^
 ||lps7x.csb.app^
 ||luckyblocks.io^
@@ -994,6 +999,7 @@
 ||musicgames.io^
 ||my.games^
 ||myabandonware.com^
+||myfreegames.net^
 ||myunblockedgames.com^
 ||myunblockedgames.io^
 ||mywordle.net^
@@ -1061,6 +1067,7 @@
 ||pacogames.com^
 ||pages.dev^
 ||paisdelosjuegos.net^
+||pandafreegames.net^
 ||papagames.net^
 ||papas-arcade.com^
 ||papas-freezeria.io^
