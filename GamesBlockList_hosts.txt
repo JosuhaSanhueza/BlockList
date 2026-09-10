@@ -892,6 +892,7 @@
 0.0.0.0 manablade.io
 0.0.0.0 manasource.itch.io
 0.0.0.0 marbleblast-abhiverse.dedyn.io
+0.0.0.0 marbleblast.com
 0.0.0.0 marianogappa.github.io
 0.0.0.0 maskedgames.com
 0.0.0.0 mathwizard.pages.dev
@@ -1448,6 +1449,7 @@
 0.0.0.0 unblocked76.org
 0.0.0.0 unblocked911games.com
 0.0.0.0 unblockedgaames.com
+0.0.0.0 unblockedgame.com
 0.0.0.0 unblockedgame.io
 0.0.0.0 unblockedgame67.github.io
 0.0.0.0 unblockedgames.blogbucket.org
