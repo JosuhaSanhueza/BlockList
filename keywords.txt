@@ -1289,3 +1289,14 @@ pandafreegames
 # --- Mirrors agregados manualmente por el usuario (bloqueo en caliente), 2026-09-10 ---
 arcadrome
 fnafhighschool
+
+# --- Búsqueda: pixel warfare/skribbl.io/cargames/arcadrome variantes (9 confirmados), 2026-09-10 ---
+vizzed
+unblockedgames2026gh
+cargames
+pixelwarfare
+coolbrnd
+skribblio
+skribbliogh
+skribbliocom
+yup7

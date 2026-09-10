@@ -205,6 +205,7 @@
 0.0.0.0 capybaragame.io
 0.0.0.0 caraccio.itch.io
 0.0.0.0 cardgames.io
+0.0.0.0 cargames.com
 0.0.0.0 carrot-craft.org
 0.0.0.0 catmario.org
 0.0.0.0 cattn.github.io
@@ -273,6 +274,7 @@
 0.0.0.0 cookieclickerunblocked.site
 0.0.0.0 cookinggames.com
 0.0.0.0 cool-orpin.vercel.app
+0.0.0.0 coolbrnd.com
 0.0.0.0 coolgamesfree.org
 0.0.0.0 cooljuegos.com
 0.0.0.0 coolmathcoolgames.com
@@ -1094,6 +1096,7 @@
 0.0.0.0 petezahgames.com
 0.0.0.0 picklekid31.github.io
 0.0.0.0 pinturillo2.com
+0.0.0.0 pixelwarfare.io
 0.0.0.0 pizza-edition-unblocked.github.io
 0.0.0.0 pla.bad-time-simulator.com
 0.0.0.0 plantsvszombies.onl
@@ -1264,8 +1267,11 @@
 0.0.0.0 sketchful.io
 0.0.0.0 skibiditoiletonline.github.io
 0.0.0.0 skinsmc.org
+0.0.0.0 skribbl-io-game.github.io
+0.0.0.0 skribbl-io.com
 0.0.0.0 skribbl.io
 0.0.0.0 skribbl.org
+0.0.0.0 skribblio.org
 0.0.0.0 slice-master.io
 0.0.0.0 slimekeyboardescape.com
 0.0.0.0 slither.com
@@ -1477,6 +1483,7 @@
 0.0.0.0 unblocked-2026.github.io
 0.0.0.0 unblocked-76.io
 0.0.0.0 unblocked-cookie-clicker.pages.dev
+0.0.0.0 unblocked-games-2026.github.io
 0.0.0.0 unblocked-games.com
 0.0.0.0 unblocked-games.gamesroid.com
 0.0.0.0 unblocked-games.org
@@ -1535,6 +1542,7 @@
 0.0.0.0 virlan.co
 0.0.0.0 vitalitygames.com
 0.0.0.0 viverse.com
+0.0.0.0 vizzed.com
 0.0.0.0 voltygames.com
 0.0.0.0 wacky-flip.io
 0.0.0.0 wafercafe.com
@@ -1587,6 +1595,7 @@
 0.0.0.0 yourwebgame.com
 0.0.0.0 yucata.de
 0.0.0.0 yunyin.wenzi.games
+0.0.0.0 yup7.com
 0.0.0.0 yupgames.io
 0.0.0.0 yupijuegos.com
 0.0.0.0 yurk.com

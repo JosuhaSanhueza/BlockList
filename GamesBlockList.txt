@@ -204,6 +204,7 @@
 ||capybaragame.io^
 ||caraccio.itch.io^
 ||cardgames.io^
+||cargames.com^
 ||carrot-craft.org^
 ||catmario.org^
 ||cattn.github.io^
@@ -272,6 +273,7 @@
 ||cookieclickerunblocked.site^
 ||cookinggames.com^
 ||cool-orpin.vercel.app^
+||coolbrnd.com^
 ||coolgamesfree.org^
 ||cooljuegos.com^
 ||coolmathcoolgames.com^
@@ -1093,6 +1095,7 @@
 ||petezahgames.com^
 ||picklekid31.github.io^
 ||pinturillo2.com^
+||pixelwarfare.io^
 ||pizza-edition-unblocked.github.io^
 ||pla.bad-time-simulator.com^
 ||plantsvszombies.onl^
@@ -1263,8 +1266,11 @@
 ||sketchful.io^
 ||skibiditoiletonline.github.io^
 ||skinsmc.org^
+||skribbl-io-game.github.io^
+||skribbl-io.com^
 ||skribbl.io^
 ||skribbl.org^
+||skribblio.org^
 ||slice-master.io^
 ||slimekeyboardescape.com^
 ||slither.com^
@@ -1476,6 +1482,7 @@
 ||unblocked-2026.github.io^
 ||unblocked-76.io^
 ||unblocked-cookie-clicker.pages.dev^
+||unblocked-games-2026.github.io^
 ||unblocked-games.com^
 ||unblocked-games.gamesroid.com^
 ||unblocked-games.org^
@@ -1534,6 +1541,7 @@
 ||virlan.co^
 ||vitalitygames.com^
 ||viverse.com^
+||vizzed.com^
 ||voltygames.com^
 ||wacky-flip.io^
 ||wafercafe.com^
@@ -1586,6 +1594,7 @@
 ||yourwebgame.com^
 ||yucata.de^
 ||yunyin.wenzi.games^
+||yup7.com^
 ||yupgames.io^
 ||yupijuegos.com^
 ||yurk.com^
