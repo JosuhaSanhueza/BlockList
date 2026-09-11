@@ -151,6 +151,7 @@
 ||bgames.com^
 ||bgs.pages.dev^
 ||bidoofery.github.io^
+||big-shot-boxing.gitlab.io^
 ||bigbadwaffle.itch.io^
 ||bigfishgames.com^
 ||bikebrainrots.io^
@@ -1107,6 +1108,9 @@
 ||papergames.io^
 ||paperiogame.io^
 ||paperminecraft.co^
+||parking-fury.github.io^
+||parking-fury.gitlab.io^
+||parkingfury3.github.io^
 ||paweljarosz.itch.io^
 ||pcmobilegames.com^
 ||penaltyshooters.gitlab.io^
@@ -1189,6 +1193,7 @@
 ||privategameservers.com^
 ||project-scythe.vercel.app^
 ||projectoutfox.com^
+||purepro4562.github.io^
 ||purogames.com.br^
 ||pushergames.itch.io^
 ||puzzio.io^
@@ -1298,6 +1303,7 @@
 ||slither.io^
 ||slithere.com^
 ||slithergame.io^
+||slitherio.onl^
 ||slope-game-io.github.io^
 ||slope-online.github.io^
 ||slope-slope.github.io^
@@ -1327,6 +1333,7 @@
 ||smcraft.fun^
 ||smdgames.github.io^
 ||snake-shadrouh.netlify.app^
+||snake.io^
 ||snakeappgame.com^
 ||snakeapplega.me^
 ||snakeapplegame.com^
@@ -1449,6 +1456,8 @@
 ||theslope.github.io^
 ||thewikigame.com^
 ||threejs-games.github.io^
+||tiny-fishing-unblock.github.io^
+||tinyfishing.co^
 ||tinyfishing.io^
 ||tinytakinteller.itch.io^
 ||titotu.io^
@@ -1486,6 +1495,7 @@
 ||twoplayergames.com^
 ||twoplayergames.org^
 ||typingstudy.com^
+||tyroneunblockedgames.gitlab.io^
 ||ubg365.github.io^
 ||ubg67.com^
 ||ubg6969.gitlab.io^

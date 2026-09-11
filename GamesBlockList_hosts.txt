@@ -152,6 +152,7 @@
 0.0.0.0 bgames.com
 0.0.0.0 bgs.pages.dev
 0.0.0.0 bidoofery.github.io
+0.0.0.0 big-shot-boxing.gitlab.io
 0.0.0.0 bigbadwaffle.itch.io
 0.0.0.0 bigfishgames.com
 0.0.0.0 bikebrainrots.io
@@ -1108,6 +1109,9 @@
 0.0.0.0 papergames.io
 0.0.0.0 paperiogame.io
 0.0.0.0 paperminecraft.co
+0.0.0.0 parking-fury.github.io
+0.0.0.0 parking-fury.gitlab.io
+0.0.0.0 parkingfury3.github.io
 0.0.0.0 paweljarosz.itch.io
 0.0.0.0 pcmobilegames.com
 0.0.0.0 penaltyshooters.gitlab.io
@@ -1190,6 +1194,7 @@
 0.0.0.0 privategameservers.com
 0.0.0.0 project-scythe.vercel.app
 0.0.0.0 projectoutfox.com
+0.0.0.0 purepro4562.github.io
 0.0.0.0 purogames.com.br
 0.0.0.0 pushergames.itch.io
 0.0.0.0 puzzio.io
@@ -1299,6 +1304,7 @@
 0.0.0.0 slither.io
 0.0.0.0 slithere.com
 0.0.0.0 slithergame.io
+0.0.0.0 slitherio.onl
 0.0.0.0 slope-game-io.github.io
 0.0.0.0 slope-online.github.io
 0.0.0.0 slope-slope.github.io
@@ -1328,6 +1334,7 @@
 0.0.0.0 smcraft.fun
 0.0.0.0 smdgames.github.io
 0.0.0.0 snake-shadrouh.netlify.app
+0.0.0.0 snake.io
 0.0.0.0 snakeappgame.com
 0.0.0.0 snakeapplega.me
 0.0.0.0 snakeapplegame.com
@@ -1450,6 +1457,8 @@
 0.0.0.0 theslope.github.io
 0.0.0.0 thewikigame.com
 0.0.0.0 threejs-games.github.io
+0.0.0.0 tiny-fishing-unblock.github.io
+0.0.0.0 tinyfishing.co
 0.0.0.0 tinyfishing.io
 0.0.0.0 tinytakinteller.itch.io
 0.0.0.0 titotu.io
@@ -1487,6 +1496,7 @@
 0.0.0.0 twoplayergames.com
 0.0.0.0 twoplayergames.org
 0.0.0.0 typingstudy.com
+0.0.0.0 tyroneunblockedgames.gitlab.io
 0.0.0.0 ubg365.github.io
 0.0.0.0 ubg67.com
 0.0.0.0 ubg6969.gitlab.io
