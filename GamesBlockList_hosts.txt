@@ -69,6 +69,7 @@
 0.0.0.0 agar.io
 0.0.0.0 agar.live
 0.0.0.0 agarcity.io
+0.0.0.0 agario.com
 0.0.0.0 agariojuego.com
 0.0.0.0 agarz.com
 0.0.0.0 airconsole.com
@@ -1017,6 +1018,7 @@
 0.0.0.0 nemoplay.com
 0.0.0.0 neoteo.com
 0.0.0.0 netifun.com
+0.0.0.0 netlify.app
 0.0.0.0 nettleweb.pages.dev
 0.0.0.0 newgrounds.com
 0.0.0.0 newunblockedgames.gitlab.io
@@ -1188,6 +1190,7 @@
 0.0.0.0 rami.games
 0.0.0.0 rancic.itch.io
 0.0.0.0 random-basketball.github.io
+0.0.0.0 randombasketball.com
 0.0.0.0 rapidwebapp.com
 0.0.0.0 re-pack-delta.vercel.app
 0.0.0.0 realhack101sunblockedunq.webnode.page
