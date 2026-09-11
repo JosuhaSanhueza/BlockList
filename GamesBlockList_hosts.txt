@@ -87,6 +87,7 @@
 0.0.0.0 amongusonline.io
 0.0.0.0 amongusplay.online
 0.0.0.0 andrewclark3244.github.io
+0.0.0.0 ankergames.net
 0.0.0.0 ant.games
 0.0.0.0 anygames-ad.bitbucket.io
 0.0.0.0 anygames-com.bitbucket.io
@@ -209,6 +210,7 @@
 0.0.0.0 cargames.com
 0.0.0.0 carrot-craft.org
 0.0.0.0 catmario.org
+0.0.0.0 catninja-unblocked.com
 0.0.0.0 cattn.github.io
 0.0.0.0 cavegame.io
 0.0.0.0 cbgamesdev.github.io
@@ -225,6 +227,7 @@
 0.0.0.0 chromedino.com
 0.0.0.0 ciudadelas.net
 0.0.0.0 clash3d.com
+0.0.0.0 clashroyaleplay.com
 0.0.0.0 class-76.github.io
 0.0.0.0 classgame77.com
 0.0.0.0 classicgamezone.com
@@ -280,6 +283,7 @@
 0.0.0.0 cooljuegos.com
 0.0.0.0 coolmathcoolgames.com
 0.0.0.0 coolmathgames.com
+0.0.0.0 coolmathgameskids.com
 0.0.0.0 coolmathunblocked.weebly.com
 0.0.0.0 coolunblockedgame.com
 0.0.0.0 coopboardgames.com
@@ -482,9 +486,11 @@
 0.0.0.0 fnf-2.io
 0.0.0.0 fnf-games.io
 0.0.0.0 fnfans.com
+0.0.0.0 fnffree.io
 0.0.0.0 fnfgo.com
 0.0.0.0 fnfmod.online
 0.0.0.0 fnfmods.io
+0.0.0.0 fnfunkin.com
 0.0.0.0 fngames.io
 0.0.0.0 fog.com
 0.0.0.0 football-games.io
@@ -513,6 +519,8 @@
 0.0.0.0 freewebgames.io
 0.0.0.0 frev.info
 0.0.0.0 friclassic.online
+0.0.0.0 fridaynightfunkin-fnf.github.io
+0.0.0.0 fridaynightfunkin-unblocked.github.io
 0.0.0.0 fridaynightfunkin.app
 0.0.0.0 fridaynightfunkin.net
 0.0.0.0 fridaynightfunkin.org
@@ -588,6 +596,8 @@
 0.0.0.0 funyoursgames.com
 0.0.0.0 futbol-11.com
 0.0.0.0 g7r.com
+0.0.0.0 gacha-life-2.com
+0.0.0.0 gacha-life-online.com
 0.0.0.0 galaxy.click
 0.0.0.0 gamalod.com
 0.0.0.0 gamaverse.com
@@ -920,6 +930,7 @@
 0.0.0.0 marbleblast.com
 0.0.0.0 marianogappa.github.io
 0.0.0.0 maskedgames.com
+0.0.0.0 mathplayzone.com
 0.0.0.0 mathwizard.pages.dev
 0.0.0.0 mattmakesgames.itch.io
 0.0.0.0 maxwellstevenson.com
@@ -1177,6 +1188,7 @@
 0.0.0.0 pushergames.itch.io
 0.0.0.0 puzzio.io
 0.0.0.0 puzzlegarage.com
+0.0.0.0 puzzleplayground.com
 0.0.0.0 q13x.com
 0.0.0.0 quake-io.com
 0.0.0.0 quantum-backrooms.vercel.app

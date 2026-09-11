@@ -13,8 +13,8 @@
 ||1v1lol-gg.github.io^
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
-||1v1lol.us^
 ||1v1lol.us.com^
+||1v1lol.us^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -86,6 +86,7 @@
 ||amongusonline.io^
 ||amongusplay.online^
 ||andrewclark3244.github.io^
+||ankergames.net^
 ||ant.games^
 ||anygames-ad.bitbucket.io^
 ||anygames-com.bitbucket.io^
@@ -208,6 +209,7 @@
 ||cargames.com^
 ||carrot-craft.org^
 ||catmario.org^
+||catninja-unblocked.com^
 ||cattn.github.io^
 ||cavegame.io^
 ||cbgamesdev.github.io^
@@ -224,6 +226,7 @@
 ||chromedino.com^
 ||ciudadelas.net^
 ||clash3d.com^
+||clashroyaleplay.com^
 ||class-76.github.io^
 ||classgame77.com^
 ||classicgamezone.com^
@@ -279,6 +282,7 @@
 ||cooljuegos.com^
 ||coolmathcoolgames.com^
 ||coolmathgames.com^
+||coolmathgameskids.com^
 ||coolmathunblocked.weebly.com^
 ||coolunblockedgame.com^
 ||coopboardgames.com^
@@ -297,11 +301,11 @@
 ||crazy-game.bitbucket.io^
 ||crazycargames.com^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com^
 ||crazygames.com.es^
+||crazygames.com^
 ||crazygames.gg^
-||crazygames.org^
 ||crazygames.org.es^
+||crazygames.org^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -388,8 +392,8 @@
 ||ducklife.gitlab.io^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com^
 ||eaglecraft.com.co^
+||eaglecraft.com^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eaglercraft-launcher.vexr.dev^
@@ -481,9 +485,11 @@
 ||fnf-2.io^
 ||fnf-games.io^
 ||fnfans.com^
+||fnffree.io^
 ||fnfgo.com^
 ||fnfmod.online^
 ||fnfmods.io^
+||fnfunkin.com^
 ||fngames.io^
 ||fog.com^
 ||football-games.io^
@@ -512,6 +518,8 @@
 ||freewebgames.io^
 ||frev.info^
 ||friclassic.online^
+||fridaynightfunkin-fnf.github.io^
+||fridaynightfunkin-unblocked.github.io^
 ||fridaynightfunkin.app^
 ||fridaynightfunkin.net^
 ||fridaynightfunkin.org^
@@ -521,9 +529,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
-||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
+||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -587,6 +595,8 @@
 ||funyoursgames.com^
 ||futbol-11.com^
 ||g7r.com^
+||gacha-life-2.com^
+||gacha-life-online.com^
 ||galaxy.click^
 ||gamalod.com^
 ||gamaverse.com^
@@ -666,8 +676,8 @@
 ||geometry.games^
 ||geometryarrow.io^
 ||geometrydash-pc.com^
-||geometrydash.com^
 ||geometrydash.com.mx^
+||geometrydash.com^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -919,6 +929,7 @@
 ||marbleblast.com^
 ||marianogappa.github.io^
 ||maskedgames.com^
+||mathplayzone.com^
 ||mathwizard.pages.dev^
 ||mattmakesgames.itch.io^
 ||maxwellstevenson.com^
@@ -1176,6 +1187,7 @@
 ||pushergames.itch.io^
 ||puzzio.io^
 ||puzzlegarage.com^
+||puzzleplayground.com^
 ||q13x.com^
 ||quake-io.com^
 ||quantum-backrooms.vercel.app^
@@ -1265,11 +1277,6 @@
 ||silvergames.com^
 ||silvergames.io^
 ||sinistersquidward.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibiditoiletonline.github.io^
@@ -1621,3 +1628,8 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/totalgameinn/*^
