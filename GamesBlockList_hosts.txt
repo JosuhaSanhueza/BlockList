@@ -39,6 +39,7 @@
 0.0.0.0 67clicker.io
 0.0.0.0 67clicker.org
 0.0.0.0 6922b02c-40d6-4b41-8250-70ff32fd9b3c.poki-gdn.com
+0.0.0.0 6games.eu
 0.0.0.0 6x-classroom.bitbucket.io
 0.0.0.0 6xclassroom.com
 0.0.0.0 6xgames.com
@@ -47,6 +48,8 @@
 0.0.0.0 76-games.bitbucket.io
 0.0.0.0 76unblockedgamesonline.github.io
 0.0.0.0 7x.games
+0.0.0.0 8ballpoolonline.gitlab.io
+0.0.0.0 8ballpoolunblocked.gitlab.io
 0.0.0.0 8games.com
 0.0.0.0 8games.io
 0.0.0.0 8games.net
@@ -243,7 +246,10 @@
 0.0.0.0 classroom20x.com
 0.0.0.0 classroom6x.gg
 0.0.0.0 classroom6x.lol
+0.0.0.0 classroom6x.me
+0.0.0.0 classroom6x.school
 0.0.0.0 classroom6x.us.com
+0.0.0.0 classroom6xonline.github.io
 0.0.0.0 classroom80x.com
 0.0.0.0 classroomgame.github.io
 0.0.0.0 classroomlite.vercel.app
@@ -951,6 +957,8 @@
 0.0.0.0 media.copero.com.ar
 0.0.0.0 meegames.com
 0.0.0.0 meeland.io
+0.0.0.0 melonplayground.io
+0.0.0.0 melonplaygroundgame.org
 0.0.0.0 meowdoku.games
 0.0.0.0 mergecakegame.com
 0.0.0.0 messcraft.ovh

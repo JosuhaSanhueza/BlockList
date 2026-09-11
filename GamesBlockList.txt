@@ -38,6 +38,7 @@
 ||67clicker.io^
 ||67clicker.org^
 ||6922b02c-40d6-4b41-8250-70ff32fd9b3c.poki-gdn.com^
+||6games.eu^
 ||6x-classroom.bitbucket.io^
 ||6xclassroom.com^
 ||6xgames.com^
@@ -46,6 +47,8 @@
 ||76-games.bitbucket.io^
 ||76unblockedgamesonline.github.io^
 ||7x.games^
+||8ballpoolonline.gitlab.io^
+||8ballpoolunblocked.gitlab.io^
 ||8games.com^
 ||8games.io^
 ||8games.net^
@@ -242,7 +245,10 @@
 ||classroom20x.com^
 ||classroom6x.gg^
 ||classroom6x.lol^
+||classroom6x.me^
+||classroom6x.school^
 ||classroom6x.us.com^
+||classroom6xonline.github.io^
 ||classroom80x.com^
 ||classroomgame.github.io^
 ||classroomlite.vercel.app^
@@ -950,6 +956,8 @@
 ||media.copero.com.ar^
 ||meegames.com^
 ||meeland.io^
+||melonplayground.io^
+||melonplaygroundgame.org^
 ||meowdoku.games^
 ||mergecakegame.com^
 ||messcraft.ovh^
