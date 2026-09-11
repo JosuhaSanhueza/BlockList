@@ -13,8 +13,8 @@
 ||1v1lol-gg.github.io^
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
-||1v1lol.us.com^
 ||1v1lol.us^
+||1v1lol.us.com^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -100,6 +100,7 @@
 ||arcadegameplace.com^
 ||arcadeok.com^
 ||arcadino.com^
+||arcadio.ferretosan.com^
 ||arcadrome.com^
 ||arch.lol^
 ||arch.mc^
@@ -198,6 +199,7 @@
 ||buff.game^
 ||buildroyale.io^
 ||bulletbros.io^
+||bunnies.lat^
 ||burritobison-online.github.io^
 ||burritobison.github.io^
 ||burritobisononline.gitlab.io^
@@ -242,6 +244,7 @@
 ||classicreload.com^
 ||classroom-6x.bitbucket.io^
 ||classroom-6x.io^
+||classroom-games.github.io^
 ||classroom20x.com^
 ||classroom6x.gg^
 ||classroom6x.lol^
@@ -312,11 +315,11 @@
 ||crazy-game.bitbucket.io^
 ||crazycargames.com^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com.es^
 ||crazygames.com^
+||crazygames.com.es^
 ||crazygames.gg^
-||crazygames.org.es^
 ||crazygames.org^
+||crazygames.org.es^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -352,6 +355,7 @@
 ||detodojuegos.com^
 ||developers.rune.ai^
 ||deviltower.games^
+||diddygame.vercel.app^
 ||diegosjuegos.com^
 ||diep.io^
 ||diepio2.pages.dev^
@@ -404,8 +408,8 @@
 ||ducklife.gitlab.io^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com.co^
 ||eaglecraft.com^
+||eaglecraft.com.co^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eaglercraft-launcher.vexr.dev^
@@ -541,9 +545,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
+||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
-||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -688,8 +692,8 @@
 ||geometry.games^
 ||geometryarrow.io^
 ||geometrydash-pc.com^
-||geometrydash.com.mx^
 ||geometrydash.com^
+||geometrydash.com.mx^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -848,6 +852,7 @@
 ||juegosfriv-2020.com^
 ||juegosfriv.com^
 ||juegosfriv.es^
+||juegosfriv.my^
 ||juegosfriv2015.com^
 ||juegosfriv2016.com^
 ||juegosfriv2016.net^
@@ -901,6 +906,7 @@
 ||kongregate.com^
 ||kongregate.io^
 ||kongregate.online^
+||koolmathgames.site^
 ||kour.io^
 ||krunker.co.uk^
 ||krunker.io^
@@ -1053,6 +1059,7 @@
 ||night.fire.games^
 ||niksid09.neocities.org^
 ||ninjakiwi.com^
+||nintendoboi22.github.io^
 ||nite.games^
 ||nitrado.com^
 ||nitrado.net^

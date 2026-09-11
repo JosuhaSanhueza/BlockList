@@ -101,6 +101,7 @@
 0.0.0.0 arcadegameplace.com
 0.0.0.0 arcadeok.com
 0.0.0.0 arcadino.com
+0.0.0.0 arcadio.ferretosan.com
 0.0.0.0 arcadrome.com
 0.0.0.0 arch.lol
 0.0.0.0 arch.mc
@@ -199,6 +200,7 @@
 0.0.0.0 buff.game
 0.0.0.0 buildroyale.io
 0.0.0.0 bulletbros.io
+0.0.0.0 bunnies.lat
 0.0.0.0 burritobison-online.github.io
 0.0.0.0 burritobison.github.io
 0.0.0.0 burritobisononline.gitlab.io
@@ -243,6 +245,7 @@
 0.0.0.0 classicreload.com
 0.0.0.0 classroom-6x.bitbucket.io
 0.0.0.0 classroom-6x.io
+0.0.0.0 classroom-games.github.io
 0.0.0.0 classroom20x.com
 0.0.0.0 classroom6x.gg
 0.0.0.0 classroom6x.lol
@@ -353,6 +356,7 @@
 0.0.0.0 detodojuegos.com
 0.0.0.0 developers.rune.ai
 0.0.0.0 deviltower.games
+0.0.0.0 diddygame.vercel.app
 0.0.0.0 diegosjuegos.com
 0.0.0.0 diep.io
 0.0.0.0 diepio2.pages.dev
@@ -849,6 +853,7 @@
 0.0.0.0 juegosfriv-2020.com
 0.0.0.0 juegosfriv.com
 0.0.0.0 juegosfriv.es
+0.0.0.0 juegosfriv.my
 0.0.0.0 juegosfriv2015.com
 0.0.0.0 juegosfriv2016.com
 0.0.0.0 juegosfriv2016.net
@@ -902,6 +907,7 @@
 0.0.0.0 kongregate.com
 0.0.0.0 kongregate.io
 0.0.0.0 kongregate.online
+0.0.0.0 koolmathgames.site
 0.0.0.0 kour.io
 0.0.0.0 krunker.co.uk
 0.0.0.0 krunker.io
@@ -1054,6 +1060,7 @@
 0.0.0.0 night.fire.games
 0.0.0.0 niksid09.neocities.org
 0.0.0.0 ninjakiwi.com
+0.0.0.0 nintendoboi22.github.io
 0.0.0.0 nite.games
 0.0.0.0 nitrado.com
 0.0.0.0 nitrado.net
