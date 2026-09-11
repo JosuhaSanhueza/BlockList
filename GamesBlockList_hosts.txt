@@ -221,6 +221,7 @@
 0.0.0.0 checkcps.com
 0.0.0.0 checkergames.com
 0.0.0.0 chess.com
+0.0.0.0 chihuahuagames.com
 0.0.0.0 chill-guyclicker.github.io
 0.0.0.0 chillguyclicker.io
 0.0.0.0 chroma48.com
@@ -275,6 +276,7 @@
 0.0.0.0 cookieclickernew.com
 0.0.0.0 cookieclickerplay.github.io
 0.0.0.0 cookieclickers.io
+0.0.0.0 cookieclickers2.io
 0.0.0.0 cookieclickerunblocked.site
 0.0.0.0 cookinggames.com
 0.0.0.0 cool-orpin.vercel.app
@@ -377,6 +379,7 @@
 0.0.0.0 driftbossunblocked.io
 0.0.0.0 drifted.com
 0.0.0.0 drifthunters.org
+0.0.0.0 drifthunters3d.io
 0.0.0.0 drifthunters66online.github.io
 0.0.0.0 drifthuntersonline.gitlab.io
 0.0.0.0 drillur.itch.io
@@ -1017,6 +1020,7 @@
 0.0.0.0 my.games
 0.0.0.0 myabandonware.com
 0.0.0.0 myfreegames.net
+0.0.0.0 mymoneyrain.com
 0.0.0.0 myunblockedgames.com
 0.0.0.0 myunblockedgames.io
 0.0.0.0 mywordle.net
@@ -1096,6 +1100,8 @@
 0.0.0.0 papasgamesonline.github.io
 0.0.0.0 papasgaming.com
 0.0.0.0 papaspizzeria-unblocked.github.io
+0.0.0.0 papaspizzeria.io
+0.0.0.0 papasscooperia.online
 0.0.0.0 papasunblockedgames.github.io
 0.0.0.0 paper-io-2.github.io
 0.0.0.0 paper.io
@@ -1416,6 +1422,7 @@
 0.0.0.0 szgames.net
 0.0.0.0 szunami.itch.io
 0.0.0.0 tabletopia.com
+0.0.0.0 tabsdl.com
 0.0.0.0 tagpro.koalabeast.com
 0.0.0.0 tagunblocked.com
 0.0.0.0 taming.io
