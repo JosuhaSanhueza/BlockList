@@ -39,6 +39,7 @@
 ||67clicker.org^
 ||6922b02c-40d6-4b41-8250-70ff32fd9b3c.poki-gdn.com^
 ||6x-classroom.bitbucket.io^
+||6xclassroom.com^
 ||6xgames.com^
 ||6zar.com^
 ||75kh0.github.io^
@@ -173,6 +174,7 @@
 ||blumgislime.com^
 ||boardgamearena.com^
 ||boing.es^
+||bombitgame.github.io^
 ||bonk-io.com^
 ||booleet.itch.io^
 ||bored.com^
@@ -796,11 +798,13 @@
 ||irv77.github.io^
 ||isladejuegos.com^
 ||italianbrainrot-clicker.io^
+||itbombs.com^
 ||itch.io^
 ||itchio.top^
 ||iwin.com^
 ||izzygames.com^
 ||jackpot-games-damifidy.vercel.app^
+||jamesland.org^
 ||jamir.io^
 ||jerryshell.itch.io^
 ||jetspaz.com^
@@ -1287,6 +1291,7 @@
 ||sigmally.com^
 ||silvergames.com^
 ||silvergames.io^
+||simulationgameso.com^
 ||sinistersquidward.com^
 ||skap.nightly.pw^
 ||sketchful.io^
@@ -1384,6 +1389,7 @@
 ||stickman-hook.io^
 ||stickman-unblocked.github.io^
 ||stickman.pro^
+||stickmanbattle.com^
 ||stickmanclimb2.github.io^
 ||stickmanhook-unblocked.github.io^
 ||stickmanhook.bitbucket.io^
@@ -1519,6 +1525,7 @@
 ||unblocked-games.gamesroid.com^
 ||unblocked-games.org^
 ||unblocked-steal-a-brainrot.github.io^
+||unblocked66world.com^
 ||unblocked76.org^
 ||unblocked911games.com^
 ||unblockedgaames.com^

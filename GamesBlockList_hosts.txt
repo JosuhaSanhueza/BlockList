@@ -40,6 +40,7 @@
 0.0.0.0 67clicker.org
 0.0.0.0 6922b02c-40d6-4b41-8250-70ff32fd9b3c.poki-gdn.com
 0.0.0.0 6x-classroom.bitbucket.io
+0.0.0.0 6xclassroom.com
 0.0.0.0 6xgames.com
 0.0.0.0 6zar.com
 0.0.0.0 75kh0.github.io
@@ -174,6 +175,7 @@
 0.0.0.0 blumgislime.com
 0.0.0.0 boardgamearena.com
 0.0.0.0 boing.es
+0.0.0.0 bombitgame.github.io
 0.0.0.0 bonk-io.com
 0.0.0.0 booleet.itch.io
 0.0.0.0 bored.com
@@ -797,11 +799,13 @@
 0.0.0.0 irv77.github.io
 0.0.0.0 isladejuegos.com
 0.0.0.0 italianbrainrot-clicker.io
+0.0.0.0 itbombs.com
 0.0.0.0 itch.io
 0.0.0.0 itchio.top
 0.0.0.0 iwin.com
 0.0.0.0 izzygames.com
 0.0.0.0 jackpot-games-damifidy.vercel.app
+0.0.0.0 jamesland.org
 0.0.0.0 jamir.io
 0.0.0.0 jerryshell.itch.io
 0.0.0.0 jetspaz.com
@@ -1288,6 +1292,7 @@
 0.0.0.0 sigmally.com
 0.0.0.0 silvergames.com
 0.0.0.0 silvergames.io
+0.0.0.0 simulationgameso.com
 0.0.0.0 sinistersquidward.com
 0.0.0.0 skap.nightly.pw
 0.0.0.0 sketchful.io
@@ -1385,6 +1390,7 @@
 0.0.0.0 stickman-hook.io
 0.0.0.0 stickman-unblocked.github.io
 0.0.0.0 stickman.pro
+0.0.0.0 stickmanbattle.com
 0.0.0.0 stickmanclimb2.github.io
 0.0.0.0 stickmanhook-unblocked.github.io
 0.0.0.0 stickmanhook.bitbucket.io
@@ -1520,6 +1526,7 @@
 0.0.0.0 unblocked-games.gamesroid.com
 0.0.0.0 unblocked-games.org
 0.0.0.0 unblocked-steal-a-brainrot.github.io
+0.0.0.0 unblocked66world.com
 0.0.0.0 unblocked76.org
 0.0.0.0 unblocked911games.com
 0.0.0.0 unblockedgaames.com
