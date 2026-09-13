@@ -1237,6 +1237,7 @@
 ||realhack101sunblockedunq.webnode.page^
 ||realmofthemadgod.com^
 ||rec0ded88.com^
+||reldens.com^
 ||remarkablegames.itch.io^
 ||remarkablegames.org^
 ||resent5.pages.dev^
@@ -1308,6 +1309,11 @@
 ||silvergames.io^
 ||simulationgameso.com^
 ||sinistersquidward.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibiditoiletonline.github.io^
@@ -1456,6 +1462,7 @@
 ||tankionline.com^
 ||tankstroubleunblocked.com^
 ||tanktrouble4.com^
+||tanukisunsetgame.com^
 ||tanukisunsetgame.github.io^
 ||tb.caeland.ca^
 ||teamgames.club^
@@ -1667,8 +1674,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
