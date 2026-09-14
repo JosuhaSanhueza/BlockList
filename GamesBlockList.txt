@@ -155,6 +155,7 @@
 ||bestcrazygames.com^
 ||bestgames.com^
 ||bestminecraftserverlist.net^
+||bestofgooglesites.com^
 ||bestunblockedgames.com^
 ||betrayal.io^
 ||bgames.com^
@@ -200,6 +201,7 @@
 ||breakbar.itch.io^
 ||breakplay.fun^
 ||browsergame-base.de^
+||browsergamers.gg^
 ||bubblebox.com^
 ||bubbleshooteonline.github.io^
 ||bubbleshooter.net^
@@ -207,6 +209,7 @@
 ||buff.game^
 ||buildroyale.io^
 ||bulletbros.io^
+||bulletforce.co^
 ||bunnies.lat^
 ||burritobison-online.github.io^
 ||burritobison.github.io^
@@ -426,6 +429,7 @@
 ||eaglecraft.com^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
+||eagler-craft.github.io^
 ||eaglercraft-launcher.vexr.dev^
 ||eaglercraft-minecraft.com^
 ||eaglercraft.42web.io^
@@ -1257,6 +1261,7 @@
 ||quake-io.com^
 ||quantum-backrooms.vercel.app^
 ||racinglimits.net^
+||raft-life.com^
 ||raftlife.io^
 ||ragdoll-archers.github.io^
 ||ragdollarchers.github.io^
@@ -1300,6 +1305,7 @@
 ||run-3.bitbucket.io^
 ||run3-game-unblocked.github.io^
 ||run3.live^
+||run3.pro^
 ||run3free.github.io^
 ||run4.space^
 ||run4unblocked.blogspot.com^
