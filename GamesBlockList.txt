@@ -59,6 +59,7 @@
 ||a10.com^
 ||abcya.com^
 ||abrainrot.com^
+||actiongameshub.com^
 ||adarkroom.doublespeakgames.com^
 ||addictinggames.com^
 ||addictinggames.io^
@@ -760,6 +761,7 @@
 ||guildmaster.yht.one^
 ||gunspin.org^
 ||gx.games^
+||hackedfreegames.com^
 ||hahagames.com^
 ||handdrawngames.com^
 ||hapessad.github.io^
@@ -811,6 +813,7 @@
 ||iogames.onl^
 ||ioground.com^
 ||iospace.games^
+||iron-snout.gitlab.io^
 ||irv77.github.io^
 ||isladejuegos.com^
 ||italianbrainrot-clicker.io^
@@ -1127,6 +1130,7 @@
 ||papasgamesfree.io^
 ||papasgamesonline.github.io^
 ||papasgaming.com^
+||papaspancakeria.github.io^
 ||papaspizzeria-unblocked.github.io^
 ||papaspizzeria.io^
 ||papasscooperia.online^
@@ -1147,7 +1151,12 @@
 ||picklekid31.github.io^
 ||pinturillo2.com^
 ||pixelwarfare.io^
+||pizza-edition-games.bitbucket.io^
 ||pizza-edition-unblocked.github.io^
+||pizzaedition.bitbucket.io^
+||pizzaedition.gitlab.io^
+||pizzaedition.one^
+||pizzaedition.win^
 ||pla.bad-time-simulator.com^
 ||plantsvszombies.onl^
 ||plarium.com^
@@ -1488,6 +1497,7 @@
 ||thegamingnest.com^
 ||theimpossiblequiz-online.github.io^
 ||theludos.com^
+||thepizzaedition-games.github.io^
 ||thesacredtexts.weebly.com^
 ||theshovel.rocks^
 ||theslope.github.io^

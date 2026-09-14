@@ -60,6 +60,7 @@
 0.0.0.0 a10.com
 0.0.0.0 abcya.com
 0.0.0.0 abrainrot.com
+0.0.0.0 actiongameshub.com
 0.0.0.0 adarkroom.doublespeakgames.com
 0.0.0.0 addictinggames.com
 0.0.0.0 addictinggames.io
@@ -761,6 +762,7 @@
 0.0.0.0 guildmaster.yht.one
 0.0.0.0 gunspin.org
 0.0.0.0 gx.games
+0.0.0.0 hackedfreegames.com
 0.0.0.0 hahagames.com
 0.0.0.0 handdrawngames.com
 0.0.0.0 hapessad.github.io
@@ -812,6 +814,7 @@
 0.0.0.0 iogames.onl
 0.0.0.0 ioground.com
 0.0.0.0 iospace.games
+0.0.0.0 iron-snout.gitlab.io
 0.0.0.0 irv77.github.io
 0.0.0.0 isladejuegos.com
 0.0.0.0 italianbrainrot-clicker.io
@@ -1128,6 +1131,7 @@
 0.0.0.0 papasgamesfree.io
 0.0.0.0 papasgamesonline.github.io
 0.0.0.0 papasgaming.com
+0.0.0.0 papaspancakeria.github.io
 0.0.0.0 papaspizzeria-unblocked.github.io
 0.0.0.0 papaspizzeria.io
 0.0.0.0 papasscooperia.online
@@ -1148,7 +1152,12 @@
 0.0.0.0 picklekid31.github.io
 0.0.0.0 pinturillo2.com
 0.0.0.0 pixelwarfare.io
+0.0.0.0 pizza-edition-games.bitbucket.io
 0.0.0.0 pizza-edition-unblocked.github.io
+0.0.0.0 pizzaedition.bitbucket.io
+0.0.0.0 pizzaedition.gitlab.io
+0.0.0.0 pizzaedition.one
+0.0.0.0 pizzaedition.win
 0.0.0.0 pla.bad-time-simulator.com
 0.0.0.0 plantsvszombies.onl
 0.0.0.0 plarium.com
@@ -1489,6 +1498,7 @@
 0.0.0.0 thegamingnest.com
 0.0.0.0 theimpossiblequiz-online.github.io
 0.0.0.0 theludos.com
+0.0.0.0 thepizzaedition-games.github.io
 0.0.0.0 thesacredtexts.weebly.com
 0.0.0.0 theshovel.rocks
 0.0.0.0 theslope.github.io
