@@ -105,6 +105,7 @@
 0.0.0.0 arcadrome.com
 0.0.0.0 arch.lol
 0.0.0.0 arch.mc
+0.0.0.0 areajugones.com
 0.0.0.0 areajugones.sport.es
 0.0.0.0 arealme.com
 0.0.0.0 arkadium.com
@@ -1462,6 +1463,7 @@
 0.0.0.0 tanukisunsetgame.github.io
 0.0.0.0 tb.caeland.ca
 0.0.0.0 teamgames.club
+0.0.0.0 techgrapple.com
 0.0.0.0 teddblue.github.io
 0.0.0.0 teespure.github.io
 0.0.0.0 temple-of-boom.gitlab.io

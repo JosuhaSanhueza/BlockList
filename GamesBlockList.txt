@@ -104,6 +104,7 @@
 ||arcadrome.com^
 ||arch.lol^
 ||arch.mc^
+||areajugones.com^
 ||areajugones.sport.es^
 ||arealme.com^
 ||arkadium.com^
@@ -1466,6 +1467,7 @@
 ||tanukisunsetgame.github.io^
 ||tb.caeland.ca^
 ||teamgames.club^
+||techgrapple.com^
 ||teddblue.github.io^
 ||teespure.github.io^
 ||temple-of-boom.gitlab.io^
