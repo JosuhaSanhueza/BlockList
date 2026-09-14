@@ -1370,3 +1370,11 @@ slapbattlesgame
 playminecraftservers
 linerider
 drawastickman
+
+# --- Búsqueda: death run/jetski/kingdom rush/eaglercraft mirrors (6 confirmados), 2026-09-14 ---
+deathrun3d
+taproad
+jetskirace
+kinggames
+idleminingempire
+eaglercraftq13x

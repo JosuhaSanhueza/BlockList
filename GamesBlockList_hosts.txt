@@ -351,6 +351,7 @@
 0.0.0.0 dbtorrent.games
 0.0.0.0 deadastronauts.games
 0.0.0.0 deadshot.io
+0.0.0.0 deathrun3d.io
 0.0.0.0 deepnight.net
 0.0.0.0 defly.io
 0.0.0.0 delt.io
@@ -426,6 +427,7 @@
 0.0.0.0 eaglercraft.global.ssl.fastly.net
 0.0.0.0 eaglercraft.io
 0.0.0.0 eaglercraft.ir
+0.0.0.0 eaglercraft.q13x.com
 0.0.0.0 eaglercraft.tools
 0.0.0.0 eaglercraft.win
 0.0.0.0 eaglercraft1-8.github.io
@@ -794,6 +796,7 @@
 0.0.0.0 idle-dice.github.io
 0.0.0.0 idledice.github.io
 0.0.0.0 idlegames.win
+0.0.0.0 idleminingempire.github.io
 0.0.0.0 idolsofash.live
 0.0.0.0 igre.games
 0.0.0.0 ihackedgames.com
@@ -821,6 +824,7 @@
 0.0.0.0 jamesland.org
 0.0.0.0 jamir.io
 0.0.0.0 jerryshell.itch.io
+0.0.0.0 jetskirace.net
 0.0.0.0 jetspaz.com
 0.0.0.0 jetyehs.github.io
 0.0.0.0 jeux.fr
@@ -898,6 +902,7 @@
 0.0.0.0 kingdomarchitect.netlify.app
 0.0.0.0 kingdomofmarionettes.live
 0.0.0.0 kingdomrush.com
+0.0.0.0 kinggames.org
 0.0.0.0 kiomet.com
 0.0.0.0 kiwigames.fun
 0.0.0.0 kiwijuice56.itch.io
@@ -1467,6 +1472,7 @@
 0.0.0.0 tanktrouble4.com
 0.0.0.0 tanukisunsetgame.com
 0.0.0.0 tanukisunsetgame.github.io
+0.0.0.0 tap-road.github.io
 0.0.0.0 tb.caeland.ca
 0.0.0.0 teamgames.club
 0.0.0.0 techgrapple.com

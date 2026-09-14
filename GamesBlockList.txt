@@ -350,6 +350,7 @@
 ||dbtorrent.games^
 ||deadastronauts.games^
 ||deadshot.io^
+||deathrun3d.io^
 ||deepnight.net^
 ||defly.io^
 ||delt.io^
@@ -425,6 +426,7 @@
 ||eaglercraft.global.ssl.fastly.net^
 ||eaglercraft.io^
 ||eaglercraft.ir^
+||eaglercraft.q13x.com^
 ||eaglercraft.tools^
 ||eaglercraft.win^
 ||eaglercraft1-8.github.io^
@@ -793,6 +795,7 @@
 ||idle-dice.github.io^
 ||idledice.github.io^
 ||idlegames.win^
+||idleminingempire.github.io^
 ||idolsofash.live^
 ||igre.games^
 ||ihackedgames.com^
@@ -820,6 +823,7 @@
 ||jamesland.org^
 ||jamir.io^
 ||jerryshell.itch.io^
+||jetskirace.net^
 ||jetspaz.com^
 ||jetyehs.github.io^
 ||jeux.fr^
@@ -897,6 +901,7 @@
 ||kingdomarchitect.netlify.app^
 ||kingdomofmarionettes.live^
 ||kingdomrush.com^
+||kinggames.org^
 ||kiomet.com^
 ||kiwigames.fun^
 ||kiwijuice56.itch.io^
@@ -1466,6 +1471,7 @@
 ||tanktrouble4.com^
 ||tanukisunsetgame.com^
 ||tanukisunsetgame.github.io^
+||tap-road.github.io^
 ||tb.caeland.ca^
 ||teamgames.club^
 ||techgrapple.com^
