@@ -9,12 +9,13 @@
 ||1b.games^
 ||1games.com^
 ||1games.io^
+||1v1-lol-online.bitbucket.io^
 ||1v1-lol.cc^
 ||1v1lol-gg.github.io^
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
-||1v1lol.us^
 ||1v1lol.us.com^
+||1v1lol.us^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -316,11 +317,11 @@
 ||crazy-game.bitbucket.io^
 ||crazycargames.com^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com^
 ||crazygames.com.es^
+||crazygames.com^
 ||crazygames.gg^
-||crazygames.org^
 ||crazygames.org.es^
+||crazygames.org^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -379,6 +380,7 @@
 ||doodlejumponline.github.io^
 ||dragonawaken.com^
 ||dragonbound.net^
+||drawastickman.com^
 ||drawbattle.io^
 ||drawclimber.com^
 ||drawize.com^
@@ -409,8 +411,8 @@
 ||ducklife.gitlab.io^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com^
 ||eaglecraft.com.co^
+||eaglecraft.com^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eaglercraft-launcher.vexr.dev^
@@ -546,9 +548,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
-||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
+||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -693,8 +695,8 @@
 ||geometry.games^
 ||geometryarrow.io^
 ||geometrydash-pc.com^
-||geometrydash.com^
 ||geometrydash.com.mx^
+||geometrydash.com^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -920,6 +922,7 @@
 ||leveldevil.io^
 ||lichess.org^
 ||ligadegamers.com^
+||linerider.web.app^
 ||listamc.com^
 ||listamc.net^
 ||lite.3kh0.net^
@@ -1144,6 +1147,7 @@
 ||plantsvszombies.onl^
 ||plarium.com^
 ||play-games.com^
+||play-minecraft-servers.com^
 ||play-time-past.vercel.app^
 ||play.gilect.com^
 ||play123.com^
@@ -1310,11 +1314,6 @@
 ||silvergames.io^
 ||simulationgameso.com^
 ||sinistersquidward.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibiditoiletonline.github.io^
@@ -1324,6 +1323,7 @@
 ||skribbl.io^
 ||skribbl.org^
 ||skribblio.org^
+||slapbattlesgame.com^
 ||slice-master.io^
 ||slimekeyboardescape.com^
 ||slither.com^
@@ -1331,6 +1331,7 @@
 ||slithere.com^
 ||slithergame.io^
 ||slitherio.onl^
+||slitheriogame.io^
 ||slope-game-io.github.io^
 ||slope-online.github.io^
 ||slope-slope.github.io^
@@ -1648,6 +1649,7 @@
 ||yad.com^
 ||yandex.com^
 ||yandexgames.online^
+||yapgames.com^
 ||yee.pages.dev^
 ||yiv.com^
 ||ynrbsu.github.io^
@@ -1676,3 +1678,8 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/totalgameinn/*^

@@ -10,6 +10,7 @@
 0.0.0.0 1b.games
 0.0.0.0 1games.com
 0.0.0.0 1games.io
+0.0.0.0 1v1-lol-online.bitbucket.io
 0.0.0.0 1v1-lol.cc
 0.0.0.0 1v1lol-gg.github.io
 0.0.0.0 1v1lol-unblocked.bitbucket.io
@@ -380,6 +381,7 @@
 0.0.0.0 doodlejumponline.github.io
 0.0.0.0 dragonawaken.com
 0.0.0.0 dragonbound.net
+0.0.0.0 drawastickman.com
 0.0.0.0 drawbattle.io
 0.0.0.0 drawclimber.com
 0.0.0.0 drawize.com
@@ -921,6 +923,7 @@
 0.0.0.0 leveldevil.io
 0.0.0.0 lichess.org
 0.0.0.0 ligadegamers.com
+0.0.0.0 linerider.web.app
 0.0.0.0 listamc.com
 0.0.0.0 listamc.net
 0.0.0.0 lite.3kh0.net
@@ -1145,6 +1148,7 @@
 0.0.0.0 plantsvszombies.onl
 0.0.0.0 plarium.com
 0.0.0.0 play-games.com
+0.0.0.0 play-minecraft-servers.com
 0.0.0.0 play-time-past.vercel.app
 0.0.0.0 play.gilect.com
 0.0.0.0 play123.com
@@ -1320,6 +1324,7 @@
 0.0.0.0 skribbl.io
 0.0.0.0 skribbl.org
 0.0.0.0 skribblio.org
+0.0.0.0 slapbattlesgame.com
 0.0.0.0 slice-master.io
 0.0.0.0 slimekeyboardescape.com
 0.0.0.0 slither.com
@@ -1327,6 +1332,7 @@
 0.0.0.0 slithere.com
 0.0.0.0 slithergame.io
 0.0.0.0 slitherio.onl
+0.0.0.0 slitheriogame.io
 0.0.0.0 slope-game-io.github.io
 0.0.0.0 slope-online.github.io
 0.0.0.0 slope-slope.github.io
@@ -1644,6 +1650,7 @@
 0.0.0.0 yad.com
 0.0.0.0 yandex.com
 0.0.0.0 yandexgames.online
+0.0.0.0 yapgames.com
 0.0.0.0 yee.pages.dev
 0.0.0.0 yiv.com
 0.0.0.0 ynrbsu.github.io
