@@ -165,6 +165,7 @@
 ||bigfishgames.com^
 ||bikebrainrots.io^
 ||billiards.tailuge.workers.dev^
+||billybobgames.co.uk^
 ||bitlifegame.com^
 ||bitlifeunblockedonline.github.io^
 ||bizofgames.com^
@@ -231,6 +232,7 @@
 ||cdn-augames.github.io^
 ||cdn.games.juegos123.net^
 ||cdn.pomu.com^
+||celltosingularity.com^
 ||check-the-game.vercel.app^
 ||checkcps.com^
 ||checkergames.com^
@@ -266,6 +268,7 @@
 ||classrooms6x.gitlab.io^
 ||clavejuegos.com^
 ||cleverappssg.com^
+||clicker-games.com^
 ||clickergames.io^
 ||clickergamesaz.io^
 ||clickspeedtester.com^
@@ -357,6 +360,7 @@
 ||deadshot.io^
 ||deadzed.web.app^
 ||deathrun3d.io^
+||decentgames.co.uk^
 ||deepnight.net^
 ||defly.io^
 ||delt.io^
@@ -540,6 +544,7 @@
 ||freeinvaders.org^
 ||freemcserver.net^
 ||freeonlinegames.com^
+||freepapasgames.com^
 ||freetogame.com^
 ||freetypinggame.net^
 ||freewebarcade.com^
@@ -652,6 +657,7 @@
 ||gamenora-io.bitbucket.io^
 ||gamenora-vu.bitbucket.io^
 ||gamenora.com^
+||gamepakin.com^
 ||gamepix.com^
 ||gamepluto.com^
 ||gamerateofficial.weebly.com^
@@ -715,6 +721,7 @@
 ||geometrydashlite2.io^
 ||geometrydashlite22.io^
 ||geometrydashlitefree.com^
+||geometrydashmeltdown.io^
 ||geometrydashonline.com^
 ||geometrydashwave.com^
 ||geometrylitepc.com^
@@ -1107,6 +1114,7 @@
 ||opticraft.net^
 ||optijuegos.com^
 ||optijuegos.net^
+||orteil.dashnet.org^
 ||othermgwebsite.github.io^
 ||ottergames.org^
 ||ottomate.games^
@@ -1131,6 +1139,7 @@
 ||papagames.net^
 ||papas-arcade.com^
 ||papas-freezeria.io^
+||papas-games.com^
 ||papas-games.io^
 ||papasgames.fit^
 ||papasgamesfree.com^
@@ -1454,6 +1463,7 @@
 ||stickwarlegacy.io^
 ||stickwarsaga.io^
 ||stickypiston.co^
+||stormyskitten.github.io^
 ||strategygame.org^
 ||stumbleguys.com^
 ||subwaygame.bitbucket.io^
@@ -1697,6 +1707,7 @@
 ||zentic.org^
 ||zgames.com^
 ||zgames.io^
+||zihit.com^
 ||zlite.zatoga.net^
 ||zohair-racing-portfolio.vercel.app^
 ||zohoho.org^

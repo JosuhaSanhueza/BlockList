@@ -166,6 +166,7 @@
 0.0.0.0 bigfishgames.com
 0.0.0.0 bikebrainrots.io
 0.0.0.0 billiards.tailuge.workers.dev
+0.0.0.0 billybobgames.co.uk
 0.0.0.0 bitlifegame.com
 0.0.0.0 bitlifeunblockedonline.github.io
 0.0.0.0 bizofgames.com
@@ -232,6 +233,7 @@
 0.0.0.0 cdn-augames.github.io
 0.0.0.0 cdn.games.juegos123.net
 0.0.0.0 cdn.pomu.com
+0.0.0.0 celltosingularity.com
 0.0.0.0 check-the-game.vercel.app
 0.0.0.0 checkcps.com
 0.0.0.0 checkergames.com
@@ -267,6 +269,7 @@
 0.0.0.0 classrooms6x.gitlab.io
 0.0.0.0 clavejuegos.com
 0.0.0.0 cleverappssg.com
+0.0.0.0 clicker-games.com
 0.0.0.0 clickergames.io
 0.0.0.0 clickergamesaz.io
 0.0.0.0 clickspeedtester.com
@@ -358,6 +361,7 @@
 0.0.0.0 deadshot.io
 0.0.0.0 deadzed.web.app
 0.0.0.0 deathrun3d.io
+0.0.0.0 decentgames.co.uk
 0.0.0.0 deepnight.net
 0.0.0.0 defly.io
 0.0.0.0 delt.io
@@ -541,6 +545,7 @@
 0.0.0.0 freeinvaders.org
 0.0.0.0 freemcserver.net
 0.0.0.0 freeonlinegames.com
+0.0.0.0 freepapasgames.com
 0.0.0.0 freetogame.com
 0.0.0.0 freetypinggame.net
 0.0.0.0 freewebarcade.com
@@ -653,6 +658,7 @@
 0.0.0.0 gamenora-io.bitbucket.io
 0.0.0.0 gamenora-vu.bitbucket.io
 0.0.0.0 gamenora.com
+0.0.0.0 gamepakin.com
 0.0.0.0 gamepix.com
 0.0.0.0 gamepluto.com
 0.0.0.0 gamerateofficial.weebly.com
@@ -716,6 +722,7 @@
 0.0.0.0 geometrydashlite2.io
 0.0.0.0 geometrydashlite22.io
 0.0.0.0 geometrydashlitefree.com
+0.0.0.0 geometrydashmeltdown.io
 0.0.0.0 geometrydashonline.com
 0.0.0.0 geometrydashwave.com
 0.0.0.0 geometrylitepc.com
@@ -1108,6 +1115,7 @@
 0.0.0.0 opticraft.net
 0.0.0.0 optijuegos.com
 0.0.0.0 optijuegos.net
+0.0.0.0 orteil.dashnet.org
 0.0.0.0 othermgwebsite.github.io
 0.0.0.0 ottergames.org
 0.0.0.0 ottomate.games
@@ -1132,6 +1140,7 @@
 0.0.0.0 papagames.net
 0.0.0.0 papas-arcade.com
 0.0.0.0 papas-freezeria.io
+0.0.0.0 papas-games.com
 0.0.0.0 papas-games.io
 0.0.0.0 papasgames.fit
 0.0.0.0 papasgamesfree.com
@@ -1455,6 +1464,7 @@
 0.0.0.0 stickwarlegacy.io
 0.0.0.0 stickwarsaga.io
 0.0.0.0 stickypiston.co
+0.0.0.0 stormyskitten.github.io
 0.0.0.0 strategygame.org
 0.0.0.0 stumbleguys.com
 0.0.0.0 subwaygame.bitbucket.io
@@ -1698,6 +1708,7 @@
 0.0.0.0 zentic.org
 0.0.0.0 zgames.com
 0.0.0.0 zgames.io
+0.0.0.0 zihit.com
 0.0.0.0 zlite.zatoga.net
 0.0.0.0 zohair-racing-portfolio.vercel.app
 0.0.0.0 zohoho.org
