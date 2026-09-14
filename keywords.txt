@@ -1717,3 +1717,8 @@ unblockgame
 vex7game
 wormax
 yellowbirdgames
+# --- Adiciones manuales: hidden objects, bad time simulator, dvadi, elgoog, 2026-09-14 ---
+juegosdeobjetosocultos
+badtimesimulator
+dvadi
+elgoog

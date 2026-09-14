@@ -143,6 +143,7 @@
 ||azgames.io^
 ||bad-ice-cream-unblocked.github.io^
 ||bad-icecream3.com^
+||bad-time-simulator.com^
 ||badparentingame.com^
 ||badparentingame.io^
 ||badtimesimulator.io^
@@ -516,6 +517,7 @@
 ||ducklife.app^
 ||ducklife.gitlab.io^
 ||ducklife4game.github.io^
+||dvadi.com^
 ||dynetisgames.com^
 ||eag.pages.dev^
 ||eaglecraft.com^
@@ -560,6 +562,7 @@
 ||eggy-car-unblocked.github.io^
 ||eggycar1.com^
 ||eggycarunblocked.org^
+||elgoog.eu^
 ||elgoog.im^
 ||ellieeet123.github.io^
 ||emojitest.com^
@@ -1046,6 +1049,7 @@
 ||juegosadn.es^
 ||juegosarea.com^
 ||juegosdechicas.com^
+||juegosdeobjetosocultos.com^
 ||juegosdiarios.com^
 ||juegosfriv-2020.com^
 ||juegosfriv.com^

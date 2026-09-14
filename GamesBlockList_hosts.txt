@@ -144,6 +144,7 @@
 0.0.0.0 azgames.io
 0.0.0.0 bad-ice-cream-unblocked.github.io
 0.0.0.0 bad-icecream3.com
+0.0.0.0 bad-time-simulator.com
 0.0.0.0 badparentingame.com
 0.0.0.0 badparentingame.io
 0.0.0.0 badtimesimulator.io
@@ -517,6 +518,7 @@
 0.0.0.0 ducklife.app
 0.0.0.0 ducklife.gitlab.io
 0.0.0.0 ducklife4game.github.io
+0.0.0.0 dvadi.com
 0.0.0.0 dynetisgames.com
 0.0.0.0 eag.pages.dev
 0.0.0.0 eaglecraft.com.co
@@ -561,6 +563,7 @@
 0.0.0.0 eggy-car-unblocked.github.io
 0.0.0.0 eggycar1.com
 0.0.0.0 eggycarunblocked.org
+0.0.0.0 elgoog.eu
 0.0.0.0 elgoog.im
 0.0.0.0 ellieeet123.github.io
 0.0.0.0 emojitest.com
@@ -1047,6 +1050,7 @@
 0.0.0.0 juegosadn.es
 0.0.0.0 juegosarea.com
 0.0.0.0 juegosdechicas.com
+0.0.0.0 juegosdeobjetosocultos.com
 0.0.0.0 juegosdiarios.com
 0.0.0.0 juegosfriv-2020.com
 0.0.0.0 juegosfriv.com
