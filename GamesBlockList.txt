@@ -558,6 +558,7 @@
 ||fridaynightfunkin-fnf.github.io^
 ||fridaynightfunkin-unblocked.github.io^
 ||fridaynightfunkin.app^
+||fridaynightfunkin.es^
 ||fridaynightfunkin.net^
 ||fridaynightfunkin.org^
 ||friendlyfiregame.com^
@@ -815,6 +816,7 @@
 ||idledice.github.io^
 ||idlegames.win^
 ||idleminingempire.github.io^
+||idolsofash.io^
 ||idolsofash.live^
 ||igre.games^
 ||ihackedgames.com^
@@ -1418,6 +1420,7 @@
 ||soccerrandom.io^
 ||solitaired.com^
 ||solitaires.com^
+||sorry-bob.org^
 ||sorrybob.io^
 ||spacewaves2.org^
 ||spades.co^

@@ -559,6 +559,7 @@
 0.0.0.0 fridaynightfunkin-fnf.github.io
 0.0.0.0 fridaynightfunkin-unblocked.github.io
 0.0.0.0 fridaynightfunkin.app
+0.0.0.0 fridaynightfunkin.es
 0.0.0.0 fridaynightfunkin.net
 0.0.0.0 fridaynightfunkin.org
 0.0.0.0 friendlyfiregame.com
@@ -816,6 +817,7 @@
 0.0.0.0 idledice.github.io
 0.0.0.0 idlegames.win
 0.0.0.0 idleminingempire.github.io
+0.0.0.0 idolsofash.io
 0.0.0.0 idolsofash.live
 0.0.0.0 igre.games
 0.0.0.0 ihackedgames.com
@@ -1419,6 +1421,7 @@
 0.0.0.0 soccerrandom.io
 0.0.0.0 solitaired.com
 0.0.0.0 solitaires.com
+0.0.0.0 sorry-bob.org
 0.0.0.0 sorrybob.io
 0.0.0.0 spacewaves2.org
 0.0.0.0 spades.co
