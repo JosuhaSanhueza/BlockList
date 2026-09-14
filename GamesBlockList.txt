@@ -131,6 +131,7 @@
 ||badparentingame.io^
 ||badtimesimulator.io^
 ||badtimesimulator.org^
+||bagelcomics.com^
 ||base44.app^
 ||baseball-bros.org^
 ||basket-random.bitbucket.io^
@@ -186,6 +187,8 @@
 ||booleet.itch.io^
 ||bored.com^
 ||boredomgames.pages.dev^
+||boxheadplay.com^
+||boxheadx.com^
 ||boxinggames.org^
 ||boxingrandom.net^
 ||brainking.com^
@@ -196,6 +199,7 @@
 ||breakbar.itch.io^
 ||breakplay.fun^
 ||browsergame-base.de^
+||bubblebox.com^
 ||bubbleshooteonline.github.io^
 ||bubbleshooter.net^
 ||buckshotroulette.com^
@@ -351,6 +355,7 @@
 ||dbtorrent.games^
 ||deadastronauts.games^
 ||deadshot.io^
+||deadzed.web.app^
 ||deathrun3d.io^
 ||deepnight.net^
 ||defly.io^
@@ -524,6 +529,7 @@
 ||freeciv.org^
 ||freecivweb.com^
 ||freedombrowser.org^
+||freefungames.dumbosdiary.com^
 ||freegame.com^
 ||freegames.com^
 ||freegames.io^
@@ -1038,6 +1044,7 @@
 ||mountain658.github.io^
 ||mountjustin.github.io^
 ||mousebreaker.com^
+||moyaimoment.github.io^
 ||msauth.net^
 ||msn-21.github.io^
 ||msn.com^
@@ -1390,6 +1397,7 @@
 ||snowrider.pro^
 ||snowrider3d.com^
 ||snowrider3d.pro^
+||snowridergame.io^
 ||soccer-random.net^
 ||soccer-randomx.github.io^
 ||soccerrandom.io^
@@ -1492,6 +1500,7 @@
 ||territorial.io^
 ||terrycavanaghgames.com^
 ||tetr.io^
+||the-pizza-editiongames.github.io^
 ||thefreakcircus.my^
 ||thegamecenter.github.io^
 ||thegamingnest.com^
