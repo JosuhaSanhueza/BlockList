@@ -15,8 +15,8 @@
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
 ||1v1lol.net^
-||1v1lol.us^
 ||1v1lol.us.com^
+||1v1lol.us^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -73,6 +73,7 @@
 ||aelienz.web.app^
 ||aeon-network.net^
 ||aflacck.itch.io^
+||afterplay.io^
 ||agame.com^
 ||agaonline.io^
 ||agar-io.com^
@@ -137,6 +138,7 @@
 ||atmegame.com^
 ||attic-byte.itch.io^
 ||atwar-game.com^
+||avandagame.com^
 ||axenthost.com^
 ||azagames.io^
 ||azenark.github.io^
@@ -248,6 +250,7 @@
 ||bubbleshooteonline.github.io^
 ||bubbleshooter.net^
 ||buckshotroulette.com^
+||buddyboardgames.com^
 ||buff.game^
 ||buildnow-gg.io^
 ||buildnow-gg.org^
@@ -400,11 +403,11 @@
 ||crazycattle3d.com^
 ||crazycattle3dgames.github.io^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com^
 ||crazygames.com.es^
+||crazygames.com^
 ||crazygames.gg^
-||crazygames.org^
 ||crazygames.org.es^
+||crazygames.org^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -521,8 +524,8 @@
 ||dvadi.com^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com^
 ||eaglecraft.com.co^
+||eaglecraft.com^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eagler-craft.github.io^
@@ -693,9 +696,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
-||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
+||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -832,6 +835,7 @@
 ||gamezipper.com^
 ||gamezop.com^
 ||gaminglab.dev^
+||gamr.fun^
 ||gamui.com^
 ||gamulo.com^
 ||gartic.com^
@@ -860,8 +864,8 @@
 ||geometryarrow.io^
 ||geometrydash-lite.com^
 ||geometrydash-pc.com^
-||geometrydash.com^
 ||geometrydash.com.mx^
+||geometrydash.com^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -1077,6 +1081,7 @@
 ||juegosipo.com^
 ||juegosjuegos.com^
 ||juegosjuegos.ws^
+||juegossolitario.com^
 ||jugarmccomportal.base44.app^
 ||jumponly.io^
 ||just-fall.com^
@@ -1255,10 +1260,12 @@
 ||msngames.com^
 ||msngames.io^
 ||mudfield.io^
+||multiplayertrivia.com^
 ||mundijuegos.com^
 ||musicgames.io^
 ||my.games^
 ||myabandonware.com^
+||myemulator.onl^
 ||myfreegames.net^
 ||mymoneyrain.com^
 ||mytruko.com^
@@ -1519,6 +1526,7 @@
 ||retrogames.cc^
 ||retrogames.cz^
 ||retrogames.games^
+||retrogames.me^
 ||rivegames.com^
 ||roblox-unblock.github.io^
 ||robloxunblockedgames.github.io^
@@ -1674,6 +1682,7 @@
 ||solitairebliss.com^
 ||solitaired.com^
 ||solitaires.com^
+||solitar.io^
 ||sorry-bob.org^
 ||sorrybob.io^
 ||spacewaves2.org^
@@ -1807,8 +1816,8 @@
 ||threejs-games.github.io^
 ||tiny-fishing-online.github.io^
 ||tiny-fishing-unblock.github.io^
-||tinyfishing.co^
 ||tinyfishing.co.uk^
+||tinyfishing.co^
 ||tinyfishing.io^
 ||tinyfishing2.io^
 ||tinyplay.io^
@@ -1834,6 +1843,7 @@
 ||tops.games^
 ||topservers200.com^
 ||torket.io^
+||torofun.com^
 ||totaljerkface.com^
 ||tower.codealuxz.fr^
 ||trafficroad.io^
@@ -1842,6 +1852,7 @@
 ||trex-game.skipser.com^
 ||trex-runner.com^
 ||trickjoker312.github.io^
+||triviaroyale.io^
 ||trollquests.com^
 ||tsyuay.github.io^
 ||tubeclicker.io^
@@ -1951,6 +1962,7 @@
 ||vim-snake-navy.vercel.app^
 ||virlan.co^
 ||vitalitygames.com^
+||vitogame.com^
 ||viverse.com^
 ||vizzed.com^
 ||voltygames.com^
@@ -1988,6 +2000,7 @@
 ||wordleunlimitedfree.com^
 ||wordleunlimitedgame.org^
 ||wordlyplay.com^
+||wormate.io^
 ||wormax.org^
 ||worms.zone^
 ||wowubg.github.io^

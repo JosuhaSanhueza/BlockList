@@ -1722,3 +1722,16 @@ juegosdeobjetosocultos
 badtimesimulator
 dvadi
 elgoog
+# --- Búsqueda dirigida: portales generales, retro emuladores, solitario, trivia, io-games, 2026-09-15 ---
+afterplay
+avandagame
+buddyboardgames
+gamr
+juegossolitario
+multiplayertrivia
+myemulator
+solitar
+torofun
+triviaroyale
+vitogame
+wormate

@@ -74,6 +74,7 @@
 0.0.0.0 aelienz.web.app
 0.0.0.0 aeon-network.net
 0.0.0.0 aflacck.itch.io
+0.0.0.0 afterplay.io
 0.0.0.0 agame.com
 0.0.0.0 agaonline.io
 0.0.0.0 agar-io.com
@@ -138,6 +139,7 @@
 0.0.0.0 atmegame.com
 0.0.0.0 attic-byte.itch.io
 0.0.0.0 atwar-game.com
+0.0.0.0 avandagame.com
 0.0.0.0 axenthost.com
 0.0.0.0 azagames.io
 0.0.0.0 azenark.github.io
@@ -249,6 +251,7 @@
 0.0.0.0 bubbleshooteonline.github.io
 0.0.0.0 bubbleshooter.net
 0.0.0.0 buckshotroulette.com
+0.0.0.0 buddyboardgames.com
 0.0.0.0 buff.game
 0.0.0.0 buildnow-gg.io
 0.0.0.0 buildnow-gg.org
@@ -833,6 +836,7 @@
 0.0.0.0 gamezipper.com
 0.0.0.0 gamezop.com
 0.0.0.0 gaminglab.dev
+0.0.0.0 gamr.fun
 0.0.0.0 gamui.com
 0.0.0.0 gamulo.com
 0.0.0.0 gartic.com
@@ -1078,6 +1082,7 @@
 0.0.0.0 juegosipo.com
 0.0.0.0 juegosjuegos.com
 0.0.0.0 juegosjuegos.ws
+0.0.0.0 juegossolitario.com
 0.0.0.0 jugarmccomportal.base44.app
 0.0.0.0 jumponly.io
 0.0.0.0 just-fall.com
@@ -1256,10 +1261,12 @@
 0.0.0.0 msngames.com
 0.0.0.0 msngames.io
 0.0.0.0 mudfield.io
+0.0.0.0 multiplayertrivia.com
 0.0.0.0 mundijuegos.com
 0.0.0.0 musicgames.io
 0.0.0.0 my.games
 0.0.0.0 myabandonware.com
+0.0.0.0 myemulator.onl
 0.0.0.0 myfreegames.net
 0.0.0.0 mymoneyrain.com
 0.0.0.0 mytruko.com
@@ -1520,6 +1527,7 @@
 0.0.0.0 retrogames.cc
 0.0.0.0 retrogames.cz
 0.0.0.0 retrogames.games
+0.0.0.0 retrogames.me
 0.0.0.0 rivegames.com
 0.0.0.0 roblox-unblock.github.io
 0.0.0.0 robloxunblockedgames.github.io
@@ -1670,6 +1678,7 @@
 0.0.0.0 solitairebliss.com
 0.0.0.0 solitaired.com
 0.0.0.0 solitaires.com
+0.0.0.0 solitar.io
 0.0.0.0 sorry-bob.org
 0.0.0.0 sorrybob.io
 0.0.0.0 spacewaves2.org
@@ -1830,6 +1839,7 @@
 0.0.0.0 tops.games
 0.0.0.0 topservers200.com
 0.0.0.0 torket.io
+0.0.0.0 torofun.com
 0.0.0.0 totaljerkface.com
 0.0.0.0 tower.codealuxz.fr
 0.0.0.0 trafficroad.io
@@ -1838,6 +1848,7 @@
 0.0.0.0 trex-game.skipser.com
 0.0.0.0 trex-runner.com
 0.0.0.0 trickjoker312.github.io
+0.0.0.0 triviaroyale.io
 0.0.0.0 trollquests.com
 0.0.0.0 tsyuay.github.io
 0.0.0.0 tubeclicker.io
@@ -1947,6 +1958,7 @@
 0.0.0.0 vim-snake-navy.vercel.app
 0.0.0.0 virlan.co
 0.0.0.0 vitalitygames.com
+0.0.0.0 vitogame.com
 0.0.0.0 viverse.com
 0.0.0.0 vizzed.com
 0.0.0.0 voltygames.com
@@ -1984,6 +1996,7 @@
 0.0.0.0 wordleunlimitedfree.com
 0.0.0.0 wordleunlimitedgame.org
 0.0.0.0 wordlyplay.com
+0.0.0.0 wormate.io
 0.0.0.0 wormax.org
 0.0.0.0 worms.zone
 0.0.0.0 wowubg.github.io
