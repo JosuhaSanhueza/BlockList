@@ -394,6 +394,7 @@
 0.0.0.0 crazy-cattle-3d.bitbucket.io
 0.0.0.0 crazy-cattle3d.com
 0.0.0.0 crazy-game.bitbucket.io
+0.0.0.0 crazy-games.gitlab.io
 0.0.0.0 crazycargames.com
 0.0.0.0 crazycattle-3d-unblocked.github.io
 0.0.0.0 crazycattle.org
@@ -581,6 +582,7 @@
 0.0.0.0 escaperoad2.io
 0.0.0.0 escaperoad2d.io
 0.0.0.0 escaperoad3.io
+0.0.0.0 escaperoadcity2.com
 0.0.0.0 escaperoadcity2.io
 0.0.0.0 escaperoads.org
 0.0.0.0 escaperoadx.github.io
@@ -1394,6 +1396,7 @@
 0.0.0.0 play2048.org
 0.0.0.0 play67.github.io
 0.0.0.0 playable.game
+0.0.0.0 playables.games
 0.0.0.0 playbasketballbros.com
 0.0.0.0 playbloonstowerdefense.com
 0.0.0.0 playbrain.com
@@ -1483,6 +1486,7 @@
 0.0.0.0 raft-life.com
 0.0.0.0 raftlife.io
 0.0.0.0 ragdoll-archers.github.io
+0.0.0.0 ragdollarchers.com
 0.0.0.0 ragdollarchers.github.io
 0.0.0.0 ragdollarchers.io
 0.0.0.0 ragdollarchers2.io

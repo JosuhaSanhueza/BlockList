@@ -393,6 +393,7 @@
 ||crazy-cattle-3d.bitbucket.io^
 ||crazy-cattle3d.com^
 ||crazy-game.bitbucket.io^
+||crazy-games.gitlab.io^
 ||crazycargames.com^
 ||crazycattle-3d-unblocked.github.io^
 ||crazycattle.org^
@@ -580,6 +581,7 @@
 ||escaperoad2.io^
 ||escaperoad2d.io^
 ||escaperoad3.io^
+||escaperoadcity2.com^
 ||escaperoadcity2.io^
 ||escaperoads.org^
 ||escaperoadx.github.io^
@@ -1393,6 +1395,7 @@
 ||play2048.org^
 ||play67.github.io^
 ||playable.game^
+||playables.games^
 ||playbasketballbros.com^
 ||playbloonstowerdefense.com^
 ||playbrain.com^
@@ -1482,6 +1485,7 @@
 ||raft-life.com^
 ||raftlife.io^
 ||ragdoll-archers.github.io^
+||ragdollarchers.com^
 ||ragdollarchers.github.io^
 ||ragdollarchers.io^
 ||ragdollarchers2.io^
@@ -1581,6 +1585,11 @@
 ||silvergames.io^
 ||simulationgameso.com^
 ||sinistersquidward.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2027,8 +2036,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
