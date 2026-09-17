@@ -15,8 +15,8 @@
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
 ||1v1lol.net^
-||1v1lol.us.com^
 ||1v1lol.us^
+||1v1lol.us.com^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -231,6 +231,7 @@
 ||boxheadx.com^
 ||boxinggames.org^
 ||boxingrandom.net^
+||bplus-math.github.io^
 ||brain-lines.io^
 ||brainide.com^
 ||brainking.com^
@@ -403,11 +404,11 @@
 ||crazycattle3d.com^
 ||crazycattle3dgames.github.io^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com.es^
 ||crazygames.com^
+||crazygames.com.es^
 ||crazygames.gg^
-||crazygames.org.es^
 ||crazygames.org^
+||crazygames.org.es^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -524,8 +525,8 @@
 ||dvadi.com^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com.co^
 ||eaglecraft.com^
+||eaglecraft.com.co^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eagler-craft.github.io^
@@ -696,9 +697,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
+||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
-||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -864,8 +865,8 @@
 ||geometryarrow.io^
 ||geometrydash-lite.com^
 ||geometrydash-pc.com^
-||geometrydash.com.mx^
 ||geometrydash.com^
+||geometrydash.com.mx^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -1182,6 +1183,7 @@
 ||media.copero.com.ar^
 ||meegames.com^
 ||meeland.io^
+||megafunz.com^
 ||melonplayground.io^
 ||melonplaygroundgame.org^
 ||meowdoku.games^
@@ -1816,8 +1818,8 @@
 ||threejs-games.github.io^
 ||tiny-fishing-online.github.io^
 ||tiny-fishing-unblock.github.io^
-||tinyfishing.co.uk^
 ||tinyfishing.co^
+||tinyfishing.co.uk^
 ||tinyfishing.io^
 ||tinyfishing2.io^
 ||tinyplay.io^
@@ -1980,6 +1982,7 @@
 ||webmc.fun^
 ||webmulator.com^
 ||webretro.org^
+||websim.com^
 ||weeklyarcade.games^
 ||wellgames.com^
 ||weplayretro.games^

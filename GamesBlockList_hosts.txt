@@ -232,6 +232,7 @@
 0.0.0.0 boxheadx.com
 0.0.0.0 boxinggames.org
 0.0.0.0 boxingrandom.net
+0.0.0.0 bplus-math.github.io
 0.0.0.0 brain-lines.io
 0.0.0.0 brainide.com
 0.0.0.0 brainking.com
@@ -1183,6 +1184,7 @@
 0.0.0.0 media.copero.com.ar
 0.0.0.0 meegames.com
 0.0.0.0 meeland.io
+0.0.0.0 megafunz.com
 0.0.0.0 melonplayground.io
 0.0.0.0 melonplaygroundgame.org
 0.0.0.0 meowdoku.games
@@ -1976,6 +1978,7 @@
 0.0.0.0 webmc.fun
 0.0.0.0 webmulator.com
 0.0.0.0 webretro.org
+0.0.0.0 websim.com
 0.0.0.0 weeklyarcade.games
 0.0.0.0 wellgames.com
 0.0.0.0 weplayretro.games
