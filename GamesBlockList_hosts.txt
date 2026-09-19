@@ -900,6 +900,7 @@
 0.0.0.0 gnhustgames.org
 0.0.0.0 gobattle.io
 0.0.0.0 gogamego.io
+0.0.0.0 gogy.com
 0.0.0.0 gokarts.io
 0.0.0.0 golfhit.org
 0.0.0.0 golforbitgame.com
@@ -961,6 +962,7 @@
 0.0.0.0 hill-climb-racing.com
 0.0.0.0 holajuegos.com
 0.0.0.0 hole-io.com
+0.0.0.0 holeio.com
 0.0.0.0 holeonline.io
 0.0.0.0 hoodamath.com
 0.0.0.0 horrorgames.io
@@ -1110,6 +1112,7 @@
 0.0.0.0 kinggames.org
 0.0.0.0 kiomet.com
 0.0.0.0 kiwigames.fun
+0.0.0.0 kiwigames.io
 0.0.0.0 kiwijuice56.itch.io
 0.0.0.0 kiz10.com
 0.0.0.0 kiz10.org
@@ -1131,6 +1134,7 @@
 0.0.0.0 lagged-io.bitbucket.io
 0.0.0.0 lagged.com
 0.0.0.0 lastline.011203.xyz
+0.0.0.0 lazygames.io
 0.0.0.0 legionsdk.com
 0.0.0.0 leveldevil.io
 0.0.0.0 lichess.org

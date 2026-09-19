@@ -899,6 +899,7 @@
 ||gnhustgames.org^
 ||gobattle.io^
 ||gogamego.io^
+||gogy.com^
 ||gokarts.io^
 ||golfhit.org^
 ||golforbitgame.com^
@@ -960,6 +961,7 @@
 ||hill-climb-racing.com^
 ||holajuegos.com^
 ||hole-io.com^
+||holeio.com^
 ||holeonline.io^
 ||hoodamath.com^
 ||horrorgames.io^
@@ -1109,6 +1111,7 @@
 ||kinggames.org^
 ||kiomet.com^
 ||kiwigames.fun^
+||kiwigames.io^
 ||kiwijuice56.itch.io^
 ||kiz10.com^
 ||kiz10.org^
@@ -1130,6 +1133,7 @@
 ||lagged-io.bitbucket.io^
 ||lagged.com^
 ||lastline.011203.xyz^
+||lazygames.io^
 ||legionsdk.com^
 ||leveldevil.io^
 ||lichess.org^
