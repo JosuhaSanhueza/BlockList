@@ -276,6 +276,7 @@
 0.0.0.0 capybaragame.io
 0.0.0.0 caraccio.itch.io
 0.0.0.0 cardgames.io
+0.0.0.0 career-sim.pages.dev
 0.0.0.0 cargames.com
 0.0.0.0 cargames.gg
 0.0.0.0 cargamesunblocked.gitlab.io

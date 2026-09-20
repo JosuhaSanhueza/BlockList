@@ -275,6 +275,7 @@
 ||capybaragame.io^
 ||caraccio.itch.io^
 ||cardgames.io^
+||career-sim.pages.dev^
 ||cargames.com^
 ||cargames.gg^
 ||cargamesunblocked.gitlab.io^
