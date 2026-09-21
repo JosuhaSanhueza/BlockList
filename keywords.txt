@@ -1735,3 +1735,15 @@ torofun
 triviaroyale
 vitogame
 wormate
+
+# --- Búsqueda dirigida: sudoku, crucigramas, juegos de mesa/chicas (2026-09-21) ---
+websudoku
+247sudoku
+sudoku100
+mindgames
+juegosxachicas
+7juegos
+sudokugames
+freepuzzles
+bestcrosswords
+memorymatching

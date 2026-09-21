@@ -25,6 +25,7 @@
 0.0.0.0 2048tetris.com
 0.0.0.0 2048unblocked.github.io
 0.0.0.0 247games.com
+0.0.0.0 247sudoku.com
 0.0.0.0 2v2.io
 0.0.0.0 2v2io.io
 0.0.0.0 3kh0.github.io
@@ -52,6 +53,7 @@
 0.0.0.0 75kh0.github.io
 0.0.0.0 76-games.bitbucket.io
 0.0.0.0 76unblockedgamesonline.github.io
+0.0.0.0 7juegos.es
 0.0.0.0 7x.games
 0.0.0.0 8ballpoolonline.gitlab.io
 0.0.0.0 8ballpoolunblocked.gitlab.io
@@ -181,6 +183,7 @@
 0.0.0.0 bee.games
 0.0.0.0 bemuse.ninja
 0.0.0.0 bestcrazygames.com
+0.0.0.0 bestcrosswords.com
 0.0.0.0 bestgames.com
 0.0.0.0 bestminecraftserverlist.net
 0.0.0.0 bestofgooglesites.com
@@ -678,6 +681,7 @@
 0.0.0.0 freemcserver.net
 0.0.0.0 freeonlinegames.com
 0.0.0.0 freepapasgames.com
+0.0.0.0 freepuzzles.net
 0.0.0.0 freesolitaire.com
 0.0.0.0 freetetris.org
 0.0.0.0 freetogame.com
@@ -1088,6 +1092,7 @@
 0.0.0.0 juegosjuegos.com
 0.0.0.0 juegosjuegos.ws
 0.0.0.0 juegossolitario.com
+0.0.0.0 juegosxachicas.com
 0.0.0.0 jugarmccomportal.base44.app
 0.0.0.0 jumponly.io
 0.0.0.0 just-fall.com
@@ -1193,12 +1198,14 @@
 0.0.0.0 megafunz.com
 0.0.0.0 melonplayground.io
 0.0.0.0 melonplaygroundgame.org
+0.0.0.0 memorymatching.com
 0.0.0.0 meowdoku.games
 0.0.0.0 mergecakegame.com
 0.0.0.0 messcraft.ovh
 0.0.0.0 mgalternative.github.io
 0.0.0.0 mgg658.github.io
 0.0.0.0 mimshacks.com
+0.0.0.0 mindgames.com
 0.0.0.0 mindustrygame.github.io
 0.0.0.0 mine-craft.io
 0.0.0.0 minecraft-eaglercraft.github.io
@@ -1759,6 +1766,8 @@
 0.0.0.0 subwaysurfersonline.com
 0.0.0.0 subwaysurfersonline.es
 0.0.0.0 subwaysurfersunblocked.org
+0.0.0.0 sudoku100.com
+0.0.0.0 sudokugames.org
 0.0.0.0 sugarshock.io
 0.0.0.0 suite.saltyspamz.xyz
 0.0.0.0 sunfs.app
@@ -1985,6 +1994,7 @@
 0.0.0.0 webmulator.com
 0.0.0.0 webretro.org
 0.0.0.0 websim.com
+0.0.0.0 websudoku.com
 0.0.0.0 weeklyarcade.games
 0.0.0.0 wellgames.com
 0.0.0.0 weplayretro.games

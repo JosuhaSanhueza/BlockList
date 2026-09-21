@@ -110,6 +110,9 @@ WHITELIST = {
     "tablasdemultiplicar.com", "tablas-multiplicar.com", "vedoque.com",
     "velocidactil.es", "typing.com", "dibujosparacolorearte.com", "freefocusgames.com",
     "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com", "blockly.games",
+    # Framing inequívoco de "cognitive fitness"/entrenamiento cerebral clínico, no
+    # entretenimiento casual (detectado 2026-09-21).
+    "memorygames.net",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
