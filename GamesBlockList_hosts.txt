@@ -998,6 +998,7 @@
 0.0.0.0 ihackedgames.com
 0.0.0.0 imagineisland.game
 0.0.0.0 img.poki-cdn.com
+0.0.0.0 imigames.com
 0.0.0.0 imigames.io
 0.0.0.0 impossiblequiz.net
 0.0.0.0 impostor.io

@@ -997,6 +997,7 @@
 ||ihackedgames.com^
 ||imagineisland.game^
 ||img.poki-cdn.com^
+||imigames.com^
 ||imigames.io^
 ||impossiblequiz.net^
 ||impostor.io^
