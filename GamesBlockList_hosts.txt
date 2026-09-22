@@ -1641,6 +1641,8 @@
 0.0.0.0 slope3unblocked.github.io
 0.0.0.0 slope911.com
 0.0.0.0 slopecom.com
+0.0.0.0 slopefree.com
+0.0.0.0 slopefree.io
 0.0.0.0 slopefree.org
 0.0.0.0 slopegame-online.com
 0.0.0.0 slopegame.io
@@ -1689,6 +1691,7 @@
 0.0.0.0 soccerbrosgame.com
 0.0.0.0 soccerrandom.io
 0.0.0.0 soflo-wheelielife.github.io
+0.0.0.0 solitaire.game
 0.0.0.0 solitaire.org
 0.0.0.0 solitairebliss.com
 0.0.0.0 solitaired.com

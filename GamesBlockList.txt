@@ -1645,6 +1645,8 @@
 ||slope3unblocked.github.io^
 ||slope911.com^
 ||slopecom.com^
+||slopefree.com^
+||slopefree.io^
 ||slopefree.org^
 ||slopegame-online.com^
 ||slopegame.io^
@@ -1693,6 +1695,7 @@
 ||soccerbrosgame.com^
 ||soccerrandom.io^
 ||soflo-wheelielife.github.io^
+||solitaire.game^
 ||solitaire.org^
 ||solitairebliss.com^
 ||solitaired.com^
