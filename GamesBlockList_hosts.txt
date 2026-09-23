@@ -832,6 +832,7 @@
 0.0.0.0 gameslol.net
 0.0.0.0 gamesnacks.com
 0.0.0.0 gamesonly.com
+0.0.0.0 gamesroid.com
 0.0.0.0 gamestoday.org
 0.0.0.0 gamesunblocked.gitlab.io
 0.0.0.0 gamesunblocked.io
@@ -1924,6 +1925,7 @@
 0.0.0.0 unblockedgames.techgrapple.com
 0.0.0.0 unblockedgames66.gitlab.io
 0.0.0.0 unblockedgames66.org
+0.0.0.0 unblockedgames67.com
 0.0.0.0 unblockedgames67.gitlab.io
 0.0.0.0 unblockedgames6x.bitbucket.io
 0.0.0.0 unblockedgames76.com

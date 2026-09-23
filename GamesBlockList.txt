@@ -831,6 +831,7 @@
 ||gameslol.net^
 ||gamesnacks.com^
 ||gamesonly.com^
+||gamesroid.com^
 ||gamestoday.org^
 ||gamesunblocked.gitlab.io^
 ||gamesunblocked.io^
@@ -1928,6 +1929,7 @@
 ||unblockedgames.techgrapple.com^
 ||unblockedgames66.gitlab.io^
 ||unblockedgames66.org^
+||unblockedgames67.com^
 ||unblockedgames67.gitlab.io^
 ||unblockedgames6x.bitbucket.io^
 ||unblockedgames76.com^
