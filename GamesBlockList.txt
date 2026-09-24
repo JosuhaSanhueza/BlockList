@@ -28,6 +28,7 @@
 ||2v2.io^
 ||2v2io.io^
 ||3kh0.github.io^
+||3xpsmjs.pages.dev^
 ||40servidoresmc.es^
 ||4gameground.com^
 ||4j.com^
@@ -36,6 +37,7 @@
 ||5dd2c5c4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com^
 ||5dd312fa-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com^
 ||5kh0.github.io^
+||64ordle.pages.dev^
 ||658658658.github.io^
 ||66-ez.gitlab.io^
 ||66games.io^
@@ -621,6 +623,7 @@
 ||fivenightsatfreddys.com^
 ||fivenightsatfreddysgame.com^
 ||fivenightsatfreddysgame.io^
+||fivestarontop.pages.dev^
 ||fizzerz.com^
 ||flappy-bird.uk^
 ||flappybird.io^
@@ -1231,6 +1234,7 @@
 ||mineplay.com^
 ||mineplay.io^
 ||minerank.com^
+||minesweeper-google.pages.dev^
 ||miniblox.io^
 ||minigamesville.com^
 ||minigolfclub.io^
@@ -1320,6 +1324,7 @@
 ||nowgg.me^
 ||null-x-team.github.io^
 ||numuki.com^
+||octordlewordle.pages.dev^
 ||oddgames.uk^
 ||ofogames.com^
 ||oh-hell-mu.vercel.app^
@@ -1721,6 +1726,7 @@
 ||sprunkin.com^
 ||sprunky.org^
 ||spunky.games^
+||squaresgame.pages.dev^
 ||squid-game.pro^
 ||srunners.com^
 ||stabfish.io^
@@ -2004,6 +2010,7 @@
 ||webretro.org^
 ||websim.com^
 ||websudoku.com^
+||websudoku.pages.dev^
 ||weeklyarcade.games^
 ||wellgames.com^
 ||weplayretro.games^
@@ -2024,6 +2031,7 @@
 ||wordleunlimitedfree.com^
 ||wordleunlimitedgame.org^
 ||wordlyplay.com^
+||worldlegame.pages.dev^
 ||wormate.io^
 ||wormax.org^
 ||worms.zone^

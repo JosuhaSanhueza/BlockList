@@ -29,6 +29,7 @@
 0.0.0.0 2v2.io
 0.0.0.0 2v2io.io
 0.0.0.0 3kh0.github.io
+0.0.0.0 3xpsmjs.pages.dev
 0.0.0.0 40servidoresmc.es
 0.0.0.0 4gameground.com
 0.0.0.0 4j.com
@@ -37,6 +38,7 @@
 0.0.0.0 5dd2c5c4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
 0.0.0.0 5dd312fa-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
 0.0.0.0 5kh0.github.io
+0.0.0.0 64ordle.pages.dev
 0.0.0.0 658658658.github.io
 0.0.0.0 66-ez.gitlab.io
 0.0.0.0 66games.io
@@ -622,6 +624,7 @@
 0.0.0.0 fivenightsatfreddys.com
 0.0.0.0 fivenightsatfreddysgame.com
 0.0.0.0 fivenightsatfreddysgame.io
+0.0.0.0 fivestarontop.pages.dev
 0.0.0.0 fizzerz.com
 0.0.0.0 flappy-bird.uk
 0.0.0.0 flappybird.io
@@ -1232,6 +1235,7 @@
 0.0.0.0 mineplay.com
 0.0.0.0 mineplay.io
 0.0.0.0 minerank.com
+0.0.0.0 minesweeper-google.pages.dev
 0.0.0.0 miniblox.io
 0.0.0.0 minigamesville.com
 0.0.0.0 minigolfclub.io
@@ -1321,6 +1325,7 @@
 0.0.0.0 nowgg.me
 0.0.0.0 null-x-team.github.io
 0.0.0.0 numuki.com
+0.0.0.0 octordlewordle.pages.dev
 0.0.0.0 oddgames.uk
 0.0.0.0 ofogames.com
 0.0.0.0 oh-hell-mu.vercel.app
@@ -1717,6 +1722,7 @@
 0.0.0.0 sprunkin.com
 0.0.0.0 sprunky.org
 0.0.0.0 spunky.games
+0.0.0.0 squaresgame.pages.dev
 0.0.0.0 squid-game.pro
 0.0.0.0 srunners.com
 0.0.0.0 stabfish.io
@@ -2000,6 +2006,7 @@
 0.0.0.0 webretro.org
 0.0.0.0 websim.com
 0.0.0.0 websudoku.com
+0.0.0.0 websudoku.pages.dev
 0.0.0.0 weeklyarcade.games
 0.0.0.0 wellgames.com
 0.0.0.0 weplayretro.games
@@ -2020,6 +2027,7 @@
 0.0.0.0 wordleunlimitedfree.com
 0.0.0.0 wordleunlimitedgame.org
 0.0.0.0 wordlyplay.com
+0.0.0.0 worldlegame.pages.dev
 0.0.0.0 wormate.io
 0.0.0.0 wormax.org
 0.0.0.0 worms.zone
