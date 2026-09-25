@@ -2086,3 +2086,13 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||maggico-casino.com^
+||etsy.com^
+||spendtheirmoney.com^
+||trollgames.io^
+||chewbacan.itch.io^
+||scratch.mit.edu^
+||thejumpingdino.com^
+||temucosexshop.cl^$important
+||lifeskillsprogram.net^
+||culga.com^
