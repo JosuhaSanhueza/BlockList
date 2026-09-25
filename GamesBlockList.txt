@@ -229,6 +229,7 @@
 ||bonk-io.com^
 ||booleet.itch.io^
 ||bored.com^
+||boredomgames.com^
 ||boredomgames.pages.dev^
 ||bounceball.co^
 ||bouncybasketball.com^
@@ -1337,6 +1338,7 @@
 ||onlinegames.net^
 ||onlinequicktool.com^
 ||ooooooooo.ooo^
+||op.game^
 ||opium-games.com^
 ||opticraft.net^
 ||optijuegos.com^
@@ -1509,6 +1511,7 @@
 ||quake-io.com^
 ||quantum-backrooms.vercel.app^
 ||quickflashgames.com^
+||quordle.game^
 ||racinglimits.net^
 ||raft-life.com^
 ||raftlife.io^
@@ -1612,6 +1615,7 @@
 ||sigmally.com^
 ||silvergames.com^
 ||silvergames.io^
+||simple.game^
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com/*/games/*^
@@ -1690,6 +1694,7 @@
 ||snow-rider-3d.bitbucket.io^
 ||snow-rider-beta.vercel.app^
 ||snow-rider3d.io^
+||snowrider.game^
 ||snowrider.org^
 ||snowrider.pro^
 ||snowrider3d-online.gitlab.io^

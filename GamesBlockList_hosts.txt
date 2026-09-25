@@ -230,6 +230,7 @@
 0.0.0.0 bonk-io.com
 0.0.0.0 booleet.itch.io
 0.0.0.0 bored.com
+0.0.0.0 boredomgames.com
 0.0.0.0 boredomgames.pages.dev
 0.0.0.0 bounceball.co
 0.0.0.0 bouncybasketball.com
@@ -1338,6 +1339,7 @@
 0.0.0.0 onlinegames.net
 0.0.0.0 onlinequicktool.com
 0.0.0.0 ooooooooo.ooo
+0.0.0.0 op.game
 0.0.0.0 opium-games.com
 0.0.0.0 opticraft.net
 0.0.0.0 optijuegos.com
@@ -1510,6 +1512,7 @@
 0.0.0.0 quake-io.com
 0.0.0.0 quantum-backrooms.vercel.app
 0.0.0.0 quickflashgames.com
+0.0.0.0 quordle.game
 0.0.0.0 racinglimits.net
 0.0.0.0 raft-life.com
 0.0.0.0 raftlife.io
@@ -1613,6 +1616,7 @@
 0.0.0.0 sigmally.com
 0.0.0.0 silvergames.com
 0.0.0.0 silvergames.io
+0.0.0.0 simple.game
 0.0.0.0 simulationgameso.com
 0.0.0.0 sinistersquidward.com
 0.0.0.0 skap.nightly.pw
@@ -1686,6 +1690,7 @@
 0.0.0.0 snow-rider-3d.bitbucket.io
 0.0.0.0 snow-rider-beta.vercel.app
 0.0.0.0 snow-rider3d.io
+0.0.0.0 snowrider.game
 0.0.0.0 snowrider.org
 0.0.0.0 snowrider.pro
 0.0.0.0 snowrider3d-online.gitlab.io
