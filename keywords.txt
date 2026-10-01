@@ -1761,3 +1761,10 @@ dailygames
 buscaminaspro
 constructnet
 phaserio
+
+# --- Búsqueda dirigida: trivia/preguntados, alternativas a Poki/CrazyGames, portales "unblocked" (classroom4x) (2026-10-01) ---
+trivinet
+triviando
+easegame
+cozygame
+classroom4x

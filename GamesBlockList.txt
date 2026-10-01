@@ -324,6 +324,7 @@
 ||classroom-6x.io^
 ||classroom-games.github.io^
 ||classroom20x.com^
+||classroom4x.com^
 ||classroom6x-games.gitlab.io^
 ||classroom6x.gg^
 ||classroom6x.lol^
@@ -398,6 +399,7 @@
 ||corriscant.github.io^
 ||couchfriends.com^
 ||country-defense-bheng.vercel.app^
+||cozygame.io^
 ||cpsgames.org^
 ||cpstest.click^
 ||cpstest.net^
@@ -572,6 +574,7 @@
 ||eaglercraftx1-8.pages.dev^
 ||eaglercraftz.pages.dev^
 ||eaglerforge.github.io^
+||easegame.com^
 ||easyfun.gg^
 ||edgesuite.net^
 ||edslap.com^
@@ -1898,7 +1901,9 @@
 ||trex-game.skipser.com^
 ||trex-runner.com^
 ||trickjoker312.github.io^
+||triviando.com^
 ||triviaroyale.io^
+||trivinet.com^
 ||trollgames.io^
 ||trollquests.com^
 ||tsyuay.github.io^

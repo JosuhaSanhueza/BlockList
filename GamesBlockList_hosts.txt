@@ -325,6 +325,7 @@
 0.0.0.0 classroom-6x.io
 0.0.0.0 classroom-games.github.io
 0.0.0.0 classroom20x.com
+0.0.0.0 classroom4x.com
 0.0.0.0 classroom6x-games.gitlab.io
 0.0.0.0 classroom6x.gg
 0.0.0.0 classroom6x.lol
@@ -399,6 +400,7 @@
 0.0.0.0 corriscant.github.io
 0.0.0.0 couchfriends.com
 0.0.0.0 country-defense-bheng.vercel.app
+0.0.0.0 cozygame.io
 0.0.0.0 cpsgames.org
 0.0.0.0 cpstest.click
 0.0.0.0 cpstest.net
@@ -573,6 +575,7 @@
 0.0.0.0 eaglercraftx1-8.pages.dev
 0.0.0.0 eaglercraftz.pages.dev
 0.0.0.0 eaglerforge.github.io
+0.0.0.0 easegame.com
 0.0.0.0 easyfun.gg
 0.0.0.0 edgesuite.net
 0.0.0.0 edslap.com
@@ -1899,7 +1902,9 @@
 0.0.0.0 trex-game.skipser.com
 0.0.0.0 trex-runner.com
 0.0.0.0 trickjoker312.github.io
+0.0.0.0 triviando.com
 0.0.0.0 triviaroyale.io
+0.0.0.0 trivinet.com
 0.0.0.0 trollgames.io
 0.0.0.0 trollquests.com
 0.0.0.0 tsyuay.github.io
