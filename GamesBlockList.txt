@@ -271,6 +271,7 @@
 ||burritobison.org^
 ||burritobisononline.gitlab.io^
 ||burritobisonrevenge.github.io^
+||buscaminas-pro.com^
 ||c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com^
 ||calcsolver.net^
 ||calculatorforyou.online^
@@ -299,6 +300,7 @@
 ||checkcps.com^
 ||checkergames.com^
 ||chess.com^
+||chewbacan.itch.io^
 ||chickenclicker.io^
 ||chickenmerge.com^
 ||chihuahuagames.com^
@@ -364,6 +366,7 @@
 ||congusbongus.itch.io^
 ||connectionsgamefree.com^
 ||consto.uk^
+||construct.net^
 ||cookie-clicker-game.gitlab.io^
 ||cookie-clicker.co.uk^
 ||cookie-clicker2.com^
@@ -434,6 +437,7 @@
 ||crossyroadonline.bitbucket.io^
 ||cryzen.io^
 ||cubecraft.net^
+||culga.com^
 ||cursorball.onrender.com^
 ||curvefever.pro^
 ||cut-the-rope.org^
@@ -444,6 +448,7 @@
 ||cxong.github.io^
 ||d11jzht7mj96rr.cloudfront.net^
 ||d1tmbzjih4bfq6.cloudfront.net^
+||dailygames.discover.google.com^
 ||danthemanonline.com^
 ||danygames.com^
 ||dashmetry.com^
@@ -599,6 +604,7 @@
 ||escaperoads.org^
 ||escaperoadx.github.io^
 ||essential.gg^
+||etsy.com^
 ||eu.org^
 ||experimonkey.com^
 ||eyebrow-tetris.sanderdesnaijer.com^
@@ -919,6 +925,7 @@
 ||golforbitgame.com^
 ||gomestable.netlify.app^
 ||goodoldtetris.com^
+||google-doodles.appspot.com^
 ||googlehosted.com^
 ||googlesnake.gitlab.io^
 ||googlesnake.org^
@@ -946,6 +953,7 @@
 ||grow-agarden.io^
 ||growden.io^
 ||grrd.ch^
+||gs.pop-sa-saw1-r.pop.cloud.doodles.goog^
 ||gswitch.org^
 ||gswitch3.github.io^
 ||gt2048.com^
@@ -1153,6 +1161,7 @@
 ||legionsdk.com^
 ||leveldevil.io^
 ||lichess.org^
+||lifeskillsprogram.net^
 ||ligadegamers.com^
 ||line-rider.org^
 ||linerider.web.app^
@@ -1179,6 +1188,7 @@
 ||mafa.com^
 ||mafiakill.com^
 ||magbei.com^
+||maggico-casino.com^
 ||mahjong.com^
 ||makeitmeme.com^
 ||manablade.com^
@@ -1404,6 +1414,7 @@
 ||penaltyshooters.gitlab.io^
 ||penaltyshooters.io^
 ||petezahgames.com^
+||phaser.io^
 ||physicsgames.net^
 ||picklekid31.github.io^
 ||pingponggo.com^
@@ -1623,11 +1634,6 @@
 ||simple.game^
 ||simulationgameso.com^
 ||sinistersquidward.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -1725,6 +1731,7 @@
 ||speedstarsgame.io^
 ||speedstarsonline.io^
 ||speedstarsunblocked.net^
+||spendtheirmoney.com^
 ||spiele-kostenlos-online.de^
 ||spinhook.ir^
 ||splix.io^
@@ -1842,6 +1849,7 @@
 ||thegamingnest.com^
 ||theheadsoccerunblocked.com^
 ||theimpossiblequiz-online.github.io^
+||thejumpingdino.com^
 ||theludos.com^
 ||thepizzaedition-games.github.io^
 ||thepolytrackunblocked.org^
@@ -1891,6 +1899,7 @@
 ||trex-runner.com^
 ||trickjoker312.github.io^
 ||triviaroyale.io^
+||trollgames.io^
 ||trollquests.com^
 ||tsyuay.github.io^
 ||tubeclicker.io^
@@ -2092,11 +2101,8 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||maggico-casino.com^
-||etsy.com^
-||spendtheirmoney.com^
-||trollgames.io^
-||chewbacan.itch.io^
-||thejumpingdino.com^
-||lifeskillsprogram.net^
-||culga.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/totalgameinn/*^

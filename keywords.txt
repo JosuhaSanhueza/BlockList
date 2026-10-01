@@ -1754,3 +1754,10 @@ democraticchess
 freeidlegames
 rovingames
 towerward
+
+# --- Google Doodles/juegos diarios + buscaminas + motores de juego (construct/phaser), 2026-10-01 ---
+googledoodles
+dailygames
+buscaminaspro
+constructnet
+phaserio

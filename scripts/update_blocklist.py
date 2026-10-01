@@ -121,6 +121,7 @@ WHITELIST = {
 WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "eaglercraft.global.ssl.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
+    "dailygames.discover.google.com",
 }
 
 # CDNs / Infraestructura crítica que NUNCA debemos bloquear al escanear iframe o CDNs embebidos

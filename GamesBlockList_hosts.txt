@@ -272,6 +272,7 @@
 0.0.0.0 burritobison.org
 0.0.0.0 burritobisononline.gitlab.io
 0.0.0.0 burritobisonrevenge.github.io
+0.0.0.0 buscaminas-pro.com
 0.0.0.0 c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com
 0.0.0.0 calcsolver.net
 0.0.0.0 calculatorforyou.online
@@ -366,6 +367,7 @@
 0.0.0.0 congusbongus.itch.io
 0.0.0.0 connectionsgamefree.com
 0.0.0.0 consto.uk
+0.0.0.0 construct.net
 0.0.0.0 cookie-clicker-game.gitlab.io
 0.0.0.0 cookie-clicker.co.uk
 0.0.0.0 cookie-clicker2.com
@@ -447,6 +449,7 @@
 0.0.0.0 cxong.github.io
 0.0.0.0 d11jzht7mj96rr.cloudfront.net
 0.0.0.0 d1tmbzjih4bfq6.cloudfront.net
+0.0.0.0 dailygames.discover.google.com
 0.0.0.0 danthemanonline.com
 0.0.0.0 danygames.com
 0.0.0.0 dashmetry.com
@@ -923,6 +926,7 @@
 0.0.0.0 golforbitgame.com
 0.0.0.0 gomestable.netlify.app
 0.0.0.0 goodoldtetris.com
+0.0.0.0 google-doodles.appspot.com
 0.0.0.0 googlehosted.com
 0.0.0.0 googlesnake.gitlab.io
 0.0.0.0 googlesnake.org
@@ -950,6 +954,7 @@
 0.0.0.0 grow-agarden.io
 0.0.0.0 growden.io
 0.0.0.0 grrd.ch
+0.0.0.0 gs.pop-sa-saw1-r.pop.cloud.doodles.goog
 0.0.0.0 gswitch.org
 0.0.0.0 gswitch3.github.io
 0.0.0.0 gt2048.com
@@ -1410,6 +1415,7 @@
 0.0.0.0 penaltyshooters.gitlab.io
 0.0.0.0 penaltyshooters.io
 0.0.0.0 petezahgames.com
+0.0.0.0 phaser.io
 0.0.0.0 physicsgames.net
 0.0.0.0 picklekid31.github.io
 0.0.0.0 pingponggo.com
