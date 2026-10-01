@@ -352,6 +352,7 @@
 ||clusterrush.com^
 ||clusterrushgame.com^
 ||cmug.gitlab.io^
+||coconutgames.com^
 ||codetorch.net^
 ||codyshack.pages.dev^
 ||coinops.pages.dev^
@@ -458,6 +459,7 @@
 ||defly.io^
 ||delt.io^
 ||demo.reldens.com^
+||democraticchess.com^
 ||detodojuegos.com^
 ||developers.rune.ai^
 ||deviltower.games^
@@ -680,6 +682,7 @@
 ||freegames9.com^
 ||freegamesonline.com^
 ||freegamesunblocked.net^
+||freeidlegames.com^
 ||freeinvaders.org^
 ||freemcserver.net^
 ||freeonlinegames.com^
@@ -763,6 +766,7 @@
 ||frvr.com^
 ||fuegoyagua.es^
 ||funbrain.com^
+||funclicker.app^
 ||funclicker.com^
 ||funclicker.games^
 ||funclicker.org^
@@ -1566,6 +1570,7 @@
 ||romsmania.games^
 ||rooftoprun.net^
 ||rossygames.github.io^
+||rovingames.com^
 ||royalarkgames.com^
 ||run-3.bitbucket.io^
 ||run3-game-unblocked.github.io^
@@ -1878,6 +1883,7 @@
 ||torofun.com^
 ||totaljerkface.com^
 ||tower.codealuxz.fr^
+||towerward.com^
 ||trafficroad.io^
 ||transformice.com^
 ||treeshateyou-game.com^
@@ -2091,8 +2097,6 @@
 ||spendtheirmoney.com^
 ||trollgames.io^
 ||chewbacan.itch.io^
-||scratch.mit.edu^
 ||thejumpingdino.com^
-||temucosexshop.cl^$important
 ||lifeskillsprogram.net^
 ||culga.com^

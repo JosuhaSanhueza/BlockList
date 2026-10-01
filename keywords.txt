@@ -1747,3 +1747,10 @@ sudokugames
 freepuzzles
 bestcrosswords
 memorymatching
+
+# --- Búsqueda dirigida: idle, tower defense, ajedrez, racing (2026-09-30) ---
+coconutgames
+democraticchess
+freeidlegames
+rovingames
+towerward

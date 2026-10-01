@@ -300,6 +300,7 @@
 0.0.0.0 checkcps.com
 0.0.0.0 checkergames.com
 0.0.0.0 chess.com
+0.0.0.0 chewbacan.itch.io
 0.0.0.0 chickenclicker.io
 0.0.0.0 chickenmerge.com
 0.0.0.0 chihuahuagames.com
@@ -353,6 +354,7 @@
 0.0.0.0 clusterrush.com
 0.0.0.0 clusterrushgame.com
 0.0.0.0 cmug.gitlab.io
+0.0.0.0 coconutgames.com
 0.0.0.0 codetorch.net
 0.0.0.0 codyshack.pages.dev
 0.0.0.0 coinops.pages.dev
@@ -434,6 +436,7 @@
 0.0.0.0 crossyroadonline.bitbucket.io
 0.0.0.0 cryzen.io
 0.0.0.0 cubecraft.net
+0.0.0.0 culga.com
 0.0.0.0 cursorball.onrender.com
 0.0.0.0 curvefever.pro
 0.0.0.0 cut-the-rope.org
@@ -459,6 +462,7 @@
 0.0.0.0 defly.io
 0.0.0.0 delt.io
 0.0.0.0 demo.reldens.com
+0.0.0.0 democraticchess.com
 0.0.0.0 detodojuegos.com
 0.0.0.0 developers.rune.ai
 0.0.0.0 deviltower.games
@@ -598,6 +602,7 @@
 0.0.0.0 escaperoads.org
 0.0.0.0 escaperoadx.github.io
 0.0.0.0 essential.gg
+0.0.0.0 etsy.com
 0.0.0.0 eu.org
 0.0.0.0 experimonkey.com
 0.0.0.0 eyebrow-tetris.sanderdesnaijer.com
@@ -681,6 +686,7 @@
 0.0.0.0 freegames9.com
 0.0.0.0 freegamesonline.com
 0.0.0.0 freegamesunblocked.net
+0.0.0.0 freeidlegames.com
 0.0.0.0 freeinvaders.org
 0.0.0.0 freemcserver.net
 0.0.0.0 freeonlinegames.com
@@ -764,6 +770,7 @@
 0.0.0.0 frvr.com
 0.0.0.0 fuegoyagua.es
 0.0.0.0 funbrain.com
+0.0.0.0 funclicker.app
 0.0.0.0 funclicker.com
 0.0.0.0 funclicker.games
 0.0.0.0 funclicker.org
@@ -1150,6 +1157,7 @@
 0.0.0.0 legionsdk.com
 0.0.0.0 leveldevil.io
 0.0.0.0 lichess.org
+0.0.0.0 lifeskillsprogram.net
 0.0.0.0 ligadegamers.com
 0.0.0.0 line-rider.org
 0.0.0.0 linerider.web.app
@@ -1176,6 +1184,7 @@
 0.0.0.0 mafa.com
 0.0.0.0 mafiakill.com
 0.0.0.0 magbei.com
+0.0.0.0 maggico-casino.com
 0.0.0.0 mahjong.com
 0.0.0.0 makeitmeme.com
 0.0.0.0 manablade.com
@@ -1567,6 +1576,7 @@
 0.0.0.0 romsmania.games
 0.0.0.0 rooftoprun.net
 0.0.0.0 rossygames.github.io
+0.0.0.0 rovingames.com
 0.0.0.0 royalarkgames.com
 0.0.0.0 run-3.bitbucket.io
 0.0.0.0 run3-game-unblocked.github.io
@@ -1716,6 +1726,7 @@
 0.0.0.0 speedstarsgame.io
 0.0.0.0 speedstarsonline.io
 0.0.0.0 speedstarsunblocked.net
+0.0.0.0 spendtheirmoney.com
 0.0.0.0 spiele-kostenlos-online.de
 0.0.0.0 spinhook.ir
 0.0.0.0 splix.io
@@ -1833,6 +1844,7 @@
 0.0.0.0 thegamingnest.com
 0.0.0.0 theheadsoccerunblocked.com
 0.0.0.0 theimpossiblequiz-online.github.io
+0.0.0.0 thejumpingdino.com
 0.0.0.0 theludos.com
 0.0.0.0 thepizzaedition-games.github.io
 0.0.0.0 thepolytrackunblocked.org
@@ -1874,6 +1886,7 @@
 0.0.0.0 torofun.com
 0.0.0.0 totaljerkface.com
 0.0.0.0 tower.codealuxz.fr
+0.0.0.0 towerward.com
 0.0.0.0 trafficroad.io
 0.0.0.0 transformice.com
 0.0.0.0 treeshateyou-game.com
@@ -1881,6 +1894,7 @@
 0.0.0.0 trex-runner.com
 0.0.0.0 trickjoker312.github.io
 0.0.0.0 triviaroyale.io
+0.0.0.0 trollgames.io
 0.0.0.0 trollquests.com
 0.0.0.0 tsyuay.github.io
 0.0.0.0 tubeclicker.io
