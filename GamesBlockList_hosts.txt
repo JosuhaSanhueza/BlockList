@@ -16,6 +16,7 @@
 0.0.0.0 1v1lol-unblocked.bitbucket.io
 0.0.0.0 1v1lol.me
 0.0.0.0 1v1lol.net
+0.0.0.0 1v1lol.org
 0.0.0.0 1v1lol.us.com
 0.0.0.0 1v1lol.us
 0.0.0.0 1v1lolgames.org
@@ -179,6 +180,7 @@
 0.0.0.0 basketballstarsunblocked.vercel.app
 0.0.0.0 basketbros-game.github.io
 0.0.0.0 basketbros-unblocked.github.io
+0.0.0.0 basketrandom.com
 0.0.0.0 basketrandom.io
 0.0.0.0 battleon.com
 0.0.0.0 bearclicker.net
@@ -611,6 +613,7 @@
 0.0.0.0 essential.gg
 0.0.0.0 etsy.com
 0.0.0.0 eu.org
+0.0.0.0 evowars.io
 0.0.0.0 experimonkey.com
 0.0.0.0 eyebrow-tetris.sanderdesnaijer.com
 0.0.0.0 ezpzunblockedgames.com
@@ -705,6 +708,7 @@
 0.0.0.0 freetypinggame.net
 0.0.0.0 freewebarcade.com
 0.0.0.0 freewebgames.io
+0.0.0.0 freezenova-unblocked.github.io
 0.0.0.0 freezoneplay.com
 0.0.0.0 frev.info
 0.0.0.0 friclassic.online
@@ -1139,6 +1143,7 @@
 0.0.0.0 kingdomrush.com
 0.0.0.0 kinggames.org
 0.0.0.0 kiomet.com
+0.0.0.0 kirka.io
 0.0.0.0 kiwigames.fun
 0.0.0.0 kiwigames.io
 0.0.0.0 kiwijuice56.itch.io

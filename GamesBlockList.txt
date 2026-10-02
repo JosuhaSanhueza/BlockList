@@ -15,6 +15,7 @@
 ||1v1lol-unblocked.bitbucket.io^
 ||1v1lol.me^
 ||1v1lol.net^
+||1v1lol.org^
 ||1v1lol.us^
 ||1v1lol.us.com^
 ||1v1lolgames.org^
@@ -178,6 +179,7 @@
 ||basketballstarsunblocked.vercel.app^
 ||basketbros-game.github.io^
 ||basketbros-unblocked.github.io^
+||basketrandom.com^
 ||basketrandom.io^
 ||battleon.com^
 ||bearclicker.net^
@@ -610,6 +612,7 @@
 ||essential.gg^
 ||etsy.com^
 ||eu.org^
+||evowars.io^
 ||experimonkey.com^
 ||eyebrow-tetris.sanderdesnaijer.com^
 ||ezpzunblockedgames.com^
@@ -704,6 +707,7 @@
 ||freetypinggame.net^
 ||freewebarcade.com^
 ||freewebgames.io^
+||freezenova-unblocked.github.io^
 ||freezoneplay.com^
 ||frev.info^
 ||friclassic.online^
@@ -1138,6 +1142,7 @@
 ||kingdomrush.com^
 ||kinggames.org^
 ||kiomet.com^
+||kirka.io^
 ||kiwigames.fun^
 ||kiwigames.io^
 ||kiwijuice56.itch.io^

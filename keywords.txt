@@ -1768,3 +1768,8 @@ triviando
 easegame
 cozygame
 classroom4x
+
+# --- Búsqueda dirigida: artículos "top unblocked games"/alternativas Poki-Friv, GitHub topic eaglercraft (3 confirmados: kirka, evowars, freezenova), 2026-10-02 ---
+kirka
+evowars
+freezenova
