@@ -516,6 +516,7 @@
 0.0.0.0 driftboss.me
 0.0.0.0 driftboss3.io
 0.0.0.0 driftbossonline.bitbucket.io
+0.0.0.0 driftbossonline.com
 0.0.0.0 driftbossonline.github.io
 0.0.0.0 driftbossunblocked.io
 0.0.0.0 drifted.com
@@ -1232,6 +1233,7 @@
 0.0.0.0 messcraft.ovh
 0.0.0.0 mgalternative.github.io
 0.0.0.0 mgg658.github.io
+0.0.0.0 miminogames.com
 0.0.0.0 mimshacks.com
 0.0.0.0 mindgames.com
 0.0.0.0 mindustrygame.github.io

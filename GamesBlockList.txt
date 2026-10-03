@@ -515,6 +515,7 @@
 ||driftboss.me^
 ||driftboss3.io^
 ||driftbossonline.bitbucket.io^
+||driftbossonline.com^
 ||driftbossonline.github.io^
 ||driftbossunblocked.io^
 ||drifted.com^
@@ -1231,6 +1232,7 @@
 ||messcraft.ovh^
 ||mgalternative.github.io^
 ||mgg658.github.io^
+||miminogames.com^
 ||mimshacks.com^
 ||mindgames.com^
 ||mindustrygame.github.io^
