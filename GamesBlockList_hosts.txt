@@ -173,6 +173,7 @@
 0.0.0.0 basketballlegends.bitbucket.io
 0.0.0.0 basketballlegends.fun
 0.0.0.0 basketballrandom.com
+0.0.0.0 basketballrandom.io
 0.0.0.0 basketballstars.school
 0.0.0.0 basketballstars3.io
 0.0.0.0 basketballstarsfun.com
@@ -877,6 +878,7 @@
 0.0.0.0 gd.games
 0.0.0.0 genarcy.github.io
 0.0.0.0 genizymath.github.io
+0.0.0.0 geo-guessr.pages.dev
 0.0.0.0 geodash.org
 0.0.0.0 geodashunblocked.com
 0.0.0.0 geoguessr.com
@@ -926,6 +928,7 @@
 0.0.0.0 giveawayoftheday.com
 0.0.0.0 gladihoppers.io
 0.0.0.0 glazegames.com
+0.0.0.0 globlegame.pages.dev
 0.0.0.0 gnhustgames.org
 0.0.0.0 gobattle.io
 0.0.0.0 gogamego.io
@@ -995,6 +998,7 @@
 0.0.0.0 hole-io.com
 0.0.0.0 holeio.com
 0.0.0.0 holeonline.io
+0.0.0.0 hollowguessr.pages.dev
 0.0.0.0 hoodamath.com
 0.0.0.0 horrorgames.io
 0.0.0.0 hotgames.io

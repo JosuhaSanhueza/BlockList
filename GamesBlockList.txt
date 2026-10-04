@@ -172,6 +172,7 @@
 ||basketballlegends.bitbucket.io^
 ||basketballlegends.fun^
 ||basketballrandom.com^
+||basketballrandom.io^
 ||basketballstars.school^
 ||basketballstars3.io^
 ||basketballstarsfun.com^
@@ -876,6 +877,7 @@
 ||gd.games^
 ||genarcy.github.io^
 ||genizymath.github.io^
+||geo-guessr.pages.dev^
 ||geodash.org^
 ||geodashunblocked.com^
 ||geoguessr.com^
@@ -925,6 +927,7 @@
 ||giveawayoftheday.com^
 ||gladihoppers.io^
 ||glazegames.com^
+||globlegame.pages.dev^
 ||gnhustgames.org^
 ||gobattle.io^
 ||gogamego.io^
@@ -994,6 +997,7 @@
 ||hole-io.com^
 ||holeio.com^
 ||holeonline.io^
+||hollowguessr.pages.dev^
 ||hoodamath.com^
 ||horrorgames.io^
 ||hotgames.io^
