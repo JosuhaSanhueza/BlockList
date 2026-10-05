@@ -2124,3 +2124,8 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||eagler-shaders.vercel.app^
+||gamesbyai.win^
+||joeyc1pro.github.io^
+||minecraft-java.vercel.app^
+||scroll-games.vercel.app^

@@ -552,6 +552,7 @@
 0.0.0.0 eaglecraftgame.io
 0.0.0.0 eaglecraftonline.bitbucket.io
 0.0.0.0 eagler-craft.github.io
+0.0.0.0 eagler-shaders.vercel.app
 0.0.0.0 eaglercraft-launcher.vexr.dev
 0.0.0.0 eaglercraft-minecraft.com
 0.0.0.0 eaglercraft.42web.io
@@ -846,6 +847,7 @@
 0.0.0.0 games4.com
 0.0.0.0 games44.com
 0.0.0.0 gamesaturn.com
+0.0.0.0 gamesbyai.win
 0.0.0.0 gamesdisney.com
 0.0.0.0 gamesdizi.com
 0.0.0.0 gamesfree.io
@@ -1076,6 +1078,7 @@
 0.0.0.0 jklm.fun
 0.0.0.0 joalor64.itch.io
 0.0.0.0 joeheyming.github.io
+0.0.0.0 joeyc1pro.github.io
 0.0.0.0 jogofriv.com
 0.0.0.0 jogos-friv.com
 0.0.0.0 jogos.com
@@ -1244,6 +1247,7 @@
 0.0.0.0 mine-craft.io
 0.0.0.0 minecraft-eaglercraft.github.io
 0.0.0.0 minecraft-games.com
+0.0.0.0 minecraft-java.vercel.app
 0.0.0.0 minecraft-mp.com
 0.0.0.0 minecraft-online.net
 0.0.0.0 minecraft.com
@@ -1623,6 +1627,7 @@
 0.0.0.0 schoolunblockedgames.gitlab.io
 0.0.0.0 schplay.com
 0.0.0.0 scratchgamesonline.io
+0.0.0.0 scroll-games.vercel.app
 0.0.0.0 seapusher.github.io
 0.0.0.0 sentry.io
 0.0.0.0 serpgames.github.io

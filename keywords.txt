@@ -1773,3 +1773,10 @@ classroom4x
 kirka
 evowars
 freezenova
+
+# --- Búsqueda: GitHub topics eaglercraft/io-games/html5-games, sitio evasor disfrazado de "Lessons" (5 confirmados), 2026-10-05 ---
+eaglershaders
+gamesbyai
+scrollgames
+minecraftjavalauncher
+amplifyhomexyz
