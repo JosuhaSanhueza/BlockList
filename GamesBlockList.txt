@@ -1936,6 +1936,7 @@
 ||twoplayergames.com^
 ||twoplayergames.org^
 ||typingstudy.com^
+||tyroneunblockedgames.com^
 ||tyroneunblockedgames.gitlab.io^
 ||ub-g.github.io^
 ||ubg365.github.io^
