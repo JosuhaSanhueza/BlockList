@@ -230,6 +230,7 @@
 ||bojiogame.sg^
 ||bombitgame.github.io^
 ||bonk-io.com^
+||bonk.io^
 ||booleet.itch.io^
 ||bored.com^
 ||boredomgames.com^
@@ -543,6 +544,7 @@
 ||ducklife.app^
 ||ducklife.gitlab.io^
 ||ducklife4game.github.io^
+||ducklings.io^
 ||dvadi.com^
 ||dynetisgames.com^
 ||eag.pages.dev^
@@ -551,6 +553,7 @@
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eagler-craft.github.io^
+||eagler-shaders.vercel.app^
 ||eaglercraft-launcher.vexr.dev^
 ||eaglercraft-minecraft.com^
 ||eaglercraft.42web.io^
@@ -615,6 +618,7 @@
 ||etsy.com^
 ||eu.org^
 ||evowars.io^
+||evoworld.io^
 ||experimonkey.com^
 ||eyebrow-tetris.sanderdesnaijer.com^
 ||ezpzunblockedgames.com^
@@ -845,6 +849,7 @@
 ||games4.com^
 ||games44.com^
 ||gamesaturn.com^
+||gamesbyai.win^
 ||gamesdisney.com^
 ||gamesdizi.com^
 ||gamesfree.io^
@@ -872,6 +877,7 @@
 ||gartic.com^
 ||gartic.io^
 ||garticphone.com^
+||gats.io^
 ||gazpo.com^
 ||gbkgames.org^
 ||gd.games^
@@ -970,6 +976,7 @@
 ||gswitch3.github.io^
 ||gt2048.com^
 ||guildmaster.yht.one^
+||gulper.io^
 ||gunmayhem.net^
 ||gunspin.org^
 ||gx.games^
@@ -1075,6 +1082,7 @@
 ||jklm.fun^
 ||joalor64.itch.io^
 ||joeheyming.github.io^
+||joeyc1pro.github.io^
 ||jogofriv.com^
 ||jogos-friv.com^
 ||jogos.com^
@@ -1243,6 +1251,7 @@
 ||mine-craft.io^
 ||minecraft-eaglercraft.github.io^
 ||minecraft-games.com^
+||minecraft-java.vercel.app^
 ||minecraft-mp.com^
 ||minecraft-online.net^
 ||minecraft.com^
@@ -1480,6 +1489,7 @@
 ||playoctordle.com^
 ||playok.com^
 ||playold.games^
+||playonhub.com^
 ||playovounblocked.com^
 ||playpager.com^
 ||playpicross.com^
@@ -1520,6 +1530,7 @@
 ||popcorngames.io^
 ||poppyplaytimegames.github.io^
 ||populargames.io^
+||powerline.io^
 ||poxel.io^
 ||premiumunblockedgames.gitlab.io^
 ||primarygames.com^
@@ -1622,6 +1633,7 @@
 ||schoolunblockedgames.gitlab.io^
 ||schplay.com^
 ||scratchgamesonline.io^
+||scroll-games.vercel.app^
 ||seapusher.github.io^
 ||sentry.io^
 ||serpgames.github.io^
@@ -1828,6 +1840,7 @@
 ||suroi.io^
 ||survev.io^
 ||surviv.io^
+||survivor.io^
 ||survivoridlerun.web.app^
 ||swordbattle.io^
 ||swordz.io^
@@ -1917,12 +1930,14 @@
 ||treeshateyou-game.com^
 ||trex-game.skipser.com^
 ||trex-runner.com^
+||tribals.io^
 ||trickjoker312.github.io^
 ||triviando.com^
 ||triviaroyale.io^
 ||trivinet.com^
 ||trollgames.io^
 ||trollquests.com^
+||tsunamis.io^
 ||tsyuay.github.io^
 ||tubeclicker.io^
 ||tubzi.org^
@@ -2062,6 +2077,7 @@
 ||wheeliebike.org^
 ||wheeliebikegame.github.io^
 ||wimpress.itch.io^
+||wings.io^
 ||wobbly-lifeplay.com^
 ||wobblylifegame.com^
 ||woogames.io^
@@ -2099,6 +2115,7 @@
 ||yiv.com^
 ||ynrbsu.github.io^
 ||yobogames.com^
+||yohoho.io^
 ||yoplay.io^
 ||youmakethishouseahome.online^
 ||yourwebgame.com^
@@ -2124,8 +2141,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||eagler-shaders.vercel.app^
-||gamesbyai.win^
-||joeyc1pro.github.io^
-||minecraft-java.vercel.app^
-||scroll-games.vercel.app^

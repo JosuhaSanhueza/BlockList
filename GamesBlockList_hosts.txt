@@ -231,6 +231,7 @@
 0.0.0.0 bojiogame.sg
 0.0.0.0 bombitgame.github.io
 0.0.0.0 bonk-io.com
+0.0.0.0 bonk.io
 0.0.0.0 booleet.itch.io
 0.0.0.0 bored.com
 0.0.0.0 boredomgames.com
@@ -544,6 +545,7 @@
 0.0.0.0 ducklife.app
 0.0.0.0 ducklife.gitlab.io
 0.0.0.0 ducklife4game.github.io
+0.0.0.0 ducklings.io
 0.0.0.0 dvadi.com
 0.0.0.0 dynetisgames.com
 0.0.0.0 eag.pages.dev
@@ -617,6 +619,7 @@
 0.0.0.0 etsy.com
 0.0.0.0 eu.org
 0.0.0.0 evowars.io
+0.0.0.0 evoworld.io
 0.0.0.0 experimonkey.com
 0.0.0.0 eyebrow-tetris.sanderdesnaijer.com
 0.0.0.0 ezpzunblockedgames.com
@@ -875,6 +878,7 @@
 0.0.0.0 gartic.com
 0.0.0.0 gartic.io
 0.0.0.0 garticphone.com
+0.0.0.0 gats.io
 0.0.0.0 gazpo.com
 0.0.0.0 gbkgames.org
 0.0.0.0 gd.games
@@ -973,6 +977,7 @@
 0.0.0.0 gswitch3.github.io
 0.0.0.0 gt2048.com
 0.0.0.0 guildmaster.yht.one
+0.0.0.0 gulper.io
 0.0.0.0 gunmayhem.net
 0.0.0.0 gunspin.org
 0.0.0.0 gx.games
@@ -1485,6 +1490,7 @@
 0.0.0.0 playoctordle.com
 0.0.0.0 playok.com
 0.0.0.0 playold.games
+0.0.0.0 playonhub.com
 0.0.0.0 playovounblocked.com
 0.0.0.0 playpager.com
 0.0.0.0 playpicross.com
@@ -1525,6 +1531,7 @@
 0.0.0.0 popcorngames.io
 0.0.0.0 poppyplaytimegames.github.io
 0.0.0.0 populargames.io
+0.0.0.0 powerline.io
 0.0.0.0 poxel.io
 0.0.0.0 premiumunblockedgames.gitlab.io
 0.0.0.0 primarygames.com
@@ -1829,6 +1836,7 @@
 0.0.0.0 suroi.io
 0.0.0.0 survev.io
 0.0.0.0 surviv.io
+0.0.0.0 survivor.io
 0.0.0.0 survivoridlerun.web.app
 0.0.0.0 swordbattle.io
 0.0.0.0 swordz.io
@@ -1918,12 +1926,14 @@
 0.0.0.0 treeshateyou-game.com
 0.0.0.0 trex-game.skipser.com
 0.0.0.0 trex-runner.com
+0.0.0.0 tribals.io
 0.0.0.0 trickjoker312.github.io
 0.0.0.0 triviando.com
 0.0.0.0 triviaroyale.io
 0.0.0.0 trivinet.com
 0.0.0.0 trollgames.io
 0.0.0.0 trollquests.com
+0.0.0.0 tsunamis.io
 0.0.0.0 tsyuay.github.io
 0.0.0.0 tubeclicker.io
 0.0.0.0 tubzi.org
@@ -2063,6 +2073,7 @@
 0.0.0.0 wheeliebike.org
 0.0.0.0 wheeliebikegame.github.io
 0.0.0.0 wimpress.itch.io
+0.0.0.0 wings.io
 0.0.0.0 wobbly-lifeplay.com
 0.0.0.0 wobblylifegame.com
 0.0.0.0 woogames.io
@@ -2100,6 +2111,7 @@
 0.0.0.0 yiv.com
 0.0.0.0 ynrbsu.github.io
 0.0.0.0 yobogames.com
+0.0.0.0 yohoho.io
 0.0.0.0 yoplay.io
 0.0.0.0 youmakethishouseahome.online
 0.0.0.0 yourwebgame.com

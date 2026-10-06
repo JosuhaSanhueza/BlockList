@@ -113,6 +113,14 @@ WHITELIST = {
     # Framing inequívoco de "cognitive fitness"/entrenamiento cerebral clínico, no
     # entretenimiento casual (detectado 2026-09-21).
     "memorygames.net",
+    # Matemáticas/exámenes/mecanografía — mismo criterio educativo que el resto de
+    # este bloque (detectado 2026-10-06).
+    "duckmath.org", "duck.tinyexams.com", "typeracer.com",
+    # Falso positivo de is_game_website(): no es un sitio de juegos, es el sitio de
+    # un instituto de investigación en biología de redes (NRNB). El heurístico
+    # automático dio True pero el contenido real no tiene nada que ver con juegos
+    # (detectado 2026-10-06, verificado manualmente por contenido).
+    "strongdog.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

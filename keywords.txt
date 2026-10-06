@@ -1780,3 +1780,13 @@ gamesbyai
 scrollgames
 minecraftjavalauncher
 amplifyhomexyz
+
+# --- Artículos "top io games"/portales de juegos 2026, GitHub topic io-games (7 confirmados; se excluyeron
+# "wings", "gats", "survivor", "powerline", "bonk" por ser palabras genéricas con riesgo de ruido), 2026-10-06 ---
+tsunamis
+ducklings
+gulper
+yohoho
+evoworld
+tribals
+playonhub
