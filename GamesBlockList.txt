@@ -16,8 +16,8 @@
 ||1v1lol.me^
 ||1v1lol.net^
 ||1v1lol.org^
-||1v1lol.us^
 ||1v1lol.us.com^
+||1v1lol.us^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -88,6 +88,7 @@
 ||agarcity.io^
 ||agario.com^
 ||agariojuego.com^
+||agaronline.io^
 ||agarz.com^
 ||airconsole.com^
 ||alexx743-games-unblocked.vercel.app^
@@ -206,6 +207,7 @@
 ||bitlifeunblockedonline.github.io^
 ||bizofgames.com^
 ||blade-ball.net^
+||blayzegames.com^
 ||blipzi.com^
 ||blob-opera.com^
 ||blockblaast.com^
@@ -228,6 +230,7 @@
 ||boardgamearena.com^
 ||boing.es^
 ||bojiogame.sg^
+||bomberman.pr0mming.dev^
 ||bombitgame.github.io^
 ||bonk-io.com^
 ||bonk.io^
@@ -255,6 +258,7 @@
 ||breakplay.fun^
 ||brick-breaker.io^
 ||brogames.io^
+||browsercraft.com^
 ||browsergame-base.de^
 ||browsergamers.gg^
 ||bubblebox.com^
@@ -368,6 +372,7 @@
 ||colonist.io^
 ||colortunnel.io^
 ||colorwars.io^
+||combatreloaded.net^
 ||congusbongus.itch.io^
 ||connectionsgamefree.com^
 ||consto.uk^
@@ -421,11 +426,11 @@
 ||crazycattle3d.com^
 ||crazycattle3dgames.github.io^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com^
 ||crazygames.com.es^
+||crazygames.com^
 ||crazygames.gg^
-||crazygames.org^
 ||crazygames.org.es^
+||crazygames.org^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -548,8 +553,8 @@
 ||dvadi.com^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com^
 ||eaglecraft.com.co^
+||eaglecraft.com^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eagler-craft.github.io^
@@ -617,6 +622,7 @@
 ||essential.gg^
 ||etsy.com^
 ||eu.org^
+||ev.io^
 ||evowars.io^
 ||evoworld.io^
 ||experimonkey.com^
@@ -729,9 +735,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
-||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
+||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -837,6 +843,7 @@
 ||gamepakin.com^
 ||gamepix.com^
 ||gamepluto.com^
+||gamepotty.com^
 ||gamerateofficial.weebly.com^
 ||games-4-free.com^
 ||games-66-ez.github.io^
@@ -902,8 +909,8 @@
 ||geometryarrow.io^
 ||geometrydash-lite.com^
 ||geometrydash-pc.com^
-||geometrydash.com^
 ||geometrydash.com.mx^
+||geometrydash.com^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -911,6 +918,7 @@
 ||geometrydash.to^
 ||geometrydash.us.com^
 ||geometrydashh.es^
+||geometrydashja.com^
 ||geometrydashlite2.io^
 ||geometrydashlite22.io^
 ||geometrydashlitefree.com^
@@ -987,6 +995,7 @@
 ||harmonymonroe.com^
 ||harmonymonroe.itch.io^
 ||haxball.com^
+||hazmobfps.com^
 ||hdgames.com^
 ||head-soccer.io^
 ||heardlewordle.io^
@@ -1096,6 +1105,7 @@
 ||juegos.com^
 ||juegos.games^
 ||juegos.io^
+||juegos.net^
 ||juegos123.net^
 ||juegosabiertos.com^
 ||juegosadn.com^
@@ -1446,6 +1456,7 @@
 ||pinturillo2.com^
 ||pixelcoloring.net^
 ||pixelwarfare.io^
+||pixelwarfareio.github.io^
 ||pizza-edition-games.bitbucket.io^
 ||pizza-edition-unblocked.github.io^
 ||pizzaedition.bitbucket.io^
@@ -1576,6 +1587,7 @@
 ||reldens.com^
 ||remarkablegames.itch.io^
 ||remarkablegames.org^
+||repuls.io^
 ||resent5.pages.dev^
 ||resurviv.biz^
 ||retroarch.com^
@@ -1593,6 +1605,8 @@
 ||retrogames.cz^
 ||retrogames.games^
 ||retrogames.me^
+||rhythm-games.com^
+||rhythmgames.io^
 ||rivegames.com^
 ||roblox-unblock.github.io^
 ||robloxunblockedgames.github.io^
@@ -1846,6 +1860,7 @@
 ||swordbattle.io^
 ||swordz.io^
 ||sycesgameshack.com^
+||sylestia.com^
 ||sz-games.github.io^
 ||szgames.net^
 ||szunami.itch.io^
@@ -1895,8 +1910,8 @@
 ||threejs-games.github.io^
 ||tiny-fishing-online.github.io^
 ||tiny-fishing-unblock.github.io^
-||tinyfishing.co^
 ||tinyfishing.co.uk^
+||tinyfishing.co^
 ||tinyfishing.io^
 ||tinyfishing2.io^
 ||tinyplay.io^
@@ -1942,6 +1957,7 @@
 ||tsyuay.github.io^
 ||tubeclicker.io^
 ||tubzi.org^
+||tummygames.com^
 ||tunnel-rush.gitlab.io^
 ||tunnelrush.app^
 ||tunnelrushgame.io^
@@ -2022,6 +2038,7 @@
 ||undeadcorridor.io^
 ||unity3d.com^
 ||untitledproxy.pages.dev^
+||upjers.com^
 ||us.com^
 ||usaunblockedgames.com^
 ||uunnblockedgames.weebly.com^
@@ -2034,6 +2051,7 @@
 ||veckiogame.com^
 ||veckiogame.org^
 ||vectaria.io^
+||vedia.games^
 ||venge.io^
 ||vercel.app^
 ||vex.game^
@@ -2079,6 +2097,7 @@
 ||wheeliebikegame.github.io^
 ||wimpress.itch.io^
 ||wings.io^
+||winrogames.com^
 ||wobbly-lifeplay.com^
 ||wobblylifegame.com^
 ||woogames.io^
@@ -2139,6 +2158,7 @@
 ||zlite.zatoga.net^
 ||zohair-racing-portfolio.vercel.app^
 ||zohoho.org^
+||zone4game.com^
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^

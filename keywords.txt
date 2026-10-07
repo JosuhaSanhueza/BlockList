@@ -1790,3 +1790,23 @@ yohoho
 evoworld
 tribals
 playonhub
+
+# --- Búsqueda dirigida por categorías poco cubiertas: shooters FPS, tycoon/idle,
+# ritmo, granja/mascotas virtuales, portales genéricos (20 confirmados), 2026-10-07 ---
+tummygames
+rhythmgames
+geometrydashja
+upjers
+sylestia
+zone4game
+repuls
+combatreloaded
+vedia
+pixelwarfareio
+blayzegames
+hazmobfps
+gamepotty
+agaronline
+winrogames
+browsercraft
+bomberman

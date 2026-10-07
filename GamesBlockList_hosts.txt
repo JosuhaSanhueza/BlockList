@@ -89,6 +89,7 @@
 0.0.0.0 agarcity.io
 0.0.0.0 agario.com
 0.0.0.0 agariojuego.com
+0.0.0.0 agaronline.io
 0.0.0.0 agarz.com
 0.0.0.0 airconsole.com
 0.0.0.0 alexx743-games-unblocked.vercel.app
@@ -207,6 +208,7 @@
 0.0.0.0 bitlifeunblockedonline.github.io
 0.0.0.0 bizofgames.com
 0.0.0.0 blade-ball.net
+0.0.0.0 blayzegames.com
 0.0.0.0 blipzi.com
 0.0.0.0 blob-opera.com
 0.0.0.0 blockblaast.com
@@ -229,6 +231,7 @@
 0.0.0.0 boardgamearena.com
 0.0.0.0 boing.es
 0.0.0.0 bojiogame.sg
+0.0.0.0 bomberman.pr0mming.dev
 0.0.0.0 bombitgame.github.io
 0.0.0.0 bonk-io.com
 0.0.0.0 bonk.io
@@ -256,6 +259,7 @@
 0.0.0.0 breakplay.fun
 0.0.0.0 brick-breaker.io
 0.0.0.0 brogames.io
+0.0.0.0 browsercraft.com
 0.0.0.0 browsergame-base.de
 0.0.0.0 browsergamers.gg
 0.0.0.0 bubblebox.com
@@ -369,6 +373,7 @@
 0.0.0.0 colonist.io
 0.0.0.0 colortunnel.io
 0.0.0.0 colorwars.io
+0.0.0.0 combatreloaded.net
 0.0.0.0 congusbongus.itch.io
 0.0.0.0 connectionsgamefree.com
 0.0.0.0 consto.uk
@@ -618,6 +623,7 @@
 0.0.0.0 essential.gg
 0.0.0.0 etsy.com
 0.0.0.0 eu.org
+0.0.0.0 ev.io
 0.0.0.0 evowars.io
 0.0.0.0 evoworld.io
 0.0.0.0 experimonkey.com
@@ -838,6 +844,7 @@
 0.0.0.0 gamepakin.com
 0.0.0.0 gamepix.com
 0.0.0.0 gamepluto.com
+0.0.0.0 gamepotty.com
 0.0.0.0 gamerateofficial.weebly.com
 0.0.0.0 games-4-free.com
 0.0.0.0 games-66-ez.github.io
@@ -912,6 +919,7 @@
 0.0.0.0 geometrydash.to
 0.0.0.0 geometrydash.us.com
 0.0.0.0 geometrydashh.es
+0.0.0.0 geometrydashja.com
 0.0.0.0 geometrydashlite2.io
 0.0.0.0 geometrydashlite22.io
 0.0.0.0 geometrydashlitefree.com
@@ -988,6 +996,7 @@
 0.0.0.0 harmonymonroe.com
 0.0.0.0 harmonymonroe.itch.io
 0.0.0.0 haxball.com
+0.0.0.0 hazmobfps.com
 0.0.0.0 hdgames.com
 0.0.0.0 head-soccer.io
 0.0.0.0 heardlewordle.io
@@ -1097,6 +1106,7 @@
 0.0.0.0 juegos.com
 0.0.0.0 juegos.games
 0.0.0.0 juegos.io
+0.0.0.0 juegos.net
 0.0.0.0 juegos123.net
 0.0.0.0 juegosabiertos.com
 0.0.0.0 juegosadn.com
@@ -1447,6 +1457,7 @@
 0.0.0.0 pinturillo2.com
 0.0.0.0 pixelcoloring.net
 0.0.0.0 pixelwarfare.io
+0.0.0.0 pixelwarfareio.github.io
 0.0.0.0 pizza-edition-games.bitbucket.io
 0.0.0.0 pizza-edition-unblocked.github.io
 0.0.0.0 pizzaedition.bitbucket.io
@@ -1577,6 +1588,7 @@
 0.0.0.0 reldens.com
 0.0.0.0 remarkablegames.itch.io
 0.0.0.0 remarkablegames.org
+0.0.0.0 repuls.io
 0.0.0.0 resent5.pages.dev
 0.0.0.0 resurviv.biz
 0.0.0.0 retroarch.com
@@ -1594,6 +1606,8 @@
 0.0.0.0 retrogames.cz
 0.0.0.0 retrogames.games
 0.0.0.0 retrogames.me
+0.0.0.0 rhythm-games.com
+0.0.0.0 rhythmgames.io
 0.0.0.0 rivegames.com
 0.0.0.0 roblox-unblock.github.io
 0.0.0.0 robloxunblockedgames.github.io
@@ -1842,6 +1856,7 @@
 0.0.0.0 swordbattle.io
 0.0.0.0 swordz.io
 0.0.0.0 sycesgameshack.com
+0.0.0.0 sylestia.com
 0.0.0.0 sz-games.github.io
 0.0.0.0 szgames.net
 0.0.0.0 szunami.itch.io
@@ -1938,6 +1953,7 @@
 0.0.0.0 tsyuay.github.io
 0.0.0.0 tubeclicker.io
 0.0.0.0 tubzi.org
+0.0.0.0 tummygames.com
 0.0.0.0 tunnel-rush.gitlab.io
 0.0.0.0 tunnelrush.app
 0.0.0.0 tunnelrushgame.io
@@ -2018,6 +2034,7 @@
 0.0.0.0 undeadcorridor.io
 0.0.0.0 unity3d.com
 0.0.0.0 untitledproxy.pages.dev
+0.0.0.0 upjers.com
 0.0.0.0 us.com
 0.0.0.0 usaunblockedgames.com
 0.0.0.0 uunnblockedgames.weebly.com
@@ -2030,6 +2047,7 @@
 0.0.0.0 veckiogame.com
 0.0.0.0 veckiogame.org
 0.0.0.0 vectaria.io
+0.0.0.0 vedia.games
 0.0.0.0 venge.io
 0.0.0.0 vercel.app
 0.0.0.0 vex.game
@@ -2075,6 +2093,7 @@
 0.0.0.0 wheeliebikegame.github.io
 0.0.0.0 wimpress.itch.io
 0.0.0.0 wings.io
+0.0.0.0 winrogames.com
 0.0.0.0 wobbly-lifeplay.com
 0.0.0.0 wobblylifegame.com
 0.0.0.0 woogames.io
@@ -2135,6 +2154,7 @@
 0.0.0.0 zlite.zatoga.net
 0.0.0.0 zohair-racing-portfolio.vercel.app
 0.0.0.0 zohoho.org
+0.0.0.0 zone4game.com
 0.0.0.0 zylom.com
 0.0.0.0 zynga.com
 0.0.0.0 zynga.games
