@@ -1357,6 +1357,7 @@
 ||nitrome.com^
 ||nocache.pomu.com^
 ||nointernetgame.com^
+||nopixel5minigames.pages.dev^
 ||novaskin.me^
 ||now.gg^
 ||nowgames.io^

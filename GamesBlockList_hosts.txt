@@ -1358,6 +1358,7 @@
 0.0.0.0 nitrome.com
 0.0.0.0 nocache.pomu.com
 0.0.0.0 nointernetgame.com
+0.0.0.0 nopixel5minigames.pages.dev
 0.0.0.0 novaskin.me
 0.0.0.0 now.gg
 0.0.0.0 nowgames.io
