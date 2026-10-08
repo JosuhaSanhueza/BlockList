@@ -1824,3 +1824,20 @@ buscaminaseu
 playsnakegame
 santatracker
 classroom6x
+
+# --- Búsqueda dirigida: juegos en español, geometry dash, fnf, slope mirrors, portales (2026-10-07) ---
+juegossd
+okagame
+geometrydash22
+geometrydashlite
+fnfmod
+modsninja
+dubdoo
+towersdefense
+pokiorges
+thewordbee
+sloperun
+slopeonlinegame
+githubgames
+lemonarcade
+kidsworldfun

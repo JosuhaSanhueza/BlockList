@@ -544,6 +544,7 @@
 ||drivemadgame.cc^
 ||drivequest.io^
 ||drivinggames.io^
+||dubdoo.com^
 ||duck-clicker.com^
 ||duck-duckclicker.com^
 ||duck-math.gitlab.io^
@@ -682,6 +683,7 @@
 ||fnafunblocked.fun^
 ||fnf-2.io^
 ||fnf-games.io^
+||fnf-mod.com^
 ||fnfans.com^
 ||fnffree.io^
 ||fnfgo.com^
@@ -915,6 +917,7 @@
 ||geometry.games^
 ||geometryarrow.io^
 ||geometrydash-lite.com^
+||geometrydash-lite.io^
 ||geometrydash-pc.com^
 ||geometrydash.com^
 ||geometrydash.com.mx^
@@ -924,6 +927,7 @@
 ||geometrydash.online^
 ||geometrydash.to^
 ||geometrydash.us.com^
+||geometrydash22.com^
 ||geometrydashh.es^
 ||geometrydashja.com^
 ||geometrydashlite2.io^
@@ -941,6 +945,7 @@
 ||getawayshootout-game.github.io^
 ||girlgames.com^
 ||girlsgogames.com^
+||github-games.gitlab.io^
 ||github.io^
 ||githubgames.gitlab.io^
 ||githubiogames.com^
@@ -1146,6 +1151,7 @@
 ||juegosipo.com^
 ||juegosjuegos.com^
 ||juegosjuegos.ws^
+||juegossd.com^
 ||juegossolitario.com^
 ||juegosxachicas.com^
 ||jugarmccomportal.base44.app^
@@ -1167,6 +1173,7 @@
 ||kickoutgames.com^
 ||kickthebuddy.app^
 ||kickthebuddy.lol^
+||kidsworldfun.com^
 ||king.com^
 ||kingdomarchitect.netlify.app^
 ||kingdomofmarionettes.live^
@@ -1199,6 +1206,7 @@
 ||lastline.011203.xyz^
 ||lazygames.io^
 ||legionsdk.com^
+||lemonarcade.com^
 ||leveldevil.io^
 ||lichess.org^
 ||lifeskillsprogram.net^
@@ -1310,6 +1318,7 @@
 ||mobirix.com^
 ||mobirix.net^
 ||mochig.com^
+||mods.ninja^
 ||monkeymart.one^
 ||monkeymart.org^
 ||monkeymartfree.com^
@@ -1388,6 +1397,7 @@
 ||oh-hell-mu.vercel.app^
 ||ohgames.io^
 ||ojogos.com.br^
+||okagame.com^
 ||omigames.com^
 ||one.io^
 ||onlinegames.com^
@@ -1538,6 +1548,7 @@
 ||poki.com^
 ||poki.ee^
 ||poki.io^
+||poki.org.es^
 ||poki.us.com^
 ||poki1.com^
 ||poki2.net^
@@ -1709,6 +1720,7 @@
 ||slitheriogame.io^
 ||slope-game-io.github.io^
 ||slope-online.github.io^
+||slope-run.gitlab.io^
 ||slope-slope.github.io^
 ||slope-unblockedgames.github.io^
 ||slope.ee^
@@ -1730,6 +1742,7 @@
 ||slopeio.org^
 ||slopeonline.bitbucket.io^
 ||slopeonline.online^
+||slopeonlinegame.github.io^
 ||slopeunblocked.bitbucket.io^
 ||slopeunblocked.games^
 ||smash-karts.com^
@@ -1913,6 +1926,7 @@
 ||theslope.github.io^
 ||thetinyfishing.com^
 ||thewikigame.com^
+||thewordbee.com^
 ||threejs-games.github.io^
 ||tiny-fishing-online.github.io^
 ||tiny-fishing-unblock.github.io^
@@ -1946,6 +1960,7 @@
 ||torofun.com^
 ||totaljerkface.com^
 ||tower.codealuxz.fr^
+||towersdefense.org^
 ||towerward.com^
 ||trafficroad.io^
 ||transformice.com^
