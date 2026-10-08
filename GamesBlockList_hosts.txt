@@ -934,6 +934,7 @@
 0.0.0.0 gameyard.com
 0.0.0.0 gamezipper.com
 0.0.0.0 gamezop.com
+0.0.0.0 gamhub.net
 0.0.0.0 gaminglab.dev
 0.0.0.0 gamr.fun
 0.0.0.0 gamui.com
@@ -1378,6 +1379,7 @@
 0.0.0.0 miniwebgames.com
 0.0.0.0 minix.games
 0.0.0.0 misjuegos.com
+0.0.0.0 mixfreegames.com
 0.0.0.0 mk48.io
 0.0.0.0 mmobomb.com
 0.0.0.0 mmogames.com
@@ -1645,6 +1647,7 @@
 0.0.0.0 primarygames.gitlab.io
 0.0.0.0 princeton-tower-defense.vercel.app
 0.0.0.0 prinxy.app
+0.0.0.0 prinxy.es
 0.0.0.0 privategameservers.com
 0.0.0.0 project-scythe.vercel.app
 0.0.0.0 projectoutfox.com

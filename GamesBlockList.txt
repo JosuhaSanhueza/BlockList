@@ -880,6 +880,7 @@
 ||gameforge.com^
 ||gamefunbar.com^
 ||gamehouse.com^
+||gamhub.net^
 ||gameinabottle.com^
 ||gameis.net^
 ||gamejolt.com^
@@ -1377,6 +1378,7 @@
 ||miniwebgames.com^
 ||minix.games^
 ||misjuegos.com^
+||mixfreegames.com^
 ||mk48.io^
 ||mmobomb.com^
 ||mmogames.com^
@@ -1644,6 +1646,7 @@
 ||primarygames.gitlab.io^
 ||princeton-tower-defense.vercel.app^
 ||prinxy.app^
+||prinxy.es^
 ||privategameservers.com^
 ||project-scythe.vercel.app^
 ||projectoutfox.com^

@@ -1924,3 +1924,7 @@ xclash
 
 # --- Bloqueo total de Google Sites (alojan classroom6x y otros portales de juegos), 2026-10-08 ---
 googlesites
+
+# --- Nuevos dominios verificados vía artículos "top paginas de juegos", 2026-10-08 ---
+gamhub
+mixfreegames
