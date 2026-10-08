@@ -131,6 +131,7 @@ WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",
+    "sites.google.com",
 }
 
 # CDNs / Infraestructura crítica que NUNCA debemos bloquear al escanear iframe o CDNs embebidos

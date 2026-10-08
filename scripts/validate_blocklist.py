@@ -28,6 +28,7 @@ WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",
+    "sites.google.com",
 }
 
 def check_line(line_clean, line_num, domains_seen):
