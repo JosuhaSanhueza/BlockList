@@ -27,6 +27,7 @@ WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "eaglercraft.global.ssl.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
+    "santatracker.google.com",
 }
 
 def check_line(line_clean, line_num, domains_seen):

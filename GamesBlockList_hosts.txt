@@ -281,6 +281,7 @@
 0.0.0.0 burritobisononline.gitlab.io
 0.0.0.0 burritobisonrevenge.github.io
 0.0.0.0 buscaminas-pro.com
+0.0.0.0 buscaminas.eu
 0.0.0.0 c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com
 0.0.0.0 calcsolver.net
 0.0.0.0 calculatorforyou.online
@@ -296,6 +297,7 @@
 0.0.0.0 cargames.gg
 0.0.0.0 cargamesunblocked.gitlab.io
 0.0.0.0 carrot-craft.org
+0.0.0.0 cartoonnetwork-games.com
 0.0.0.0 catmario.org
 0.0.0.0 catninja-unblocked.com
 0.0.0.0 cattn.github.io
@@ -475,6 +477,7 @@
 0.0.0.0 deepnight.net
 0.0.0.0 defly.io
 0.0.0.0 delt.io
+0.0.0.0 deltarunesim.com
 0.0.0.0 demo.reldens.com
 0.0.0.0 democraticchess.com
 0.0.0.0 detodojuegos.com
@@ -488,6 +491,7 @@
 0.0.0.0 digdig.io
 0.0.0.0 diguifi.itch.io
 0.0.0.0 dinogame.gg
+0.0.0.0 dinogameonline.io
 0.0.0.0 dinorunner.com
 0.0.0.0 dinosaur.game
 0.0.0.0 dinosaur.gg
@@ -502,6 +506,7 @@
 0.0.0.0 dominoes365.io
 0.0.0.0 donteatthecashier.live
 0.0.0.0 doodle-jump-game-2025.github.io
+0.0.0.0 doodlecricket.org
 0.0.0.0 doodlejump.io
 0.0.0.0 doodlejumponline.github.io
 0.0.0.0 doodoo.love
@@ -882,6 +887,7 @@
 0.0.0.0 gamr.fun
 0.0.0.0 gamui.com
 0.0.0.0 gamulo.com
+0.0.0.0 garbsoftball.com
 0.0.0.0 gartic.com
 0.0.0.0 gartic.io
 0.0.0.0 garticphone.com
@@ -889,6 +895,7 @@
 0.0.0.0 gazpo.com
 0.0.0.0 gbkgames.org
 0.0.0.0 gd.games
+0.0.0.0 gdfree.io
 0.0.0.0 genarcy.github.io
 0.0.0.0 genizymath.github.io
 0.0.0.0 geo-guessr.pages.dev
@@ -943,6 +950,7 @@
 0.0.0.0 gladihoppers.io
 0.0.0.0 glazegames.com
 0.0.0.0 globlegame.pages.dev
+0.0.0.0 gm.azgame.io
 0.0.0.0 gnhustgames.org
 0.0.0.0 gobattle.io
 0.0.0.0 gogamego.io
@@ -1470,6 +1478,7 @@
 0.0.0.0 plarium.com
 0.0.0.0 play-games.com
 0.0.0.0 play-minecraft-servers.com
+0.0.0.0 play-snake-game.com
 0.0.0.0 play-time-past.vercel.app
 0.0.0.0 play.gilect.com
 0.0.0.0 play123.com
@@ -1639,6 +1648,7 @@
 0.0.0.0 sacul-6.github.io
 0.0.0.0 sandbox.game
 0.0.0.0 sandboxelsgame.com
+0.0.0.0 santatracker.google.com
 0.0.0.0 santiagodebus.com
 0.0.0.0 say.games
 0.0.0.0 scalacube.com
@@ -1734,6 +1744,7 @@
 0.0.0.0 smcraft.fun
 0.0.0.0 smdgames.github.io
 0.0.0.0 snailbob.games
+0.0.0.0 snake-game.io
 0.0.0.0 snake-shadrouh.netlify.app
 0.0.0.0 snake.io
 0.0.0.0 snakeappgame.com

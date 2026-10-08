@@ -1810,3 +1810,17 @@ agaronline
 winrogames
 browsercraft
 bomberman
+
+# --- Adiciones manuales: snake, dino, delta rune, doodle cricket, buscaminas, santa tracker, classroom6x, 2026-10-07 ---
+dinogameonline
+deltarunesim
+gdfree
+doodlecricket
+cartoonnetworkgames
+snakegameio
+garbsoftball
+azgame
+buscaminaseu
+playsnakegame
+santatracker
+classroom6x

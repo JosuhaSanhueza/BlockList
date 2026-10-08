@@ -16,8 +16,8 @@
 ||1v1lol.me^
 ||1v1lol.net^
 ||1v1lol.org^
-||1v1lol.us.com^
 ||1v1lol.us^
+||1v1lol.us.com^
 ||1v1lolgames.org^
 ||1v1lolreloaded.com^
 ||1v1lolunblocked.com^
@@ -280,6 +280,7 @@
 ||burritobisononline.gitlab.io^
 ||burritobisonrevenge.github.io^
 ||buscaminas-pro.com^
+||buscaminas.eu^
 ||c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com^
 ||calcsolver.net^
 ||calculatorforyou.online^
@@ -295,6 +296,7 @@
 ||cargames.gg^
 ||cargamesunblocked.gitlab.io^
 ||carrot-craft.org^
+||cartoonnetwork-games.com^
 ||catmario.org^
 ||catninja-unblocked.com^
 ||cattn.github.io^
@@ -426,11 +428,11 @@
 ||crazycattle3d.com^
 ||crazycattle3dgames.github.io^
 ||crazygames-ad.bitbucket.io^
-||crazygames.com.es^
 ||crazygames.com^
+||crazygames.com.es^
 ||crazygames.gg^
-||crazygames.org.es^
 ||crazygames.org^
+||crazygames.org.es^
 ||crazygames2.com^
 ||crazygames8.com^
 ||crazygamesunblocked.co.uk^
@@ -474,6 +476,7 @@
 ||deepnight.net^
 ||defly.io^
 ||delt.io^
+||deltarunesim.com^
 ||demo.reldens.com^
 ||democraticchess.com^
 ||detodojuegos.com^
@@ -487,6 +490,7 @@
 ||digdig.io^
 ||diguifi.itch.io^
 ||dinogame.gg^
+||dinogameonline.io^
 ||dinorunner.com^
 ||dinosaur.game^
 ||dinosaur.gg^
@@ -501,6 +505,7 @@
 ||dominoes365.io^
 ||donteatthecashier.live^
 ||doodle-jump-game-2025.github.io^
+||doodlecricket.org^
 ||doodlejump.io^
 ||doodlejumponline.github.io^
 ||doodoo.love^
@@ -553,8 +558,8 @@
 ||dvadi.com^
 ||dynetisgames.com^
 ||eag.pages.dev^
-||eaglecraft.com.co^
 ||eaglecraft.com^
+||eaglecraft.com.co^
 ||eaglecraftgame.io^
 ||eaglecraftonline.bitbucket.io^
 ||eagler-craft.github.io^
@@ -735,9 +740,9 @@
 ||friv-2026.com^
 ||friv-7.com^
 ||friv.cm^
+||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
-||friv.com^
 ||friv.io^
 ||friv.lol^
 ||friv.tr^
@@ -881,6 +886,7 @@
 ||gamr.fun^
 ||gamui.com^
 ||gamulo.com^
+||garbsoftball.com^
 ||gartic.com^
 ||gartic.io^
 ||garticphone.com^
@@ -888,6 +894,7 @@
 ||gazpo.com^
 ||gbkgames.org^
 ||gd.games^
+||gdfree.io^
 ||genarcy.github.io^
 ||genizymath.github.io^
 ||geo-guessr.pages.dev^
@@ -909,8 +916,8 @@
 ||geometryarrow.io^
 ||geometrydash-lite.com^
 ||geometrydash-pc.com^
-||geometrydash.com.mx^
 ||geometrydash.com^
+||geometrydash.com.mx^
 ||geometrydash.es^
 ||geometrydash.gg^
 ||geometrydash.ie^
@@ -942,6 +949,7 @@
 ||gladihoppers.io^
 ||glazegames.com^
 ||globlegame.pages.dev^
+||gm.azgame.io^
 ||gnhustgames.org^
 ||gobattle.io^
 ||gogamego.io^
@@ -1469,6 +1477,7 @@
 ||plarium.com^
 ||play-games.com^
 ||play-minecraft-servers.com^
+||play-snake-game.com^
 ||play-time-past.vercel.app^
 ||play.gilect.com^
 ||play123.com^
@@ -1638,6 +1647,7 @@
 ||sacul-6.github.io^
 ||sandbox.game^
 ||sandboxelsgame.com^
+||santatracker.google.com^
 ||santiagodebus.com^
 ||say.games^
 ||scalacube.com^
@@ -1676,11 +1686,6 @@
 ||simple.game^
 ||simulationgameso.com^
 ||sinistersquidward.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -1738,6 +1743,7 @@
 ||smcraft.fun^
 ||smdgames.github.io^
 ||snailbob.games^
+||snake-game.io^
 ||snake-shadrouh.netlify.app^
 ||snake.io^
 ||snakeappgame.com^
@@ -1910,8 +1916,8 @@
 ||threejs-games.github.io^
 ||tiny-fishing-online.github.io^
 ||tiny-fishing-unblock.github.io^
-||tinyfishing.co.uk^
 ||tinyfishing.co^
+||tinyfishing.co.uk^
 ||tinyfishing.io^
 ||tinyfishing2.io^
 ||tinyplay.io^
@@ -2162,3 +2168,9 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
