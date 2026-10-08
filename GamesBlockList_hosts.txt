@@ -159,6 +159,7 @@
 0.0.0.0 azagames.io
 0.0.0.0 azenark.github.io
 0.0.0.0 azgames.io
+0.0.0.0 babygames.com
 0.0.0.0 bad-ice-cream-unblocked.github.io
 0.0.0.0 bad-icecream3.com
 0.0.0.0 bad-time-simulator.com
@@ -1941,6 +1942,7 @@
 0.0.0.0 stickypiston.co
 0.0.0.0 stormyskitten.github.io
 0.0.0.0 storytellergame.io
+0.0.0.0 storytellergamer.com
 0.0.0.0 strategygame.org
 0.0.0.0 stumbleguys.com
 0.0.0.0 stuntbikeextreme.io
