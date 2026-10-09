@@ -522,6 +522,7 @@
 0.0.0.0 crazylabs.com
 0.0.0.0 crazymonkeygames.com
 0.0.0.0 crazyschoolgames.com
+0.0.0.0 creepydates.org
 0.0.0.0 cribbage-online.net
 0.0.0.0 cross-code.com
 0.0.0.0 crossy-road-unblock.github.io
@@ -604,6 +605,7 @@
 0.0.0.0 doodlejumponline.github.io
 0.0.0.0 doodoo.love
 0.0.0.0 doodoolove.github.io
+0.0.0.0 dordle.io
 0.0.0.0 dordle.online
 0.0.0.0 doublespeakgames.com
 0.0.0.0 dragonawaken.com
@@ -832,6 +834,7 @@
 0.0.0.0 fr9.es
 0.0.0.0 frag-punk.github.io
 0.0.0.0 framedgame.io
+0.0.0.0 freaksgames.com
 0.0.0.0 free-aigames.com
 0.0.0.0 free-freecell-solitaire.com
 0.0.0.0 free-pacman.com
@@ -1863,6 +1866,7 @@
 0.0.0.0 quenq.com
 0.0.0.0 quenqgta.com
 0.0.0.0 quickflashgames.com
+0.0.0.0 quordle.com
 0.0.0.0 quordle.game
 0.0.0.0 racinglimits.net
 0.0.0.0 raft-life.com
@@ -2421,6 +2425,7 @@
 0.0.0.0 unblockedgames-6x-online.github.io
 0.0.0.0 unblockedgames-6x.bitbucket.io
 0.0.0.0 unblockedgames.blogbucket.org
+0.0.0.0 unblockedgames.com.es
 0.0.0.0 unblockedgames.pl
 0.0.0.0 unblockedgames.techgrapple.com
 0.0.0.0 unblockedgames1024.gitlab.io
@@ -2541,6 +2546,7 @@
 0.0.0.0 wordleunlimitedfree.com
 0.0.0.0 wordleunlimitedgame.org
 0.0.0.0 wordlyplay.com
+0.0.0.0 wordspine.com
 0.0.0.0 worldescapegames.com
 0.0.0.0 worldlegame.pages.dev
 0.0.0.0 wormate.io

@@ -2143,3 +2143,10 @@ stickmannhook
 tripletsandus
 watermelongame
 whitespider
+
+# --- Búsqueda dirigida: dating sim, wordle clones (quordle/dordle/wordspine), portal unblocked.com.es, freaksgames (6 confirmados), 2026-10-09 ---
+creepydates
+quordle
+wordspine
+dordle
+freaksgames

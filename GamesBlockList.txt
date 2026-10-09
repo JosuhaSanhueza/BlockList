@@ -521,6 +521,7 @@
 ||crazylabs.com^
 ||crazymonkeygames.com^
 ||crazyschoolgames.com^
+||creepydates.org^
 ||cribbage-online.net^
 ||cross-code.com^
 ||crossy-road-unblock.github.io^
@@ -603,6 +604,7 @@
 ||doodlejumponline.github.io^
 ||doodoo.love^
 ||doodoolove.github.io^
+||dordle.io^
 ||dordle.online^
 ||doublespeakgames.com^
 ||dragonawaken.com^
@@ -831,6 +833,7 @@
 ||fr9.es^
 ||frag-punk.github.io^
 ||framedgame.io^
+||freaksgames.com^
 ||free-aigames.com^
 ||free-freecell-solitaire.com^
 ||free-pacman.com^
@@ -1862,6 +1865,7 @@
 ||quenq.com^
 ||quenqgta.com^
 ||quickflashgames.com^
+||quordle.com^
 ||quordle.game^
 ||racinglimits.net^
 ||raft-life.com^
@@ -2420,6 +2424,7 @@
 ||unblockedgames-6x-online.github.io^
 ||unblockedgames-6x.bitbucket.io^
 ||unblockedgames.blogbucket.org^
+||unblockedgames.com.es^
 ||unblockedgames.pl^
 ||unblockedgames.techgrapple.com^
 ||unblockedgames1024.gitlab.io^
@@ -2540,6 +2545,7 @@
 ||wordleunlimitedfree.com^
 ||wordleunlimitedgame.org^
 ||wordlyplay.com^
+||wordspine.com^
 ||worldescapegames.com^
 ||worldlegame.pages.dev^
 ||wormate.io^
