@@ -379,6 +379,7 @@
 ||clickspersecond.com^
 ||cloudfront.net^
 ||cloudmoonapp.com^
+||cloudmoonapp.pages.dev^
 ||cluster-rush-games.github.io^
 ||cluster-rush-online.github.io^
 ||clusterrush.bitbucket.io^
@@ -880,7 +881,6 @@
 ||gameforge.com^
 ||gamefunbar.com^
 ||gamehouse.com^
-||gamhub.net^
 ||gameinabottle.com^
 ||gameis.net^
 ||gamejolt.com^
@@ -934,6 +934,7 @@
 ||gameyard.com^
 ||gamezipper.com^
 ||gamezop.com^
+||gamhub.net^
 ||gaminglab.dev^
 ||gamr.fun^
 ||gamui.com^
@@ -1784,6 +1785,12 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2289,9 +2296,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^

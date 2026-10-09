@@ -380,6 +380,7 @@
 0.0.0.0 clickspersecond.com
 0.0.0.0 cloudfront.net
 0.0.0.0 cloudmoonapp.com
+0.0.0.0 cloudmoonapp.pages.dev
 0.0.0.0 cluster-rush-games.github.io
 0.0.0.0 cluster-rush-online.github.io
 0.0.0.0 clusterrush.bitbucket.io
