@@ -759,6 +759,7 @@
 ||freeinvaders.org^
 ||freemcserver.net^
 ||freeonlinegames.com^
+||freepacman.org^
 ||freepapasgames.com^
 ||freepuzzles.net^
 ||freesolitaire.com^
@@ -819,6 +820,7 @@
 ||friv50000.com^
 ||friv9.org^
 ||friv90000.org^
+||friv99.com^
 ||frivace.com^
 ||frivantiguo.net^
 ||frivclasico.co^
@@ -1503,6 +1505,7 @@
 ||ozogames.com^
 ||p0xgames.online^
 ||pacmangamefree.com^
+||pacmangratis.net^
 ||pacmanunblocked.github.io^
 ||pacogames.com^
 ||pages.dev^
@@ -1785,12 +1788,6 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -1889,7 +1886,9 @@
 ||solitar.io^
 ||sorry-bob.org^
 ||sorrybob.io^
+||spacewaves.io^
 ||spacewaves2.org^
+||spacewavesfree.io^
 ||spades.co^
 ||speedescape.io^
 ||speedstarsgame.io^
@@ -2296,3 +2295,9 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^

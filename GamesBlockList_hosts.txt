@@ -760,6 +760,7 @@
 0.0.0.0 freeinvaders.org
 0.0.0.0 freemcserver.net
 0.0.0.0 freeonlinegames.com
+0.0.0.0 freepacman.org
 0.0.0.0 freepapasgames.com
 0.0.0.0 freepuzzles.net
 0.0.0.0 freesolitaire.com
@@ -820,6 +821,7 @@
 0.0.0.0 friv50000.com
 0.0.0.0 friv9.org
 0.0.0.0 friv90000.org
+0.0.0.0 friv99.com
 0.0.0.0 frivace.com
 0.0.0.0 frivantiguo.net
 0.0.0.0 frivclasico.co
@@ -1504,6 +1506,7 @@
 0.0.0.0 ozogames.com
 0.0.0.0 p0xgames.online
 0.0.0.0 pacmangamefree.com
+0.0.0.0 pacmangratis.net
 0.0.0.0 pacmanunblocked.github.io
 0.0.0.0 pacogames.com
 0.0.0.0 pages.dev
@@ -1884,7 +1887,9 @@
 0.0.0.0 solitar.io
 0.0.0.0 sorry-bob.org
 0.0.0.0 sorrybob.io
+0.0.0.0 spacewaves.io
 0.0.0.0 spacewaves2.org
+0.0.0.0 spacewavesfree.io
 0.0.0.0 spades.co
 0.0.0.0 speedescape.io
 0.0.0.0 speedstarsgame.io

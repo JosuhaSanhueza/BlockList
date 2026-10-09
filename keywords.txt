@@ -1928,3 +1928,9 @@ googlesites
 # --- Nuevos dominios verificados vía artículos "top paginas de juegos", 2026-10-08 ---
 gamhub
 mixfreegames
+
+# --- Adiciones manuales: pacman, friv99, spacewaves, 2026-10-09 ---
+freepacman
+pacmangratis
+friv99
+spacewaves
