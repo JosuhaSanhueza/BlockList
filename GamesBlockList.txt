@@ -312,6 +312,7 @@
 ||browsercraft.com^
 ||browsergame-base.de^
 ||browsergamers.gg^
+||bstar.pages.dev^
 ||bubblebox.com^
 ||bubbleshooteonline.github.io^
 ||bubbleshooter.net^
@@ -2004,6 +2005,12 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2093,6 +2100,7 @@
 ||snow-rider3d.github.io^
 ||snow-rider3d.io^
 ||snowboarding-game.io^
+||snowrider.com^
 ||snowrider.game^
 ||snowrider.org^
 ||snowrider.pro^
@@ -2247,6 +2255,7 @@
 ||sycesgameshack.com^
 ||sylestia.com^
 ||sz-games.github.io^
+||sz.games^
 ||szgames.net^
 ||szgamesunblocked.github.io^
 ||szunami.itch.io^
@@ -2601,9 +2610,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^

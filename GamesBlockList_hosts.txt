@@ -313,6 +313,7 @@
 0.0.0.0 browsercraft.com
 0.0.0.0 browsergame-base.de
 0.0.0.0 browsergamers.gg
+0.0.0.0 bstar.pages.dev
 0.0.0.0 bubblebox.com
 0.0.0.0 bubbleshooteonline.github.io
 0.0.0.0 bubbleshooter.net
@@ -2094,6 +2095,7 @@
 0.0.0.0 snow-rider3d.github.io
 0.0.0.0 snow-rider3d.io
 0.0.0.0 snowboarding-game.io
+0.0.0.0 snowrider.com
 0.0.0.0 snowrider.game
 0.0.0.0 snowrider.org
 0.0.0.0 snowrider.pro
@@ -2248,6 +2250,7 @@
 0.0.0.0 sycesgameshack.com
 0.0.0.0 sylestia.com
 0.0.0.0 sz-games.github.io
+0.0.0.0 sz.games
 0.0.0.0 szgames.net
 0.0.0.0 szgamesunblocked.github.io
 0.0.0.0 szunami.itch.io
