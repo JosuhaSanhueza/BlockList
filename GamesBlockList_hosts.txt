@@ -408,6 +408,7 @@
 0.0.0.0 classroom4x.com
 0.0.0.0 classroom6x-games.bitbucket.io
 0.0.0.0 classroom6x-games.gitlab.io
+0.0.0.0 classroom6x.firebaseapp.com
 0.0.0.0 classroom6x.gg
 0.0.0.0 classroom6x.github.io
 0.0.0.0 classroom6x.lol
@@ -1724,6 +1725,7 @@
 0.0.0.0 penaltyshooters.gitlab.io
 0.0.0.0 penaltyshooters.io
 0.0.0.0 petezahgames.com
+0.0.0.0 petezahgames26.firebaseapp.com
 0.0.0.0 phaser.io
 0.0.0.0 physicsgames.net
 0.0.0.0 picklekid31.github.io

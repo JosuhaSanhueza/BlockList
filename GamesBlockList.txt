@@ -407,6 +407,7 @@
 ||classroom4x.com^
 ||classroom6x-games.bitbucket.io^
 ||classroom6x-games.gitlab.io^
+||classroom6x.firebaseapp.com^
 ||classroom6x.gg^
 ||classroom6x.github.io^
 ||classroom6x.lol^
@@ -1723,6 +1724,7 @@
 ||penaltyshooters.gitlab.io^
 ||penaltyshooters.io^
 ||petezahgames.com^
+||petezahgames26.firebaseapp.com^
 ||phaser.io^
 ||physicsgames.net^
 ||picklekid31.github.io^
