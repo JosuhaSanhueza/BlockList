@@ -7,6 +7,8 @@ Dos tareas, ambas solo lectura contra AdGuard:
   --log-review    Lee el registro de consultas, toma dominios NO bloqueados, los clasifica con
                   is_game_website() y deja una lista corta de candidatos para aprobar.
   --apply FILE    Agrega a GamesBlockList.txt los dominios (primer token de cada línea) de FILE.
+  --export        Sitio: escribe el resumen del día (dominio + conteos) en un JSON local.
+  --merge DIR     Central: une los reportes JSON de DIR, clasifica una vez y publica.
   --nightly       Modo autónomo (pensado para cron en el servidor): lee solo las últimas 24 h,
                   sube reglas manuales faltantes, clasifica, agrega con límites, valida,
                   hace commit/push y deja un informe en scripts/logs/. Ver --dry-run.
@@ -251,6 +253,141 @@ def run(cmd):
     return subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
 
 
+def publish(new, original, path, dry_run, origin):
+    """Escribe, valida, hace commit y push. Devuelve un texto de estado."""
+    if not new:
+        return "sin cambios"
+    if dry_run:
+        return f"dry-run: se agregarían {len(new)} dominios"
+    backup = open(BLOCKLIST, encoding="utf-8").read()
+    write_blocklist(original | set(new), path)
+    v = run([sys.executable, os.path.join("scripts", "validate_blocklist.py")])
+    if v.returncode != 0:
+        open(BLOCKLIST, "w", encoding="utf-8").write(backup)
+        return "REVERTIDO: la validación falló\n" + (v.stdout + v.stderr)[-600:]
+    run([sys.executable, os.path.join("scripts", "generate_hosts_format.py")])
+    run(["git", "pull", "--rebase", "--autostash", "origin", "main", "-q"])
+    run(["git", "add", "-u"])
+    msg = (f"auto(nightly): +{len(new)} dominios {origin} [skip ci]\n\n"
+           + "\n".join(f"- {d}" for d in new))
+    c = run(["git", "-c", "user.name=BlockList Nightly", "-c", "user.email=nightly@localhost",
+             "commit", "-q", "-m", msg])
+    p = run(["git", "push", "-q", "origin", "HEAD"]) if c.returncode == 0 else c
+    h = run(["git", "rev-parse", "--short", "HEAD"]).stdout.strip()
+    return (f"commit {h} publicado (revertir: git revert {h})" if p.returncode == 0
+            else "commit local hecho pero el push falló: " + (p.stderr or p.stdout)[-400:])
+
+
+def classify_candidates(cand, workers):
+    from scripts.update_blocklist import is_game_website
+
+    def one(item):
+        try:
+            return item, bool(is_game_website(item[0]))
+        except Exception:
+            return item, None
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        return [it for it, ok in ex.map(one, cand) if ok], len(cand)
+
+
+def build_export(entries, manual, site, hours, min_queries=2, top=3000):
+    """Resumen anónimo del día: solo dominio + conteos (sin IPs ni nombres de equipo)."""
+    stats = extract_unblocked(entries)
+    keep = sorted(((d, s) for d, s in stats.items() if s["queries"] >= min_queries),
+                  key=lambda kv: -kv[1]["queries"])[:top]
+    return {"site": site, "date": f"{datetime.now():%Y-%m-%d}", "hours": hours,
+            "domains": {d: s for d, s in keep}, "manual": sorted(set(manual))}
+
+
+def merge_reports(reports):
+    """Suma conteos de varios sitios. clients = suma de equipos distintos por sitio."""
+    merged, manual = {}, {}
+    for r in reports:
+        site = r.get("site", "?")
+        for d, s in (r.get("domains") or {}).items():
+            m = merged.setdefault(d, {"queries": 0, "clients": 0, "sites": set()})
+            m["queries"] += int(s.get("queries", 0))
+            m["clients"] += int(s.get("clients", 0))
+            m["sites"].add(site)
+        for d in r.get("manual") or []:
+            manual.setdefault(d, set()).add(site)
+    return merged, manual
+
+
+def cmd_export(args):
+    """Escribe el resumen del día en un archivo local. La subida al buzón es un paso aparte."""
+    site = os.environ.get("ADGUARD_SITE", "")
+    if not site:
+        sys.exit("Falta ADGUARD_SITE (identificador del colegio) en scripts/.env.local")
+    entries, src = load_entries(args.hours)
+    try:
+        manual = load_custom_rules()
+    except Exception as ex:
+        print("[AVISO] reglas manuales no disponibles:", ex)
+        manual = []
+    payload = build_export(entries, manual, site, args.hours)
+    out = args.out or os.path.join(LOG_DIR, f"export_{site}_{payload['date']}.json")
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    json.dump(payload, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"{len(entries)} consultas ({src}) -> {len(payload['domains'])} dominios, "
+          f"{len(manual)} reglas manuales -> {out}")
+
+
+def cmd_merge(args):
+    root = args.merge
+    cutoff = f"{datetime.now() - timedelta(days=args.days):%Y-%m-%d}"
+    reports = []
+    for dp, _, files in os.walk(root):
+        for fn in files:
+            if fn.endswith(".json") and fn[:-5][-10:] >= cutoff:
+                try:
+                    reports.append(json.load(open(os.path.join(dp, fn), encoding="utf-8")))
+                except Exception:
+                    pass
+    lines = []
+
+    def say(x=""):
+        print(x)
+        lines.append(x)
+
+    say(f"=== Informe de fusión {datetime.now():%Y-%m-%d %H:%M} ===")
+    sites = sorted({r.get("site", "?") for r in reports})
+    say(f"Reportes: {len(reports)} | sitios: {', '.join(sites) or '-'}")
+    doms, path = read_blocklist()
+    wl, exc = whitelist()
+    original = set(doms)
+    merged, manual = merge_reports(reports)
+
+    added_manual = sorted(d for d in manual if re.fullmatch(r"[a-z0-9.-]+\.[a-z]{2,}", d)
+                          and not covered(d, doms) and not is_whitelisted(d, wl, exc))
+    for d in added_manual:
+        say(f"  + (manual en {len(manual[d])} sitio/s) {d}")
+    doms |= set(added_manual)
+
+    cand = sorted(((d, m) for d, m in merged.items()
+                   if not covered(d, doms) and not is_whitelisted(d, wl, exc)
+                   and m["queries"] >= args.min_queries and m["clients"] >= args.min_clients),
+                  key=lambda kv: (-len(kv[1]["sites"]), -kv[1]["queries"]))[: args.limit]
+    games, n = classify_candidates(
+        [(d, {"queries": m["queries"], "clients": m["clients"], "sites": len(m["sites"])}) for d, m in cand],
+        args.workers)
+    say(f"Evaluados: {n} | clasificados como juego: {len(games)} | descartados: {n - len(games)}")
+    added_auto = []
+    for d, s in games[: args.max_add]:
+        added_auto.append(d)
+        say(f"  + {d}  ({s['queries']} consultas, {s['clients']} equipos, {s['sites']} sitio/s)")
+    for d, s in games[args.max_add:]:
+        say(f"  . pendiente (tope diario): {d}")
+    new = sorted(set(added_manual) | set(added_auto))
+    status = publish(new, original, path, args.dry_run, "desde reportes de los colegios")
+    say(f"Resultado: {len(new)} dominios nuevos | {status}")
+    os.makedirs(LOG_DIR, exist_ok=True)
+    out = args.out or os.path.join(LOG_DIR, f"informe_fusion_{datetime.now():%Y-%m-%d}.txt")
+    open(out, "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    print("Informe:", out)
+
+
 def cmd_nightly(args):
     from scripts.update_blocklist import is_game_website
     lines = []
@@ -310,28 +447,7 @@ def cmd_nightly(args):
         say(f"  ! regla manual protegida por whitelist (no agregada): {d}")
 
     new = sorted(set(added_manual) | set(added_auto))
-    status = "sin cambios"
-    if new and not args.dry_run:
-        backup = open(BLOCKLIST, encoding="utf-8").read()
-        write_blocklist(original | set(new), path)
-        v = run([sys.executable, os.path.join("scripts", "validate_blocklist.py")])
-        if v.returncode != 0:
-            open(BLOCKLIST, "w", encoding="utf-8").write(backup)
-            status = "REVERTIDO: la validación falló\n" + (v.stdout + v.stderr)[-600:]
-        else:
-            run([sys.executable, os.path.join("scripts", "generate_hosts_format.py")])
-            run(["git", "pull", "--rebase", "--autostash", "origin", "main", "-q"])
-            run(["git", "add", "-u"])
-            msg = (f"auto(nightly): +{len(new)} dominios desde el registro de AdGuard [skip ci]\n\n"
-                   + "\n".join(f"- {d}" for d in new))
-            c = run(["git", "-c", "user.name=BlockList Nightly", "-c", "user.email=nightly@localhost",
-                     "commit", "-q", "-m", msg])
-            p = run(["git", "push", "-q", "origin", "HEAD"]) if c.returncode == 0 else c
-            h = run(["git", "rev-parse", "--short", "HEAD"]).stdout.strip()
-            status = (f"commit {h} publicado (revertir: git revert {h})" if p.returncode == 0
-                      else "commit local hecho pero el push falló: " + (p.stderr or p.stdout)[-400:])
-    elif new:
-        status = f"dry-run: se agregarían {len(new)} dominios"
+    status = publish(new, original, path, args.dry_run, "desde el registro de AdGuard")
     say(f"Resultado: {len(new)} dominios nuevos | {status}")
 
     os.makedirs(LOG_DIR, exist_ok=True)
@@ -412,14 +528,21 @@ def main():
     p.add_argument("--nightly", action="store_true")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--min-clients", type=int, default=2)
-    p.add_argument("--max-add", type=int, default=30)
+    p.add_argument("--max-add", type=int, default=100)
+    p.add_argument("--export", action="store_true")
+    p.add_argument("--merge", metavar="DIR")
+    p.add_argument("--days", type=int, default=1)
     p.add_argument("--hours", type=int, default=24)
     p.add_argument("--min-queries", type=int, default=3)
     p.add_argument("--limit", type=int, default=300)
     p.add_argument("--workers", type=int, default=8)
     p.add_argument("--out")
     a = p.parse_args()
-    if a.nightly:
+    if a.export:
+        cmd_export(a)
+    elif a.merge:
+        cmd_merge(a)
+    elif a.nightly:
         cmd_nightly(a)
     elif a.apply:
         cmd_apply(a)
