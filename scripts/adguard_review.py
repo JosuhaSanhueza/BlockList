@@ -7,6 +7,12 @@ Dos tareas, ambas solo lectura contra AdGuard:
   --log-review    Lee el registro de consultas, toma dominios NO bloqueados, los clasifica con
                   is_game_website() y deja una lista corta de candidatos para aprobar.
   --apply FILE    Agrega a GamesBlockList.txt los dominios (primer token de cada línea) de FILE.
+  --nightly       Modo autónomo (pensado para cron en el servidor): lee solo las últimas 24 h,
+                  sube reglas manuales faltantes, clasifica, agrega con límites, valida,
+                  hace commit/push y deja un informe en scripts/logs/. Ver --dry-run.
+
+En el servidor OPNsense lee directo los archivos de AdGuard (data/querylog.json y
+AdGuardHome.yaml), sin API ni contraseña. Directorio: ADGUARD_DIR o autodetección.
 
 Credenciales en scripts/.env.local (fuera de git):
   export ADGUARD_URL="http://192.168.12.1:3000"
@@ -21,6 +27,7 @@ import base64
 import json
 import os
 import re
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -31,6 +38,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 BLOCKLIST = os.path.join(ROOT, "GamesBlockList.txt")
 ENV_FILE = os.path.join(ROOT, "scripts", ".env.local")
+ADGUARD_DIRS = ("/usr/local/AdGuardHome", "/usr/local/bin", "/var/db/adguardhome", "/var/adguardhome",
+                "/usr/local/etc/adguardhome", "/opt/AdGuardHome", "/etc/AdGuardHome")
+# Códigos de "reason" del querylog.json de AdGuard: solo 0 es consulta no filtrada normal.
+REASON_NOT_FILTERED = 0
 LOG_DIR = os.path.join(ROOT, "scripts", "logs")
 
 # Hosting compartido: aquí el "dominio" a bloquear es el subdominio completo.
@@ -167,6 +178,168 @@ def write_blocklist(doms, path):
             f.write(p + "\n")
 
 
+def find_adguard_dir():
+    cands = [os.environ["ADGUARD_DIR"]] if os.environ.get("ADGUARD_DIR") else list(ADGUARD_DIRS)
+    for d in cands:
+        if os.path.exists(os.path.join(d, "AdGuardHome.yaml")) or os.path.exists(os.path.join(d, "data", "querylog.json")):
+            return d
+    return None
+
+
+def parse_yaml_user_rules(text):
+    """Extrae la lista user_rules de AdGuardHome.yaml sin depender de PyYAML."""
+    out, inside = [], False
+    for line in text.splitlines():
+        st = line.strip()
+        if not inside:
+            if re.match(r"user_rules\s*:", st):
+                inside = True
+                if "[]" in st:
+                    break
+            continue
+        if st.startswith("- "):
+            v = st[2:].strip()
+            if len(v) >= 2 and v[0] == v[-1] and v[0] in "'\"":
+                v = v[1:-1]
+            out.append(v)
+        elif st == "" or st.startswith("#"):
+            continue
+        else:
+            break
+    return out
+
+
+def read_querylog_file(path, hours):
+    """Lee querylog.json (y su .1 rotado) y entrega entradas con la forma de la API."""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    out = []
+    for fp in (path + ".1", path):
+        if not os.path.exists(fp):
+            continue
+        with open(fp, encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                try:
+                    e = json.loads(line)
+                    t = e.get("T")
+                    if not t or parse_time(t) < cutoff:
+                        continue
+                    res = e.get("Result") or {}
+                    ok = not res.get("IsFiltered") and res.get("Reason", 0) == REASON_NOT_FILTERED
+                    out.append({"reason": "NotFilteredNotFound" if ok else "Filtered",
+                                "question": {"name": e.get("QH", "")},
+                                "client": e.get("IP", ""), "time": t})
+                except Exception:
+                    continue
+    return out
+
+
+def load_entries(hours):
+    d = find_adguard_dir()
+    if d and os.path.exists(os.path.join(d, "data", "querylog.json")):
+        return read_querylog_file(os.path.join(d, "data", "querylog.json"), hours), "archivo local " + d
+    return fetch_log(hours), "API " + os.environ.get("ADGUARD_URL", "")
+
+
+def load_custom_rules():
+    d = find_adguard_dir()
+    if d and os.path.exists(os.path.join(d, "AdGuardHome.yaml")):
+        return parse_user_rules(parse_yaml_user_rules(open(os.path.join(d, "AdGuardHome.yaml"), encoding="utf-8").read()))
+    return parse_user_rules(api_get("/control/filtering/status").get("user_rules"))
+
+
+def run(cmd):
+    return subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
+
+
+def cmd_nightly(args):
+    from scripts.update_blocklist import is_game_website
+    lines = []
+
+    def say(s=""):
+        print(s)
+        lines.append(s)
+
+    day = f"{datetime.now():%Y-%m-%d}"
+    say(f"=== Informe nocturno {datetime.now():%Y-%m-%d %H:%M} ===")
+    doms, path = read_blocklist()
+    wl, exc = whitelist()
+    original = set(doms)
+    added_manual, added_auto, skipped = [], [], []
+
+    # 1. Reglas manuales del filtro personalizado que faltan en GitHub (decisión ya tomada por ti).
+    try:
+        custom = load_custom_rules()
+        for d in sorted(set(custom)):
+            if covered(d, doms):
+                continue
+            (skipped if is_whitelisted(d, wl, exc) else added_manual).append(d)
+        say(f"Reglas manuales en AdGuard: {len(custom)} | nuevas para GitHub: {len(added_manual)}")
+    except Exception as ex:
+        say(f"[AVISO] No se pudieron leer las reglas manuales: {ex}")
+    doms |= set(added_manual)
+
+    # 2. Dominios no bloqueados del día, clasificados.
+    try:
+        entries, src = load_entries(args.hours)
+        stats = extract_unblocked(entries)
+        say(f"Consultas leídas ({src}, últimas {args.hours} h): {len(entries)} | dominios no bloqueados: {len(stats)}")
+        cand = sorted(((d, s) for d, s in stats.items()
+                       if not covered(d, doms) and not is_whitelisted(d, wl, exc)
+                       and s["queries"] >= args.min_queries and s["clients"] >= args.min_clients),
+                      key=lambda kv: -kv[1]["queries"])[: args.limit]
+
+        def classify(item):
+            try:
+                return item, bool(is_game_website(item[0]))
+            except Exception:
+                return item, None
+
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            res = list(ex.map(classify, cand))
+        games = [it for it, ok in res if ok]
+        say(f"Evaluados: {len(cand)} | clasificados como juego: {len(games)} | descartados: {len(cand) - len(games)}")
+        for d, s in games[: args.max_add]:
+            added_auto.append(d)
+            say(f"  + {d}  ({s['queries']} consultas, {s['clients']} equipos)")
+        for d, s in games[args.max_add:]:
+            say(f"  . pendiente (tope diario): {d}  ({s['queries']} consultas)")
+    except Exception as ex:
+        say(f"[ERROR] No se pudo analizar el registro: {ex}")
+
+    for d in skipped:
+        say(f"  ! regla manual protegida por whitelist (no agregada): {d}")
+
+    new = sorted(set(added_manual) | set(added_auto))
+    status = "sin cambios"
+    if new and not args.dry_run:
+        backup = open(BLOCKLIST, encoding="utf-8").read()
+        write_blocklist(original | set(new), path)
+        v = run([sys.executable, os.path.join("scripts", "validate_blocklist.py")])
+        if v.returncode != 0:
+            open(BLOCKLIST, "w", encoding="utf-8").write(backup)
+            status = "REVERTIDO: la validación falló\n" + (v.stdout + v.stderr)[-600:]
+        else:
+            run([sys.executable, os.path.join("scripts", "generate_hosts_format.py")])
+            run(["git", "pull", "--rebase", "--autostash", "origin", "main", "-q"])
+            run(["git", "add", "-u"])
+            msg = (f"auto(nightly): +{len(new)} dominios desde el registro de AdGuard [skip ci]\n\n"
+                   + "\n".join(f"- {d}" for d in new))
+            c = run(["git", "-c", "user.name=BlockList Nightly", "-c", "user.email=nightly@localhost",
+                     "commit", "-q", "-m", msg])
+            p = run(["git", "push", "-q", "origin", "HEAD"]) if c.returncode == 0 else c
+            h = run(["git", "rev-parse", "--short", "HEAD"]).stdout.strip()
+            status = (f"commit {h} publicado (revertir: git revert {h})" if p.returncode == 0
+                      else "commit local hecho pero el push falló: " + (p.stderr or p.stdout)[-400:])
+    elif new:
+        status = f"dry-run: se agregarían {len(new)} dominios"
+    say(f"Resultado: {len(new)} dominios nuevos | {status}")
+
+    os.makedirs(LOG_DIR, exist_ok=True)
+    out = args.out or os.path.join(LOG_DIR, f"informe_{day}.txt")
+    open(out, "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    print("Informe:", out)
+
+
 def cmd_sync_custom(args):
     doms, _ = read_blocklist()
     wl, exc = whitelist()
@@ -236,13 +409,19 @@ def main():
     p.add_argument("--sync-custom", action="store_true")
     p.add_argument("--log-review", action="store_true")
     p.add_argument("--apply", metavar="FILE")
+    p.add_argument("--nightly", action="store_true")
+    p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--min-clients", type=int, default=2)
+    p.add_argument("--max-add", type=int, default=30)
     p.add_argument("--hours", type=int, default=24)
     p.add_argument("--min-queries", type=int, default=3)
     p.add_argument("--limit", type=int, default=300)
     p.add_argument("--workers", type=int, default=8)
     p.add_argument("--out")
     a = p.parse_args()
-    if a.apply:
+    if a.nightly:
+        cmd_nightly(a)
+    elif a.apply:
         cmd_apply(a)
     elif a.sync_custom:
         cmd_sync_custom(a)

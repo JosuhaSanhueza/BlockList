@@ -1,5 +1,9 @@
-from scripts.adguard_review import (covered, extract_unblocked, is_whitelisted,
-                                     parse_time, parse_user_rules, registrable)
+import json
+from datetime import datetime, timezone
+
+from scripts.adguard_review import (covered, extract_unblocked, is_whitelisted, parse_time,
+                                     parse_user_rules, parse_yaml_user_rules,
+                                     read_querylog_file, registrable)
 
 
 def test_registrable_apex_and_subdomains():
@@ -41,3 +45,22 @@ def test_covered_and_whitelist():
 def test_parse_time_with_nanoseconds():
     t = parse_time("2026-10-10T21:20:00.123456789-03:00")
     assert t.year == 2026 and t.hour == 21
+
+
+def test_parse_yaml_user_rules():
+    y = "dns:\n  port: 53\nuser_rules:\n  - '||a.com^'\n  - \"@@||b.com^\"\n  - ||c.org^\nother: 1\n"
+    assert parse_yaml_user_rules(y) == ["||a.com^", "@@||b.com^", "||c.org^"]
+    assert parse_yaml_user_rules("user_rules: []\nx: 1\n") == []
+
+
+def test_read_querylog_file(tmp_path):
+    now = datetime.now(timezone.utc).isoformat()
+    rows = [
+        {"T": now, "QH": "game.com", "IP": "10.0.0.5", "Result": {"IsFiltered": False, "Reason": 0}},
+        {"T": now, "QH": "bad.com", "IP": "10.0.0.5", "Result": {"IsFiltered": True, "Reason": 3}},
+        {"T": "2020-01-01T00:00:00Z", "QH": "old.com", "IP": "10.0.0.6", "Result": {}},
+    ]
+    f = tmp_path / "querylog.json"
+    f.write_text("\n".join(json.dumps(r) for r in rows) + "\nnot json\n")
+    got = extract_unblocked(read_querylog_file(str(f), 24))
+    assert got == {"game.com": {"queries": 1, "clients": 1}}
