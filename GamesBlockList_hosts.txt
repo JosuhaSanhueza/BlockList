@@ -1018,6 +1018,7 @@
 0.0.0.0 games.serp.co
 0.0.0.0 games4.com
 0.0.0.0 games44.com
+0.0.0.0 games4free.com
 0.0.0.0 gamesaturn.com
 0.0.0.0 gamesbrowser.org
 0.0.0.0 gamesbyai.win

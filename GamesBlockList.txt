@@ -1017,6 +1017,7 @@
 ||games.serp.co^
 ||games4.com^
 ||games44.com^
+||games4free.com^
 ||gamesaturn.com^
 ||gamesbrowser.org^
 ||gamesbyai.win^
