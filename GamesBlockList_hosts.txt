@@ -703,6 +703,7 @@
 0.0.0.0 eaglercraftx1-8.pages.dev
 0.0.0.0 eaglercraftz.pages.dev
 0.0.0.0 eaglerforge.github.io
+0.0.0.0 eaglerlite.1b2t.xyz
 0.0.0.0 easegame.com
 0.0.0.0 easyfun.gg
 0.0.0.0 edgesuite.net
@@ -766,6 +767,7 @@
 0.0.0.0 federyeeco.itch.io
 0.0.0.0 femo.com
 0.0.0.0 ff.garena.com
+0.0.0.0 fgl.com
 0.0.0.0 findeaglerservers.com
 0.0.0.0 fireboy-and-watergirl.io
 0.0.0.0 fireboynwatergirl.com
@@ -960,6 +962,7 @@
 0.0.0.0 furryrefuge.com
 0.0.0.0 futbol-11.com
 0.0.0.0 fuzigames.com
+0.0.0.0 g5.com
 0.0.0.0 g7r.com
 0.0.0.0 gacha-life-2.com
 0.0.0.0 gacha-life-online.com
@@ -2173,6 +2176,7 @@
 0.0.0.0 squaresgame.pages.dev
 0.0.0.0 squid-game.pro
 0.0.0.0 srunners.com
+0.0.0.0 st4rf1re.space
 0.0.0.0 stabfish.io
 0.0.0.0 starblast.io
 0.0.0.0 stardoll.com
@@ -2381,6 +2385,7 @@
 0.0.0.0 tyroneunblockedgames.com
 0.0.0.0 tyroneunblockedgames.gitlab.io
 0.0.0.0 ub-g.github.io
+0.0.0.0 ubg005.gitlab.io
 0.0.0.0 ubg365.github.io
 0.0.0.0 ubg365.gitlab.io
 0.0.0.0 ubg67.com

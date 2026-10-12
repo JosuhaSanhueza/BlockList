@@ -2150,3 +2150,10 @@ quordle
 wordspine
 dordle
 freaksgames
+
+# --- Artículos "top paginas de juegos"/match-3/bowling/cartas, GitHub topics io-games/
+# unblocked-games/eaglercraft/html5-games/browser-game (5 confirmados: g5, ubg005,
+# eaglercraft mirror 1b2t, mirror st4rfire, fgl), 2026-10-12 ---
+ubg005
+eaglerlite
+st4rf1re

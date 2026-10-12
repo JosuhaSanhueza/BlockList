@@ -2613,3 +2613,8 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||g5.com^
+||ubg005.gitlab.io^
+||eaglerlite.1b2t.xyz^
+||st4rf1re.space^
+||fgl.com^
