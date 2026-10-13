@@ -2157,3 +2157,11 @@ freaksgames
 ubg005
 eaglerlite
 st4rf1re
+
+# --- Búsqueda dirigida: alternativas a Poki/CrazyGames, .io/battle royale, idle/clicker,
+# GitHub topics io-games/html5-games/eaglercraft/idle-game (4 confirmados: nitrotype,
+# hexarena, arthis, melvoridle), 2026-10-13 ---
+nitrotype
+hexarena
+arthis
+melvoridle

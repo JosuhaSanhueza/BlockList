@@ -161,6 +161,7 @@
 0.0.0.0 armorgames.online
 0.0.0.0 armywars.com
 0.0.0.0 artbitrator.com
+0.0.0.0 arthis.space
 0.0.0.0 arvexgames.com
 0.0.0.0 ascjogos.org.br
 0.0.0.0 asobrain.com
@@ -1212,6 +1213,7 @@
 0.0.0.0 helmetroyale.io
 0.0.0.0 hexanaut.io
 0.0.0.0 hexar.io
+0.0.0.0 hexarena.io
 0.0.0.0 hexasortgame.org
 0.0.0.0 hidden247.com
 0.0.0.0 hiddenobjectgames.com
@@ -1485,6 +1487,7 @@
 0.0.0.0 melonplayground.lol
 0.0.0.0 melonplaygroundgame.org
 0.0.0.0 melonsandboxgame.io
+0.0.0.0 melvoridle.com
 0.0.0.0 memorymatching.com
 0.0.0.0 meowdoku.games
 0.0.0.0 meowplayground.com
@@ -1627,6 +1630,7 @@
 0.0.0.0 nitrado.com
 0.0.0.0 nitrado.net
 0.0.0.0 nitrome.com
+0.0.0.0 nitrotype.com
 0.0.0.0 nocache.pomu.com
 0.0.0.0 nointernetgame.com
 0.0.0.0 nopixel5minigames.pages.dev

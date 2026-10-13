@@ -160,6 +160,7 @@
 ||armorgames.online^
 ||armywars.com^
 ||artbitrator.com^
+||arthis.space^
 ||arvexgames.com^
 ||ascjogos.org.br^
 ||asobrain.com^
@@ -1211,6 +1212,7 @@
 ||helmetroyale.io^
 ||hexanaut.io^
 ||hexar.io^
+||hexarena.io^
 ||hexasortgame.org^
 ||hidden247.com^
 ||hiddenobjectgames.com^
@@ -1484,6 +1486,7 @@
 ||melonplayground.lol^
 ||melonplaygroundgame.org^
 ||melonsandboxgame.io^
+||melvoridle.com^
 ||memorymatching.com^
 ||meowdoku.games^
 ||meowplayground.com^
@@ -1626,6 +1629,7 @@
 ||nitrado.com^
 ||nitrado.net^
 ||nitrome.com^
+||nitrotype.com^
 ||nocache.pomu.com^
 ||nointernetgame.com^
 ||nopixel5minigames.pages.dev^
