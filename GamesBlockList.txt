@@ -257,6 +257,7 @@
 ||blockblaast.com^
 ||blockblast.es^
 ||blockblastonline.com^
+||blockblastunblocked.com^
 ||blockblastunblocked.gitlab.io^
 ||blockbreakergame.co^
 ||blockplay.net^
@@ -702,6 +703,7 @@
 ||eaglercraftx1-8.pages.dev^
 ||eaglercraftz.pages.dev^
 ||eaglerforge.github.io^
+||eaglerlite.1b2t.xyz^
 ||easegame.com^
 ||easyfun.gg^
 ||edgesuite.net^
@@ -765,6 +767,7 @@
 ||federyeeco.itch.io^
 ||femo.com^
 ||ff.garena.com^
+||fgl.com^
 ||findeaglerservers.com^
 ||fireboy-and-watergirl.io^
 ||fireboynwatergirl.com^
@@ -959,6 +962,7 @@
 ||furryrefuge.com^
 ||futbol-11.com^
 ||fuzigames.com^
+||g5.com^
 ||g7r.com^
 ||gacha-life-2.com^
 ||gacha-life-online.com^
@@ -1905,6 +1909,7 @@
 ||retro-bowl-75.github.io^
 ||retro-bowl-unblocked.bitbucket.io^
 ||retroarch.com^
+||retroarch.io^
 ||retrobowl-25.github.io^
 ||retrobowl-76.github.io^
 ||retrobowl.app^
@@ -2178,6 +2183,7 @@
 ||squaresgame.pages.dev^
 ||squid-game.pro^
 ||srunners.com^
+||st4rf1re.space^
 ||stabfish.io^
 ||starblast.io^
 ||stardoll.com^
@@ -2386,6 +2392,7 @@
 ||tyroneunblockedgames.com^
 ||tyroneunblockedgames.gitlab.io^
 ||ub-g.github.io^
+||ubg005.gitlab.io^
 ||ubg365.github.io^
 ||ubg365.gitlab.io^
 ||ubg67.com^
@@ -2613,8 +2620,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||g5.com^
-||ubg005.gitlab.io^
-||eaglerlite.1b2t.xyz^
-||st4rf1re.space^
-||fgl.com^

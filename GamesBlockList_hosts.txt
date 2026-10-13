@@ -258,6 +258,7 @@
 0.0.0.0 blockblaast.com
 0.0.0.0 blockblast.es
 0.0.0.0 blockblastonline.com
+0.0.0.0 blockblastunblocked.com
 0.0.0.0 blockblastunblocked.gitlab.io
 0.0.0.0 blockbreakergame.co
 0.0.0.0 blockplay.net
@@ -1909,6 +1910,7 @@
 0.0.0.0 retro-bowl-75.github.io
 0.0.0.0 retro-bowl-unblocked.bitbucket.io
 0.0.0.0 retroarch.com
+0.0.0.0 retroarch.io
 0.0.0.0 retrobowl-25.github.io
 0.0.0.0 retrobowl-76.github.io
 0.0.0.0 retrobowl.app
