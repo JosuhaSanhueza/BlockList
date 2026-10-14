@@ -2,16 +2,16 @@
 """Auditor diario de la lista de juegos a partir de los colegios con EscolarApp Shield.
 
 Cada EscolarApp Shield envía una vez al día al hub (dash.escolarapp.cl) un reporte anónimo:
-dominios no bloqueados vistos por al menos 2 equipos, con sus conteos, más sus reglas manuales
-y sus excepciones (@@). Este script, pensado para GitHub Actions:
+dominios no bloqueados vistos por al menos 2 equipos, con sus conteos. El filtro personalizado
+de cada colegio NO se usa: es decisión de su informático y no debe influir en la lista común.
+Este script, pensado para GitHub Actions:
 
   1. Descarga los reportes del día y las decisiones tomadas en el panel.
   2. Clasifica los dominios nuevos con is_game_website().
-  3. Agrega a GamesBlockList.txt los juegos vistos en 2 o más colegios, las reglas manuales
-     repetidas en 2 o más colegios y lo aprobado en el panel (máximo --max-add por día).
-  4. Deja como pendientes, para aprobar en el panel, los juegos y reglas de un solo colegio.
-  5. Informa al hub qué agregó, qué quedó pendiente y qué dominios de la lista desbloquearon
-     los colegios (posibles falsos positivos).
+  3. Agrega a GamesBlockList.txt los juegos vistos en 2 o más colegios y lo aprobado en el
+     panel (máximo --max-add por día).
+  4. Deja como pendientes, para aprobar en el panel, los juegos de un solo colegio.
+  5. Informa al hub qué agregó y qué quedó pendiente.
 
 Nunca agrega dominios de la lista de permitidos ni los descartados en el panel.
 
@@ -55,11 +55,12 @@ def item(domain, m):
 def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clients=2, max_add=30, limit=300):
     """Decide qué agregar y qué dejar pendiente. classify(cands) -> lista de (dominio, stats) que son juego.
 
-    Devuelve un dict con: add (dominios a agregar), added (items para el hub), pending (items),
-    unblocks (items) y applied (aprobados del panel que se agregan).
+    Devuelve un dict con: add (dominios a agregar), added (items para el hub), pending (items)
+    y applied (aprobados del panel que se agregan). Ignora cualquier regla manual que traiga un
+    reporte antiguo.
     """
     rejected = set(decisions.get("rejected") or [])
-    merged, manual = merge_reports(reports)
+    merged, _ = merge_reports(reports)
 
     def eligible(d):
         return d not in rejected and not covered(d, doms) and not is_whitelisted(d, wl, exc)
@@ -78,19 +79,9 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
         if eligible(d) and take(d, merged.get(d, {"sites": 0})):
             applied.append(d)
 
-    # 2. Reglas manuales de los colegios.
-    for d in sorted(manual):
-        if not eligible(d) or d in add:
-            continue
-        stats = {**merged.get(d, {}), "sites": manual[d]}
-        if len(manual[d]) >= 2:
-            take(d, stats)
-        else:
-            pending.append(item(d, stats))
-
-    # 3. Dominios no bloqueados clasificados como juego.
+    # 2. Dominios no bloqueados clasificados como juego.
     cand = sorted(((d, m) for d, m in merged.items()
-                   if eligible(d) and d not in add and d not in manual
+                   if eligible(d) and d not in add
                    and m["queries"] >= min_queries and m["clients"] >= min_clients),
                   key=lambda kv: (-len(kv[1]["sites"]), -kv[1]["queries"]))[:limit]
     for d, m in classify(cand):
@@ -99,15 +90,7 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
         else:
             pending.append(item(d, m))
 
-    # 4. Dominios de la lista que algún colegio desbloqueó.
-    unblocked = {}
-    for r in reports:
-        for d in r.get("unblocks") or []:
-            if covered(d, doms):
-                unblocked.setdefault(d, set()).add(r.get("site", "?"))
-    unblocks = [{"domain": d, "queries": 0, "clients": 0, "sites": len(s)} for d, s in sorted(unblocked.items())]
-
-    return {"add": add, "added": added, "pending": pending, "unblocks": unblocks, "applied": applied}
+    return {"add": add, "added": added, "pending": pending, "applied": applied}
 
 
 def main():
@@ -130,8 +113,7 @@ def main():
 
     res = decide(reports, decisions, doms, wl, exc, classify, max_add=a.max_add)
     # Solo cantidades: el log de este repositorio es público.
-    print(f"Reportes: {len(reports)} | agregar: {len(res['add'])} | pendientes: {len(res['pending'])} "
-          f"| desbloqueados por colegios: {len(res['unblocks'])}")
+    print(f"Reportes: {len(reports)} | agregar: {len(res['add'])} | pendientes: {len(res['pending'])}")
 
     status = publish(sorted(res["add"]), original, path, a.dry_run, "desde los colegios")
     print("Resultado:", status.splitlines()[0] if status else "-")
@@ -140,7 +122,7 @@ def main():
             sys.exit(1)
         return
 
-    hub("POST", "/api/v1/audit/result", {"added": res["added"], "pending": res["pending"], "unblocks": res["unblocks"]})
+    hub("POST", "/api/v1/audit/result", {"added": res["added"], "pending": res["pending"]})
     if res["applied"]:
         hub("POST", "/api/v1/audit/applied", {"domains": res["applied"]})
 

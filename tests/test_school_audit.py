@@ -35,17 +35,21 @@ def test_decide_thresholds():
     assert res["add"] == []
 
 
-def test_decide_manual_rules_and_approved():
-    reports = [report("a", {}, manual=["manual1.com", "manual2.com"]), report("b", {}, manual=["manual1.com"])]
-    res = decide(reports, {"approved": ["aprobado.com"]}, set(), set(), set(), games())
-    assert set(res["add"]) == {"aprobado.com", "manual1.com"}
+def test_decide_ignores_custom_filter_rules():
+    # Las reglas del filtro personalizado son decisión de cada colegio: nunca se usan,
+    # aunque un reporte antiguo las traiga.
+    reports = [report(s, {}, manual=["manual.com"], unblocks=["juego1.com"]) for s in ("a", "b")]
+    res = decide(reports, {}, set(), set(), set(), games("manual.com"))
+    assert res["add"] == [] and res["pending"] == []
+
+
+def test_decide_approved():
+    res = decide([], {"approved": ["aprobado.com", "permitido.com"]}, set(), {"permitido.com"}, set(), games())
+    assert res["add"] == ["aprobado.com"]
     assert res["applied"] == ["aprobado.com"]
-    assert [p["domain"] for p in res["pending"]] == ["manual2.com"]
 
 
-def test_decide_cap_and_unblocks():
-    reports = [report(s, {f"j{i}.com": {"queries": 9, "clients": 3} for i in range(5)},
-                      unblocks=["listado.com", "no-listado.com"]) for s in ("a", "b")]
-    res = decide(reports, {}, {"listado.com"}, set(), set(), games(*[f"j{i}.com" for i in range(5)]), max_add=2)
+def test_decide_cap():
+    reports = [report(s, {f"j{i}.com": {"queries": 9, "clients": 3} for i in range(5)}) for s in ("a", "b")]
+    res = decide(reports, {}, set(), set(), set(), games(*[f"j{i}.com" for i in range(5)]), max_add=2)
     assert len(res["add"]) == 2 and res["pending"] == []
-    assert res["unblocks"] == [{"domain": "listado.com", "queries": 0, "clients": 0, "sites": 2}]
