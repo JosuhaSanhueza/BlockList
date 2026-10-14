@@ -51,6 +51,7 @@
 0.0.0.0 5dd2c5c4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
 0.0.0.0 5dd312fa-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com
 0.0.0.0 5kh0.github.io
+0.0.0.0 5nightsatepsteins.io
 0.0.0.0 64ordle.pages.dev
 0.0.0.0 658658658.github.io
 0.0.0.0 66-ez.github.io
@@ -381,6 +382,7 @@
 0.0.0.0 chill-guyclicker.github.io
 0.0.0.0 chillguyclicker.io
 0.0.0.0 chroma48.com
+0.0.0.0 chrome-dino.com
 0.0.0.0 chromedino.com
 0.0.0.0 chromedino.io
 0.0.0.0 cittagames.com
@@ -551,6 +553,7 @@
 0.0.0.0 d11jzht7mj96rr.cloudfront.net
 0.0.0.0 d1tmbzjih4bfq6.cloudfront.net
 0.0.0.0 dailygames.discover.google.com
+0.0.0.0 dan-ball.jp
 0.0.0.0 dan-dare.info
 0.0.0.0 dan-dare.org
 0.0.0.0 danthemanonline.com
@@ -583,8 +586,10 @@
 0.0.0.0 digamore.com
 0.0.0.0 digdig.io
 0.0.0.0 diguifi.itch.io
+0.0.0.0 dino-chrome.com
 0.0.0.0 dino3d.games
 0.0.0.0 dinodasher.run
+0.0.0.0 dinogame.app
 0.0.0.0 dinogame.gg
 0.0.0.0 dinogameonline.io
 0.0.0.0 dinorunner.com
@@ -592,6 +597,7 @@
 0.0.0.0 dinosaur.gg
 0.0.0.0 dinosaurgame-free.io
 0.0.0.0 dinosaurgame.io
+0.0.0.0 dinosaurgames.gg
 0.0.0.0 dnrweqffuwjtx.cloudfront.net
 0.0.0.0 dog-squad-game-app.web.app
 0.0.0.0 doge-miner.gitlab.io
@@ -605,6 +611,7 @@
 0.0.0.0 doodlecricket.org
 0.0.0.0 doodlejump.fun
 0.0.0.0 doodlejump.io
+0.0.0.0 doodlejump24.io
 0.0.0.0 doodlejumping.pages.dev
 0.0.0.0 doodlejumponline.github.io
 0.0.0.0 doodoo.love
@@ -708,6 +715,7 @@
 0.0.0.0 eaglerlite.1b2t.xyz
 0.0.0.0 easegame.com
 0.0.0.0 easyfun.gg
+0.0.0.0 ebhasin.com
 0.0.0.0 edgesuite.net
 0.0.0.0 edslap.com
 0.0.0.0 education.com
@@ -721,6 +729,7 @@
 0.0.0.0 elgoog.eu
 0.0.0.0 elgoog.im
 0.0.0.0 ellieeet123.github.io
+0.0.0.0 emochi.com
 0.0.0.0 emojitest.com
 0.0.0.0 emubrowser.com
 0.0.0.0 emulatorgamesx.net
@@ -1411,6 +1420,7 @@
 0.0.0.0 kour.io
 0.0.0.0 krunker.co.uk
 0.0.0.0 krunker.io
+0.0.0.0 krunker.onl
 0.0.0.0 kyabai.com
 0.0.0.0 kylebob.com
 0.0.0.0 lablockedgames.com
@@ -1620,6 +1630,7 @@
 0.0.0.0 newgrounds.com
 0.0.0.0 newunblockedgames.gitlab.io
 0.0.0.0 nexkinproblog.com
+0.0.0.0 nextuser.lat
 0.0.0.0 nickelodeongame.com
 0.0.0.0 nickesc.github.io
 0.0.0.0 night.fire.games
@@ -2091,6 +2102,7 @@
 0.0.0.0 snailbob.games
 0.0.0.0 snake-game.io
 0.0.0.0 snake-shadrouh.netlify.app
+0.0.0.0 snake.es
 0.0.0.0 snake.io
 0.0.0.0 snakeappgame.com
 0.0.0.0 snakeapplega.me

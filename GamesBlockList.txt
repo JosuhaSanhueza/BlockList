@@ -50,6 +50,7 @@
 ||5dd2c5c4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com^
 ||5dd312fa-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com^
 ||5kh0.github.io^
+||5nightsatepsteins.io^
 ||64ordle.pages.dev^
 ||658658658.github.io^
 ||66-ez.github.io^
@@ -380,6 +381,7 @@
 ||chill-guyclicker.github.io^
 ||chillguyclicker.io^
 ||chroma48.com^
+||chrome-dino.com^
 ||chromedino.com^
 ||chromedino.io^
 ||cittagames.com^
@@ -550,6 +552,7 @@
 ||d11jzht7mj96rr.cloudfront.net^
 ||d1tmbzjih4bfq6.cloudfront.net^
 ||dailygames.discover.google.com^
+||dan-ball.jp^
 ||dan-dare.info^
 ||dan-dare.org^
 ||danthemanonline.com^
@@ -582,8 +585,10 @@
 ||digamore.com^
 ||digdig.io^
 ||diguifi.itch.io^
+||dino-chrome.com^
 ||dino3d.games^
 ||dinodasher.run^
+||dinogame.app^
 ||dinogame.gg^
 ||dinogameonline.io^
 ||dinorunner.com^
@@ -591,6 +596,7 @@
 ||dinosaur.gg^
 ||dinosaurgame-free.io^
 ||dinosaurgame.io^
+||dinosaurgames.gg^
 ||dnrweqffuwjtx.cloudfront.net^
 ||dog-squad-game-app.web.app^
 ||doge-miner.gitlab.io^
@@ -604,6 +610,7 @@
 ||doodlecricket.org^
 ||doodlejump.fun^
 ||doodlejump.io^
+||doodlejump24.io^
 ||doodlejumping.pages.dev^
 ||doodlejumponline.github.io^
 ||doodoo.love^
@@ -707,6 +714,7 @@
 ||eaglerlite.1b2t.xyz^
 ||easegame.com^
 ||easyfun.gg^
+||ebhasin.com^
 ||edgesuite.net^
 ||edslap.com^
 ||education.com^
@@ -720,6 +728,7 @@
 ||elgoog.eu^
 ||elgoog.im^
 ||ellieeet123.github.io^
+||emochi.com^
 ||emojitest.com^
 ||emubrowser.com^
 ||emulatorgamesx.net^
@@ -1410,6 +1419,7 @@
 ||kour.io^
 ||krunker.co.uk^
 ||krunker.io^
+||krunker.onl^
 ||kyabai.com^
 ||kylebob.com^
 ||lablockedgames.com^
@@ -1619,6 +1629,7 @@
 ||newgrounds.com^
 ||newunblockedgames.gitlab.io^
 ||nexkinproblog.com^
+||nextuser.lat^
 ||nickelodeongame.com^
 ||nickesc.github.io^
 ||night.fire.games^
@@ -2019,12 +2030,6 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2096,6 +2101,7 @@
 ||snailbob.games^
 ||snake-game.io^
 ||snake-shadrouh.netlify.app^
+||snake.es^
 ||snake.io^
 ||snakeappgame.com^
 ||snakeapplega.me^
@@ -2628,3 +2634,9 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
