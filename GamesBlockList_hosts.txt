@@ -1715,6 +1715,8 @@
 0.0.0.0 papaspizzeria-unblocked.github.io
 0.0.0.0 papaspizzeria.io
 0.0.0.0 papaspizzeriatogo.com
+0.0.0.0 papasscooperia.com
+0.0.0.0 papasscooperia.io
 0.0.0.0 papasscooperia.online
 0.0.0.0 papasunblockedgames.github.io
 0.0.0.0 paper-io-2.github.io
@@ -2385,7 +2387,9 @@
 0.0.0.0 twoplayergames.com
 0.0.0.0 twoplayergames.org
 0.0.0.0 twozygames.com
+0.0.0.0 typingclub.com
 0.0.0.0 typingstudy.com
+0.0.0.0 typingtestdaily.com
 0.0.0.0 tyronegames.gitlab.io
 0.0.0.0 tyroneunblocked.games
 0.0.0.0 tyroneunblockedgames.com

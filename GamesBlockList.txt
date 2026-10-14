@@ -1714,6 +1714,8 @@
 ||papaspizzeria-unblocked.github.io^
 ||papaspizzeria.io^
 ||papaspizzeriatogo.com^
+||papasscooperia.com^
+||papasscooperia.io^
 ||papasscooperia.online^
 ||papasunblockedgames.github.io^
 ||paper-io-2.github.io^
@@ -2390,7 +2392,9 @@
 ||twoplayergames.com^
 ||twoplayergames.org^
 ||twozygames.com^
+||typingclub.com^
 ||typingstudy.com^
+||typingtestdaily.com^
 ||tyronegames.gitlab.io^
 ||tyroneunblocked.games^
 ||tyroneunblockedgames.com^
