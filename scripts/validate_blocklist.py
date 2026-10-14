@@ -18,6 +18,8 @@ WHITELIST = {
     "tablasdemultiplicar.com", "tablas-multiplicar.com", "vedoque.com",
     "velocidactil.es", "typing.com", "dibujosparacolorearte.com", "freefocusgames.com",
     "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com", "blockly.games",
+    # Sitio propio (EscolarApp), nunca bloquear.
+    "escolarapp.cl",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

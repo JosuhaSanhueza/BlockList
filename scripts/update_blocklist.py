@@ -121,6 +121,9 @@ WHITELIST = {
     # automático dio True pero el contenido real no tiene nada que ver con juegos
     # (detectado 2026-10-06, verificado manualmente por contenido).
     "strongdog.com",
+    # Sitio propio (EscolarApp). Su página habla de "bloquear juegos" y el heurístico
+    # lo marcó como juego en la primera auditoría escolar (2026-10-15); nunca bloquear.
+    "escolarapp.cl",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
