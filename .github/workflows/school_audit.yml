@@ -1,0 +1,43 @@
+name: Auditor desde los colegios
+
+# Una vez al día revisa los reportes anónimos de los colegios con EscolarApp Shield,
+# agrega los juegos confirmados en 2 o más colegios y deja el resto pendiente de
+# aprobación en dash.escolarapp.cl.  Ver scripts/school_audit.py.
+#
+# El log es público: el script solo imprime cantidades, nunca dominios pendientes.
+
+on:
+  schedule:
+    # 11:00 UTC = 07:00/08:00 en Chile, después de que los equipos envían su reporte (03:00).
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blocklist-write
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run school audit
+        env:
+          HUB_URL: ${{ secrets.HUB_URL }}
+          HUB_AUDIT_TOKEN: ${{ secrets.HUB_AUDIT_TOKEN }}
+        run: |
+          if [ -z "$HUB_URL" ] || [ -z "$HUB_AUDIT_TOKEN" ]; then
+            echo "::error::Faltan los secretos HUB_URL y HUB_AUDIT_TOKEN."
+            exit 1
+          fi
+          python3 scripts/school_audit.py
