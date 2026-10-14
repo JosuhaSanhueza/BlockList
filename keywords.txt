@@ -2165,3 +2165,9 @@ nitrotype
 hexarena
 arthis
 melvoridle
+
+# --- Artículos "top paginas de juegos" (vestir/maquillar, horror escape room, cooking,
+# fighting, racing unblocked) y "classroom 6x"/"tyrone unblocked games" mirrors,
+# 2026-10-14 ---
+flopsed
+playtrivia

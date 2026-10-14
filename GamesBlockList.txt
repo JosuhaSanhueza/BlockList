@@ -406,6 +406,7 @@
 ||classrom6x.gitlab.io^
 ||classroom-6x.bitbucket.io^
 ||classroom-6x.io^
+||classroom-6x.org^
 ||classroom-games.github.io^
 ||classroom20x.com^
 ||classroom4x.com^
@@ -426,6 +427,7 @@
 ||classroomlite.vercel.app^
 ||classrooms-6x.com^
 ||classrooms6x.gitlab.io^
+||classrooms6xunblocked.github.io^
 ||clavejuegos.com^
 ||cleverappssg.com^
 ||clicker-games.com^
@@ -803,6 +805,7 @@
 ||flashgamesplayer.com^
 ||flashlegacy.com^
 ||flashmuseum.org^
+||flopsed.io^
 ||flqmedev.github.io^
 ||flyordie.com^
 ||flyordie.io^
@@ -1818,6 +1821,7 @@
 ||playsnake.org^
 ||playspark.net^
 ||playszgames.com^
+||playtrivia.net^
 ||playunb.com^
 ||playunblockedgames.bitbucket.io^
 ||playvio.io^
@@ -2402,6 +2406,7 @@
 ||typingstudy.com^
 ||typingtestdaily.com^
 ||tyronegames.gitlab.io^
+||tyronegamesonline.github.io^
 ||tyroneunblocked.games^
 ||tyroneunblockedgames.com^
 ||tyroneunblockedgames.gitlab.io^
