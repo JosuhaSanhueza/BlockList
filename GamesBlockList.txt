@@ -571,6 +571,7 @@
 ||deathrun3d.io^
 ||decentgames.co.uk^
 ||deepnight.net^
+||deev.is^
 ||defly.io^
 ||delt.io^
 ||deltarune.im^
@@ -1432,6 +1433,7 @@
 ||lagged-io.bitbucket.io^
 ||lagged.com^
 ||lastline.011203.xyz^
+||lax1dude.net^
 ||lazygames.io^
 ||legionsdk.com^
 ||lemonarcade.com^
@@ -2038,12 +2040,6 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2652,3 +2648,9 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
