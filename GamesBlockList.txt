@@ -772,6 +772,7 @@
 ||faf-gamezs.github.io^
 ||faf-gaming.github.io^
 ||fafgamess.github.io^
+||famobi.com^
 ||fancy-pants.gitlab.io^
 ||fancy-pantsadventure.github.io^
 ||fandejuegos.com^
@@ -1014,6 +1015,7 @@
 ||gamekarma.com^
 ||gamelite.io^
 ||gamelybyte.com^
+||gamemonetize.co^
 ||gamemonetize.com^
 ||gamenora-com.bitbucket.io^
 ||gamenora-io.bitbucket.io^
@@ -1303,6 +1305,7 @@
 ||italianbrainrotclicker.github.io^
 ||itbombs.com^
 ||itch.io^
+||itch.zone^
 ||itchio.top^
 ||itchiogame.com^
 ||iwin.com^
@@ -1550,6 +1553,7 @@
 ||minesweeper-online.com^
 ||minesweeper.one^
 ||miniblox.io^
+||miniclip.com^
 ||minigame.com^
 ||minigamesville.com^
 ||minigiochi.com^
@@ -2146,6 +2150,7 @@
 ||soccerbrosgame.com^
 ||soccerrandom.io^
 ||soflo-wheelielife.github.io^
+||softgames.com^
 ||solitaire-web-app.com^
 ||solitaire.com^
 ||solitaire.game^

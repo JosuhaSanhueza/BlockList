@@ -773,6 +773,7 @@
 0.0.0.0 faf-gamezs.github.io
 0.0.0.0 faf-gaming.github.io
 0.0.0.0 fafgamess.github.io
+0.0.0.0 famobi.com
 0.0.0.0 fancy-pants.gitlab.io
 0.0.0.0 fancy-pantsadventure.github.io
 0.0.0.0 fandejuegos.com
@@ -1015,6 +1016,7 @@
 0.0.0.0 gamekarma.com
 0.0.0.0 gamelite.io
 0.0.0.0 gamelybyte.com
+0.0.0.0 gamemonetize.co
 0.0.0.0 gamemonetize.com
 0.0.0.0 gamenora-com.bitbucket.io
 0.0.0.0 gamenora-io.bitbucket.io
@@ -1304,6 +1306,7 @@
 0.0.0.0 italianbrainrotclicker.github.io
 0.0.0.0 itbombs.com
 0.0.0.0 itch.io
+0.0.0.0 itch.zone
 0.0.0.0 itchio.top
 0.0.0.0 itchiogame.com
 0.0.0.0 iwin.com
@@ -1551,6 +1554,7 @@
 0.0.0.0 minesweeper-online.com
 0.0.0.0 minesweeper.one
 0.0.0.0 miniblox.io
+0.0.0.0 miniclip.com
 0.0.0.0 minigame.com
 0.0.0.0 minigamesville.com
 0.0.0.0 minigiochi.com
@@ -2147,6 +2151,7 @@
 0.0.0.0 soccerbrosgame.com
 0.0.0.0 soccerrandom.io
 0.0.0.0 soflo-wheelielife.github.io
+0.0.0.0 softgames.com
 0.0.0.0 solitaire-web-app.com
 0.0.0.0 solitaire.com
 0.0.0.0 solitaire.game
