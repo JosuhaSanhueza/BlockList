@@ -53,3 +53,38 @@ def test_decide_cap():
     reports = [report(s, {f"j{i}.com": {"queries": 9, "clients": 3} for i in range(5)}) for s in ("a", "b")]
     res = decide(reports, {}, set(), set(), set(), games(*[f"j{i}.com" for i in range(5)]), max_add=2)
     assert len(res["add"]) == 2 and res["pending"] == []
+
+
+def test_decide_referrers():
+    # Sitios abiertos justo antes de un juego bloqueado (relay de Eaglercraft, GameDistribution...).
+    reports = [
+        {"site": "a",
+         "domains": {"eagler-copia.com": {"queries": 8, "clients": 3}, "fuentes.com": {"queries": 900, "clients": 40},
+                     "friv-clon.net": {"queries": 6, "clients": 2}},
+         "referrers": {"eagler-copia.com": {"queries": 6, "clients": 3},
+                       "friv-clon.net": {"queries": 5, "clients": 2},
+                       # Se consulta todo el tiempo: que caiga cerca de un bloqueo es casualidad.
+                       "fuentes.com": {"queries": 20, "clients": 9},
+                       # Un solo equipo no basta.
+                       "un-pc.com": {"queries": 4, "clients": 1},
+                       "permitido.com": {"queries": 9, "clients": 3},
+                       "descartado.com": {"queries": 9, "clients": 3}}},
+    ]
+    res = decide(reports, {"rejected": ["descartado.com"]}, set(), {"permitido.com"}, set(),
+                 games("eagler-copia.com"))
+    # Origen + cara de juego: se agrega aunque lo haya visto un solo colegio.
+    assert res["add"] == ["eagler-copia.com"]
+    assert res["added"][0] == {"domain": "eagler-copia.com", "queries": 8, "clients": 3, "sites": 1}
+    # Origen sin cara de juego: pendiente, con la señal para el panel. No se vuelve a revisar
+    # como dominio común.
+    assert res["pending"] == [{"domain": "friv-clon.net", "queries": 6, "clients": 2, "sites": 1, "via": "referrer"}]
+
+
+def test_decide_referrers_cap_and_old_reports():
+    reports = [{"site": "a", "domains": {},
+                "referrers": {f"r{i}.com": {"queries": 3, "clients": 2} for i in range(60)}},
+               # Un reporte de una versión anterior no trae referrers.
+               {"site": "b", "domains": {"juego.com": {"queries": 9, "clients": 3}}}]
+    res = decide(reports, {}, set(), set(), set(), games("juego.com"))
+    assert sum(1 for p in res["pending"] if p.get("via") == "referrer") == 50
+    assert [p["domain"] for p in res["pending"] if "via" not in p] == ["juego.com"]

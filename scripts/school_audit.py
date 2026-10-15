@@ -11,7 +11,11 @@ Este script, pensado para GitHub Actions:
   3. Agrega a GamesBlockList.txt los juegos vistos en 2 o más colegios y lo aprobado en el
      panel (máximo --max-add por día).
   4. Deja como pendientes, para aprobar en el panel, los juegos de un solo colegio.
-  5. Informa al hub qué agregó y qué quedó pendiente.
+  5. Revisa los "sitios de origen": dominios que los equipos abrieron justo antes de una consulta
+     bloqueada por la lista de juegos (p. ej. una copia de Eaglercraft que llama a su relay, o un
+     clon de Friv que carga GameDistribution). Si además parecen juego se agregan aunque los haya
+     visto un solo colegio; si no, quedan pendientes en el panel con esa señal.
+  6. Informa al hub qué agregó y qué quedó pendiente.
 
 Nunca agrega dominios de la lista de permitidos ni los descartados en el panel.
 
@@ -47,9 +51,48 @@ def hub(method, path, body=None):
         return json.load(r)
 
 
-def item(domain, m):
-    return {"domain": domain, "queries": m.get("queries", 0), "clients": m.get("clients", 0),
-            "sites": len(m["sites"]) if isinstance(m.get("sites"), set) else m.get("sites", 0)}
+# Parte mínima de las consultas a un dominio que deben ocurrir justo antes de un juego bloqueado
+# para tomarlo como sitio de origen. Deja fuera lo que se consulta todo el tiempo (Windows Update,
+# fuentes de Google, etc.) y por casualidad cae cerca de un bloqueo.
+REFERRER_MIN_SHARE = 0.2
+
+# Máximo de sitios de origen sin cara de juego que se dejan pendientes por día.
+REFERRER_MAX_PENDING = 50
+
+
+def item(domain, m, via=""):
+    it = {"domain": domain, "queries": m.get("queries", 0), "clients": m.get("clients", 0),
+          "sites": len(m["sites"]) if isinstance(m.get("sites"), set) else m.get("sites", 0)}
+    if via:
+        it["via"] = via
+    return it
+
+
+def merge_referrers(reports):
+    """Suma los sitios de origen de varios reportes, igual que merge_reports con los dominios."""
+    merged = {}
+    for r in reports:
+        site = r.get("site", "?")
+        for d, s in (r.get("referrers") or {}).items():
+            m = merged.setdefault(d, {"queries": 0, "clients": 0, "sites": set()})
+            m["queries"] += int(s.get("queries", 0))
+            m["clients"] += int(s.get("clients", 0))
+            m["sites"].add(site)
+    return merged
+
+
+def referrer_candidates(refs, merged, eligible, min_clients=2, limit=300):
+    """Sitios de origen elegibles y con señal fuerte: la mayor parte de sus consultas ocurre justo
+    antes de un juego bloqueado. Devuelve (dominio, stats) ordenados por señal."""
+    out = []
+    for d, r in refs.items():
+        if not eligible(d) or r["clients"] < min_clients:
+            continue
+        total = max(merged.get(d, {}).get("queries", 0), r["queries"], 1)
+        if r["queries"] / total >= REFERRER_MIN_SHARE:
+            out.append((d, r))
+    out.sort(key=lambda kv: (-len(kv[1]["sites"]), -kv[1]["clients"], -kv[1]["queries"], kv[0]))
+    return out[:limit]
 
 
 def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clients=2, max_add=30, limit=300):
@@ -79,9 +122,24 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
         if eligible(d) and take(d, merged.get(d, {"sites": 0})):
             applied.append(d)
 
-    # 2. Dominios no bloqueados clasificados como juego.
+    # 2. Sitios de origen: abiertos justo antes de un juego bloqueado. Con cara de juego se
+    # agregan (dos señales independientes); sin ella quedan pendientes con la señal a la vista.
+    refs = referrer_candidates(merge_referrers(reports), merged, lambda d: eligible(d) and d not in add,
+                               min_clients=min_clients, limit=limit)
+    ref_games = {d for d, _ in classify(refs)}
+    ref_pending = 0
+    for d, r in refs:
+        stats = dict(merged.get(d) or r, sites=r["sites"] | (merged.get(d) or {}).get("sites", set()))
+        if d in ref_games:
+            take(d, stats)
+        elif ref_pending < REFERRER_MAX_PENDING:
+            pending.append(item(d, stats, via="referrer"))
+            ref_pending += 1
+    seen = {d for d, _ in refs}
+
+    # 3. Dominios no bloqueados clasificados como juego.
     cand = sorted(((d, m) for d, m in merged.items()
-                   if eligible(d) and d not in add
+                   if eligible(d) and d not in add and d not in seen
                    and m["queries"] >= min_queries and m["clients"] >= min_clients),
                   key=lambda kv: (-len(kv[1]["sites"]), -kv[1]["queries"]))[:limit]
     for d, m in classify(cand):
