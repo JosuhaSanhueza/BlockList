@@ -511,6 +511,7 @@
 0.0.0.0 crazy-game.bitbucket.io
 0.0.0.0 crazy-games.gitlab.io
 0.0.0.0 crazycargames.com
+0.0.0.0 crazycars.bitbucket.io
 0.0.0.0 crazycattle-3d-unblocked.github.io
 0.0.0.0 crazycattle.org
 0.0.0.0 crazycattle3d.com
@@ -855,6 +856,7 @@
 0.0.0.0 freaksgames.com
 0.0.0.0 free-aigames.com
 0.0.0.0 free-freecell-solitaire.com
+0.0.0.0 free-games.bitbucket.io
 0.0.0.0 free-pacman.com
 0.0.0.0 free80sarcade.com
 0.0.0.0 freebie.games
@@ -1382,6 +1384,7 @@
 0.0.0.0 justbuild-lol.com
 0.0.0.0 justfall-online.github.io
 0.0.0.0 kagura.games
+0.0.0.0 kart-bros.bitbucket.io
 0.0.0.0 kartbros.io
 0.0.0.0 kazwire.com
 0.0.0.0 kbhgame.gitlab.io
@@ -1863,6 +1866,7 @@
 0.0.0.0 pomu.com
 0.0.0.0 poncle.itch.io
 0.0.0.0 ponjy.com
+0.0.0.0 poor-bunny.bitbucket.io
 0.0.0.0 poorbunny.io
 0.0.0.0 popcorngames.io
 0.0.0.0 poppyplaytime5.org
@@ -2049,6 +2053,7 @@
 0.0.0.0 skribblio.org
 0.0.0.0 slapbattlesgame.com
 0.0.0.0 slice-master.io
+0.0.0.0 slicemaster.bitbucket.io
 0.0.0.0 slidedown.io
 0.0.0.0 slimekeyboardescape.com
 0.0.0.0 slither-io.org
@@ -2326,6 +2331,7 @@
 0.0.0.0 thejumpingdino.com
 0.0.0.0 theludos.com
 0.0.0.0 themahjong.com
+0.0.0.0 thepizzaedition-games.bitbucket.io
 0.0.0.0 thepizzaedition-games.github.io
 0.0.0.0 thepolytrackunblocked.org
 0.0.0.0 thesacredtexts.weebly.com
@@ -2547,6 +2553,7 @@
 0.0.0.0 wafflegame.io
 0.0.0.0 waffleunlimited.com
 0.0.0.0 watermelongame.co.uk
+0.0.0.0 watermelongame.com
 0.0.0.0 wavedash.com
 0.0.0.0 we-dashers.github.io
 0.0.0.0 weaverwordle.com

@@ -510,6 +510,7 @@
 ||crazy-game.bitbucket.io^
 ||crazy-games.gitlab.io^
 ||crazycargames.com^
+||crazycars.bitbucket.io^
 ||crazycattle-3d-unblocked.github.io^
 ||crazycattle.org^
 ||crazycattle3d.com^
@@ -854,6 +855,7 @@
 ||freaksgames.com^
 ||free-aigames.com^
 ||free-freecell-solitaire.com^
+||free-games.bitbucket.io^
 ||free-pacman.com^
 ||free80sarcade.com^
 ||freebie.games^
@@ -1381,6 +1383,7 @@
 ||justbuild-lol.com^
 ||justfall-online.github.io^
 ||kagura.games^
+||kart-bros.bitbucket.io^
 ||kartbros.io^
 ||kazwire.com^
 ||kbhgame.gitlab.io^
@@ -1862,6 +1865,7 @@
 ||pomu.com^
 ||poncle.itch.io^
 ||ponjy.com^
+||poor-bunny.bitbucket.io^
 ||poorbunny.io^
 ||popcorngames.io^
 ||poppyplaytime5.org^
@@ -2034,6 +2038,12 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2048,6 +2058,7 @@
 ||skribblio.org^
 ||slapbattlesgame.com^
 ||slice-master.io^
+||slicemaster.bitbucket.io^
 ||slidedown.io^
 ||slimekeyboardescape.com^
 ||slither-io.org^
@@ -2325,6 +2336,7 @@
 ||thejumpingdino.com^
 ||theludos.com^
 ||themahjong.com^
+||thepizzaedition-games.bitbucket.io^
 ||thepizzaedition-games.github.io^
 ||thepolytrackunblocked.org^
 ||thesacredtexts.weebly.com^
@@ -2546,6 +2558,7 @@
 ||wafflegame.io^
 ||waffleunlimited.com^
 ||watermelongame.co.uk^
+||watermelongame.com^
 ||wavedash.com^
 ||we-dashers.github.io^
 ||weaverwordle.com^
@@ -2639,9 +2652,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^
