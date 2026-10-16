@@ -171,6 +171,7 @@
 0.0.0.0 aternos.net
 0.0.0.0 aternos.org
 0.0.0.0 atmegame.com
+0.0.0.0 atom-clicker.ayfri.com
 0.0.0.0 attic-byte.itch.io
 0.0.0.0 atwar-game.com
 0.0.0.0 aug66.github.io
@@ -739,7 +740,9 @@
 0.0.0.0 emochi.com
 0.0.0.0 emojitest.com
 0.0.0.0 emubrowser.com
+0.0.0.0 emulatorgame.org
 0.0.0.0 emulatorgamesx.net
+0.0.0.0 emulatorgameszone.com
 0.0.0.0 emulatorjs.com
 0.0.0.0 emulatorjs.org
 0.0.0.0 emupedia.net
@@ -1005,6 +1008,7 @@
 0.0.0.0 gamecenterhub.cc
 0.0.0.0 gamecomets.com
 0.0.0.0 gamedistribution.com
+0.0.0.0 gameduddles.com
 0.0.0.0 gameduell.com
 0.0.0.0 gamefabrique.com
 0.0.0.0 gameflare.com

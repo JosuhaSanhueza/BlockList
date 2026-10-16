@@ -170,6 +170,7 @@
 ||aternos.net^
 ||aternos.org^
 ||atmegame.com^
+||atom-clicker.ayfri.com^
 ||attic-byte.itch.io^
 ||atwar-game.com^
 ||aug66.github.io^
@@ -738,7 +739,9 @@
 ||emochi.com^
 ||emojitest.com^
 ||emubrowser.com^
+||emulatorgame.org^
 ||emulatorgamesx.net^
+||emulatorgameszone.com^
 ||emulatorjs.com^
 ||emulatorjs.org^
 ||emupedia.net^
@@ -1004,6 +1007,7 @@
 ||gamecenterhub.cc^
 ||gamecomets.com^
 ||gamedistribution.com^
+||gameduddles.com^
 ||gameduell.com^
 ||gamefabrique.com^
 ||gameflare.com^

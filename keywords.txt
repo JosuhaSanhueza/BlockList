@@ -2171,3 +2171,12 @@ melvoridle
 # 2026-10-14 ---
 flopsed
 playtrivia
+
+# --- Artículos "top paginas de juegos" (anime, tycoon, futbol, parkour, shooter, retro
+# arcade emulator, autos/motos, .io multiplayer, vestir/maquillar/cocinar) y GitHub topics
+# idle-game/clicker-game/io-game (4 confirmados: atom-clicker, emulatorgame,
+# emulatorgameszone, gameduddles), 2026-10-15 ---
+atomclicker
+emulatorgame
+emulatorgameszone
+gameduddles
