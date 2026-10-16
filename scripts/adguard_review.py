@@ -52,6 +52,9 @@ SHARED = ("github.io", "gitlab.io", "bitbucket.io", "pages.dev", "web.app", "net
           "wordpress.com", "wixsite.com", "cloudfront.net", "amazonaws.com", "onrender.com")
 MULTI_TLD = ("co.uk", "com.br", "com.ar", "com.mx", "com.cm", "co.in", "us.com", "co.com",
              "us.org", "org.mx", "com.au", "co.jp", "com.es", "org.es", "or.id")
+# Dominios compartidos tipo it.com: se reporta y bloquea el subdominio (ver validate_blocklist).
+from scripts.validate_blocklist import SHARED_SUFFIXES  # noqa: E402
+MULTI_TLD = MULTI_TLD + tuple(sorted(SHARED_SUFFIXES - set(MULTI_TLD)))
 
 
 def load_env():

@@ -30,6 +30,12 @@ Ya estás parado en el directorio del repo. Hacé lo siguiente, en orden:
    relación a juegos, excluilo a mano aunque haya pasado la verificación automática, y considerá
    agregarlo a `WHITELIST` en `scripts/update_blocklist.py` con un comentario explicando por qué.
 
+   **Nunca bloquees un hosting, CDN o dominio compartido completo** (`github.io`, `vercel.app`,
+   `pages.dev`, `netlify.app`, `cloudfront.net`, `it.com`, `us.com`...): bloqueá el subdominio del
+   juego (`juego.github.io`). La lista está en `SHARED_SUFFIXES` (`scripts/validate_blocklist.py`) y
+   el validador la hace cumplir, igual que rechaza los sitios del top 10.000 de Tranco que no estén
+   en `POPULAR_APPROVED`. Si el validador rechaza un dominio, no lo fuerces: dejalo para revisión.
+
 5. Agregá los dominios confirmados a `GamesBlockList.txt` (formato `||dominio^`, sin `www.`,
    sin duplicados — dedupeá contra lo que ya existe).
 

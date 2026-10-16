@@ -117,3 +117,10 @@ def test_decide_referrers_cap_and_old_reports():
     res = decide(reports, {}, set(), set(), set(), games("juego.com"))
     assert sum(1 for p in res["pending"] if p.get("via") == "referrer") == 50
     assert [p["domain"] for p in res["pending"] if "via" not in p] == ["juego.com"]
+
+
+def test_decide_never_proposes_shared_suffixes():
+    # Shield < v1.1.24 reporta classroom.it.com como it.com: un dominio compartido completo.
+    reports = [{"site": s, "domains": {**LAB, "it.com": {"queries": 9, "clients": 3}}} for s in ("a", "b")]
+    res = decide(reports, {"approved": ["us.com"]}, set(), set(), set(), games("it.com", "us.com"))
+    assert res["add"] == [] and res["pending"] == []

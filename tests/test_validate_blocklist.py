@@ -54,3 +54,23 @@ class TestCheckLine:
         errors, domain = check_line("||www.friv2010.com^", 1, set())
         assert any("www." in e for e in errors)
         assert domain == "www.friv2010.com"
+
+
+def test_rejects_infrastructure_and_whole_hostings():
+    from validate_blocklist import check_line
+    # Hosting/CDN completo: se bloquea por subdominio.
+    for rule in ("||github.io^", "||cloudfront.net^", "||vercel.app^"):
+        errors, _ = check_line(rule, 1, set())
+        assert errors and "compartido" in errors[0], rule
+    assert check_line("||juego.github.io^", 1, set())[0] == []
+    # Infraestructura protegida.
+    for rule in ("||msauth.net^", "||aadcdn.msauth.net^", "||sentry.io^"):
+        assert check_line(rule, 1, set())[0], rule
+
+
+def test_popular_sites_need_explicit_approval():
+    from validate_blocklist import check_line
+    errors, _ = check_line("||office.com^", 1, set())
+    assert errors and "top 10.000" in errors[0]
+    # Aprobado explícitamente como sitio de juegos.
+    assert check_line("||poki.com^", 1, set())[0] == []

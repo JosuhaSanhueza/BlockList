@@ -58,6 +58,11 @@ VALID_TLDS = (
     ".es", ".co", ".uk", ".de", ".fr", ".ru", ".br", ".us", ".win", ".ws", ".network", ".dev"
 )
 
+try:
+    from validate_blocklist import SHARED_SUFFIXES
+except ImportError:
+    from scripts.validate_blocklist import SHARED_SUFFIXES
+
 # Plataformas de hosting compartido donde NO debemos consolidar al apex domain
 SHARED_HOSTING_PLATFORMS = (
     "gitlab.io", "github.io", "bitbucket.io", "firebaseapp.com",
@@ -127,6 +132,10 @@ WHITELIST = {
     # Red de Akamai (CDN de Microsoft, Apple y miles de sitios). Estaba en la lista de juegos y
     # Windows la consulta sola: bloqueaba servicios legítimos (2026-10-16).
     "edgesuite.net",
+    # Infraestructura que entró por la consolidación del 2026-08-11 y se sacó el 2026-10-16:
+    # login de Microsoft (Office 365/Teams), Google, reporte de errores web, motor Unity
+    # (también Unity Learn), buscador Yandex (Yandex Games se bloquea por subdominio) y Etsy.
+    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "yandex.com", "etsy.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
@@ -181,8 +190,13 @@ def get_root_domain(domain):
     """Saca el dominio raíz (apex domain) respetando plataformas compartidas"""
     if any(shared in domain for shared in SHARED_HOSTING_PLATFORMS):
         return domain
-        
+
     parts = domain.split('.')
+    # algo.it.com -> algo.it.com, nunca it.com (ver SHARED_SUFFIXES).
+    for s in SHARED_SUFFIXES:
+        if domain.endswith("." + s):
+            return '.'.join(parts[-3:])
+
     if len(parts) <= 2:
         return domain
         
