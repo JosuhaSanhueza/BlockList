@@ -83,6 +83,7 @@
 0.0.0.0 a.poki-cdn.com
 0.0.0.0 a10.com
 0.0.0.0 abcya.com
+0.0.0.0 abcya.io
 0.0.0.0 abrainrot.com
 0.0.0.0 actiongame.com
 0.0.0.0 actiongameshub.com
@@ -389,6 +390,7 @@
 0.0.0.0 ciudadelas.net
 0.0.0.0 clash-royale.io
 0.0.0.0 clash3d.com
+0.0.0.0 clashroyale.com
 0.0.0.0 clashroyaleplay.com
 0.0.0.0 clashroyaleunblocked.com
 0.0.0.0 class-76.github.io
@@ -974,6 +976,7 @@
 0.0.0.0 funny-school.github.io
 0.0.0.0 funnygames.it
 0.0.0.0 funnygames.org
+0.0.0.0 funnyshooter.bitbucket.io
 0.0.0.0 funnyshooter2.org
 0.0.0.0 funtrivia.com
 0.0.0.0 funyoursgames.com
@@ -1489,6 +1492,7 @@
 0.0.0.0 mariogames.io
 0.0.0.0 mariosonicgames.com
 0.0.0.0 maskedgames.com
+0.0.0.0 math-playground.bitbucket.io
 0.0.0.0 mathplayzone.com
 0.0.0.0 mathwizard.pages.dev
 0.0.0.0 mattmakesgames.itch.io
@@ -2452,6 +2456,7 @@
 0.0.0.0 unblocked-76.io
 0.0.0.0 unblocked-classroom.github.io
 0.0.0.0 unblocked-cookie-clicker.pages.dev
+0.0.0.0 unblocked-g.bitbucket.io
 0.0.0.0 unblocked-game.bitbucket.io
 0.0.0.0 unblocked-games-2026.github.io
 0.0.0.0 unblocked-games-forschool.github.io

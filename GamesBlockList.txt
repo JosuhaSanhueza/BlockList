@@ -82,6 +82,7 @@
 ||a.poki-cdn.com^
 ||a10.com^
 ||abcya.com^
+||abcya.io^
 ||abrainrot.com^
 ||actiongame.com^
 ||actiongameshub.com^
@@ -388,6 +389,7 @@
 ||ciudadelas.net^
 ||clash-royale.io^
 ||clash3d.com^
+||clashroyale.com^
 ||clashroyaleplay.com^
 ||clashroyaleunblocked.com^
 ||class-76.github.io^
@@ -973,6 +975,7 @@
 ||funny-school.github.io^
 ||funnygames.it^
 ||funnygames.org^
+||funnyshooter.bitbucket.io^
 ||funnyshooter2.org^
 ||funtrivia.com^
 ||funyoursgames.com^
@@ -1488,6 +1491,7 @@
 ||mariogames.io^
 ||mariosonicgames.com^
 ||maskedgames.com^
+||math-playground.bitbucket.io^
 ||mathplayzone.com^
 ||mathwizard.pages.dev^
 ||mattmakesgames.itch.io^
@@ -2045,6 +2049,12 @@
 ||simulationgameso.com^
 ||sinistersquidward.com^
 ||sites.google.com^
+||sites.google.com/*/games/*^
+||sites.google.com/*/super-mario-world^
+||sites.google.com/site/totalgameinn/*^
+||sites.google.com/view/*game*^
+||sites.google.com/view/classroom6x/*^
+||sites.google.com/view/totalgameinn/*^
 ||skap.nightly.pw^
 ||sketchful.io^
 ||skibidi-toilet.org^
@@ -2451,6 +2461,7 @@
 ||unblocked-76.io^
 ||unblocked-classroom.github.io^
 ||unblocked-cookie-clicker.pages.dev^
+||unblocked-g.bitbucket.io^
 ||unblocked-game.bitbucket.io^
 ||unblocked-games-2026.github.io^
 ||unblocked-games-forschool.github.io^
@@ -2654,9 +2665,3 @@
 ||zylom.com^
 ||zynga.com^
 ||zynga.games^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^
