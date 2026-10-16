@@ -63,3 +63,25 @@ class TestWhitelist:
         game_sites = ("poki.com", "crazygames.com", "y8.com", "friv.com")
         for domain in game_sites:
             assert domain not in WHITELIST
+
+
+def test_get_root_domain_shared_suffixes():
+    # it.com, us.com, eu.org... son compartidos: se conserva el subdominio.
+    assert get_root_domain("classroom.it.com") == "classroom.it.com"
+    assert get_root_domain("www.juego.us.com") == "juego.us.com"
+    assert get_root_domain("mess.eu.org") == "mess.eu.org"
+    assert get_root_domain("sub.poki.com") == "poki.com"
+
+
+def test_registrable_shared_suffixes():
+    from scripts.adguard_review import registrable
+    assert registrable("classroom.it.com") == "classroom.it.com"
+    assert registrable("a.b.juego.br.com") == "juego.br.com"
+
+
+def test_validate_rejects_shared_suffix():
+    from validate_blocklist import check_line
+    errors, _ = check_line("||it.com^", 1, set())
+    assert errors and "compartido" in errors[0]
+    errors, _ = check_line("||classroom.it.com^", 1, set())
+    assert errors == []

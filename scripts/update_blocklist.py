@@ -58,6 +58,11 @@ VALID_TLDS = (
     ".es", ".co", ".uk", ".de", ".fr", ".ru", ".br", ".us", ".win", ".ws", ".network", ".dev"
 )
 
+try:
+    from validate_blocklist import SHARED_SUFFIXES
+except ImportError:
+    from scripts.validate_blocklist import SHARED_SUFFIXES
+
 # Plataformas de hosting compartido donde NO debemos consolidar al apex domain
 SHARED_HOSTING_PLATFORMS = (
     "gitlab.io", "github.io", "bitbucket.io", "firebaseapp.com",
@@ -181,8 +186,13 @@ def get_root_domain(domain):
     """Saca el dominio raíz (apex domain) respetando plataformas compartidas"""
     if any(shared in domain for shared in SHARED_HOSTING_PLATFORMS):
         return domain
-        
+
     parts = domain.split('.')
+    # algo.it.com -> algo.it.com, nunca it.com (ver SHARED_SUFFIXES).
+    for s in SHARED_SUFFIXES:
+        if domain.endswith("." + s):
+            return '.'.join(parts[-3:])
+
     if len(parts) <= 2:
         return domain
         

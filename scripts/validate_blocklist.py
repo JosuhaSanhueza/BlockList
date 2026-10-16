@@ -4,6 +4,16 @@ import os
 import re
 
 BLOCKLIST_FILE = "GamesBlockList.txt"
+# Dominios de segundo nivel compartidos (registros tipo CentralNic como it.com o us.com, y
+# servicios de subdominios gratis como eu.org): cada subdominio es un sitio distinto, así que se
+# bloquea el subdominio y nunca el dominio completo.  Mantener en sync con multiTLDs en
+# escolarapp-shield/internal/home/fleetreport.go.
+SHARED_SUFFIXES = {
+    "it.com", "us.com", "co.com", "br.com", "cn.com", "de.com", "eu.com", "gb.com", "gb.net",
+    "uk.com", "uk.net", "jpn.com", "ru.com", "sa.com", "za.com", "in.net", "mex.com", "ae.org",
+    "us.org", "eu.org",
+}
+
 # La Whitelist solo protege infraestructura esencial de internet (buscadores/redes sociales), NUNCA sitios de juegos
 WHITELIST = {
     "google.com", "youtube.com", "wikipedia.org", "github.com", "microsoft.com",
@@ -65,7 +75,11 @@ def check_line(line_clean, line_num, domains_seen):
         errors.append(f"Línea {line_num}: Dominio duplicado '{domain}'.")
     domains_seen.add(domain)
 
-    # 3. Validar presencia accidental de Whitelist (solo servicios no-juegos)
+    # 3. Un dominio compartido completo bloquearía miles de sitios sin relación.
+    if domain in SHARED_SUFFIXES:
+        errors.append(f"Línea {line_num}: CRÍTICO - Dominio compartido completo '{domain}': bloqueá el subdominio.")
+
+    # 3b. Validar presencia accidental de Whitelist (solo servicios no-juegos)
     if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS:
         if domain in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST):
             errors.append(f"Línea {line_num}: CRÍTICO - Dominio infraestructura en Whitelist detectado '{domain}'.")

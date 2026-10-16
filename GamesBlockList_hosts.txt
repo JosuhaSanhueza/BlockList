@@ -906,7 +906,6 @@
 0.0.0.0 escaperoadx.github.io
 0.0.0.0 essential.gg
 0.0.0.0 etsy.com
-0.0.0.0 eu.org
 0.0.0.0 ev.io
 0.0.0.0 evolutionaryarcade.com
 0.0.0.0 evowars.io
@@ -1817,6 +1816,7 @@
 0.0.0.0 meowplayground.com
 0.0.0.0 mergecakegame.com
 0.0.0.0 mergerotgame.com
+0.0.0.0 mess.eu.org
 0.0.0.0 messcraft.ovh
 0.0.0.0 mgalternative.github.io
 0.0.0.0 mgg658.github.io
@@ -2957,7 +2957,6 @@
 0.0.0.0 unity3d.com
 0.0.0.0 untitledproxy.pages.dev
 0.0.0.0 upjers.com
-0.0.0.0 us.com
 0.0.0.0 usaunblockedgames.com
 0.0.0.0 uunnblockedgames.weebly.com
 0.0.0.0 v.poki-cdn.com

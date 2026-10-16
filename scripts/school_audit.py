@@ -39,6 +39,7 @@ sys.path.insert(0, ROOT)
 
 from scripts.adguard_review import (classify_candidates, covered, is_whitelisted, merge_reports,  # noqa: E402
                                     publish, read_blocklist, whitelist)
+from scripts.validate_blocklist import SHARED_SUFFIXES  # noqa: E402
 
 
 def hub(method, path, body=None):
@@ -161,7 +162,9 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
     merged, _ = merge_reports(reports)
 
     def eligible(d):
-        return d not in rejected and not covered(d, doms) and not is_whitelisted(d, wl, exc)
+        # Los equipos con Shield < v1.1.24 reportan algo.it.com como it.com: nunca proponerlo.
+        return (d not in rejected and d not in SHARED_SUFFIXES and not covered(d, doms)
+                and not is_whitelisted(d, wl, exc))
 
     add, added, pending, applied = [], [], [], []
 

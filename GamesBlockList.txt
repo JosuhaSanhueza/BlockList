@@ -905,7 +905,6 @@
 ||escaperoadx.github.io^
 ||essential.gg^
 ||etsy.com^
-||eu.org^
 ||ev.io^
 ||evolutionaryarcade.com^
 ||evowars.io^
@@ -1816,6 +1815,7 @@
 ||meowplayground.com^
 ||mergecakegame.com^
 ||mergerotgame.com^
+||mess.eu.org^
 ||messcraft.ovh^
 ||mgalternative.github.io^
 ||mgg658.github.io^
@@ -2956,7 +2956,6 @@
 ||unity3d.com^
 ||untitledproxy.pages.dev^
 ||upjers.com^
-||us.com^
 ||usaunblockedgames.com^
 ||uunnblockedgames.weebly.com^
 ||v.poki-cdn.com^
