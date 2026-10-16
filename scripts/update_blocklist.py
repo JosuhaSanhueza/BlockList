@@ -124,6 +124,9 @@ WHITELIST = {
     # Sitio propio (EscolarApp). Su página habla de "bloquear juegos" y el heurístico
     # lo marcó como juego en la primera auditoría escolar (2026-10-15); nunca bloquear.
     "escolarapp.cl",
+    # Red de Akamai (CDN de Microsoft, Apple y miles de sitios). Estaba en la lista de juegos y
+    # Windows la consulta sola: bloqueaba servicios legítimos (2026-10-16).
+    "edgesuite.net",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

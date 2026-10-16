@@ -20,6 +20,9 @@ WHITELIST = {
     "educaenvivo.com", "elbuhoboo.com", "juegosinfantilespum.com", "blockly.games",
     # Sitio propio (EscolarApp), nunca bloquear.
     "escolarapp.cl",
+    # Red de Akamai (CDN de Microsoft, Apple y miles de sitios). Estaba en la lista de juegos y
+    # Windows la consulta sola: bloqueaba servicios legítimos (2026-10-16).
+    "edgesuite.net",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
