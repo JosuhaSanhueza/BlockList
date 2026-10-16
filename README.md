@@ -27,3 +27,15 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 
 - **Diario** ([daily_blocklist.yml](.github/workflows/daily_blocklist.yml)): busca nuevos dominios de páginas de juegos a partir de `keywords.txt`, los valida y actualiza `GamesBlockList.txt` / `GamesBlockList_hosts.txt`.
 - **Anual** ([yearly_cleanup.yml](.github/workflows/yearly_cleanup.yml)): revisa toda la lista y elimina dominios que ya no responden (ni HTTP/HTTPS ni DNS), dado que las páginas de juegos suelen tener vida útil larga.
+
+## 📄 Licencia
+
+Mantenido por **Josuha Sanhueza (EscolarApp)**.
+
+- **Listas** (`GamesBlockList.txt`, `GamesBlockList_hosts.txt`, `WindowsUpdate.txt`,
+  `GoogleUpdate.txt`, `keywords.txt`): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+  ([texto completo](LICENSE-LISTS)). Puedes usarlas y adaptarlas **citando este repositorio**,
+  **sin fines comerciales** y compartiendo tus cambios con la misma licencia. Para uso comercial,
+  escríbenos.
+- **Código** (`scripts/`, `tests/`, `.github/`): [MIT](LICENSE).
+
