@@ -55,23 +55,33 @@ def test_decide_cap():
     assert len(res["add"]) == 2 and res["pending"] == []
 
 
+LAB = {"escuela.cl": {"queries": 5000, "clients": 45}}
+
+
 def test_decide_referrers():
     # Sitios abiertos justo antes de un juego bloqueado (relay de Eaglercraft, GameDistribution...).
     reports = [
         {"site": "a",
-         "domains": {"eagler-copia.com": {"queries": 8, "clients": 3}, "fuentes.com": {"queries": 900, "clients": 40},
-                     "friv-clon.net": {"queries": 6, "clients": 2}},
+         "domains": {**LAB, "eagler-copia.com": {"queries": 8, "clients": 3},
+                     "fuentes.com": {"queries": 900, "clients": 40}, "friv-clon.net": {"queries": 6, "clients": 2},
+                     "office.com": {"queries": 554, "clients": 45}},
          "referrers": {"eagler-copia.com": {"queries": 6, "clients": 3},
                        "friv-clon.net": {"queries": 5, "clients": 2},
                        # Se consulta todo el tiempo: que caiga cerca de un bloqueo es casualidad.
                        "fuentes.com": {"queries": 20, "clients": 9},
+                       # Todo el laboratorio: es Windows/Office, no un alumno abriendo una copia.
+                       "office.com": {"queries": 417, "clients": 45},
+                       # Muy visitado y sin cara de juego.
+                       "popular.com": {"queries": 9, "clients": 3},
+                       # Nombres de red local.
+                       "wpad.internal": {"queries": 9, "clients": 3}, "api.null": {"queries": 9, "clients": 3},
                        # Un solo equipo no basta.
                        "un-pc.com": {"queries": 4, "clients": 1},
                        "permitido.com": {"queries": 9, "clients": 3},
                        "descartado.com": {"queries": 9, "clients": 3}}},
     ]
     res = decide(reports, {"rejected": ["descartado.com"]}, set(), {"permitido.com"}, set(),
-                 games("eagler-copia.com"))
+                 games("eagler-copia.com"), popular={"popular.com"})
     # Origen + cara de juego: se agrega aunque lo haya visto un solo colegio.
     assert res["add"] == ["eagler-copia.com"]
     assert res["added"][0] == {"domain": "eagler-copia.com", "queries": 8, "clients": 3, "sites": 1}
@@ -80,8 +90,27 @@ def test_decide_referrers():
     assert res["pending"] == [{"domain": "friv-clon.net", "queries": 6, "clients": 2, "sites": 1, "via": "referrer"}]
 
 
+def test_decide_referrers_noisy_site():
+    # Colegio donde casi todo cae cerca de un bloqueo (Windows consultando msn.com): solo se
+    # destaca lo que supera con creces ese ruido de fondo.
+    doms = {**LAB, "copia.io": {"queries": 4, "clients": 2}, "ruido.com": {"queries": 4000, "clients": 20}}
+    refs = {"copia.io": {"queries": 4, "clients": 2}, "ruido.com": {"queries": 2400, "clients": 20},
+            "escuela.cl": {"queries": 2500, "clients": 45}}
+    res = decide([{"site": "a", "domains": doms, "referrers": refs}], {}, set(), set(), set(), games())
+    assert [p["domain"] for p in res["pending"]] == ["copia.io"]
+
+
+def test_decide_referrers_without_popular_list():
+    # Sin la lista de sitios populares no se proponen sitios de origen sin cara de juego, pero los
+    # que parecen juego se agregan igual.
+    reports = [{"site": "a", "domains": dict(LAB),
+                "referrers": {"copia.io": {"queries": 4, "clients": 2}, "juego.io": {"queries": 4, "clients": 2}}}]
+    res = decide(reports, {}, set(), set(), set(), games("juego.io"), popular=None)
+    assert res["add"] == ["juego.io"] and res["pending"] == []
+
+
 def test_decide_referrers_cap_and_old_reports():
-    reports = [{"site": "a", "domains": {},
+    reports = [{"site": "a", "domains": dict(LAB),
                 "referrers": {f"r{i}.com": {"queries": 3, "clients": 2} for i in range(60)}},
                # Un reporte de una versión anterior no trae referrers.
                {"site": "b", "domains": {"juego.com": {"queries": 9, "clients": 3}}}]

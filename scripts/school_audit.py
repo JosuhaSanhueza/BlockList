@@ -14,7 +14,8 @@ Este script, pensado para GitHub Actions:
   5. Revisa los "sitios de origen": dominios que los equipos abrieron justo antes de una consulta
      bloqueada por la lista de juegos (p. ej. una copia de Eaglercraft que llama a su relay, o un
      clon de Friv que carga GameDistribution). Si además parecen juego se agregan aunque los haya
-     visto un solo colegio; si no, quedan pendientes en el panel con esa señal.
+     visto un solo colegio; si no, quedan pendientes en el panel con esa señal, salvo que sean
+     sitios muy visitados (top 100.000 de Tranco): una copia de un juego nunca lo es.
   6. Informa al hub qué agregó y qué quedó pendiente.
 
 Nunca agrega dominios de la lista de permitidos ni los descartados en el panel.
@@ -26,10 +27,12 @@ Variables de entorno: HUB_URL (p. ej. https://escolarapp-hub-api....workers.dev)
 HUB_AUDIT_TOKEN.
 """
 import argparse
+import io
 import json
 import os
 import sys
 import urllib.request
+import zipfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
@@ -51,10 +54,28 @@ def hub(method, path, body=None):
         return json.load(r)
 
 
-# Parte mínima de las consultas a un dominio que deben ocurrir justo antes de un juego bloqueado
-# para tomarlo como sitio de origen. Deja fuera lo que se consulta todo el tiempo (Windows Update,
-# fuentes de Google, etc.) y por casualidad cae cerca de un bloqueo.
-REFERRER_MIN_SHARE = 0.2
+# Un sitio de origen se toma en cuenta solo si, en su colegio, la mayor parte de sus consultas
+# ocurre justo antes de un juego bloqueado (REFERRER_MIN_SHARE) y bastante más que el ruido de
+# fondo de ese colegio (REFERRER_LIFT veces la parte de todas sus consultas que cae cerca de un
+# bloqueo). Windows y Edge consultan solos dominios de la lista (p. ej. msn.com), y sin esto todo
+# lo que hace Windows parece "sitio de origen".
+# En un colegio con mucho ruido la exigencia sube hasta REFERRER_MAX_SHARE, para que una señal
+# limpia (todas sus consultas cerca de un bloqueo) siga pasando.
+REFERRER_MIN_SHARE = 0.5
+REFERRER_MAX_SHARE = 0.9
+REFERRER_LIFT = 2.0
+
+# Una copia de un juego la abren algunos alumnos, no el laboratorio entero: se descarta lo que
+# aparece en más de esta fracción de los equipos del colegio.
+REFERRER_MAX_CLIENT_FRACTION = 0.5
+
+# Nombres que no existen en internet (red local, Windows).
+NON_PUBLIC_SUFFIXES = (".internal", ".null", ".local", ".lan", ".home", ".arpa", ".localdomain", ".corp")
+
+# Los sitios de origen sin cara de juego que estén entre los más visitados del mundo no se
+# proponen. Tranco es una lista pública del millón de sitios más visitados (~10 MB comprimida).
+TRANCO_URL = "https://tranco-list.eu/top-1m.csv.zip"
+POPULAR_TOP = 100_000
 
 # Máximo de sitios de origen sin cara de juego que se dejan pendientes por día.
 REFERRER_MAX_PENDING = 50
@@ -68,12 +89,33 @@ def item(domain, m, via=""):
     return it
 
 
+def site_referrers(report):
+    """Sitios de origen de un reporte que se destacan sobre el ruido de fondo de su colegio."""
+    doms = report.get("domains") or {}
+    refs = report.get("referrers") or {}
+    total = sum(int(v.get("queries", 0)) for v in doms.values())
+    near = sum(int(v.get("queries", 0)) for v in refs.values())
+    base = near / total if total else 0.0
+    devices = max([int(v.get("clients", 0)) for v in list(doms.values()) + list(refs.values())] or [0])
+    min_share = min(REFERRER_MAX_SHARE, max(REFERRER_MIN_SHARE, REFERRER_LIFT * base))
+
+    out = {}
+    for d, v in refs.items():
+        q, c = int(v.get("queries", 0)), int(v.get("clients", 0))
+        if d.endswith(NON_PUBLIC_SUFFIXES) or c > REFERRER_MAX_CLIENT_FRACTION * devices:
+            continue
+        share = q / max(int((doms.get(d) or {}).get("queries", 0)), q, 1)
+        if share >= min_share:
+            out[d] = v
+    return out
+
+
 def merge_referrers(reports):
-    """Suma los sitios de origen de varios reportes, igual que merge_reports con los dominios."""
+    """Suma los sitios de origen destacados de varios reportes, como merge_reports."""
     merged = {}
     for r in reports:
         site = r.get("site", "?")
-        for d, s in (r.get("referrers") or {}).items():
+        for d, s in site_referrers(r).items():
             m = merged.setdefault(d, {"queries": 0, "clients": 0, "sites": set()})
             m["queries"] += int(s.get("queries", 0))
             m["clients"] += int(s.get("clients", 0))
@@ -81,26 +123,39 @@ def merge_referrers(reports):
     return merged
 
 
-def referrer_candidates(refs, merged, eligible, min_clients=2, limit=300):
-    """Sitios de origen elegibles y con señal fuerte: la mayor parte de sus consultas ocurre justo
-    antes de un juego bloqueado. Devuelve (dominio, stats) ordenados por señal."""
-    out = []
-    for d, r in refs.items():
-        if not eligible(d) or r["clients"] < min_clients:
-            continue
-        total = max(merged.get(d, {}).get("queries", 0), r["queries"], 1)
-        if r["queries"] / total >= REFERRER_MIN_SHARE:
-            out.append((d, r))
+def referrer_candidates(refs, eligible, min_clients=2, limit=300):
+    """Sitios de origen elegibles, ordenados por señal. Devuelve (dominio, stats)."""
+    out = [(d, r) for d, r in refs.items() if eligible(d) and r["clients"] >= min_clients]
     out.sort(key=lambda kv: (-len(kv[1]["sites"]), -kv[1]["clients"], -kv[1]["queries"], kv[0]))
     return out[:limit]
 
 
-def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clients=2, max_add=30, limit=300):
+def load_popular(top=POPULAR_TOP):
+    """Los `top` dominios más visitados según Tranco, o None si no se pudo descargar la lista."""
+    try:
+        req = urllib.request.Request(TRANCO_URL, headers={"User-Agent": "BlockList-school-audit/1.0"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            z = zipfile.ZipFile(io.BytesIO(r.read()))
+        popular = set()
+        with z.open(z.namelist()[0]) as f:
+            for line in io.TextIOWrapper(f, encoding="utf-8"):
+                popular.add(line.strip().split(",", 1)[1].lower())
+                if len(popular) >= top:
+                    break
+        return popular
+    except Exception as e:  # noqa: BLE001 - sin la lista se omite solo ese paso
+        print(f"Aviso: no se pudo descargar la lista de sitios populares ({type(e).__name__})")
+        return None
+
+
+def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clients=2, max_add=30, limit=300,
+           popular=frozenset()):
     """Decide qué agregar y qué dejar pendiente. classify(cands) -> lista de (dominio, stats) que son juego.
 
     Devuelve un dict con: add (dominios a agregar), added (items para el hub), pending (items)
     y applied (aprobados del panel que se agregan). Ignora cualquier regla manual que traiga un
-    reporte antiguo.
+    reporte antiguo. popular son los sitios más visitados, que nunca se proponen como sitio de
+    origen sin cara de juego; None (lista no disponible) no propone ninguno de esos.
     """
     rejected = set(decisions.get("rejected") or [])
     merged, _ = merge_reports(reports)
@@ -124,7 +179,7 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
 
     # 2. Sitios de origen: abiertos justo antes de un juego bloqueado. Con cara de juego se
     # agregan (dos señales independientes); sin ella quedan pendientes con la señal a la vista.
-    refs = referrer_candidates(merge_referrers(reports), merged, lambda d: eligible(d) and d not in add,
+    refs = referrer_candidates(merge_referrers(reports), lambda d: eligible(d) and d not in add,
                                min_clients=min_clients, limit=limit)
     ref_games = {d for d, _ in classify(refs)}
     ref_pending = 0
@@ -132,6 +187,8 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
         stats = dict(merged.get(d) or r, sites=r["sites"] | (merged.get(d) or {}).get("sites", set()))
         if d in ref_games:
             take(d, stats)
+        elif popular is None or d in popular:
+            continue
         elif ref_pending < REFERRER_MAX_PENDING:
             pending.append(item(d, stats, via="referrer"))
             ref_pending += 1
@@ -169,7 +226,8 @@ def main():
         games, _ = classify_candidates(cand, a.workers)
         return games
 
-    res = decide(reports, decisions, doms, wl, exc, classify, max_add=a.max_add)
+    popular = load_popular()
+    res = decide(reports, decisions, doms, wl, exc, classify, max_add=a.max_add, popular=popular)
     # Solo cantidades: el log de este repositorio es público.
     print(f"Reportes: {len(reports)} | agregar: {len(res['add'])} | pendientes: {len(res['pending'])}")
 
