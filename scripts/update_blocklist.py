@@ -132,6 +132,10 @@ WHITELIST = {
     # Red de Akamai (CDN de Microsoft, Apple y miles de sitios). Estaba en la lista de juegos y
     # Windows la consulta sola: bloqueaba servicios legítimos (2026-10-16).
     "edgesuite.net",
+    # Infraestructura que entró por la consolidación del 2026-08-11 y se sacó el 2026-10-16:
+    # login de Microsoft (Office 365/Teams), Google, reporte de errores web, motor Unity
+    # (también Unity Learn), buscador Yandex (Yandex Games se bloquea por subdominio) y Etsy.
+    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "yandex.com", "etsy.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

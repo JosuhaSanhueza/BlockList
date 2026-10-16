@@ -4,15 +4,39 @@ import os
 import re
 
 BLOCKLIST_FILE = "GamesBlockList.txt"
-# Dominios de segundo nivel compartidos (registros tipo CentralNic como it.com o us.com, y
-# servicios de subdominios gratis como eu.org): cada subdominio es un sitio distinto, así que se
-# bloquea el subdominio y nunca el dominio completo.  Mantener en sync con multiTLDs en
-# escolarapp-shield/internal/home/fleetreport.go.
+# Dominios compartidos: cada subdominio es un sitio distinto, así que se bloquea el subdominio y
+# nunca el dominio completo. Son registros tipo CentralNic (it.com, us.com...), subdominios
+# gratis (eu.org) y hostings/CDN (github.io, vercel.app, cloudfront.net...). Mantener en sync con
+# multiTLDs y sharedHosting en escolarapp-shield/internal/home/fleetreport.go.
 SHARED_SUFFIXES = {
     "it.com", "us.com", "co.com", "br.com", "cn.com", "de.com", "eu.com", "gb.com", "gb.net",
     "uk.com", "uk.net", "jpn.com", "ru.com", "sa.com", "za.com", "in.net", "mex.com", "ae.org",
     "us.org", "eu.org",
+    "github.io", "gitlab.io", "bitbucket.io", "pages.dev", "vercel.app", "netlify.app", "web.app",
+    "firebaseapp.com", "cloudfront.net", "amazonaws.com", "onrender.com", "weebly.com",
+    "wixsite.com", "blogspot.com", "wordpress.com", "glitch.me", "surge.sh", "replit.app",
 }
+
+# Sitios del top 10.000 de Tranco (scripts/popular_domains.txt) que SÍ son de juegos y se
+# bloquean completos por decisión explícita. Cualquier otro sitio de ese top hace fallar la
+# validación: suele ser infraestructura (CDN, login, buscadores) y bloquearlo rompe servicios.
+POPULAR_APPROVED = {
+    "msn.com", "epicgames.com", "steampowered.com", "steamcommunity.com", "itch.io", "chess.com",
+    "poki.com", "crazygames.com", "lichess.org", "playhop.com", "cardgames.io", "aternos.org",
+    "gamebanana.com", "minecraft.net", "zynga.com", "runescape.com", "my.games", "newgrounds.com",
+    "king.com", "jigsawplanet.com", "miniclip.com", "solitaired.com", "coolmathgames.com",
+    "neal.fun", "boardgamearena.com", "gameforge.com", "nitrotype.com", "emochi.com", "friv.com",
+    "lagged.com", "ankergames.net",
+}
+
+
+def load_popular():
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "popular_domains.txt")
+    with open(path, encoding="utf-8") as f:
+        return {l.strip() for l in f if l.strip() and not l.startswith("#")}
+
+
+POPULAR = load_popular()
 
 # La Whitelist solo protege infraestructura esencial de internet (buscadores/redes sociales), NUNCA sitios de juegos
 WHITELIST = {
@@ -33,6 +57,10 @@ WHITELIST = {
     # Red de Akamai (CDN de Microsoft, Apple y miles de sitios). Estaba en la lista de juegos y
     # Windows la consulta sola: bloqueaba servicios legítimos (2026-10-16).
     "edgesuite.net",
+    # Infraestructura que entró por la consolidación del 2026-08-11 y se sacó el 2026-10-16:
+    # login de Microsoft (Office 365/Teams), Google, reporte de errores web, motor Unity
+    # (también Unity Learn), buscador Yandex (Yandex Games se bloquea por subdominio) y Etsy.
+    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "yandex.com", "etsy.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que
@@ -78,6 +106,11 @@ def check_line(line_clean, line_num, domains_seen):
     # 3. Un dominio compartido completo bloquearía miles de sitios sin relación.
     if domain in SHARED_SUFFIXES:
         errors.append(f"Línea {line_num}: CRÍTICO - Dominio compartido completo '{domain}': bloqueá el subdominio.")
+
+    # 3a. Un sitio muy popular casi siempre es infraestructura: requiere aprobación explícita.
+    if domain in POPULAR and domain not in POPULAR_APPROVED:
+        errors.append(f"Línea {line_num}: CRÍTICO - '{domain}' está en el top 10.000 de sitios: si de verdad es "
+                      f"de juegos, agrégalo a POPULAR_APPROVED; si no, bloquea un subdominio.")
 
     # 3b. Validar presencia accidental de Whitelist (solo servicios no-juegos)
     if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS:
