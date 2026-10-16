@@ -35,7 +35,6 @@ Mantenido por **Josuha Sanhueza (EscolarApp)**.
 - **Listas** (`GamesBlockList.txt`, `GamesBlockList_hosts.txt`, `WindowsUpdate.txt`,
   `GoogleUpdate.txt`, `keywords.txt`): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
   ([texto completo](LICENSE-LISTS)). Puedes usarlas y adaptarlas **citando este repositorio**,
-  **sin fines comerciales** y compartiendo tus cambios con la misma licencia. Para uso comercial,
-  escríbenos.
+  **sin fines comerciales** y compartiendo tus cambios con la misma licencia.
 - **Código** (`scripts/`, `tests/`, `.github/`): [MIT](LICENSE).
 
