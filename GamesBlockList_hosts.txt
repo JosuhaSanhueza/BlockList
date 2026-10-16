@@ -721,6 +721,7 @@
 0.0.0.0 eaglerlite.1b2t.xyz
 0.0.0.0 easegame.com
 0.0.0.0 easyfun.gg
+0.0.0.0 eb-bridging.pro
 0.0.0.0 ebhasin.com
 0.0.0.0 edgesuite.net
 0.0.0.0 edslap.com
