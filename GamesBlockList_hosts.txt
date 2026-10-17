@@ -2377,7 +2377,6 @@
 0.0.0.0 jiri2ma.gitlab.io
 0.0.0.0 jjminecraftguy.github.io
 0.0.0.0 jjsmithok.github.io
-0.0.0.0 jkk_a_right.gitlab.io
 0.0.0.0 jklm.fun
 0.0.0.0 jkosixtyfour.github.io
 0.0.0.0 jkwestin.github.io
@@ -2813,7 +2812,6 @@
 0.0.0.0 minecraft.com
 0.0.0.0 minecraft.net
 0.0.0.0 minecraft194eaglercraft.weebly.com
-0.0.0.0 minecraft_team21.gitlab.io
 0.0.0.0 minecraftclassic.online
 0.0.0.0 minecraftclassic.org
 0.0.0.0 minecrafteaglercraft.gitlab.io

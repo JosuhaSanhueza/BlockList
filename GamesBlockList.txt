@@ -2376,7 +2376,6 @@
 ||jiri2ma.gitlab.io^
 ||jjminecraftguy.github.io^
 ||jjsmithok.github.io^
-||jkk_a_right.gitlab.io^
 ||jklm.fun^
 ||jkosixtyfour.github.io^
 ||jkwestin.github.io^
@@ -2812,7 +2811,6 @@
 ||minecraft.com^
 ||minecraft.net^
 ||minecraft194eaglercraft.weebly.com^
-||minecraft_team21.gitlab.io^
 ||minecraftclassic.online^
 ||minecraftclassic.org^
 ||minecrafteaglercraft.gitlab.io^
