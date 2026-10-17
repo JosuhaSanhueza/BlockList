@@ -136,6 +136,7 @@
 ||3pv1.github.io^
 ||3xpsmjs.pages.dev^
 ||40servidoresmc.es^
+||44chintu.github.io^
 ||45-pesos.github.io^
 ||4gameground.com^
 ||4j.com^
@@ -199,14 +200,17 @@
 ||aaditg32.github.io^
 ||aagashkumar.github.io^
 ||aanand-km.github.io^
+||abc6xyz.github.io^
 ||abcya.com^
 ||abcya.io^
 ||abdelillahouinas01.github.io^
 ||abduljlilati21-ai.github.io^
 ||abdullah-blip30.github.io^
+||abelthestupidboy6-netizen.github.io^
 ||abhinavgamer730-ops.github.io^
 ||abhineet-cmd.github.io^
 ||abiluvscode.github.io^
+||abisdbest.github.io^
 ||ablackett82.github.io^
 ||abrainrot.com^
 ||abss3.github.io^
@@ -278,6 +282,7 @@
 ||airconsole.com^
 ||airoyale007.github.io^
 ||akabenji1.gitlab.io^
+||akilesh-him.github.io^
 ||akshun-akxe.github.io^
 ||al652025.github.io^
 ||aldifadhilah72-eng.github.io^
@@ -290,6 +295,7 @@
 ||alexdev-90.github.io^
 ||alexisntcool123.github.io^
 ||alexx743-games-unblocked.vercel.app^
+||alfredorobindabank-hub.github.io^
 ||algraculture.github.io^
 ||ali-2123.github.io^
 ||ali-ezz.github.io^
@@ -313,6 +319,7 @@
 ||altterisk.github.io^
 ||alungranpj.github.io^
 ||alzjandxo.github.io^
+||amaanshakeel0998.github.io^
 ||amandathe-adventurer.com^
 ||amara-karagian.github.io^
 ||amazinggamesnetwork.com^
@@ -363,6 +370,8 @@
 ||ant.games^
 ||antebm.github.io^
 ||antoinebou12.github.io^
+||antonykmykhailo2013.github.io^
+||anubhav-singh-creator.github.io^
 ||anygames-ad.bitbucket.io^
 ||anygames-com.bitbucket.io^
 ||anygames-free.bitbucket.io^
@@ -420,8 +429,10 @@
 ||areajugones.sport.es^
 ||arealme.com^
 ||arenahub.gg^
+||ares-xtechnologies.github.io^
 ||arielyapo.github.io^
 ||ariff123trr.github.io^
+||arihantajikumar283-debug.github.io^
 ||arishtuffboi.github.io^
 ||arjunshah-pixel.github.io^
 ||ark854.github.io^
@@ -453,6 +464,7 @@
 ||asharsalman.github.io^
 ||asherwin86.github.io^
 ||ashmeet670.github.io^
+||ashutosh10075.github.io^
 ||asobrain.com^
 ||asriel-deemurr.github.io^
 ||assets.gd.sbs.softgames.de^
@@ -516,6 +528,7 @@
 ||badtimesimulator.org^
 ||badtimesimulatorr.com^
 ||bagelcomics.com^
+||baifan7574.github.io^
 ||bakiel.github.io^
 ||baldi-game.com^
 ||baldibasicsplus.com^
@@ -527,6 +540,7 @@
 ||bananaclickerunblocked.github.io^
 ||bananaking23.github.io^
 ||banhidiboti.github.io^
+||bansnetsajak007.github.io^
 ||bapenguin.github.io^
 ||barfbagx2.github.io^
 ||bartender-game-en.web.app^
@@ -724,6 +738,7 @@
 ||bloxorz.net^
 ||bloxorz.org^
 ||blueberri0.github.io^
+||blueisancat.github.io^
 ||blumgirocket.org^
 ||blumgislime.com^
 ||bmanblox.github.io^
@@ -736,6 +751,7 @@
 ||bob-the-robber-unblocked.github.io^
 ||bob123212323.github.io^
 ||bob9999yt.github.io^
+||boba-debug.github.io^
 ||bobby3dse.github.io^
 ||bobergamingyt.github.io^
 ||bobjeff222.github.io^
@@ -878,8 +894,10 @@
 ||cargamesfree.io^
 ||cargamesunblocked.gitlab.io^
 ||cargamesunblocked.net^
+||carlin23-stack.github.io^
 ||carmendm92.gitlab.io^
 ||carrot-craft.org^
+||carsonlarson41.github.io^
 ||cart1416.github.io^
 ||cartoongames.io^
 ||cartoongames.net^
@@ -909,6 +927,7 @@
 ||chainedtogethergame.com^
 ||chainedtogethergame.github.io^
 ||chairpact.github.io^
+||chamacurson.github.io^
 ||chandus-garage.github.io^
 ||channelthree.vercel.app^
 ||chapgames.com^
@@ -1036,6 +1055,7 @@
 ||cmartinpro.gitlab.io^
 ||cmubg.gitlab.io^
 ||cmug.gitlab.io^
+||cmykero.github.io^
 ||cn-7-sb.github.io^
 ||coconutgames.com^
 ||coderadii58.github.io^
@@ -1229,6 +1249,7 @@
 ||daily-games-hub.vercel.app^
 ||dailygameindex.com^
 ||dailygames.discover.google.com^
+||dakotamaccree2.github.io^
 ||daksh23gupta10.github.io^
 ||daltonmaulik-hue.github.io^
 ||damemegod.github.io^
@@ -1247,6 +1268,7 @@
 ||danygames.com^
 ||danyilt.github.io^
 ||dappls.github.io^
+||darkbladev47.github.io^
 ||darkmodegaming.github.io^
 ||darknessday-code.github.io^
 ||darren-rawlings.github.io^
@@ -1277,6 +1299,7 @@
 ||deev.is^
 ||defly.io^
 ||defnotgames.github.io^
+||dekada72h.github.io^
 ||delt.io^
 ||deltarune.im^
 ||deltarunesim.com^
@@ -1338,6 +1361,7 @@
 ||dinosaurgames.gg^
 ||dipa0102.github.io^
 ||disney--games.com^
+||djessemann.github.io^
 ||djmarikyan.github.io^
 ||djwkfneifn.github.io^
 ||dlfma1985.github.io^
@@ -1617,6 +1641,7 @@
 ||elcamargo.github.io^
 ||elegant.games^
 ||elfexds.github.io^
+||elfinglitter706.github.io^
 ||elgoog.eu^
 ||elgoog.im^
 ||eliasbarrett2029-hue.github.io^
@@ -1702,6 +1727,7 @@
 ||ethandodz.github.io^
 ||ethanrepo.github.io^
 ||ethcook.github.io^
+||etoso951.github.io^
 ||eurpo.github.io^
 ||ev.io^
 ||evangoldberg1234.github.io^
@@ -2074,6 +2100,7 @@
 ||game-galaxy-hub.vercel.app^
 ||game-game.com^
 ||game-monetize-responsive-html-5-gam.vercel.app^
+||game-portal-client.vercel.app^
 ||game-portal-six-liart.vercel.app^
 ||game-portal-steel.vercel.app^
 ||game-portal-xi-five.vercel.app^
@@ -2103,6 +2130,7 @@
 ||gamefunbar.com^
 ||gamehole-games.vercel.app^
 ||gamehouse.com^
+||gamehub-games.vercel.app^
 ||gamehub-harsh.vercel.app^
 ||gamehub-navy-three.vercel.app^
 ||gamehub-one-navy.vercel.app^
@@ -2129,6 +2157,7 @@
 ||gamepluto.gitlab.io^
 ||gameportal-chi.vercel.app^
 ||gameportal-livid.vercel.app^
+||gameportal-sigma.vercel.app^
 ||gamepotty.com^
 ||gamerateofficial.weebly.com^
 ||gamerheaven.github.io^
@@ -2136,6 +2165,7 @@
 ||gamers-1v1-lol.github.io^
 ||games-4-free.com^
 ||games-66-ez.github.io^
+||games-afterhours.pages.dev^
 ||games-alchemist.com^
 ||games-arcade-gray.vercel.app^
 ||games-games.com^
@@ -2211,6 +2241,7 @@
 ||gameunblocked-2025.github.io^
 ||gamevado.vercel.app^
 ||gameverse-10001.vercel.app^
+||gameverse-website-five.vercel.app^
 ||gamevgames.com^
 ||gamevi.github.io^
 ||gamexp404.github.io^
@@ -2382,6 +2413,7 @@
 ||glazegames.com^
 ||glennfb83.github.io^
 ||glimpse-game.vercel.app^
+||glitchnest.vercel.app^
 ||globlegame.pages.dev^
 ||gm.azgame.io^
 ||gnhustgames.org^
@@ -2390,6 +2422,7 @@
 ||goblinkingdev.github.io^
 ||godup233-hash.github.io^
 ||gogamego.io^
+||gogluejf.github.io^
 ||gogoat35.github.io^
 ||gogy.com^
 ||gokarts.io^
@@ -2397,6 +2430,7 @@
 ||golforbitgame.com^
 ||gomestable.netlify.app^
 ||gominigames.com^
+||gonzheus-prog.github.io^
 ||goobusgh.github.io^
 ||goodgames4u.github.io^
 ||goodoldtetris.com^
@@ -2453,6 +2487,7 @@
 ||grow-agarden.io^
 ||growden.io^
 ||grrd.ch^
+||grteam2.github.io^
 ||grummpy.github.io^
 ||gs.pop-sa-saw1-r.pop.cloud.doodles.goog^
 ||gswitch.org^
@@ -2536,6 +2571,7 @@
 ||herbert2809.github.io^
 ||herfbug.github.io^
 ||hermes98761234.github.io^
+||hesham-alpha.github.io^
 ||hexanaut.io^
 ||hexar.io^
 ||hexarena.io^
@@ -2553,6 +2589,7 @@
 ||high-tech-7.github.io^
 ||higherlowergame.com^
 ||highlandsgames.github.io^
+||highnesslin.github.io^
 ||highwaytrafficonline.github.io^
 ||hihig506-debug.github.io^
 ||hihoy.com^
@@ -2760,6 +2797,7 @@
 ||javierandpjcreations.github.io^
 ||javierb98.github.io^
 ||jaxgames47.github.io^
+||jaxsonalspaugh0-crypto.github.io^
 ||jaydenkuijpers123.github.io^
 ||jaydentobias278-crypto.github.io^
 ||jayflora3575-tech.github.io^
@@ -2831,6 +2869,7 @@
 ||john-plex.github.io^
 ||john1v1.github.io^
 ||johndoe642is7here-spec.github.io^
+||johnkovs2-sys.github.io^
 ||johnmilley.github.io^
 ||jona-gill.github.io^
 ||jonaslpeuu.github.io^
@@ -2850,6 +2889,7 @@
 ||joypygames.gitlab.io^
 ||jqi123456.github.io^
 ||jsksmdummqismwksmpoopeoqwoqqo2828askao8.github.io^
+||jsodd-git.github.io^
 ||jss123g.github.io^
 ||jtarasewicz2029-alt.github.io^
 ||jtgamesstudios.github.io^
@@ -2921,6 +2961,7 @@
 ||kaboomcrew.github.io^
 ||kaetram.com^
 ||kagura.games^
+||kahanrushan62-stack.github.io^
 ||kaipark5464-eng.github.io^
 ||kaizoraorigins.github.io^
 ||kalebwhite61.github.io^
@@ -2951,6 +2992,7 @@
 ||kelvenclay19.github.io^
 ||kemono.games^
 ||kenfin777.github.io^
+||kerlinamitha-debug.github.io^
 ||kermittheconqueror.github.io^
 ||kernelgreyberet.github.io^
 ||kerstingjack213-pixel.github.io^
@@ -2964,6 +3006,7 @@
 ||keygames.com^
 ||kezgames.com^
 ||khalqqqqqq.github.io^
+||khamir206.github.io^
 ||khanhsaan13.github.io^
 ||khausmann-del.github.io^
 ||khentstickman-1-0.vercel.app^
@@ -3051,6 +3094,7 @@
 ||kupagames.com^
 ||kyabai.com^
 ||kylebob.com^
+||kyles-game-hub.vercel.app^
 ||l3-n0x.github.io^
 ||lablockedgames.com^
 ||lachameleon.github.io^
@@ -3066,6 +3110,7 @@
 ||larrinamsalva.github.io^
 ||lastline.011203.xyz^
 ||latpong22.github.io^
+||launchpad-games-lobby.vercel.app^
 ||lax1dude.net^
 ||lax1duds.github.io^
 ||lazygames.io^
@@ -3232,6 +3277,7 @@
 ||match3games.com^
 ||mateobaricevic.github.io^
 ||math-playground.bitbucket.io^
+||matheusls.github.io^
 ||mathplayzone.com^
 ||maths-studio.github.io^
 ||mathwizard.pages.dev^
@@ -3288,6 +3334,7 @@
 ||mergecakegame.com^
 ||mergedportal.github.io^
 ||mergerotgame.com^
+||merrygeva.github.io^
 ||mess.eu.org^
 ||messcraft.ovh^
 ||mestredelcidio-debug.github.io^
@@ -3363,6 +3410,7 @@
 ||minesweeper.one^
 ||mini-game-hub-neon-chi.vercel.app^
 ||mini-games-amber.vercel.app^
+||mini-offline-games.vercel.app^
 ||miniblox.io^
 ||miniclip.com^
 ||minidiamonddev.github.io^
@@ -3552,9 +3600,11 @@
 ||nathanslavik-arcade.github.io^
 ||nathk9.github.io^
 ||natrixapp.netlify.app^
+||nayakgayatri6265-tech.github.io^
 ||nazarlabunsky2013-commits.github.io^
 ||nclip96.github.io^
 ||neal.fun^
+||nedim-rasimoglu-fiba.github.io^
 ||neilbauman21-hub.github.io^
 ||nelly-sgamehub.vercel.app^
 ||nemoplay.com^
@@ -3823,11 +3873,13 @@
 ||patrasxd.github.io^
 ||paulgamerboy101.github.io^
 ||paweljarosz.itch.io^
+||pcastromendez1971-eng.github.io^
 ||pcmobilegames.com^
 ||pcriver.github.io^
 ||peargames4help-code.github.io^
 ||penaltyshooters.gitlab.io^
 ||penaltyshooters.io^
+||penglo5.github.io^
 ||penqiuno.github.io^
 ||peoplepenguin8-ui.github.io^
 ||pepepepepopo.github.io^
@@ -4079,6 +4131,7 @@
 ||pythondevparas.github.io^
 ||q13x.com^
 ||q8j-dev.github.io^
+||qasim51312.github.io^
 ||qerionx.github.io^
 ||qg9999.github.io^
 ||qleededgta-cloud.github.io^
@@ -4107,6 +4160,7 @@
 ||r2games.com^
 ||r4d4rplayzz.github.io^
 ||r74n.com^
+||rabbimkosofsky-droid.github.io^
 ||rac3trase.github.io^
 ||race-game-2.vercel.app^
 ||racinglimits.net^
@@ -4143,6 +4197,7 @@
 ||rarepike.com^
 ||rashgawy13.github.io^
 ||ratz67.github.io^
+||raunak-developer-del.github.io^
 ||rbunblocked.gitlab.io^
 ||re-pack-delta.vercel.app^
 ||realaqilplayz.github.io^
@@ -4153,6 +4208,7 @@
 ||realvaxy667.github.io^
 ||reben80.github.io^
 ||rec0ded88.com^
+||recessgames.vercel.app^
 ||redabamessaoud9-sketch.github.io^
 ||redalphagames.github.io^
 ||redball4unblock.github.io^
@@ -4187,6 +4243,7 @@
 ||retro-bowlonline.github.io^
 ||retro-bowlunblocked.gitlab.io^
 ||retro-station.netlify.app^
+||retroarcane.github.io^
 ||retroarch.com^
 ||retroarch.io^
 ||retrobowl-25.github.io^
@@ -4227,6 +4284,7 @@
 ||rfs-cmd.github.io^
 ||rhythm-games.com^
 ||rhythmgames.io^
+||richie99in-prog.github.io^
 ||rickniyosaba-offical.github.io^
 ||ricruizreis-ops.github.io^
 ||rider-1yt5-eaglercraft-single.vercel.app^
@@ -4245,6 +4303,7 @@
 ||robloxunblocked.gitlab.io^
 ||robloxunblockedgames.github.io^
 ||robloxunblockedonline.gitlab.io^
+||robo-galactic-shooter.netlify.app^
 ||roboaaron.github.io^
 ||robsonfounar.github.io^
 ||robtopgames.com^
@@ -4325,6 +4384,7 @@
 ||salarygames.com^
 ||saltsb40.github.io^
 ||samimustafadev.github.io^
+||samitvishwakarma12.github.io^
 ||sammchugh-gif.github.io^
 ||sammurray0513-hue.github.io^
 ||sammyhapticx.github.io^
@@ -4386,6 +4446,7 @@
 ||shadowolfofficial.github.io^
 ||shadowsonic1997.github.io^
 ||shaffear.github.io^
+||shafik86.github.io^
 ||shahisha1.github.io^
 ||shakirdmr.github.io^
 ||shannongtyps-lab.github.io^
@@ -4640,6 +4701,7 @@
 ||sorry-bob.org^
 ||sorrybob.io^
 ||soumyadityaa.github.io^
+||sourdays-1.github.io^
 ||space-shooter-shadrouh.netlify.app^
 ||spacesquare640.github.io^
 ||spacetgl1.github.io^
@@ -4851,6 +4913,8 @@
 ||sukidukinn.github.io^
 ||sunfs.app^
 ||sunny-son-sahur.github.io^
+||sunrise-public-school.github.io^
+||sunsetgames.netlify.app^
 ||sunstudio.io^
 ||super-mario-bros.gitlab.io^
 ||supercooldud-e.github.io^
@@ -4867,6 +4931,7 @@
 ||svitlogames.gitlab.io^
 ||swansonzaidyn-dot.github.io^
 ||swf-games-vault.github.io^
+||swillison09-lang.github.io^
 ||swimmyfish.fun^
 ||swingounblocked.gitlab.io^
 ||swooperly.github.io^
@@ -4969,6 +5034,7 @@
 ||thebrowserarcade.github.io^
 ||thechoicervoicergames.com^
 ||thecitizen839.gitlab.io^
+||thecoderfinder.github.io^
 ||thedecap.github.io^
 ||theerrorexe.github.io^
 ||theforgegames.org^
@@ -4991,6 +5057,7 @@
 ||themonkeexe.github.io^
 ||themyprintspeople.github.io^
 ||thenextturn.web.app^
+||theoneand33.github.io^
 ||thepizzaedition-games.bitbucket.io^
 ||thepizzaedition-games.github.io^
 ||thepizzaedition-unblock.github.io^
@@ -5051,6 +5118,8 @@
 ||tombofthemask.gitlab.io^
 ||tombofthemask.net^
 ||tombofthemask.org^
+||tommalbran.github.io^
+||toocool12544.github.io^
 ||tooladda.online^
 ||toomanycaptains.com^
 ||toongo.io^
@@ -5150,6 +5219,7 @@
 ||tztgame.com^
 ||u-bg.github.io^
 ||ub-g.github.io^
+||ubg-76.github.io^
 ||ubg002.gitlab.io^
 ||ubg003.gitlab.io^
 ||ubg004.gitlab.io^
@@ -5167,12 +5237,15 @@
 ||ubg42.github.io^
 ||ubg423.github.io^
 ||ubg6.gitlab.io^
+||ubg66.github.io^
 ||ubg66.gitlab.io^
 ||ubg66ez.gitlab.io^
 ||ubg67.com^
+||ubg67.github.io^
 ||ubg67.gitlab.io^
 ||ubg6767.github.io^
 ||ubg69.gitlab.io^
+||ubg6969.github.io^
 ||ubg6969.gitlab.io^
 ||ubg6x.github.io^
 ||ubg76.com^
@@ -5188,6 +5261,7 @@
 ||ubgmom.gitlab.io^
 ||ubgpro.github.io^
 ||ubgw.gitlab.io^
+||ubgwtf.github.io^
 ||ubgwtf.gitlab.io^
 ||ucodia.github.io^
 ||udayahuja19.github.io^
@@ -5305,6 +5379,7 @@
 ||unblocked98.github.io^
 ||unblockedblockblast.github.io^
 ||unblockedclassroomgames.gitlab.io^
+||unblockedclvsite.github.io^
 ||unblockedescaperoads.com^
 ||unblockedfreegames.github.io^
 ||unblockedfungames.github.io^
@@ -5441,6 +5516,7 @@
 ||valux-game.github.io^
 ||valuxshop.github.io^
 ||vandaranikunj.github.io^
+||vattenfisk3n.github.io^
 ||vault-ubg.pages.dev^
 ||vbhl-overlord.github.io^
 ||veck.io^
@@ -5666,6 +5742,7 @@
 ||yonosoymike83.github.io^
 ||yoplay.io^
 ||yoshiharu1.github.io^
+||yotam-nagar.github.io^
 ||yougame.co^
 ||youmakethishouseahome.online^
 ||yourwebgame.com^
