@@ -1845,12 +1845,15 @@
 0.0.0.0 emochi.com
 0.0.0.0 emojitest.com
 0.0.0.0 emubrowser.com
+0.0.0.0 emugames-com.bitbucket.io
+0.0.0.0 emugames-io.bitbucket.io
 0.0.0.0 emul8me.pages.dev
 0.0.0.0 emulador-online.vercel.app
 0.0.0.0 emulator.online
 0.0.0.0 emulatorgame.org
 0.0.0.0 emulatorgames.onl
 0.0.0.0 emulatorgames.online
+0.0.0.0 emulatorgamess.bitbucket.io
 0.0.0.0 emulatorgamesx.net
 0.0.0.0 emulatorgameszone.com
 0.0.0.0 emulatorjs-supabase.vercel.app
@@ -2151,6 +2154,7 @@
 0.0.0.0 freeciv.org
 0.0.0.0 freecivweb.com
 0.0.0.0 freedombrowser.org
+0.0.0.0 freeflappybird.com
 0.0.0.0 freeflappybird.org
 0.0.0.0 freeflashgamesnow.com
 0.0.0.0 freefrogger.org

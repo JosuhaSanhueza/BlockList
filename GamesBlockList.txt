@@ -1844,12 +1844,15 @@
 ||emochi.com^
 ||emojitest.com^
 ||emubrowser.com^
+||emugames-com.bitbucket.io^
+||emugames-io.bitbucket.io^
 ||emul8me.pages.dev^
 ||emulador-online.vercel.app^
 ||emulator.online^
 ||emulatorgame.org^
 ||emulatorgames.onl^
 ||emulatorgames.online^
+||emulatorgamess.bitbucket.io^
 ||emulatorgamesx.net^
 ||emulatorgameszone.com^
 ||emulatorjs-supabase.vercel.app^
@@ -2150,6 +2153,7 @@
 ||freeciv.org^
 ||freecivweb.com^
 ||freedombrowser.org^
+||freeflappybird.com^
 ||freeflappybird.org^
 ||freeflashgamesnow.com^
 ||freefrogger.org^
