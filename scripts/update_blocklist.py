@@ -80,6 +80,50 @@ JS_GAME_FOOTPRINTS = [
     r"opticraft", r"teavm", r"minecraftweb", r"webminecraft", r"stickman"
 ]
 
+# Señales más precisas en el HTML de una página (ver game_signals()).
+# SDKs de distribuidoras de juegos: solo los cargan páginas que muestran juegos.
+GAME_DISTRIBUTOR_SDKS = {
+    "gamedistribution": r"gamedistribution\.com|gd-sdk|gdsdk",
+    "gamemonetize": r"gamemonetize\.(com|co)",
+    "poki": r"poki-sdk|poki-cdn\.com|poki-gdn\.com",
+    "crazygames": r"crazygames-sdk|sdk\.crazygames\.com",
+    "gamepix": r"gamepix\.com",
+    "famobi": r"famobi\.com",
+    "y8": r"static\.y8\.com|y8\.com/games",
+}
+# Motores de juego en el navegador: también los usan estudios y demos, así que necesitan
+# otra señal (texto o enlaces de juego) para contar.
+GAME_ENGINES = {
+    "unity": r"unityloader|createunityinstance|\.wasm\.(br|gz|unityweb)\b|build/[\w.-]+\.loader\.js",
+    "construct": r"c3runtime|c2runtime",
+    "playcanvas": r"playcanvas",
+    "ruffle": r"ruffle(\.min)?\.js|@ruffle-rs/ruffle|window\.rufflePlayer",
+    "emulatorjs": r"emulatorjs|ejs_player|ejs_core",
+    "godot": r"godot\.[\w]*\.js|engine\.startgame",
+    "phaser": r"phaser(\.min)?\.js",
+    "pixi": r"pixi(\.min)?\.js",
+    "cocos": r"cocos2d|cocos-creator|cc\.game\.run",
+}
+# Señales de que la página no es para jugar: tienda, apuestas, dominio en venta, descargas.
+# "casino" o "checkout" solos no sirven: muchos portales tienen una categoría "Casino games"
+# (solitario, damas) o una tienda de accesorios.
+NON_GAME_PAGE = re.compile(
+    r"real money|deposit bonus|welcome bonus|free spins|bet now|sportsbook|apuestas deportivas|"
+    r"domain (is )?for sale|buy this domain|this domain may be for sale|mod apk|download apk", re.I)
+GAME_LINK = re.compile(r'href="[^"]*/(?:game|games|play|juego|juegos|jogo|jogos|jeu|jeux|spiel|spiele|oyun)s?/', re.I)
+
+
+def game_signals(html):
+    """Analiza el HTML de una página y devuelve sus señales de juego: SDKs de distribuidoras,
+    motores de juego, cantidad de enlaces a páginas de juego y si hay señales de no-juego."""
+    return {
+        "sdks": [k for k, rx in GAME_DISTRIBUTOR_SDKS.items() if re.search(rx, html, re.I)],
+        "engines": [k for k, rx in GAME_ENGINES.items() if re.search(rx, html, re.I)],
+        "game_links": len(GAME_LINK.findall(html)),
+        "non_game": bool(NON_GAME_PAGE.search(html)),
+    }
+
+
 GAME_TEXT_INDICATORS = [
     "juego", "juegos", "game", "games", "play online", "unblocked", "free online",
     "juegos gratis", "juegos online", "juego gratis", "html5 games", "browser game",
@@ -510,17 +554,31 @@ def is_game_website(domain):
                 if 'text/html' not in content_type:
                     return False
                 
-                html = resp.read(35000).decode('utf-8', errors='ignore')
+                # Los scripts de SDKs y motores suelen ir al final de la página.
+                html = resp.read(150000).decode('utf-8', errors='ignore')
+                # Las huellas y el texto de siempre se miran en los primeros 35 KB, como antes:
+                # en la página completa calzan en cualquier sitio ("construct", "ws://").
+                head = html[:35000]
                 parser = MetaTitleParser()
-                parser.feed(html)
+                parser.feed(head)
                 
                 combined_metadata = f"{parser.title.lower()} {parser.meta_text.lower()}"
-                html_lower = html.lower()
+                html_lower = head.lower()
+
+                sig = game_signals(html)
+                if sig["non_game"]:
+                    return False
+                # Una distribuidora de juegos (GameDistribution, Poki...) basta.
+                if sig["sdks"]:
+                    return True
 
                 has_js_footprint = any(re.search(fp, html_lower) for fp in JS_GAME_FOOTPRINTS)
                 has_canvas_or_iframe = "<canvas" in html_lower or ("<iframe" in html_lower and "game" in html_lower)
                 text_matches = sum(1 for indicator in GAME_TEXT_INDICATORS if indicator in combined_metadata or indicator in html_lower[:3000])
 
+                # Un motor de juego cuenta si además hay texto o enlaces de juego.
+                if sig["engines"] and (text_matches >= 1 or sig["game_links"] >= 5):
+                    return True
                 if (has_js_footprint or has_canvas_or_iframe) and text_matches >= 1:
                     return True
                 elif text_matches >= 2:

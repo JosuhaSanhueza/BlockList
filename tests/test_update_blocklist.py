@@ -85,3 +85,30 @@ def test_validate_rejects_shared_suffix():
     assert errors and "compartido" in errors[0]
     errors, _ = check_line("||classroom.it.com^", 1, set())
     assert errors == []
+
+
+def test_game_signals_distributor_sdk():
+    from update_blocklist import game_signals
+    html = '<script src="https://html5.api.gamedistribution.com/main.min.js"></script>'
+    assert game_signals(html)["sdks"] == ["gamedistribution"]
+    assert game_signals('<script src="//game-cdn.poki.com/scripts/v2/poki-sdk.js"></script>')["sdks"] == ["poki"]
+    assert game_signals("<p>Just a recipe blog</p>") == {"sdks": [], "engines": [], "game_links": 0, "non_game": False}
+
+
+def test_game_signals_engines_and_links():
+    from update_blocklist import game_signals
+    html = ('<script src="Build/WebGL.loader.js"></script><script>createUnityInstance(c)</script>'
+            '<a href="/game/slope/">Slope</a><a href="/games/retro-bowl/">Retro Bowl</a>'
+            '<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>')
+    sig = game_signals(html)
+    assert "unity" in sig["engines"] and "ruffle" in sig["engines"]
+    assert sig["game_links"] == 2
+
+
+def test_game_signals_non_game_pages():
+    from update_blocklist import game_signals
+    assert game_signals("<h1>Play slots for real money - 200 free spins</h1>")["non_game"]
+    assert game_signals("<h1>This domain is for sale</h1>")["non_game"]
+    assert game_signals("<a>Download Minecraft MOD APK</a>")["non_game"]
+    # Una categoría "Casino games" en un portal de juegos no es una página de apuestas.
+    assert not game_signals('<a href="/games/casino/">Casino games</a> Solitaire')["non_game"]
