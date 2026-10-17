@@ -41,10 +41,12 @@ class TestCheckLine:
         errors, domain = check_line("||not a domain!^", 1, set())
         assert any("Formato de dominio no válido" in e for e in errors)
 
-    def test_path_rule_with_document_modifier_allowed(self):
-        errors, domain = check_line("||sites.google.com/view/game/*$document", 1, set())
-        assert errors == []
-        assert domain is None
+    def test_path_rule_rejected(self):
+        # El DNS no ve rutas: una regla así no bloquea nada.
+        for rule in ("||sites.google.com/view/game/*$document", "||sites.google.com/view/classroom6x/*^"):
+            errors, domain = check_line(rule, 1, set())
+            assert len(errors) == 1 and "ruta" in errors[0]
+            assert domain is None
 
     def test_path_rule_without_prefix_rejected(self):
         errors, domain = check_line("sites.google.com/view/game/*$document", 1, set())

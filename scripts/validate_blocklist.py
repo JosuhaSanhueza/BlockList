@@ -85,10 +85,11 @@ def check_line(line_clean, line_num, domains_seen):
     if not line_clean or line_clean.startswith("#"):
         return errors, None
 
-    # Permitir reglas de filtrado de URL / Path de AdGuard (ej: ||sites.google.com/view/totalgameinn/*$document)
-    if "$document" in line_clean or "/*" in line_clean:
-        if not line_clean.startswith("||"):
-            errors.append(f"Línea {line_num}: Regla de Path inválida '{line_clean}'. Debe iniciar con '||'.")
+    # Reglas con ruta o modificadores (ej. ||sites.google.com/view/juego/*$document): AdGuard Home
+    # filtra DNS y solo ve el nombre del sitio, nunca la ruta, así que no bloquean nada.
+    if "/" in line_clean or "$" in line_clean:
+        errors.append(f"Línea {line_num}: '{line_clean}' tiene ruta o modificadores: el DNS solo ve el "
+                      f"dominio y la regla no bloquea nada. Bloqueá el dominio completo o no la agregues.")
         return errors, None
 
     # 1. Validar sintaxis AdGuard Home ||domain^

@@ -5257,9 +5257,3 @@
 ||zynga.com^
 ||zynga.games^
 ||zzoryxgamehub-zzoryx.vercel.app^
-||sites.google.com/*/games/*^
-||sites.google.com/*/super-mario-world^
-||sites.google.com/site/totalgameinn/*^
-||sites.google.com/view/*game*^
-||sites.google.com/view/classroom6x/*^
-||sites.google.com/view/totalgameinn/*^
