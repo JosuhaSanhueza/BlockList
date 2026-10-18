@@ -5,3 +5,4 @@ roblox.org
 rbxcdn.com
 fast.com
 speedtest.net
+d1tm91r4ytbt54.cloudfront.net  # CDN de un juego no identificado (S3 us-east-2); solo local
