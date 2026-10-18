@@ -252,6 +252,18 @@ def load_custom_rules():
     return parse_user_rules(api_get("/control/filtering/status").get("user_rules"))
 
 
+LOCAL_ONLY_FILE = os.path.join(ROOT, "scripts", "manual_local_only.txt")
+
+
+def load_local_only():
+    """Dominios que bloqueas a mano a propósito y NO deben ir a la lista global (el botón
+    "desbloquear juegos" de GameControl no debe afectarlos), p. ej. Roblox."""
+    if not os.path.exists(LOCAL_ONLY_FILE):
+        return set()
+    return {l.split("#")[0].strip().lower() for l in open(LOCAL_ONLY_FILE, encoding="utf-8")
+            if l.split("#")[0].strip()}
+
+
 def run(cmd):
     return subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
 
@@ -362,15 +374,15 @@ def cmd_merge(args):
     original = set(doms)
     merged, manual = merge_reports(reports)
 
+    local = load_local_only()
     pend = sorted(d for d in manual if re.fullmatch(r"[a-z0-9.-]+\.[a-z]{2,}", d)
-                  and not covered(d, doms) and not is_whitelisted(d, wl, exc))
-    mg, _ = classify_candidates([(d, {}) for d in pend], args.workers)
-    added_manual = [d for d, _ in mg]
-    for d in added_manual:
-        say(f"  + (manual en {len(manual[d])} sitio/s) {d}")
+                  and not covered(d, doms) and not covered(d, local) and not is_whitelisted(d, wl, exc))
+    added_manual = []
+    if args.add_manual:
+        mg, _ = classify_candidates([(d, {}) for d in pend], args.workers)
+        added_manual = [d for d, _ in mg]
     for d in pend:
-        if d not in added_manual:
-            say(f"  ? regla manual que no parece juego (no agregada, revisar): {d}")
+        say(f"  ? regla manual en {len(manual[d])} sitio/s: {d} -> " + ("agregada" if d in added_manual else "NO agregada, decide tú"))
     doms |= set(added_manual)
 
     cand = sorted(((d, m) for d, m in merged.items()
@@ -414,16 +426,17 @@ def cmd_nightly(args):
     # 1. Reglas manuales del filtro personalizado que faltan en GitHub (decisión ya tomada por ti).
     try:
         custom = load_custom_rules()
-        pend = [d for d in sorted(set(custom)) if not covered(d, doms)]
+        local = load_local_only()
+        pend = [d for d in sorted(set(custom)) if not covered(d, doms) and not covered(d, local)]
         skipped += [d for d in pend if is_whitelisted(d, wl, exc)]
         pend = [d for d in pend if not is_whitelisted(d, wl, exc)]
-        # Una regla manual solo se sube sola si además es un juego: la lista alimenta GameControl.
-        manual_games, _ = classify_candidates([(d, {}) for d in pend], args.workers)
-        added_manual = [d for d, _ in manual_games]
-        say(f"Reglas manuales en AdGuard: {len(custom)} | faltan en GitHub: {len(pend)} | agregadas (son juegos): {len(added_manual)}")
+        say(f"Reglas manuales en AdGuard: {len(custom)} | solo locales: {sum(1 for d in custom if covered(d, local))} | sin cotejar con GitHub: {len(pend)}")
+        if args.add_manual:
+            mg, _ = classify_candidates([(d, {}) for d in pend], args.workers)
+            added_manual = [d for d, _ in mg]
         for d in pend:
-            if d not in added_manual:
-                say(f"  ? regla manual que no parece juego (no agregada, revisar): {d}")
+            tag = "agregada" if d in added_manual else "NO agregada, decide tú (súbela o añádela a scripts/manual_local_only.txt)"
+            say(f"  ? regla manual: {d} -> {tag}")
     except Exception as ex:
         say(f"[AVISO] No se pudieron leer las reglas manuales: {ex}")
     doms |= set(added_manual)
@@ -542,6 +555,7 @@ def main():
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--min-clients", type=int, default=2)
     p.add_argument("--max-add", type=int, default=100)
+    p.add_argument("--add-manual", action="store_true", help="subir también las reglas manuales que parezcan juegos")
     p.add_argument("--export", action="store_true")
     p.add_argument("--merge", metavar="DIR")
     p.add_argument("--days", type=int, default=1)

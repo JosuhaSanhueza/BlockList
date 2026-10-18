@@ -1,0 +1,7 @@
+# Dominios que se bloquean a mano en el filtro personalizado de AdGuard y que NO deben ir a
+# GamesBlockList.txt (el botón "desbloquear juegos" no debe afectarlos). Uno por línea.
+roblox.com
+roblox.org
+rbxcdn.com
+fast.com
+speedtest.net

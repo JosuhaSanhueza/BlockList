@@ -4,6 +4,9 @@ Cada noche lee **solo las últimas 24 h** del registro de AdGuard (archivo local
 sube a GitHub las reglas que bloqueaste a mano, clasifica los dominios no bloqueados con
 `is_game_website()` y agrega los que sean juegos. Deja un informe en `scripts/logs/informe_AAAA-MM-DD.txt`.
 
+Reglas manuales: nunca se suben solas; el informe las lista para que decidas. Las que bloqueas a propósito solo
+en AdGuard (Roblox, speedtest…) van en `scripts/manual_local_only.txt` y dejan de aparecer. `--add-manual` sube las que parezcan juegos.
+
 Límites: ≥3 consultas y ≥2 equipos distintos, nunca whitelist, máx. 30 por noche, validación
 antes de publicar (si falla, revierte). Cada corrida es un commit `auto(nightly)`; para deshacer: `git revert <hash>`.
 El informe guarda solo dominio + conteos, nunca IPs.
