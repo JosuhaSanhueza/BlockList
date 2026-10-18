@@ -167,10 +167,10 @@ def fetch_log(hours, page=500, max_pages=400):
         chunk = data.get("data", [])
         if not chunk:
             break
-        for e in chunk:
-            if parse_time(e["time"]) < cutoff:
-                return entries
-            entries.append(e)
+        fresh = [e for e in chunk if parse_time(e["time"]) >= cutoff]
+        entries.extend(fresh)
+        if not fresh:  # la API no garantiza orden estricto: cortar solo si toda la página es vieja
+            return entries
         older = data.get("oldest") or chunk[-1]["time"]
     return entries
 
@@ -362,10 +362,15 @@ def cmd_merge(args):
     original = set(doms)
     merged, manual = merge_reports(reports)
 
-    added_manual = sorted(d for d in manual if re.fullmatch(r"[a-z0-9.-]+\.[a-z]{2,}", d)
-                          and not covered(d, doms) and not is_whitelisted(d, wl, exc))
+    pend = sorted(d for d in manual if re.fullmatch(r"[a-z0-9.-]+\.[a-z]{2,}", d)
+                  and not covered(d, doms) and not is_whitelisted(d, wl, exc))
+    mg, _ = classify_candidates([(d, {}) for d in pend], args.workers)
+    added_manual = [d for d, _ in mg]
     for d in added_manual:
         say(f"  + (manual en {len(manual[d])} sitio/s) {d}")
+    for d in pend:
+        if d not in added_manual:
+            say(f"  ? regla manual que no parece juego (no agregada, revisar): {d}")
     doms |= set(added_manual)
 
     cand = sorted(((d, m) for d, m in merged.items()
@@ -409,11 +414,16 @@ def cmd_nightly(args):
     # 1. Reglas manuales del filtro personalizado que faltan en GitHub (decisión ya tomada por ti).
     try:
         custom = load_custom_rules()
-        for d in sorted(set(custom)):
-            if covered(d, doms):
-                continue
-            (skipped if is_whitelisted(d, wl, exc) else added_manual).append(d)
-        say(f"Reglas manuales en AdGuard: {len(custom)} | nuevas para GitHub: {len(added_manual)}")
+        pend = [d for d in sorted(set(custom)) if not covered(d, doms)]
+        skipped += [d for d in pend if is_whitelisted(d, wl, exc)]
+        pend = [d for d in pend if not is_whitelisted(d, wl, exc)]
+        # Una regla manual solo se sube sola si además es un juego: la lista alimenta GameControl.
+        manual_games, _ = classify_candidates([(d, {}) for d in pend], args.workers)
+        added_manual = [d for d, _ in manual_games]
+        say(f"Reglas manuales en AdGuard: {len(custom)} | faltan en GitHub: {len(pend)} | agregadas (son juegos): {len(added_manual)}")
+        for d in pend:
+            if d not in added_manual:
+                say(f"  ? regla manual que no parece juego (no agregada, revisar): {d}")
     except Exception as ex:
         say(f"[AVISO] No se pudieron leer las reglas manuales: {ex}")
     doms |= set(added_manual)
