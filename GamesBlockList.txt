@@ -2806,6 +2806,7 @@
 ||google-doodles.appspot.com^
 ||googleclassroom6x.github.io^
 ||googledoodlebaseballunblocked.github.io^
+||googlesnake.com^
 ||googlesnake.gitlab.io^
 ||googlesnake.org^
 ||googlygiraffesigma67.github.io^
@@ -5875,6 +5876,7 @@
 ||thelouras58.github.io^
 ||theludos.com^
 ||themahjong.com^
+||themarzlibrary.org^
 ||themethodgames.github.io^
 ||themimicartist.github.io^
 ||themonkeexe.github.io^
@@ -6036,6 +6038,7 @@
 ||turbookarun.github.io^
 ||turner11.github.io^
 ||turnturnunblocked.github.io^
+||turtlegames.com^
 ||turtlegames.org^
 ||tusna-67.github.io^
 ||tuuchen.github.io^

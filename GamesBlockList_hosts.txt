@@ -2807,6 +2807,7 @@
 0.0.0.0 google-doodles.appspot.com
 0.0.0.0 googleclassroom6x.github.io
 0.0.0.0 googledoodlebaseballunblocked.github.io
+0.0.0.0 googlesnake.com
 0.0.0.0 googlesnake.gitlab.io
 0.0.0.0 googlesnake.org
 0.0.0.0 googlygiraffesigma67.github.io
@@ -5876,6 +5877,7 @@
 0.0.0.0 thelouras58.github.io
 0.0.0.0 theludos.com
 0.0.0.0 themahjong.com
+0.0.0.0 themarzlibrary.org
 0.0.0.0 themethodgames.github.io
 0.0.0.0 themimicartist.github.io
 0.0.0.0 themonkeexe.github.io
@@ -6037,6 +6039,7 @@
 0.0.0.0 turbookarun.github.io
 0.0.0.0 turner11.github.io
 0.0.0.0 turnturnunblocked.github.io
+0.0.0.0 turtlegames.com
 0.0.0.0 turtlegames.org
 0.0.0.0 tusna-67.github.io
 0.0.0.0 tuuchen.github.io
