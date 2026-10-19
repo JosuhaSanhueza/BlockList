@@ -4,3 +4,4 @@ dl.google.com
 ||mozilla.org^
 ||brave.com^
 ||opera.com^
+||librewolf.net^
