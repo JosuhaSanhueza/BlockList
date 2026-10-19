@@ -4,3 +4,4 @@ dl.google.com
 addons.mozilla.org
 addons.opera.com
 search.brave.com
+brave.com
