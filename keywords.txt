@@ -2180,3 +2180,10 @@ atomclicker
 emulatorgame
 emulatorgameszone
 gameduddles
+
+# --- Artículos "top paginas de juegos" (tower defense, bubble shooter, zombies,
+# trivia/palabras) y GitHub topics io-games/browser-game/idle-game (3 confirmados:
+# playupi, classicube, elvenar), 2026-10-19 ---
+playupi
+classicube
+elvenar

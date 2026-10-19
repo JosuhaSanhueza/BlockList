@@ -166,6 +166,9 @@ WHITELIST = {
     # (detectado 2026-10-06). duckmath.org se sacó el 2026-10-19: es un sitio de
     # juegos camuflado de matemáticas.
     "duck.tinyexams.com", "typeracer.com",
+    # "Learn Kubernetes by Playing": simulador técnico de kubectl/Kubernetes para
+    # aprendizaje profesional, no entretenimiento (detectado 2026-10-19).
+    "k8sgames.com",
     # Falso positivo de is_game_website(): no es un sitio de juegos, es el sitio de
     # un instituto de investigación en biología de redes (NRNB). El heurístico
     # automático dio True pero el contenido real no tiene nada que ver con juegos

@@ -1267,6 +1267,7 @@
 0.0.0.0 classicmc-studios.github.io
 0.0.0.0 classicminecraft.github.io
 0.0.0.0 classicreload.com
+0.0.0.0 classicube.net
 0.0.0.0 classicwebgames.com
 0.0.0.0 classrom6x.gitlab.io
 0.0.0.0 classroom-15x-unblocked.github.io
@@ -2108,6 +2109,7 @@
 0.0.0.0 elmourtajia.github.io
 0.0.0.0 elng12.github.io
 0.0.0.0 eloquent-tulumba-7667c4.netlify.app
+0.0.0.0 elvenar.com
 0.0.0.0 elvoren.github.io
 0.0.0.0 elyianaa.github.io
 0.0.0.0 elyorkhakimov.github.io
@@ -5480,6 +5482,7 @@
 0.0.0.0 playunb.com
 0.0.0.0 playunblocked.lol
 0.0.0.0 playunblockedgames.bitbucket.io
+0.0.0.0 playupi.com
 0.0.0.0 playvio.io
 0.0.0.0 playwings.org
 0.0.0.0 playwithyourmind.com
