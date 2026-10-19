@@ -678,6 +678,7 @@
 0.0.0.0 baseball-bros.org
 0.0.0.0 baseballgames.net
 0.0.0.0 basgroos.github.io
+0.0.0.0 basicallygames.com
 0.0.0.0 basim103basim.github.io
 0.0.0.0 basket-bros-unblocked.github.io
 0.0.0.0 basket-random.bitbucket.io
@@ -1156,6 +1157,8 @@
 0.0.0.0 cartoongames.net
 0.0.0.0 cartoonnetwork-games.com
 0.0.0.0 casperf18.github.io
+0.0.0.0 castle.xyz
+0.0.0.0 castlexyz.com
 0.0.0.0 casualgameplay.com
 0.0.0.0 casvandaele3-stack.github.io
 0.0.0.0 cata5qq.github.io
@@ -1532,6 +1535,7 @@
 0.0.0.0 cristian-finished-games-site.vercel.app
 0.0.0.0 cristianboy9.github.io
 0.0.0.0 cristovao-dev.github.io
+0.0.0.0 criticalpointgroup.com
 0.0.0.0 crito-afk.github.io
 0.0.0.0 cross-code.com
 0.0.0.0 crossy-road-unblock.github.io
@@ -2937,6 +2941,7 @@
 0.0.0.0 games44.com
 0.0.0.0 games4free.com
 0.0.0.0 games4free.ru
+0.0.0.0 games4html5.com
 0.0.0.0 games4king.com
 0.0.0.0 games4y.net
 0.0.0.0 games560.github.io
@@ -4226,6 +4231,7 @@
 0.0.0.0 lastline.011203.xyz
 0.0.0.0 latpong22.github.io
 0.0.0.0 launchpad-games-lobby.vercel.app
+0.0.0.0 lavoilerougesharm.com
 0.0.0.0 lax1dude.net
 0.0.0.0 lax1duds.github.io
 0.0.0.0 lazygames.io
@@ -4962,6 +4968,7 @@
 0.0.0.0 notsocasual.com
 0.0.0.0 noufelgaming.github.io
 0.0.0.0 nova-arcade-ten.vercel.app
+0.0.0.0 novadev.vip
 0.0.0.0 novaloid117.github.io
 0.0.0.0 novaskin.me
 0.0.0.0 novelgames.com
@@ -4975,6 +4982,7 @@
 0.0.0.0 nowifigames.org
 0.0.0.0 nsk-warrior.netlify.app
 0.0.0.0 nstudios1.github.io
+0.0.0.0 nub.games
 0.0.0.0 null-x-team.github.io
 0.0.0.0 nullboy000.github.io
 0.0.0.0 numskullgames.com
@@ -6817,6 +6825,7 @@
 0.0.0.0 taguchieri.github.io
 0.0.0.0 tagunblocked.com
 0.0.0.0 takecareofshadowmilk.life
+0.0.0.0 taktaktak.com
 0.0.0.0 tallosen.github.io
 0.0.0.0 tamagames.com
 0.0.0.0 tambayan-arcade.vercel.app

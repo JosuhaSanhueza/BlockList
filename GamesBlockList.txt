@@ -677,6 +677,7 @@
 ||baseball-bros.org^
 ||baseballgames.net^
 ||basgroos.github.io^
+||basicallygames.com^
 ||basim103basim.github.io^
 ||basket-bros-unblocked.github.io^
 ||basket-random.bitbucket.io^
@@ -1155,6 +1156,8 @@
 ||cartoongames.net^
 ||cartoonnetwork-games.com^
 ||casperf18.github.io^
+||castle.xyz^
+||castlexyz.com^
 ||casualgameplay.com^
 ||casvandaele3-stack.github.io^
 ||cata5qq.github.io^
@@ -1531,6 +1534,7 @@
 ||cristian-finished-games-site.vercel.app^
 ||cristianboy9.github.io^
 ||cristovao-dev.github.io^
+||criticalpointgroup.com^
 ||crito-afk.github.io^
 ||cross-code.com^
 ||crossy-road-unblock.github.io^
@@ -2936,6 +2940,7 @@
 ||games44.com^
 ||games4free.com^
 ||games4free.ru^
+||games4html5.com^
 ||games4king.com^
 ||games4y.net^
 ||games560.github.io^
@@ -4225,6 +4230,7 @@
 ||lastline.011203.xyz^
 ||latpong22.github.io^
 ||launchpad-games-lobby.vercel.app^
+||lavoilerougesharm.com^
 ||lax1dude.net^
 ||lax1duds.github.io^
 ||lazygames.io^
@@ -4961,6 +4967,7 @@
 ||notsocasual.com^
 ||noufelgaming.github.io^
 ||nova-arcade-ten.vercel.app^
+||novadev.vip^
 ||novaloid117.github.io^
 ||novaskin.me^
 ||novelgames.com^
@@ -4974,6 +4981,7 @@
 ||nowifigames.org^
 ||nsk-warrior.netlify.app^
 ||nstudios1.github.io^
+||nub.games^
 ||null-x-team.github.io^
 ||nullboy000.github.io^
 ||numskullgames.com^
@@ -6816,6 +6824,7 @@
 ||taguchieri.github.io^
 ||tagunblocked.com^
 ||takecareofshadowmilk.life^
+||taktaktak.com^
 ||tallosen.github.io^
 ||tamagames.com^
 ||tambayan-arcade.vercel.app^
