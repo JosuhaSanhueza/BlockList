@@ -27,6 +27,9 @@ POPULAR_APPROVED = {
     "king.com", "jigsawplanet.com", "miniclip.com", "solitaired.com", "coolmathgames.com",
     "neal.fun", "boardgamearena.com", "gameforge.com", "nitrotype.com", "emochi.com", "friv.com",
     "lagged.com", "ankergames.net",
+    # Buscador con sección de juegos (yandex.com/games) que el DNS no puede separar: se
+    # bloquea completo por decisión explícita (2026-10-19).
+    "yandex.com",
 }
 
 
@@ -59,8 +62,8 @@ WHITELIST = {
     "edgesuite.net",
     # Infraestructura que entró por la consolidación del 2026-08-11 y se sacó el 2026-10-16:
     # login de Microsoft (Office 365/Teams), Google, reporte de errores web, motor Unity
-    # (también Unity Learn), buscador Yandex (Yandex Games se bloquea por subdominio) y Etsy.
-    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "yandex.com", "etsy.com",
+    # (también Unity Learn), y Etsy. (yandex.com se bloquea completo desde el 2026-10-19: decisión explícita).
+    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "etsy.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

@@ -162,9 +162,10 @@ WHITELIST = {
     # Framing inequívoco de "cognitive fitness"/entrenamiento cerebral clínico, no
     # entretenimiento casual (detectado 2026-09-21).
     "memorygames.net",
-    # Matemáticas/exámenes/mecanografía — mismo criterio educativo que el resto de
-    # este bloque (detectado 2026-10-06).
-    "duckmath.org", "duck.tinyexams.com", "typeracer.com",
+    # Exámenes/mecanografía — mismo criterio educativo que el resto de este bloque
+    # (detectado 2026-10-06). duckmath.org se sacó el 2026-10-19: es un sitio de
+    # juegos camuflado de matemáticas.
+    "duck.tinyexams.com", "typeracer.com",
     # Falso positivo de is_game_website(): no es un sitio de juegos, es el sitio de
     # un instituto de investigación en biología de redes (NRNB). El heurístico
     # automático dio True pero el contenido real no tiene nada que ver con juegos
@@ -178,8 +179,8 @@ WHITELIST = {
     "edgesuite.net",
     # Infraestructura que entró por la consolidación del 2026-08-11 y se sacó el 2026-10-16:
     # login de Microsoft (Office 365/Teams), Google, reporte de errores web, motor Unity
-    # (también Unity Learn), buscador Yandex (Yandex Games se bloquea por subdominio) y Etsy.
-    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "yandex.com", "etsy.com",
+    # (también Unity Learn), y Etsy. (yandex.com se bloquea completo desde el 2026-10-19: decisión explícita).
+    "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "etsy.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

@@ -478,6 +478,7 @@
 ||aquastargames.github.io^
 ||aqutoqo-ship-it.github.io^
 ||aranjagames.github.io^
+||arbolabc.com^
 ||arboreal-arcade.vercel.app^
 ||arbyusuf.github.io^
 ||arcade-collection.vercel.app^
@@ -488,6 +489,7 @@
 ||arcade-liard.vercel.app^
 ||arcade-portal-delta.vercel.app^
 ||arcade.laughingbuddhagames.com^
+||arcade.padlet.com^
 ||arcadebloom.com^
 ||arcadebomb.com^
 ||arcadeboss.com^
@@ -657,6 +659,7 @@
 ||baldibasicsplus.com^
 ||baldigames.com^
 ||baldis-basics-online.github.io^
+||baldisbasics-plus.com^
 ||baldisbasicsunblocked.com^
 ||ballinhere.github.io^
 ||bamb421.github.io^
@@ -1459,6 +1462,7 @@
 ||cozygame.io^
 ||cozygames-ten.vercel.app^
 ||cozynxis.github.io^
+||cpscount.com^
 ||cpsgames.org^
 ||cpstest.click^
 ||cpstest.net^
@@ -1581,6 +1585,7 @@
 ||d11jzht7mj96rr.cloudfront.net^
 ||d1rkless.github.io^
 ||d1tmbzjih4bfq6.cloudfront.net^
+||d2gve52fz9syn8.cloudfront.net^
 ||d3vtoo1s.github.io^
 ||d4ni3l-sny.github.io^
 ||d8a-1.github.io^
@@ -1723,6 +1728,7 @@
 ||dinosaur.game^
 ||dinosaur.gg^
 ||dinosaurgame-free.io^
+||dinosaurgame.app^
 ||dinosaurgame.io^
 ||dinosaurgames.gg^
 ||dipa0102.github.io^
@@ -1908,6 +1914,7 @@
 ||ducklife4game.github.io^
 ||ducklings.io^
 ||ducklings123.github.io^
+||duckmath.org^
 ||duckyygames.github.io^
 ||duelboard.com^
 ||dumguy516-ship-it.github.io^
@@ -2083,6 +2090,7 @@
 ||elamigos-games.net^
 ||elamigosgames.net^
 ||elcamargo.github.io^
+||electrondashgame.org^
 ||elegant.games^
 ||elfexds.github.io^
 ||elfgames.com^
@@ -2112,6 +2120,7 @@
 ||emubrowser.com^
 ||emugames-com.bitbucket.io^
 ||emugames-io.bitbucket.io^
+||emugames.com^
 ||emul8me.pages.dev^
 ||emulador-online.vercel.app^
 ||emulator.online^
@@ -2379,6 +2388,7 @@
 ||fnaf-online.io^
 ||fnaf-unblock.github.io^
 ||fnaf-unblocked.com^
+||fnaf.com.mx^
 ||fnaf.gg^
 ||fnaf.gratis^
 ||fnaf.online^
@@ -2755,6 +2765,7 @@
 ||gamedfree.com^
 ||gamediscover.co^
 ||gamedistribution.com^
+||gamedle.wtf^
 ||gameduddles.com^
 ||gameduell.com^
 ||gamee.com^
@@ -3382,6 +3393,7 @@
 ||gurukayarayaid.github.io^
 ||gusbob7999-eng.github.io^
 ||gutespiele.de^
+||gx-launcher.github.io^
 ||gx-storage-lfs.github.io^
 ||gx.games^
 ||h-droid146.github.io^
@@ -3460,6 +3472,7 @@
 ||hellomrgoodie2-eng.github.io^
 ||hellopir2.github.io^
 ||helmetroyale.io^
+||henrystickmin.io^
 ||herbert2809.github.io^
 ||herfbug.github.io^
 ||hermes98761234.github.io^
@@ -3569,6 +3582,7 @@
 ||hxmpterr.github.io^
 ||hybridarcade.com^
 ||hypackellite1.github.io^
+||hyper-network.xyz^
 ||hypergames.sbs^
 ||hypergenius12.github.io^
 ||hyperrushnet.github.io^
@@ -4115,6 +4129,7 @@
 ||kingmidas2012.github.io^
 ||kingnullboy.github.io^
 ||kingsofchaos.com^
+||kingssite.vercel.app^
 ||kiomet.com^
 ||kirka.io^
 ||kite-games.com^
@@ -4888,6 +4903,7 @@
 ||nickelodeongame.com^
 ||nickesc.github.io^
 ||nickm9439-wq.github.io^
+||nicmath.com^
 ||nicolasfrouin.github.io^
 ||nicosucksatamongus.github.io^
 ||nidhogggame.com^
@@ -4963,6 +4979,7 @@
 ||nunorgcarvalho.github.io^
 ||nurunnobi7.github.io^
 ||nxx99.github.io^
+||nzp.gay^
 ||obbytowerofhell.web.app^
 ||obscuregamingui.onrender.com^
 ||obsidiangame.github.io^
@@ -5054,6 +5071,7 @@
 ||opium-games.com^
 ||opivankristovi.github.io^
 ||opqa.com^
+||optical.toys^
 ||opticraft.net^
 ||opticubestudio.com^
 ||optijuegos.com^
@@ -5479,6 +5497,7 @@
 ||plonga.com^
 ||plusfuns.com^
 ||plutogames.org^
+||plutonium.pw^
 ||pocketworlds.com^
 ||pog.com^
 ||pogo.com^
@@ -5511,6 +5530,7 @@
 ||poki.com.cm^
 ||poki.ee^
 ||poki.games^
+||poki.homes^
 ||poki.hu^
 ||poki.io^
 ||poki.org^
@@ -7576,6 +7596,7 @@
 ||voxalazarev.github.io^
 ||voxel-island.vercel.app^
 ||voxel-war.vercel.app^
+||voxiom.io^
 ||vrdevil44.github.io^
 ||vresod.gitlab.io^
 ||vrstheft.github.io^
@@ -7795,6 +7816,7 @@
 ||yakashif.github.io^
 ||yaki6332.github.io^
 ||yaksgame.com^
+||yandex.com^
 ||yandexgames.online^
 ||yangyang8305.github.io^
 ||yapgames.com^

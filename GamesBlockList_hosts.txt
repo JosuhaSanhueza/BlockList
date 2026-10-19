@@ -479,6 +479,7 @@
 0.0.0.0 aquastargames.github.io
 0.0.0.0 aqutoqo-ship-it.github.io
 0.0.0.0 aranjagames.github.io
+0.0.0.0 arbolabc.com
 0.0.0.0 arboreal-arcade.vercel.app
 0.0.0.0 arbyusuf.github.io
 0.0.0.0 arcade-collection.vercel.app
@@ -489,6 +490,7 @@
 0.0.0.0 arcade-liard.vercel.app
 0.0.0.0 arcade-portal-delta.vercel.app
 0.0.0.0 arcade.laughingbuddhagames.com
+0.0.0.0 arcade.padlet.com
 0.0.0.0 arcadebloom.com
 0.0.0.0 arcadebomb.com
 0.0.0.0 arcadeboss.com
@@ -658,6 +660,7 @@
 0.0.0.0 baldibasicsplus.com
 0.0.0.0 baldigames.com
 0.0.0.0 baldis-basics-online.github.io
+0.0.0.0 baldisbasics-plus.com
 0.0.0.0 baldisbasicsunblocked.com
 0.0.0.0 ballinhere.github.io
 0.0.0.0 bamb421.github.io
@@ -1460,6 +1463,7 @@
 0.0.0.0 cozygame.io
 0.0.0.0 cozygames-ten.vercel.app
 0.0.0.0 cozynxis.github.io
+0.0.0.0 cpscount.com
 0.0.0.0 cpsgames.org
 0.0.0.0 cpstest.click
 0.0.0.0 cpstest.net
@@ -1582,6 +1586,7 @@
 0.0.0.0 d11jzht7mj96rr.cloudfront.net
 0.0.0.0 d1rkless.github.io
 0.0.0.0 d1tmbzjih4bfq6.cloudfront.net
+0.0.0.0 d2gve52fz9syn8.cloudfront.net
 0.0.0.0 d3vtoo1s.github.io
 0.0.0.0 d4ni3l-sny.github.io
 0.0.0.0 d8a-1.github.io
@@ -1724,6 +1729,7 @@
 0.0.0.0 dinosaur.game
 0.0.0.0 dinosaur.gg
 0.0.0.0 dinosaurgame-free.io
+0.0.0.0 dinosaurgame.app
 0.0.0.0 dinosaurgame.io
 0.0.0.0 dinosaurgames.gg
 0.0.0.0 dipa0102.github.io
@@ -1909,6 +1915,7 @@
 0.0.0.0 ducklife4game.github.io
 0.0.0.0 ducklings.io
 0.0.0.0 ducklings123.github.io
+0.0.0.0 duckmath.org
 0.0.0.0 duckyygames.github.io
 0.0.0.0 duelboard.com
 0.0.0.0 dumguy516-ship-it.github.io
@@ -2084,6 +2091,7 @@
 0.0.0.0 elamigos-games.net
 0.0.0.0 elamigosgames.net
 0.0.0.0 elcamargo.github.io
+0.0.0.0 electrondashgame.org
 0.0.0.0 elegant.games
 0.0.0.0 elfexds.github.io
 0.0.0.0 elfgames.com
@@ -2113,6 +2121,7 @@
 0.0.0.0 emubrowser.com
 0.0.0.0 emugames-com.bitbucket.io
 0.0.0.0 emugames-io.bitbucket.io
+0.0.0.0 emugames.com
 0.0.0.0 emul8me.pages.dev
 0.0.0.0 emulador-online.vercel.app
 0.0.0.0 emulator.online
@@ -2380,6 +2389,7 @@
 0.0.0.0 fnaf-online.io
 0.0.0.0 fnaf-unblock.github.io
 0.0.0.0 fnaf-unblocked.com
+0.0.0.0 fnaf.com.mx
 0.0.0.0 fnaf.gg
 0.0.0.0 fnaf.gratis
 0.0.0.0 fnaf.online
@@ -2756,6 +2766,7 @@
 0.0.0.0 gamedfree.com
 0.0.0.0 gamediscover.co
 0.0.0.0 gamedistribution.com
+0.0.0.0 gamedle.wtf
 0.0.0.0 gameduddles.com
 0.0.0.0 gameduell.com
 0.0.0.0 gamee.com
@@ -3383,6 +3394,7 @@
 0.0.0.0 gurukayarayaid.github.io
 0.0.0.0 gusbob7999-eng.github.io
 0.0.0.0 gutespiele.de
+0.0.0.0 gx-launcher.github.io
 0.0.0.0 gx-storage-lfs.github.io
 0.0.0.0 gx.games
 0.0.0.0 h-droid146.github.io
@@ -3461,6 +3473,7 @@
 0.0.0.0 hellomrgoodie2-eng.github.io
 0.0.0.0 hellopir2.github.io
 0.0.0.0 helmetroyale.io
+0.0.0.0 henrystickmin.io
 0.0.0.0 herbert2809.github.io
 0.0.0.0 herfbug.github.io
 0.0.0.0 hermes98761234.github.io
@@ -3570,6 +3583,7 @@
 0.0.0.0 hxmpterr.github.io
 0.0.0.0 hybridarcade.com
 0.0.0.0 hypackellite1.github.io
+0.0.0.0 hyper-network.xyz
 0.0.0.0 hypergames.sbs
 0.0.0.0 hypergenius12.github.io
 0.0.0.0 hyperrushnet.github.io
@@ -4116,6 +4130,7 @@
 0.0.0.0 kingmidas2012.github.io
 0.0.0.0 kingnullboy.github.io
 0.0.0.0 kingsofchaos.com
+0.0.0.0 kingssite.vercel.app
 0.0.0.0 kiomet.com
 0.0.0.0 kirka.io
 0.0.0.0 kite-games.com
@@ -4889,6 +4904,7 @@
 0.0.0.0 nickelodeongame.com
 0.0.0.0 nickesc.github.io
 0.0.0.0 nickm9439-wq.github.io
+0.0.0.0 nicmath.com
 0.0.0.0 nicolasfrouin.github.io
 0.0.0.0 nicosucksatamongus.github.io
 0.0.0.0 nidhogggame.com
@@ -4964,6 +4980,7 @@
 0.0.0.0 nunorgcarvalho.github.io
 0.0.0.0 nurunnobi7.github.io
 0.0.0.0 nxx99.github.io
+0.0.0.0 nzp.gay
 0.0.0.0 obbytowerofhell.web.app
 0.0.0.0 obscuregamingui.onrender.com
 0.0.0.0 obsidiangame.github.io
@@ -5055,6 +5072,7 @@
 0.0.0.0 opium-games.com
 0.0.0.0 opivankristovi.github.io
 0.0.0.0 opqa.com
+0.0.0.0 optical.toys
 0.0.0.0 opticraft.net
 0.0.0.0 opticubestudio.com
 0.0.0.0 optijuegos.com
@@ -5480,6 +5498,7 @@
 0.0.0.0 plonga.com
 0.0.0.0 plusfuns.com
 0.0.0.0 plutogames.org
+0.0.0.0 plutonium.pw
 0.0.0.0 pocketworlds.com
 0.0.0.0 pog.com
 0.0.0.0 pogo.com
@@ -5512,6 +5531,7 @@
 0.0.0.0 poki.com
 0.0.0.0 poki.ee
 0.0.0.0 poki.games
+0.0.0.0 poki.homes
 0.0.0.0 poki.hu
 0.0.0.0 poki.io
 0.0.0.0 poki.org.es
@@ -7577,6 +7597,7 @@
 0.0.0.0 voxalazarev.github.io
 0.0.0.0 voxel-island.vercel.app
 0.0.0.0 voxel-war.vercel.app
+0.0.0.0 voxiom.io
 0.0.0.0 vrdevil44.github.io
 0.0.0.0 vresod.gitlab.io
 0.0.0.0 vrstheft.github.io
@@ -7796,6 +7817,7 @@
 0.0.0.0 yakashif.github.io
 0.0.0.0 yaki6332.github.io
 0.0.0.0 yaksgame.com
+0.0.0.0 yandex.com
 0.0.0.0 yandexgames.online
 0.0.0.0 yangyang8305.github.io
 0.0.0.0 yapgames.com
