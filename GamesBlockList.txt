@@ -490,7 +490,6 @@
 ||arcade-liard.vercel.app^
 ||arcade-portal-delta.vercel.app^
 ||arcade.laughingbuddhagames.com^
-||arcade.padlet.com^
 ||arcadebloom.com^
 ||arcadebomb.com^
 ||arcadeboss.com^
@@ -2930,6 +2929,7 @@
 ||games.gr^
 ||games.lol^
 ||games.mirror.co.uk^
+||games.msn.com^
 ||games.serp.co^
 ||games.tiscali.cz^
 ||games.yahoo.co.jp^
@@ -4781,7 +4781,6 @@
 ||msgameonline.com^
 ||msn-21-unblocked.github.io^
 ||msn-21.github.io^
-||msn.com^
 ||msnfun.com^
 ||msngames.com^
 ||msngames.io^
@@ -5158,6 +5157,7 @@
 ||paco123455.github.io^
 ||pacogames.com^
 ||padale323.github.io^
+||padlet.com^
 ||pagamerican.app^
 ||paisdelosjuegos.net^
 ||paixnidiaxl.gr^
@@ -5340,6 +5340,7 @@
 ||play.date^
 ||play.de^
 ||play.gilect.com^
+||play.msn.com^
 ||play.st^
 ||play.vg^
 ||play123.com^
@@ -7791,6 +7792,7 @@
 ||wtianzi.github.io^
 ||wurzelimperium.de^
 ||wuwugames.com^
+||www.msn.com^
 ||wyattcolegif.github.io^
 ||wzh656.github.io^
 ||x-clash.org^
@@ -7956,6 +7958,7 @@
 ||zombsroyale.online^
 ||zombsroyaleio.org^
 ||zombsroyaleunblocked.com^
+||zone.msn.com^
 ||zone4game.com^
 ||zonedelta.github.io^
 ||zplay.com^

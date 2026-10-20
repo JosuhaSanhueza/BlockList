@@ -76,3 +76,10 @@ def test_popular_sites_need_explicit_approval():
     assert errors and "top 10.000" in errors[0]
     # Aprobado explícitamente como sitio de juegos.
     assert check_line("||poki.com^", 1, set())[0] == []
+
+
+def test_www_only_domains():
+    from validate_blocklist import check_line
+    # msn.com no se bloquea completo (servicios de Windows): sí www.msn.com.
+    assert check_line("||www.msn.com^", 1, set())[0] == []
+    assert check_line("||www.friv.com^", 1, set())[0]

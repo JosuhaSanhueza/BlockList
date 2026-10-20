@@ -491,7 +491,6 @@
 0.0.0.0 arcade-liard.vercel.app
 0.0.0.0 arcade-portal-delta.vercel.app
 0.0.0.0 arcade.laughingbuddhagames.com
-0.0.0.0 arcade.padlet.com
 0.0.0.0 arcadebloom.com
 0.0.0.0 arcadebomb.com
 0.0.0.0 arcadeboss.com
@@ -2931,6 +2930,7 @@
 0.0.0.0 games.gr
 0.0.0.0 games.lol
 0.0.0.0 games.mirror.co.uk
+0.0.0.0 games.msn.com
 0.0.0.0 games.serp.co
 0.0.0.0 games.tiscali.cz
 0.0.0.0 games.yahoo.co.jp
@@ -4782,7 +4782,6 @@
 0.0.0.0 msgameonline.com
 0.0.0.0 msn-21-unblocked.github.io
 0.0.0.0 msn-21.github.io
-0.0.0.0 msn.com
 0.0.0.0 msnfun.com
 0.0.0.0 msngames.com
 0.0.0.0 msngames.io
@@ -5159,6 +5158,7 @@
 0.0.0.0 paco123455.github.io
 0.0.0.0 pacogames.com
 0.0.0.0 padale323.github.io
+0.0.0.0 padlet.com
 0.0.0.0 pagamerican.app
 0.0.0.0 paisdelosjuegos.net
 0.0.0.0 paixnidiaxl.gr
@@ -5341,6 +5341,7 @@
 0.0.0.0 play.date
 0.0.0.0 play.de
 0.0.0.0 play.gilect.com
+0.0.0.0 play.msn.com
 0.0.0.0 play.st
 0.0.0.0 play.vg
 0.0.0.0 play123.com
@@ -7792,6 +7793,7 @@
 0.0.0.0 wtianzi.github.io
 0.0.0.0 wurzelimperium.de
 0.0.0.0 wuwugames.com
+0.0.0.0 www.msn.com
 0.0.0.0 wyattcolegif.github.io
 0.0.0.0 wzh656.github.io
 0.0.0.0 x-clash.org
@@ -7957,6 +7959,7 @@
 0.0.0.0 zombsroyale.online
 0.0.0.0 zombsroyaleio.org
 0.0.0.0 zombsroyaleunblocked.com
+0.0.0.0 zone.msn.com
 0.0.0.0 zone4game.com
 0.0.0.0 zonedelta.github.io
 0.0.0.0 zplay.com

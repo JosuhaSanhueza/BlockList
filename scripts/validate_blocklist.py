@@ -17,11 +17,17 @@ SHARED_SUFFIXES = {
     "wixsite.com", "blogspot.com", "wordpress.com", "glitch.me", "surge.sh", "replit.app",
 }
 
+# Dominios cuyo apex no se bloquea porque abarca servicios de sistema, así que se bloquea
+# www.<dominio> (y subdominios de juegos puntuales). msn.com: g.msn.com, ntp.msn.com y
+# assets.msn.com los usan Windows, OneDrive y Edge; MSN Juegos está en www.msn.com/play
+# (2026-10-20).
+WWW_ONLY = {"msn.com"}
+
 # Sitios del top 10.000 de Tranco (scripts/popular_domains.txt) que SÍ son de juegos y se
 # bloquean completos por decisión explícita. Cualquier otro sitio de ese top hace fallar la
 # validación: suele ser infraestructura (CDN, login, buscadores) y bloquearlo rompe servicios.
 POPULAR_APPROVED = {
-    "msn.com", "epicgames.com", "steampowered.com", "steamcommunity.com", "itch.io", "chess.com",
+    "epicgames.com", "steampowered.com", "steamcommunity.com", "itch.io", "chess.com",
     "poki.com", "crazygames.com", "lichess.org", "playhop.com", "cardgames.io", "aternos.org",
     "gamebanana.com", "minecraft.net", "zynga.com", "runescape.com", "my.games", "newgrounds.com",
     "king.com", "jigsawplanet.com", "miniclip.com", "solitaired.com", "coolmathgames.com",
@@ -30,6 +36,9 @@ POPULAR_APPROVED = {
     # Buscador con sección de juegos (yandex.com/games) que el DNS no puede separar: se
     # bloquea completo por decisión explícita (2026-10-19).
     "yandex.com",
+    # Muro colaborativo usado para publicar Eaglercraft y otros juegos subidos como archivos:
+    # se bloquea completo por decisión explícita (2026-10-20).
+    "padlet.com",
 }
 
 
@@ -129,7 +138,7 @@ def check_line(line_clean, line_num, domains_seen):
     # automáticamente (y todos los demás subdominios). Una regla ||www.dominio^
     # por sí sola NO cubre el dominio raíz sin www, así que agregar el dominio
     # con www es, en el mejor caso redundante, y en el peor un hueco.
-    if domain.startswith("www."):
+    if domain.startswith("www.") and domain[4:] not in WWW_ONLY:
         errors.append(
             f"Línea {line_num}: No uses el prefijo 'www.' — agrega '{domain[4:]}' en su lugar "
             f"(||{domain[4:]}^ ya bloquea www.{domain[4:]} automáticamente)."
