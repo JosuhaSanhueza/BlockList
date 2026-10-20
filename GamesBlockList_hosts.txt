@@ -469,6 +469,7 @@
 0.0.0.0 apalabrados.github.io
 0.0.0.0 apatrick-ui.github.io
 0.0.0.0 apoorvammaganur792-droid.github.io
+0.0.0.0 app.3daimtrainer.com
 0.0.0.0 applaudedadam-beep.github.io
 0.0.0.0 applepie6969.github.io
 0.0.0.0 applewin1.github.io
@@ -1096,6 +1097,7 @@
 0.0.0.0 burritobisononline.gitlab.io
 0.0.0.0 burritobisonrevenge.github.io
 0.0.0.0 buscaminas-pro.com
+0.0.0.0 buscaminas.com
 0.0.0.0 buscaminas.eu
 0.0.0.0 buzzedgames.com
 0.0.0.0 bward916-byte.github.io
@@ -1347,6 +1349,7 @@
 0.0.0.0 clusterrush.io
 0.0.0.0 clusterrush.net
 0.0.0.0 clusterrushgame.com
+0.0.0.0 clutcher.io
 0.0.0.0 cmackpanda2000.github.io
 0.0.0.0 cmadisons.github.io
 0.0.0.0 cmartinpro.gitlab.io
@@ -1592,6 +1595,7 @@
 0.0.0.0 d1rkless.github.io
 0.0.0.0 d1tmbzjih4bfq6.cloudfront.net
 0.0.0.0 d2gve52fz9syn8.cloudfront.net
+0.0.0.0 d322cqt584bo4o.cloudfront.net
 0.0.0.0 d3vtoo1s.github.io
 0.0.0.0 d4ni3l-sny.github.io
 0.0.0.0 d8a-1.github.io
@@ -2034,6 +2038,7 @@
 0.0.0.0 eaglerlauncher.github.io
 0.0.0.0 eaglerlite.1b2t.xyz
 0.0.0.0 eaglerports.github.io
+0.0.0.0 eaglerrinth.github.io
 0.0.0.0 eaglerunblocked.github.io
 0.0.0.0 eagservers.vercel.app
 0.0.0.0 eagxlauncher.pages.dev
@@ -3799,6 +3804,7 @@
 0.0.0.0 jaysazar-bit.github.io
 0.0.0.0 jbenedict9.github.io
 0.0.0.0 jc12387z.github.io
+0.0.0.0 jcw87.github.io
 0.0.0.0 jcwagnerhc-design.github.io
 0.0.0.0 jearl2578o.github.io
 0.0.0.0 jeffery1uz2.github.io
@@ -5199,6 +5205,7 @@
 0.0.0.0 paperdevelopment20-prog.github.io
 0.0.0.0 papergames.io
 0.0.0.0 paperio.cc
+0.0.0.0 paperio.site
 0.0.0.0 paperio2-unblocked.github.io
 0.0.0.0 paperio717.github.io
 0.0.0.0 paperiofree.github.io
@@ -5316,6 +5323,7 @@
 0.0.0.0 platinumgames.com
 0.0.0.0 platypuscodes.github.io
 0.0.0.0 play-board-games.com
+0.0.0.0 play-cs.com
 0.0.0.0 play-drift-hunters.github.io
 0.0.0.0 play-free-games.com
 0.0.0.0 play-free-online-games.com
@@ -7154,6 +7162,7 @@
 0.0.0.0 turbogames.com
 0.0.0.0 turbonuke.com
 0.0.0.0 turbookarun.github.io
+0.0.0.0 turbowarp.org
 0.0.0.0 turner11.github.io
 0.0.0.0 turnturnunblocked.github.io
 0.0.0.0 turtlegames.com

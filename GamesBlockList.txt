@@ -468,6 +468,7 @@
 ||apalabrados.github.io^
 ||apatrick-ui.github.io^
 ||apoorvammaganur792-droid.github.io^
+||app.3daimtrainer.com^
 ||applaudedadam-beep.github.io^
 ||applepie6969.github.io^
 ||applewin1.github.io^
@@ -1095,6 +1096,7 @@
 ||burritobisononline.gitlab.io^
 ||burritobisonrevenge.github.io^
 ||buscaminas-pro.com^
+||buscaminas.com^
 ||buscaminas.eu^
 ||buzzedgames.com^
 ||bward916-byte.github.io^
@@ -1346,6 +1348,7 @@
 ||clusterrush.io^
 ||clusterrush.net^
 ||clusterrushgame.com^
+||clutcher.io^
 ||cmackpanda2000.github.io^
 ||cmadisons.github.io^
 ||cmartinpro.gitlab.io^
@@ -1591,6 +1594,7 @@
 ||d1rkless.github.io^
 ||d1tmbzjih4bfq6.cloudfront.net^
 ||d2gve52fz9syn8.cloudfront.net^
+||d322cqt584bo4o.cloudfront.net^
 ||d3vtoo1s.github.io^
 ||d4ni3l-sny.github.io^
 ||d8a-1.github.io^
@@ -2033,6 +2037,7 @@
 ||eaglerlauncher.github.io^
 ||eaglerlite.1b2t.xyz^
 ||eaglerports.github.io^
+||eaglerrinth.github.io^
 ||eaglerunblocked.github.io^
 ||eagservers.vercel.app^
 ||eagxlauncher.pages.dev^
@@ -3798,6 +3803,7 @@
 ||jaysazar-bit.github.io^
 ||jbenedict9.github.io^
 ||jc12387z.github.io^
+||jcw87.github.io^
 ||jcwagnerhc-design.github.io^
 ||jearl2578o.github.io^
 ||jeffery1uz2.github.io^
@@ -5198,6 +5204,7 @@
 ||paperdevelopment20-prog.github.io^
 ||papergames.io^
 ||paperio.cc^
+||paperio.site^
 ||paperio2-unblocked.github.io^
 ||paperio717.github.io^
 ||paperiofree.github.io^
@@ -5315,6 +5322,7 @@
 ||platinumgames.com^
 ||platypuscodes.github.io^
 ||play-board-games.com^
+||play-cs.com^
 ||play-drift-hunters.github.io^
 ||play-free-games.com^
 ||play-free-online-games.com^
@@ -7153,6 +7161,7 @@
 ||turbogames.com^
 ||turbonuke.com^
 ||turbookarun.github.io^
+||turbowarp.org^
 ||turner11.github.io^
 ||turnturnunblocked.github.io^
 ||turtlegames.com^
