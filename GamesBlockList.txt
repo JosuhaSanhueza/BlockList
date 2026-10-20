@@ -740,6 +740,7 @@
 ||battleon.com^
 ||battlepoint.io^
 ||battleships.app^
+||battlylauncher.com^
 ||bcgames.org^
 ||bchs-html-games.github.io^
 ||bcpofficial.github.io^
@@ -1203,6 +1204,7 @@
 ||chat7689.github.io^
 ||cheako.gitlab.io^
 ||check-the-game.vercel.app^
+||checkbox.toys^
 ||checkcps.com^
 ||checkergames.com^
 ||checkers.ws^
@@ -1328,6 +1330,7 @@
 ||clickergames.io^
 ||clickergamesaz.io^
 ||clickerheroes.com^
+||clicking.toys^
 ||clickjogos.com.br^
 ||clickspeedtester.com^
 ||clickspersecond.com^
@@ -3462,6 +3465,7 @@
 ||haydenlgbushell-source.github.io^
 ||hazargames.com^
 ||hazmobfps.com^
+||hazmobfps.io^
 ||hbrine.github.io^
 ||hdgames.com^
 ||head-soccer.io^
@@ -3513,6 +3517,7 @@
 ||hifungames.com^
 ||high-tech-7.github.io^
 ||higherlowergame.com^
+||higherorlowergame.com^
 ||highlandsgames.github.io^
 ||highnesslin.github.io^
 ||highwaytrafficonline.github.io^
@@ -3594,7 +3599,9 @@
 ||hxm535.github.io^
 ||hxmpterr.github.io^
 ||hybridarcade.com^
+||hydralauncher.gg^
 ||hypackellite1.github.io^
+||hyper-network.net^
 ||hyper-network.xyz^
 ||hypergames.sbs^
 ||hypergenius12.github.io^
@@ -4332,6 +4339,7 @@
 ||lostguy3.github.io^
 ||louiscrocker.github.io^
 ||lovedevos2014.github.io^
+||lovemaniac.net^
 ||lovey8.com^
 ||lps7x.csb.app^
 ||lr007gitray.github.io^
@@ -4483,6 +4491,7 @@
 ||maxwellstevenson.com^
 ||maycondis.github.io^
 ||mayworks-dev.github.io^
+||maze.toys^
 ||mazmaniania-prog.github.io^
 ||mazocarta.com^
 ||mbweb321.netlify.app^
@@ -4497,6 +4506,7 @@
 ||mcsrc.dev^
 ||meaburro.com^
 ||meccabingo.com^
+||mecchachameleongame.io^
 ||media.copero.com.ar^
 ||mediagecko.com^
 ||mediatonicgames.com^
@@ -4513,6 +4523,7 @@
 ||melonsandboxgame.io^
 ||melvoridle.com^
 ||memcat.pages.dev^
+||memory.toys^
 ||memorymatching.com^
 ||mena599.github.io^
 ||menogames.com^
@@ -5159,6 +5170,7 @@
 ||pacogames.com^
 ||padale323.github.io^
 ||padlet.com^
+||padletusercontent.com^
 ||pagamerican.app^
 ||paisdelosjuegos.net^
 ||paixnidiaxl.gr^
@@ -6223,6 +6235,7 @@
 ||sjefvanleeuwen.github.io^
 ||skabkleveta-creator.github.io^
 ||skap.nightly.pw^
+||skate3browser.com^
 ||skblinkhelp-cloud.github.io^
 ||skc47313-lang.github.io^
 ||skelitin-xyz.github.io^
@@ -6254,6 +6267,7 @@
 ||slice-master.io^
 ||slicemaster.bitbucket.io^
 ||slidedown.io^
+||sliding.toys^
 ||slimekeyboardescape.com^
 ||slimerancher.online^
 ||slither-io.org^

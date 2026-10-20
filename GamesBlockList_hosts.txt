@@ -741,6 +741,7 @@
 0.0.0.0 battleon.com
 0.0.0.0 battlepoint.io
 0.0.0.0 battleships.app
+0.0.0.0 battlylauncher.com
 0.0.0.0 bcgames.org
 0.0.0.0 bchs-html-games.github.io
 0.0.0.0 bcpofficial.github.io
@@ -1204,6 +1205,7 @@
 0.0.0.0 chat7689.github.io
 0.0.0.0 cheako.gitlab.io
 0.0.0.0 check-the-game.vercel.app
+0.0.0.0 checkbox.toys
 0.0.0.0 checkcps.com
 0.0.0.0 checkergames.com
 0.0.0.0 checkers.ws
@@ -1329,6 +1331,7 @@
 0.0.0.0 clickergames.io
 0.0.0.0 clickergamesaz.io
 0.0.0.0 clickerheroes.com
+0.0.0.0 clicking.toys
 0.0.0.0 clickjogos.com.br
 0.0.0.0 clickspeedtester.com
 0.0.0.0 clickspersecond.com
@@ -3463,6 +3466,7 @@
 0.0.0.0 haydenlgbushell-source.github.io
 0.0.0.0 hazargames.com
 0.0.0.0 hazmobfps.com
+0.0.0.0 hazmobfps.io
 0.0.0.0 hbrine.github.io
 0.0.0.0 hdgames.com
 0.0.0.0 head-soccer.io
@@ -3514,6 +3518,7 @@
 0.0.0.0 hifungames.com
 0.0.0.0 high-tech-7.github.io
 0.0.0.0 higherlowergame.com
+0.0.0.0 higherorlowergame.com
 0.0.0.0 highlandsgames.github.io
 0.0.0.0 highnesslin.github.io
 0.0.0.0 highwaytrafficonline.github.io
@@ -3595,7 +3600,9 @@
 0.0.0.0 hxm535.github.io
 0.0.0.0 hxmpterr.github.io
 0.0.0.0 hybridarcade.com
+0.0.0.0 hydralauncher.gg
 0.0.0.0 hypackellite1.github.io
+0.0.0.0 hyper-network.net
 0.0.0.0 hyper-network.xyz
 0.0.0.0 hypergames.sbs
 0.0.0.0 hypergenius12.github.io
@@ -4333,6 +4340,7 @@
 0.0.0.0 lostguy3.github.io
 0.0.0.0 louiscrocker.github.io
 0.0.0.0 lovedevos2014.github.io
+0.0.0.0 lovemaniac.net
 0.0.0.0 lovey8.com
 0.0.0.0 lps7x.csb.app
 0.0.0.0 lr007gitray.github.io
@@ -4484,6 +4492,7 @@
 0.0.0.0 maxwellstevenson.com
 0.0.0.0 maycondis.github.io
 0.0.0.0 mayworks-dev.github.io
+0.0.0.0 maze.toys
 0.0.0.0 mazmaniania-prog.github.io
 0.0.0.0 mazocarta.com
 0.0.0.0 mbweb321.netlify.app
@@ -4498,6 +4507,7 @@
 0.0.0.0 mcsrc.dev
 0.0.0.0 meaburro.com
 0.0.0.0 meccabingo.com
+0.0.0.0 mecchachameleongame.io
 0.0.0.0 media.copero.com.ar
 0.0.0.0 mediagecko.com
 0.0.0.0 mediatonicgames.com
@@ -4514,6 +4524,7 @@
 0.0.0.0 melonsandboxgame.io
 0.0.0.0 melvoridle.com
 0.0.0.0 memcat.pages.dev
+0.0.0.0 memory.toys
 0.0.0.0 memorymatching.com
 0.0.0.0 mena599.github.io
 0.0.0.0 menogames.com
@@ -5160,6 +5171,7 @@
 0.0.0.0 pacogames.com
 0.0.0.0 padale323.github.io
 0.0.0.0 padlet.com
+0.0.0.0 padletusercontent.com
 0.0.0.0 pagamerican.app
 0.0.0.0 paisdelosjuegos.net
 0.0.0.0 paixnidiaxl.gr
@@ -6224,6 +6236,7 @@
 0.0.0.0 sjefvanleeuwen.github.io
 0.0.0.0 skabkleveta-creator.github.io
 0.0.0.0 skap.nightly.pw
+0.0.0.0 skate3browser.com
 0.0.0.0 skblinkhelp-cloud.github.io
 0.0.0.0 skc47313-lang.github.io
 0.0.0.0 skelitin-xyz.github.io
@@ -6255,6 +6268,7 @@
 0.0.0.0 slice-master.io
 0.0.0.0 slicemaster.bitbucket.io
 0.0.0.0 slidedown.io
+0.0.0.0 sliding.toys
 0.0.0.0 slimekeyboardescape.com
 0.0.0.0 slimerancher.online
 0.0.0.0 slither-io.org
