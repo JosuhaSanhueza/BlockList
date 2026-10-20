@@ -912,6 +912,7 @@
 ||blossom-game.net^
 ||blossomwordgame.io^
 ||blox-smash.web.app^
+||blox.com^
 ||bloxcraft.win^
 ||bloxd-unblocked.com^
 ||bloxd.io^
@@ -5788,6 +5789,13 @@
 ||rbkgames.com^
 ||rbtechngames.com^
 ||rbunblocked.gitlab.io^
+||rbx.cn^
+||rbx.com^
+||rbxadder.com^
+||rbxcdn.com^
+||rbxcdn.net^
+||rbxinfra.com^
+||rbxinfra.net^
 ||re-pack-delta.vercel.app^
 ||realaqilplayz.github.io^
 ||realdenniswong.github.io^
@@ -5920,6 +5928,12 @@
 ||roblox-unblocked-game.github.io^
 ||roblox-unblocked.gitlab.io^
 ||roblox-unblocked1.github.io^
+||roblox.cn^
+||roblox.com^
+||roblox.org^
+||roblox.qq.com^
+||robloxcdn.com^
+||robloxdev.cn^
 ||robloxpiggy.com^
 ||robloxunblocked.gitlab.io^
 ||robloxunblockedgames.github.io^

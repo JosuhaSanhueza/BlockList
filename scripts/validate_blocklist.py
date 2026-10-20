@@ -39,6 +39,9 @@ POPULAR_APPROVED = {
     # Muro colaborativo usado para publicar Eaglercraft y otros juegos subidos como archivos:
     # se bloquea completo por decisión explícita (2026-10-20).
     "padlet.com",
+    # Roblox y su CDN: se bloquean desde la lista de juegos (no desde Servicios bloqueados) para
+    # que el botón "Permitir juegos" del docente lo controle (2026-10-20).
+    "roblox.com", "rbxcdn.com",
 }
 
 

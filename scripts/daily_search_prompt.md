@@ -52,7 +52,8 @@ Ya estás parado en el directorio del repo. Hacé lo siguiente, en orden:
 9. Si no encontrás nada nuevo hoy, no hagas commit vacío — está bien, no todos los días hay
    resultados.
 
-No agregues `roblox.com` — se bloquea aparte manualmente vía AdGuard. No uses fuentes que sean
+Roblox ya está en la lista (desde el 2026-10-20, para que el docente lo controle con "Permitir
+juegos"); no hace falta buscar sus dominios principales. No uses fuentes que sean
 explícitamente "herramientas de evasión/bypass" (ej. listas tipo ByePassHub) si la herramienta
 de fetch las rechaza por ese motivo — no lo intentes rodear con curl u otro método.
 

@@ -913,6 +913,7 @@
 0.0.0.0 blossom-game.net
 0.0.0.0 blossomwordgame.io
 0.0.0.0 blox-smash.web.app
+0.0.0.0 blox.com
 0.0.0.0 bloxcraft.win
 0.0.0.0 bloxd-unblocked.com
 0.0.0.0 bloxd.io
@@ -5789,6 +5790,13 @@
 0.0.0.0 rbkgames.com
 0.0.0.0 rbtechngames.com
 0.0.0.0 rbunblocked.gitlab.io
+0.0.0.0 rbx.cn
+0.0.0.0 rbx.com
+0.0.0.0 rbxadder.com
+0.0.0.0 rbxcdn.com
+0.0.0.0 rbxcdn.net
+0.0.0.0 rbxinfra.com
+0.0.0.0 rbxinfra.net
 0.0.0.0 re-pack-delta.vercel.app
 0.0.0.0 realaqilplayz.github.io
 0.0.0.0 realdenniswong.github.io
@@ -5921,6 +5929,12 @@
 0.0.0.0 roblox-unblocked-game.github.io
 0.0.0.0 roblox-unblocked.gitlab.io
 0.0.0.0 roblox-unblocked1.github.io
+0.0.0.0 roblox.cn
+0.0.0.0 roblox.com
+0.0.0.0 roblox.org
+0.0.0.0 roblox.qq.com
+0.0.0.0 robloxcdn.com
+0.0.0.0 robloxdev.cn
 0.0.0.0 robloxpiggy.com
 0.0.0.0 robloxunblocked.gitlab.io
 0.0.0.0 robloxunblockedgames.github.io

@@ -257,7 +257,7 @@ LOCAL_ONLY_FILE = os.path.join(ROOT, "scripts", "manual_local_only.txt")
 
 def load_local_only():
     """Dominios que bloqueas a mano a propósito y NO deben ir a la lista global (el botón
-    "desbloquear juegos" de GameControl no debe afectarlos), p. ej. Roblox."""
+    "desbloquear juegos" de GameControl no debe afectarlos)."""
     if not os.path.exists(LOCAL_ONLY_FILE):
         return set()
     return {l.split("#")[0].strip().lower() for l in open(LOCAL_ONLY_FILE, encoding="utf-8")
