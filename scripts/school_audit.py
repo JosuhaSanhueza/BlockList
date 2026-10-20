@@ -39,7 +39,7 @@ sys.path.insert(0, ROOT)
 
 from scripts.adguard_review import (classify_candidates, covered, is_whitelisted, merge_reports,  # noqa: E402
                                     publish, read_blocklist, whitelist)
-from scripts.validate_blocklist import SHARED_SUFFIXES  # noqa: E402
+from scripts.validate_blocklist import SHARED_SUFFIXES, check_line  # noqa: E402
 
 
 def hub(method, path, body=None):
@@ -161,10 +161,20 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
     rejected = set(decisions.get("rejected") or [])
     merged, _ = merge_reports(reports)
 
+    invalid = set()
+
     def eligible(d):
         # Los equipos con Shield < v1.1.24 reportan algo.it.com como it.com: nunca proponerlo.
-        return (d not in rejected and d not in SHARED_SUFFIXES and not covered(d, doms)
-                and not is_whitelisted(d, wl, exc))
+        if (d in rejected or d in SHARED_SUFFIXES or covered(d, doms)
+                or is_whitelisted(d, wl, exc)):
+            return False
+        # Lo que el validador rechazaría (sitio del top 10.000 sin aprobar, hosting completo,
+        # www....) se salta aquí: si llegara a la lista, la validación fallaría y se revertiría
+        # toda la corrida del día, no solo ese dominio.
+        if check_line(f"||{d}^", 0, set())[0]:
+            invalid.add(d)
+            return False
+        return True
 
     add, added, pending, applied = [], [], [], []
 
@@ -208,7 +218,7 @@ def decide(reports, decisions, doms, wl, exc, classify, min_queries=3, min_clien
         else:
             pending.append(item(d, m))
 
-    return {"add": add, "added": added, "pending": pending, "applied": applied}
+    return {"add": add, "added": added, "pending": pending, "applied": applied, "invalid": sorted(invalid)}
 
 
 def main():
@@ -232,7 +242,8 @@ def main():
     popular = load_popular()
     res = decide(reports, decisions, doms, wl, exc, classify, max_add=a.max_add, popular=popular)
     # Solo cantidades: el log de este repositorio es público.
-    print(f"Reportes: {len(reports)} | agregar: {len(res['add'])} | pendientes: {len(res['pending'])}")
+    print(f"Reportes: {len(reports)} | agregar: {len(res['add'])} | pendientes: {len(res['pending'])}"
+          f" | rechazados por el validador: {len(res['invalid'])}")
 
     status = publish(sorted(res["add"]), original, path, a.dry_run, "desde los colegios")
     print("Resultado:", status.splitlines()[0] if status else "-")

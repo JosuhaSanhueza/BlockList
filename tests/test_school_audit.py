@@ -124,3 +124,15 @@ def test_decide_never_proposes_shared_suffixes():
     reports = [{"site": s, "domains": {**LAB, "it.com": {"queries": 9, "clients": 3}}} for s in ("a", "b")]
     res = decide(reports, {"approved": ["us.com"]}, set(), set(), set(), games("it.com", "us.com"))
     assert res["add"] == [] and res["pending"] == []
+
+
+def test_decide_skips_what_the_validator_would_reject():
+    # Un aprobado que el validador rechazaría (top 10.000 sin aprobar, hosting completo) no debe
+    # entrar: si entrara, se revertiría toda la corrida. El resto se agrega igual.
+    reports = [{"site": s, "domains": {**LAB, "juego.com": {"queries": 9, "clients": 3}}} for s in ("a", "b")]
+    res = decide(reports, {"approved": ["office.com", "vercel.app", "otrojuego.io"]}, set(), set(), set(),
+                 games("juego.com"))
+    assert sorted(res["add"]) == ["juego.com", "otrojuego.io"]
+    assert res["applied"] == ["otrojuego.io"]
+    # vercel.app ya lo frena la regla de dominios compartidos; office.com, el validador.
+    assert res["invalid"] == ["office.com"]
