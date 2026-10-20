@@ -3017,6 +3017,7 @@
 ||gamesonclearance.com^
 ||gamesonly.com^
 ||gamesover.net^
+||gamespa.games^
 ||gamesplanet.com^
 ||gamespluto.github.io^
 ||gamespluto.gitlab.io^
@@ -4460,6 +4461,7 @@
 ||masterdaneding.github.io^
 ||mastermaker-boop.github.io^
 ||match3games.com^
+||match3online.com^
 ||matchgameh5.cc^
 ||mateobaricevic.github.io^
 ||math-playground.bitbucket.io^

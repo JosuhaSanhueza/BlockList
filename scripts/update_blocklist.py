@@ -162,6 +162,10 @@ WHITELIST = {
     # Framing inequívoco de "cognitive fitness"/entrenamiento cerebral clínico, no
     # entretenimiento casual (detectado 2026-09-21).
     "memorygames.net",
+    # Sitio corporativo de Toca Boca (about/careers/shop/noticias), no es una página
+    # jugable en sí; sus juegos concretos ya se bloquean por dominios propios
+    # (tocabocagames, tocabocaworld), detectado 2026-10-20.
+    "tocaboca.com",
     # Exámenes/mecanografía — mismo criterio educativo que el resto de este bloque
     # (detectado 2026-10-06). duckmath.org se sacó el 2026-10-19: es un sitio de
     # juegos camuflado de matemáticas.

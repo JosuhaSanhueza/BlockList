@@ -2187,3 +2187,8 @@ gameduddles
 playupi
 classicube
 elvenar
+
+# --- Búsqueda dirigida: match-3, rhythm/música, tycoon, sandbox/crafting, dress up,
+# anime, zombie survival (2 confirmados: match3online, gamespa), 2026-10-20 ---
+match3online
+gamespa

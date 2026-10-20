@@ -3018,6 +3018,7 @@
 0.0.0.0 gamesonclearance.com
 0.0.0.0 gamesonly.com
 0.0.0.0 gamesover.net
+0.0.0.0 gamespa.games
 0.0.0.0 gamesplanet.com
 0.0.0.0 gamespluto.github.io
 0.0.0.0 gamespluto.gitlab.io
@@ -4461,6 +4462,7 @@
 0.0.0.0 masterdaneding.github.io
 0.0.0.0 mastermaker-boop.github.io
 0.0.0.0 match3games.com
+0.0.0.0 match3online.com
 0.0.0.0 matchgameh5.cc
 0.0.0.0 mateobaricevic.github.io
 0.0.0.0 math-playground.bitbucket.io
