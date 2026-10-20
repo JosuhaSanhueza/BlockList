@@ -5465,6 +5465,7 @@
 ||playslope.pages.dev^
 ||playsnake.org^
 ||playsolitaire.com^
+||playsolitaire.game^
 ||playsolitaire.games^
 ||playsolitaire.org^
 ||playspace.com^
@@ -5843,6 +5844,7 @@
 ||retrobowl-unblocked.online^
 ||retrobowl-unblockedgame.github.io^
 ||retrobowl.app^
+||retrobowl.game^
 ||retrobowl.gg^
 ||retrobowl.info^
 ||retrobowl.me^
@@ -6050,6 +6052,7 @@
 ||scalacube.com^
 ||scary-games.com^
 ||scary-maze.com^
+||scarymaze.io^
 ||scaryteacher-3d.io^
 ||scattergoriesonline.net^
 ||schach-spielen.eu^
@@ -6345,6 +6348,7 @@
 ||snake-gamesdz.com^
 ||snake-shadrouh.netlify.app^
 ||snake.es^
+||snake.game^
 ||snake.io^
 ||snakeappgame.com^
 ||snakeapplega.me^
@@ -6990,6 +6994,7 @@
 ||thstudy.com^
 ||thunderfulgames.com^
 ||thunderlotusgames.com^
+||tictactoe.game^
 ||tidou.fr^
 ||tidurand.github.io^
 ||tileman.io^

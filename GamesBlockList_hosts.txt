@@ -5466,6 +5466,7 @@
 0.0.0.0 playslope.pages.dev
 0.0.0.0 playsnake.org
 0.0.0.0 playsolitaire.com
+0.0.0.0 playsolitaire.game
 0.0.0.0 playsolitaire.games
 0.0.0.0 playsolitaire.org
 0.0.0.0 playspace.com
@@ -5844,6 +5845,7 @@
 0.0.0.0 retrobowl-unblocked.online
 0.0.0.0 retrobowl-unblockedgame.github.io
 0.0.0.0 retrobowl.app
+0.0.0.0 retrobowl.game
 0.0.0.0 retrobowl.gg
 0.0.0.0 retrobowl.info
 0.0.0.0 retrobowl.me
@@ -6051,6 +6053,7 @@
 0.0.0.0 scalacube.com
 0.0.0.0 scary-games.com
 0.0.0.0 scary-maze.com
+0.0.0.0 scarymaze.io
 0.0.0.0 scaryteacher-3d.io
 0.0.0.0 scattergoriesonline.net
 0.0.0.0 schach-spielen.eu
@@ -6346,6 +6349,7 @@
 0.0.0.0 snake-gamesdz.com
 0.0.0.0 snake-shadrouh.netlify.app
 0.0.0.0 snake.es
+0.0.0.0 snake.game
 0.0.0.0 snake.io
 0.0.0.0 snakeappgame.com
 0.0.0.0 snakeapplega.me
@@ -6991,6 +6995,7 @@
 0.0.0.0 thstudy.com
 0.0.0.0 thunderfulgames.com
 0.0.0.0 thunderlotusgames.com
+0.0.0.0 tictactoe.game
 0.0.0.0 tidou.fr
 0.0.0.0 tidurand.github.io
 0.0.0.0 tileman.io
