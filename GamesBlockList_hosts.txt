@@ -699,6 +699,7 @@
 0.0.0.0 basketballbros.site
 0.0.0.0 basketballchamp123.github.io
 0.0.0.0 basketballgame.io
+0.0.0.0 basketballgames.org
 0.0.0.0 basketballgamess.github.io
 0.0.0.0 basketballlegends.bitbucket.io
 0.0.0.0 basketballlegends.fun
@@ -4334,6 +4335,7 @@
 0.0.0.0 london47990.github.io
 0.0.0.0 longhtd.github.io
 0.0.0.0 lonniebeal-droid.github.io
+0.0.0.0 lopigames.com
 0.0.0.0 lord-funion.github.io
 0.0.0.0 lord1egypt.github.io
 0.0.0.0 lordz2.io
@@ -4548,6 +4550,7 @@
 0.0.0.0 meta00s.com
 0.0.0.0 metagames.hu
 0.0.0.0 metrothegame.com
+0.0.0.0 meyagames.com
 0.0.0.0 mfhplayz.github.io
 0.0.0.0 mgalternative.github.io
 0.0.0.0 mgcowbell-bot.github.io
@@ -5387,6 +5390,7 @@
 0.0.0.0 playbasketballbros.com
 0.0.0.0 playblockpost.pages.dev
 0.0.0.0 playbloonstowerdefense.com
+0.0.0.0 playboardgames.org
 0.0.0.0 playbrain.com
 0.0.0.0 playbrain.games
 0.0.0.0 playbrainrot.org

@@ -2192,3 +2192,11 @@ elvenar
 # anime, zombie survival (2 confirmados: match3online, gamespa), 2026-10-20 ---
 match3online
 gamespa
+
+# --- Artículos "top paginas de juegos" (stickman, deportes, cartas, estrategia) y
+# GitHub topics io-games/idle-game/eaglercraft (4 confirmados: lopigames, basketballgames,
+# meyagames, playboardgames), 2026-10-21 ---
+lopigames
+basketballgames
+meyagames
+playboardgames
