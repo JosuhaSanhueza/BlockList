@@ -112,3 +112,17 @@ def test_game_signals_non_game_pages():
     assert game_signals("<a>Download Minecraft MOD APK</a>")["non_game"]
     # Una categoría "Casino games" en un portal de juegos no es una página de apuestas.
     assert not game_signals('<a href="/games/casino/">Casino games</a> Solitaire')["non_game"]
+
+
+def test_www_only_domains_are_kept(tmp_path, monkeypatch):
+    # msn.com completo no se bloquea (servicios de Windows): la búsqueda diaria no debe
+    # convertir www.msn.com ni zone.msn.com en msn.com al leer o consolidar la lista.
+    import update_blocklist as ub
+    assert ub.get_root_domain("www.msn.com") == "www.msn.com"
+    assert ub.get_root_domain("zone.msn.com") == "zone.msn.com"
+    assert ub.get_root_domain("www.friv.com") == "friv.com"
+
+    lst = tmp_path / "GamesBlockList.txt"
+    lst.write_text("||www.msn.com^\n||zone.msn.com^\n||www.poki.com^\n", encoding="utf-8")
+    monkeypatch.setattr(ub, "BLOCKLIST_FILE", str(lst))
+    assert ub.load_existing_domains() == {"www.msn.com", "zone.msn.com", "poki.com"}
