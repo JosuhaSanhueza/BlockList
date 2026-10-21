@@ -1444,7 +1444,9 @@
 0.0.0.0 coolgamesonline.io
 0.0.0.0 cooljuegos.com
 0.0.0.0 coolmath-games.com
+0.0.0.0 coolmath4kids.com
 0.0.0.0 coolmathcoolgames.com
+0.0.0.0 coolmathgames.com.es
 0.0.0.0 coolmathgames.com
 0.0.0.0 coolmathgameskids.com
 0.0.0.0 coolmathgamesrun3.github.io
@@ -5249,6 +5251,7 @@
 0.0.0.0 pazugames.com
 0.0.0.0 pbemplayers.com
 0.0.0.0 pbmcube.com
+0.0.0.0 pbskids.org
 0.0.0.0 pcastromendez1971-eng.github.io
 0.0.0.0 pcmobilegames.com
 0.0.0.0 pcriver.github.io
@@ -5444,6 +5447,7 @@
 0.0.0.0 playjormogames.com
 0.0.0.0 playlolgames.online
 0.0.0.0 playmahjong.com
+0.0.0.0 playmath.org
 0.0.0.0 playminesweeper.com
 0.0.0.0 playminesweeper.org
 0.0.0.0 playminigames.com

@@ -1443,8 +1443,10 @@
 ||coolgamesonline.io^
 ||cooljuegos.com^
 ||coolmath-games.com^
+||coolmath4kids.com^
 ||coolmathcoolgames.com^
 ||coolmathgames.com^
+||coolmathgames.com.es^
 ||coolmathgameskids.com^
 ||coolmathgamesrun3.github.io^
 ||coolmathunblocked.weebly.com^
@@ -5248,6 +5250,7 @@
 ||pazugames.com^
 ||pbemplayers.com^
 ||pbmcube.com^
+||pbskids.org^
 ||pcastromendez1971-eng.github.io^
 ||pcmobilegames.com^
 ||pcriver.github.io^
@@ -5443,6 +5446,7 @@
 ||playjormogames.com^
 ||playlolgames.online^
 ||playmahjong.com^
+||playmath.org^
 ||playminesweeper.com^
 ||playminesweeper.org^
 ||playminigames.com^
