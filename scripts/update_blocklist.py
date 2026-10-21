@@ -59,9 +59,9 @@ VALID_TLDS = (
 )
 
 try:
-    from validate_blocklist import SHARED_SUFFIXES
+    from validate_blocklist import SHARED_SUFFIXES, WWW_ONLY
 except ImportError:
-    from scripts.validate_blocklist import SHARED_SUFFIXES
+    from scripts.validate_blocklist import SHARED_SUFFIXES, WWW_ONLY
 
 # Plataformas de hosting compartido donde NO debemos consolidar al apex domain
 SHARED_HOSTING_PLATFORMS = (
@@ -244,6 +244,9 @@ def get_root_domain(domain):
         return domain
 
     parts = domain.split('.')
+    # www.msn.com, zone.msn.com -> tal cual, nunca msn.com (ver WWW_ONLY).
+    if any(domain == w or domain.endswith("." + w) for w in WWW_ONLY):
+        return domain
     # algo.it.com -> algo.it.com, nunca it.com (ver SHARED_SUFFIXES).
     for s in SHARED_SUFFIXES:
         if domain.endswith("." + s):
@@ -265,7 +268,8 @@ def load_existing_domains():
             line = line.strip().lower()
             if line and not line.startswith("#"):
                 clean = line.lstrip("|").rstrip("^").strip()
-                if clean.startswith("www."):
+                # www.msn.com se queda tal cual: msn.com completo no se bloquea (WWW_ONLY).
+                if clean.startswith("www.") and clean[4:] not in WWW_ONLY:
                     clean = clean[4:]
                 raw_domains.add(clean)
     return raw_domains
