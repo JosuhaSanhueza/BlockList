@@ -1801,6 +1801,7 @@
 0.0.0.0 dordle.io
 0.0.0.0 dordle.online
 0.0.0.0 dorukctnn-rgb.github.io
+0.0.0.0 dos.zone
 0.0.0.0 dosgames.ru
 0.0.0.0 dosgamesonline.com
 0.0.0.0 dotjeux.com
@@ -4471,6 +4472,7 @@
 0.0.0.0 mateobaricevic.github.io
 0.0.0.0 math-playground.bitbucket.io
 0.0.0.0 matheusls.github.io
+0.0.0.0 mathevolve.com
 0.0.0.0 mathgames.com
 0.0.0.0 mathplayzone.com
 0.0.0.0 maths-studio.github.io
