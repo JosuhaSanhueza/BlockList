@@ -1573,6 +1573,7 @@
 0.0.0.0 cucumberpork3.github.io
 0.0.0.0 culga.com
 0.0.0.0 culpixtg.github.io
+0.0.0.0 curseforge.com
 0.0.0.0 cursor-cafe-game-portal.vercel.app
 0.0.0.0 cursorball.onrender.com
 0.0.0.0 curvefever.com
@@ -1651,6 +1652,7 @@
 0.0.0.0 dashmetry.com
 0.0.0.0 dashmetry.io
 0.0.0.0 dashnet.org
+0.0.0.0 databallr.com
 0.0.0.0 dataexplorershelp-glitch.github.io
 0.0.0.0 davcode149.github.io
 0.0.0.0 davefsl.github.io
@@ -1913,6 +1915,7 @@
 0.0.0.0 dubdoo.com
 0.0.0.0 duck-clicker.com
 0.0.0.0 duck-duckclicker.com
+0.0.0.0 duck-math-123.global.ssl.fastly.net
 0.0.0.0 duck-math.gitlab.io
 0.0.0.0 duckclicker.io
 0.0.0.0 duckclicker.org
@@ -1932,6 +1935,9 @@
 0.0.0.0 ducklife4game.github.io
 0.0.0.0 ducklings.io
 0.0.0.0 ducklings123.github.io
+0.0.0.0 ducklit.com
+0.0.0.0 duckmath.freetls.fastly.net
+0.0.0.0 duckmath.global.ssl.fastly.net
 0.0.0.0 duckmath.org
 0.0.0.0 duckyygames.github.io
 0.0.0.0 duelboard.com
@@ -2058,6 +2064,7 @@
 0.0.0.0 eastsidegames.com
 0.0.0.0 eastwardgame.com
 0.0.0.0 easyfun.gg
+0.0.0.0 easyhub.games
 0.0.0.0 eatingmaster123.github.io
 0.0.0.0 eb-bridging.pro
 0.0.0.0 eb-hue.github.io
@@ -2542,6 +2549,7 @@
 0.0.0.0 freepapasgames.com
 0.0.0.0 freeplaysolitaire.com
 0.0.0.0 freepuzzles.net
+0.0.0.0 freesmlauncher.org
 0.0.0.0 freesolitaire.com
 0.0.0.0 freetetris.org
 0.0.0.0 freetogame.com
@@ -2932,6 +2940,7 @@
 0.0.0.0 games-x-flash.com
 0.0.0.0 games-xi-dusky.vercel.app
 0.0.0.0 games.amc.com
+0.0.0.0 games.azgame.io
 0.0.0.0 games.ch
 0.0.0.0 games.co.uk
 0.0.0.0 games.codemeoww.com
@@ -3449,6 +3458,7 @@
 0.0.0.0 hanoisolo.github.io
 0.0.0.0 hapagames.com
 0.0.0.0 hapessad.github.io
+0.0.0.0 happinessad.github.io
 0.0.0.0 happy-wheels.co
 0.0.0.0 happy-wheelsplay.com
 0.0.0.0 happy401.github.io
@@ -4033,6 +4043,7 @@
 0.0.0.0 juegosya.net
 0.0.0.0 juegozonia.com
 0.0.0.0 jugarconjuegos.com
+0.0.0.0 jugarcounterstrike.com
 0.0.0.0 jugargratis.org
 0.0.0.0 jugarmccomportal.base44.app
 0.0.0.0 juicyzhou.github.io
@@ -4262,6 +4273,7 @@
 0.0.0.0 lcpsgames.github.io
 0.0.0.0 lcung87.github.io
 0.0.0.0 leanderbell.github.io
+0.0.0.0 learn-duck.firebaseapp.com
 0.0.0.0 learn-to-fly-unblocked.github.io
 0.0.0.0 learntofly2.io
 0.0.0.0 lebronjames127449-eng.github.io
@@ -4534,6 +4546,7 @@
 0.0.0.0 melonplayground.io
 0.0.0.0 melonplayground.lol
 0.0.0.0 melonplaygroundgame.org
+0.0.0.0 melonsandbox.com
 0.0.0.0 melonsandboxgame.io
 0.0.0.0 melvoridle.com
 0.0.0.0 memcat.pages.dev
@@ -4570,6 +4583,7 @@
 0.0.0.0 michaelthecyco-yt.github.io
 0.0.0.0 michuscrypt.github.io
 0.0.0.0 microsoft123456789.github.io
+0.0.0.0 midnighhtclub3.online
 0.0.0.0 midnight-mafia.co.uk
 0.0.0.0 midnight-mafia.com
 0.0.0.0 migekkohecker.github.io
@@ -4708,6 +4722,7 @@
 0.0.0.0 mochig.com
 0.0.0.0 modd.io
 0.0.0.0 mode-games.com
+0.0.0.0 modernclient.online
 0.0.0.0 mods.ninja
 0.0.0.0 mofunzone.com
 0.0.0.0 mohammedhachimi93hm-png.github.io
@@ -5610,6 +5625,7 @@
 0.0.0.0 polar-eta.vercel.app
 0.0.0.0 poly-track.io
 0.0.0.0 polybackup.github.io
+0.0.0.0 polybuzz.ai
 0.0.0.0 polytrack-3d.vercel.app
 0.0.0.0 polytrack-eight.vercel.app
 0.0.0.0 polytrack-racing-game-6boy.vercel.app
@@ -5720,6 +5736,7 @@
 0.0.0.0 puzzlescanada.ca
 0.0.0.0 pvz.ee
 0.0.0.0 pvzol.com
+0.0.0.0 pwa-dino.github.io
 0.0.0.0 pythondevparas.github.io
 0.0.0.0 q13x.com
 0.0.0.0 q8j-dev.github.io
@@ -5731,6 +5748,7 @@
 0.0.0.0 qperkz.github.io
 0.0.0.0 qq-yt.github.io
 0.0.0.0 qscasino.github.io
+0.0.0.0 quackprep.org
 0.0.0.0 quadys712.github.io
 0.0.0.0 quahszekyai-boop.github.io
 0.0.0.0 quake-io.com
@@ -6090,6 +6108,7 @@
 0.0.0.0 sandspiel.xyz
 0.0.0.0 sanjaykannan2225.github.io
 0.0.0.0 sans-simulator.github.io
+0.0.0.0 sansfight.net
 0.0.0.0 sanssimulator.github.io
 0.0.0.0 santatracker.google.com
 0.0.0.0 santiagodebus.com
@@ -6106,6 +6125,7 @@
 0.0.0.0 scalacube.com
 0.0.0.0 scary-games.com
 0.0.0.0 scary-maze.com
+0.0.0.0 scaryhorrorgames.io
 0.0.0.0 scarymaze.io
 0.0.0.0 scaryteacher-3d.io
 0.0.0.0 scattergoriesonline.net
@@ -6268,6 +6288,7 @@
 0.0.0.0 skilledgamerjoel-art.github.io
 0.0.0.0 skinsmc.org
 0.0.0.0 skitterix.github.io
+0.0.0.0 skmedix.pl
 0.0.0.0 skoolgq.github.io
 0.0.0.0 skribbl-io-game.github.io
 0.0.0.0 skribbl-io.com
@@ -6515,6 +6536,7 @@
 0.0.0.0 spacesquare640.github.io
 0.0.0.0 spacetgl1.github.io
 0.0.0.0 spacetrace.org
+0.0.0.0 spacewaves-game.github.io
 0.0.0.0 spacewaves.io
 0.0.0.0 spacewaves2.org
 0.0.0.0 spacewavesfree.io
@@ -6718,6 +6740,7 @@
 0.0.0.0 stickmanhook-2.github.io
 0.0.0.0 stickmanhook-unblocked.github.io
 0.0.0.0 stickmanhook.bitbucket.io
+0.0.0.0 stickmanhook.com.mx
 0.0.0.0 stickmanhook.github.io
 0.0.0.0 stickmanhook.net
 0.0.0.0 stickmanhook.online
@@ -7054,6 +7077,8 @@
 0.0.0.0 tictactoe.game
 0.0.0.0 tidou.fr
 0.0.0.0 tidurand.github.io
+0.0.0.0 tiermaker.com
+0.0.0.0 tiermakerpro.com
 0.0.0.0 tileman.io
 0.0.0.0 timepass-games.github.io
 0.0.0.0 timeshooter-2online.github.io
@@ -7074,6 +7099,7 @@
 0.0.0.0 tinyfishing.io
 0.0.0.0 tinyfishing.pro
 0.0.0.0 tinyfishing2.io
+0.0.0.0 tinyfishingame.com
 0.0.0.0 tinyplay.io
 0.0.0.0 tinytakinteller.itch.io
 0.0.0.0 titan-gorilla-loves-unblocked-websites.github.io

@@ -42,6 +42,9 @@ POPULAR_APPROVED = {
     # Roblox y su CDN: se bloquean desde la lista de juegos (no desde Servicios bloqueados) para
     # que el botón "Permitir juegos" del docente lo controle (2026-10-20).
     "roblox.com", "rbxcdn.com",
+    # Pedidos explícitamente (2026-10-22): mods de juegos (CurseForge), rankings de juegos y
+    # personajes (TierMaker) y chat de rol con IA (PolyBuzz).
+    "curseforge.com", "tiermaker.com", "polybuzz.ai",
 }
 
 
@@ -83,6 +86,9 @@ WHITELIST = {
 # lo tanto sí se bloquean, igual que se hace con subdominios de gitlab.io/github.io.
 WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "eaglercraft.global.ssl.fastly.net",
+    # Copias de Duck Math (juegos camuflados de matemáticas) en Fastly (2026-10-22).
+    "duckmath.global.ssl.fastly.net", "duck-math-123.global.ssl.fastly.net",
+    "duckmath.freetls.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",

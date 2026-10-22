@@ -1572,6 +1572,7 @@
 ||cucumberpork3.github.io^
 ||culga.com^
 ||culpixtg.github.io^
+||curseforge.com^
 ||cursor-cafe-game-portal.vercel.app^
 ||cursorball.onrender.com^
 ||curvefever.com^
@@ -1650,6 +1651,7 @@
 ||dashmetry.com^
 ||dashmetry.io^
 ||dashnet.org^
+||databallr.com^
 ||dataexplorershelp-glitch.github.io^
 ||davcode149.github.io^
 ||davefsl.github.io^
@@ -1912,6 +1914,7 @@
 ||dubdoo.com^
 ||duck-clicker.com^
 ||duck-duckclicker.com^
+||duck-math-123.global.ssl.fastly.net^
 ||duck-math.gitlab.io^
 ||duckclicker.io^
 ||duckclicker.org^
@@ -1931,6 +1934,9 @@
 ||ducklife4game.github.io^
 ||ducklings.io^
 ||ducklings123.github.io^
+||ducklit.com^
+||duckmath.freetls.fastly.net^
+||duckmath.global.ssl.fastly.net^
 ||duckmath.org^
 ||duckyygames.github.io^
 ||duelboard.com^
@@ -2057,6 +2063,7 @@
 ||eastsidegames.com^
 ||eastwardgame.com^
 ||easyfun.gg^
+||easyhub.games^
 ||eatingmaster123.github.io^
 ||eb-bridging.pro^
 ||eb-hue.github.io^
@@ -2541,6 +2548,7 @@
 ||freepapasgames.com^
 ||freeplaysolitaire.com^
 ||freepuzzles.net^
+||freesmlauncher.org^
 ||freesolitaire.com^
 ||freetetris.org^
 ||freetogame.com^
@@ -2931,6 +2939,7 @@
 ||games-x-flash.com^
 ||games-xi-dusky.vercel.app^
 ||games.amc.com^
+||games.azgame.io^
 ||games.ch^
 ||games.co.uk^
 ||games.codemeoww.com^
@@ -3448,6 +3457,7 @@
 ||hanoisolo.github.io^
 ||hapagames.com^
 ||hapessad.github.io^
+||happinessad.github.io^
 ||happy-wheels.co^
 ||happy-wheelsplay.com^
 ||happy401.github.io^
@@ -4032,6 +4042,7 @@
 ||juegosya.net^
 ||juegozonia.com^
 ||jugarconjuegos.com^
+||jugarcounterstrike.com^
 ||jugargratis.org^
 ||jugarmccomportal.base44.app^
 ||juicyzhou.github.io^
@@ -4261,6 +4272,7 @@
 ||lcpsgames.github.io^
 ||lcung87.github.io^
 ||leanderbell.github.io^
+||learn-duck.firebaseapp.com^
 ||learn-to-fly-unblocked.github.io^
 ||learntofly2.io^
 ||lebronjames127449-eng.github.io^
@@ -4533,6 +4545,7 @@
 ||melonplayground.io^
 ||melonplayground.lol^
 ||melonplaygroundgame.org^
+||melonsandbox.com^
 ||melonsandboxgame.io^
 ||melvoridle.com^
 ||memcat.pages.dev^
@@ -4569,6 +4582,7 @@
 ||michaelthecyco-yt.github.io^
 ||michuscrypt.github.io^
 ||microsoft123456789.github.io^
+||midnighhtclub3.online^
 ||midnight-mafia.co.uk^
 ||midnight-mafia.com^
 ||migekkohecker.github.io^
@@ -4707,6 +4721,7 @@
 ||mochig.com^
 ||modd.io^
 ||mode-games.com^
+||modernclient.online^
 ||mods.ninja^
 ||mofunzone.com^
 ||mohammedhachimi93hm-png.github.io^
@@ -5609,6 +5624,7 @@
 ||polar-eta.vercel.app^
 ||poly-track.io^
 ||polybackup.github.io^
+||polybuzz.ai^
 ||polytrack-3d.vercel.app^
 ||polytrack-eight.vercel.app^
 ||polytrack-racing-game-6boy.vercel.app^
@@ -5719,6 +5735,7 @@
 ||puzzlescanada.ca^
 ||pvz.ee^
 ||pvzol.com^
+||pwa-dino.github.io^
 ||pythondevparas.github.io^
 ||q13x.com^
 ||q8j-dev.github.io^
@@ -5730,6 +5747,7 @@
 ||qperkz.github.io^
 ||qq-yt.github.io^
 ||qscasino.github.io^
+||quackprep.org^
 ||quadys712.github.io^
 ||quahszekyai-boop.github.io^
 ||quake-io.com^
@@ -6089,6 +6107,7 @@
 ||sandspiel.xyz^
 ||sanjaykannan2225.github.io^
 ||sans-simulator.github.io^
+||sansfight.net^
 ||sanssimulator.github.io^
 ||santatracker.google.com^
 ||santiagodebus.com^
@@ -6105,6 +6124,7 @@
 ||scalacube.com^
 ||scary-games.com^
 ||scary-maze.com^
+||scaryhorrorgames.io^
 ||scarymaze.io^
 ||scaryteacher-3d.io^
 ||scattergoriesonline.net^
@@ -6267,6 +6287,7 @@
 ||skilledgamerjoel-art.github.io^
 ||skinsmc.org^
 ||skitterix.github.io^
+||skmedix.pl^
 ||skoolgq.github.io^
 ||skribbl-io-game.github.io^
 ||skribbl-io.com^
@@ -6514,6 +6535,7 @@
 ||spacesquare640.github.io^
 ||spacetgl1.github.io^
 ||spacetrace.org^
+||spacewaves-game.github.io^
 ||spacewaves.io^
 ||spacewaves2.org^
 ||spacewavesfree.io^
@@ -6717,6 +6739,7 @@
 ||stickmanhook-2.github.io^
 ||stickmanhook-unblocked.github.io^
 ||stickmanhook.bitbucket.io^
+||stickmanhook.com.mx^
 ||stickmanhook.github.io^
 ||stickmanhook.net^
 ||stickmanhook.online^
@@ -7053,6 +7076,8 @@
 ||tictactoe.game^
 ||tidou.fr^
 ||tidurand.github.io^
+||tiermaker.com^
+||tiermakerpro.com^
 ||tileman.io^
 ||timepass-games.github.io^
 ||timeshooter-2online.github.io^
@@ -7073,6 +7098,7 @@
 ||tinyfishing.io^
 ||tinyfishing.pro^
 ||tinyfishing2.io^
+||tinyfishingame.com^
 ||tinyplay.io^
 ||tinytakinteller.itch.io^
 ||titan-gorilla-loves-unblocked-websites.github.io^
