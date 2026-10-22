@@ -2341,6 +2341,7 @@
 0.0.0.0 fivenightsatfreddysgame.io
 0.0.0.0 fivenightsatfreddysonline.com
 0.0.0.0 fivenightsatfreddysonline.github.io
+0.0.0.0 fiveplay.lol
 0.0.0.0 fivestarontop.pages.dev
 0.0.0.0 fiveworld-development.github.io
 0.0.0.0 fizzerz.com

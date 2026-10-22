@@ -2340,6 +2340,7 @@
 ||fivenightsatfreddysgame.io^
 ||fivenightsatfreddysonline.com^
 ||fivenightsatfreddysonline.github.io^
+||fiveplay.lol^
 ||fivestarontop.pages.dev^
 ||fiveworld-development.github.io^
 ||fizzerz.com^
