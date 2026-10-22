@@ -2200,3 +2200,10 @@ lopigames
 basketballgames
 meyagames
 playboardgames
+
+# --- Artículos "unblocked games sites"/chess.com alternatives y truck/parking sim
+# (5 confirmados: foony proxy de juegos, vexgames, chess.game, zappchess, localchess), 2026-10-22 ---
+foony
+vexgames
+zappchess
+localchess

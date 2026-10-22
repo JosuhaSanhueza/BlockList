@@ -1216,6 +1216,7 @@
 0.0.0.0 chess-mail.com
 0.0.0.0 chess-online.com
 0.0.0.0 chess.com
+0.0.0.0 chess.game
 0.0.0.0 chess.org
 0.0.0.0 chessbin.com
 0.0.0.0 chessfree.net
@@ -2451,6 +2452,7 @@
 0.0.0.0 fngames.io
 0.0.0.0 fog.com
 0.0.0.0 foilmant1234.github.io
+0.0.0.0 foony.com
 0.0.0.0 football-bros.io
 0.0.0.0 football-games.io
 0.0.0.0 football-legends.io
@@ -4323,6 +4325,7 @@
 0.0.0.0 lmogolyan-arcade.vercel.app
 0.0.0.0 lmyeeuu.github.io
 0.0.0.0 loadbit6.github.io
+0.0.0.0 localchess.online
 0.0.0.0 lockloft.org
 0.0.0.0 lofd.de
 0.0.0.0 lofgames.com
@@ -7616,6 +7619,7 @@
 0.0.0.0 vex7games.org
 0.0.0.0 vexgame-unblocked.github.io
 0.0.0.0 vexgames.online
+0.0.0.0 vexgames.sbs
 0.0.0.0 vexo-sirramenboi.github.io
 0.0.0.0 vexx3m.com
 0.0.0.0 vgames88.com
@@ -7957,6 +7961,7 @@
 0.0.0.0 zapgames.io
 0.0.0.0 zapgames.site
 0.0.0.0 zaphira.games
+0.0.0.0 zappchess.com
 0.0.0.0 zaprasdower.github.io
 0.0.0.0 zatoga.net
 0.0.0.0 zavi499.github.io
