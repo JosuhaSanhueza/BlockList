@@ -2310,6 +2310,7 @@
 0.0.0.0 fireboy-and-watergirl.io
 0.0.0.0 fireboy-and-watergirl.net
 0.0.0.0 fireboy-and-watergirlunblocked.github.io
+0.0.0.0 fireboy-andwatergirl.io
 0.0.0.0 fireboy-watergirl-10x.github.io
 0.0.0.0 fireboy-watergirl-game.vercel.app
 0.0.0.0 fireboy-watergirl-hzp9.vercel.app
@@ -5564,6 +5565,7 @@
 0.0.0.0 pokerogue.app
 0.0.0.0 pokerogue.lol
 0.0.0.0 pokerogue.net
+0.0.0.0 poki-cdn.com
 0.0.0.0 poki-es.bitbucket.io
 0.0.0.0 poki-games.bitbucket.io
 0.0.0.0 poki-games.com
@@ -6516,6 +6518,7 @@
 0.0.0.0 spacewaves2.org
 0.0.0.0 spacewavesfree.io
 0.0.0.0 spacewavesgame.io
+0.0.0.0 spacewavesio.io
 0.0.0.0 spades.co
 0.0.0.0 sparkchess.com
 0.0.0.0 sparxcorporation.github.io
