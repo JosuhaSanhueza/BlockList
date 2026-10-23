@@ -2217,6 +2217,7 @@
 ||escaperoadunblocked.co^
 ||escaperoadunblocked.com^
 ||escaperoadx.github.io^
+||escapethewebsite.com^
 ||escolagames.com.br^
 ||eshaanmechineni-debug.github.io^
 ||esherleongkeanshoen-ux.github.io^
@@ -4684,6 +4685,7 @@
 ||miniplay.com^
 ||miniplay.io^
 ||miniputtgames.com^
+||miniscript.gg^
 ||minisnake.vercel.app^
 ||miniwebgames.com^
 ||minix.games^
@@ -7229,6 +7231,7 @@
 ||tunnelrushgame.io^
 ||tunnelrushgame.org^
 ||tunnelrushonline2.github.io^
+||tunnelrushtopvaz.github.io^
 ||tunnelrushunblocked.github.io^
 ||tunnelrushunblockedgames66.github.io^
 ||turbo-typer-pro.vercel.app^

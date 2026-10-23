@@ -2218,6 +2218,7 @@
 0.0.0.0 escaperoadunblocked.co
 0.0.0.0 escaperoadunblocked.com
 0.0.0.0 escaperoadx.github.io
+0.0.0.0 escapethewebsite.com
 0.0.0.0 escolagames.com.br
 0.0.0.0 eshaanmechineni-debug.github.io
 0.0.0.0 esherleongkeanshoen-ux.github.io
@@ -4685,6 +4686,7 @@
 0.0.0.0 miniplay.com
 0.0.0.0 miniplay.io
 0.0.0.0 miniputtgames.com
+0.0.0.0 miniscript.gg
 0.0.0.0 minisnake.vercel.app
 0.0.0.0 miniwebgames.com
 0.0.0.0 minix.games
@@ -7230,6 +7232,7 @@
 0.0.0.0 tunnelrushgame.io
 0.0.0.0 tunnelrushgame.org
 0.0.0.0 tunnelrushonline2.github.io
+0.0.0.0 tunnelrushtopvaz.github.io
 0.0.0.0 tunnelrushunblocked.github.io
 0.0.0.0 tunnelrushunblockedgames66.github.io
 0.0.0.0 turbo-typer-pro.vercel.app

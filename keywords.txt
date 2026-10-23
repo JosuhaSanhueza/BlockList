@@ -2207,3 +2207,9 @@ foony
 vexgames
 zappchess
 localchess
+
+# --- Artículos "poki alternatives"/"unblocked games sites" y pesca/escape room
+# (3 confirmados: miniscript, escapethewebsite, tunnelrushtopvaz ya cubierto por
+# keyword "tunnelrush" existente), 2026-10-23 ---
+miniscript
+escapethewebsite
