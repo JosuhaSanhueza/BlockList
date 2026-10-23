@@ -1195,6 +1195,7 @@
 ||chaingames.io^
 ||chainplay.gg^
 ||chairpact.github.io^
+||challengerush.com^
 ||chamacurson.github.io^
 ||chandus-garage.github.io^
 ||channelthree.vercel.app^
@@ -1482,6 +1483,7 @@
 ||cpstest.net^
 ||cpstest.org^
 ||cptest.io^
+||cpzero.net^
 ||cr1toss.github.io^
 ||craftdownunder.co^
 ||craftnite.io^
@@ -2143,6 +2145,7 @@
 ||emmegray.github.io^
 ||emochi.com^
 ||emojitest.com^
+||emolingo.games^
 ||emubrowser.com^
 ||emugames-com.bitbucket.io^
 ||emugames-io.bitbucket.io^
@@ -2151,6 +2154,7 @@
 ||emulador-online.vercel.app^
 ||emulator.online^
 ||emulatorgame.org^
+||emulatorgamer.com^
 ||emulatorgames.onl^
 ||emulatorgames.online^
 ||emulatorgamess.bitbucket.io^
@@ -3199,6 +3203,7 @@
 ||geometrydashio.online^
 ||geometrydashja.com^
 ||geometrydashjs.github.io^
+||geometrydashjuego.es^
 ||geometrydashlite-unblocked.gitlab.io^
 ||geometrydashlite.io^
 ||geometrydashlite.us^
@@ -4491,6 +4496,7 @@
 ||matheusls.github.io^
 ||mathevolve.com^
 ||mathgames.com^
+||mathlete.pages.dev^
 ||mathplayzone.com^
 ||maths-studio.github.io^
 ||mathsspot.com^
@@ -5208,6 +5214,7 @@
 ||pancakegod62.github.io^
 ||pandafreegames.net^
 ||pangasir.github.io^
+||pangolinworks.dev^
 ||panicbuttongames.com^
 ||panupongsk-cyber.github.io^
 ||panzerrush.com^
@@ -5456,6 +5463,7 @@
 ||playgamor.com^
 ||playgeodash.com^
 ||playgeodash.pages.dev^
+||playgtav.vercel.app^
 ||playgunlake.com^
 ||playgwent.com^
 ||playhawken.com^
@@ -6483,6 +6491,7 @@
 ||soccer-randomx.github.io^
 ||soccerbros.github.io^
 ||soccerbrosgame.com^
+||soccerleague.io^
 ||soccerrandom-unblocked.github.io^
 ||soccerrandom.io^
 ||soccerrandomgame.com^
