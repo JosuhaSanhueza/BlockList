@@ -45,6 +45,9 @@ POPULAR_APPROVED = {
     # Pedidos explícitamente (2026-10-22): mods de juegos (CurseForge), rankings de juegos y
     # personajes (TierMaker) y chat de rol con IA (PolyBuzz).
     "curseforge.com", "tiermaker.com", "polybuzz.ai",
+    # Aprobados en el panel del auditor (2026-10-19), confirmados el 2026-10-24: Xbox (incluye
+    # Xbox Cloud Gaming en el navegador) y el emulador de Android BlueStacks.
+    "xbox.com", "bluestacks.com",
 }
 
 
