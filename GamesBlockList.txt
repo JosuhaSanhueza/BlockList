@@ -474,6 +474,7 @@
 ||applewin1.github.io^
 ||apps4blast.com^
 ||apro973.github.io^
+||apstudy.github.io^
 ||apxs114514.github.io^
 ||aquaset.github.io^
 ||aquastargames.github.io^
@@ -1733,6 +1734,7 @@
 ||digamore.com^
 ||digdig.io^
 ||digitalspacebooks.github.io^
+||diguifi.com^
 ||diguifi.itch.io^
 ||diknigara.github.io^
 ||dimaplotnikov.github.io^
@@ -2520,6 +2522,7 @@
 ||freeflappybird.com^
 ||freeflappybird.org^
 ||freeflashgamesnow.com^
+||freefreecellsolitaire.com^
 ||freefrogger.org^
 ||freefungames.dumbosdiary.com^
 ||freegalaga.com^

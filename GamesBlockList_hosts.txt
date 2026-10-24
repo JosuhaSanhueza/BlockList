@@ -475,6 +475,7 @@
 0.0.0.0 applewin1.github.io
 0.0.0.0 apps4blast.com
 0.0.0.0 apro973.github.io
+0.0.0.0 apstudy.github.io
 0.0.0.0 apxs114514.github.io
 0.0.0.0 aquaset.github.io
 0.0.0.0 aquastargames.github.io
@@ -1734,6 +1735,7 @@
 0.0.0.0 digamore.com
 0.0.0.0 digdig.io
 0.0.0.0 digitalspacebooks.github.io
+0.0.0.0 diguifi.com
 0.0.0.0 diguifi.itch.io
 0.0.0.0 diknigara.github.io
 0.0.0.0 dimaplotnikov.github.io
@@ -2521,6 +2523,7 @@
 0.0.0.0 freeflappybird.com
 0.0.0.0 freeflappybird.org
 0.0.0.0 freeflashgamesnow.com
+0.0.0.0 freefreecellsolitaire.com
 0.0.0.0 freefrogger.org
 0.0.0.0 freefungames.dumbosdiary.com
 0.0.0.0 freegalaga.com
