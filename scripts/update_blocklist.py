@@ -59,9 +59,9 @@ VALID_TLDS = (
 )
 
 try:
-    from validate_blocklist import SHARED_SUFFIXES, WWW_ONLY
+    from validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line
 except ImportError:
-    from scripts.validate_blocklist import SHARED_SUFFIXES, WWW_ONLY
+    from scripts.validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line
 
 # Plataformas de hosting compartido donde NO debemos consolidar al apex domain
 SHARED_HOSTING_PLATFORMS = (
@@ -605,6 +605,12 @@ def is_game_website(domain):
             
     return False
 
+def is_publishable(domain):
+    """Indica si validate_blocklist aceptaría ||domain^ en la lista (no es un sitio del top
+    10.000 sin aprobar, ni un dominio protegido, ni un hosting completo...)."""
+    return not check_line(f"||{domain}^", 0, set())[0]
+
+
 def verify_single_candidate(domain, existing_domains):
     root_dom = get_root_domain(domain)
     if root_dom in existing_domains or domain in existing_domains:
@@ -670,7 +676,12 @@ def main():
                 res = future.result()
                 if res:
                     domain, root_dom = res
-                    if root_dom not in existing_domains:
+                    # Lo que el validador rechazaría (sitio del top 10.000 sin aprobar, dominio
+                    # protegido, hosting completo...) se salta: si entrara, la validación del
+                    # workflow fallaría y se perdería toda la corrida, no solo este dominio.
+                    if not is_publishable(root_dom):
+                        print(f"  [-] Descartado (lo rechazaría el validador): {root_dom}")
+                    elif root_dom not in existing_domains:
                         print(f"  [+] Confirmado sitio de juegos / Shodan MC: {domain} -> Consolidando a: {root_dom}")
                         new_domains.append(root_dom)
                         existing_domains.add(root_dom)
