@@ -126,3 +126,13 @@ def test_www_only_domains_are_kept(tmp_path, monkeypatch):
     lst.write_text("||www.msn.com^\n||zone.msn.com^\n||www.poki.com^\n", encoding="utf-8")
     monkeypatch.setattr(ub, "BLOCKLIST_FILE", str(lst))
     assert ub.load_existing_domains() == {"www.msn.com", "zone.msn.com", "poki.com"}
+
+
+def test_is_publishable():
+    # La búsqueda diaria salta lo que el validador rechazaría, para no perder toda la corrida.
+    import update_blocklist as ub
+    assert ub.is_publishable("juego-nuevo.io")
+    assert not ub.is_publishable("office.com"), "top 10.000 sin aprobar"
+    assert not ub.is_publishable("vercel.app"), "hosting completo"
+    assert not ub.is_publishable("google.com"), "protegido"
+    assert ub.is_publishable("www.msn.com"), "WWW_ONLY"
