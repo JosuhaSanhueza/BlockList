@@ -2320,6 +2320,7 @@
 ||fiorellaps.github.io^
 ||fire-boy-water-girl.vercel.app^
 ||fireboy-and-watergirl-peach.vercel.app^
+||fireboy-and-watergirl.gitlab.io^
 ||fireboy-and-watergirl.io^
 ||fireboy-and-watergirl.net^
 ||fireboy-and-watergirlunblocked.github.io^
@@ -2687,6 +2688,7 @@
 ||fsjhs1410906.github.io^
 ||ftgames.xyz^
 ||fuegoyagua.es^
+||fuegoyagua.io^
 ||fukgames.com^
 ||fullclear315.github.io^
 ||funandgames.org^
@@ -3168,6 +3170,7 @@
 ||geometry-dash.gg^
 ||geometry-dash.net^
 ||geometry-dashpc.com^
+||geometry-dashpc.io^
 ||geometry-dashunblocked.com^
 ||geometry-games.io^
 ||geometry-lite.com^
@@ -3213,6 +3216,7 @@
 ||geometrydashlite2.io^
 ||geometrydashlite22.io^
 ||geometrydashlitefree.com^
+||geometrydashmeltdown.com^
 ||geometrydashmeltdown.io^
 ||geometrydashonline.com^
 ||geometrydashonline.io^

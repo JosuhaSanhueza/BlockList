@@ -2321,6 +2321,7 @@
 0.0.0.0 fiorellaps.github.io
 0.0.0.0 fire-boy-water-girl.vercel.app
 0.0.0.0 fireboy-and-watergirl-peach.vercel.app
+0.0.0.0 fireboy-and-watergirl.gitlab.io
 0.0.0.0 fireboy-and-watergirl.io
 0.0.0.0 fireboy-and-watergirl.net
 0.0.0.0 fireboy-and-watergirlunblocked.github.io
@@ -2688,6 +2689,7 @@
 0.0.0.0 fsjhs1410906.github.io
 0.0.0.0 ftgames.xyz
 0.0.0.0 fuegoyagua.es
+0.0.0.0 fuegoyagua.io
 0.0.0.0 fukgames.com
 0.0.0.0 fullclear315.github.io
 0.0.0.0 funandgames.org
@@ -3169,6 +3171,7 @@
 0.0.0.0 geometry-dash.gg
 0.0.0.0 geometry-dash.net
 0.0.0.0 geometry-dashpc.com
+0.0.0.0 geometry-dashpc.io
 0.0.0.0 geometry-dashunblocked.com
 0.0.0.0 geometry-games.io
 0.0.0.0 geometry-lite.com
@@ -3214,6 +3217,7 @@
 0.0.0.0 geometrydashlite2.io
 0.0.0.0 geometrydashlite22.io
 0.0.0.0 geometrydashlitefree.com
+0.0.0.0 geometrydashmeltdown.com
 0.0.0.0 geometrydashmeltdown.io
 0.0.0.0 geometrydashonline.com
 0.0.0.0 geometrydashonline.io
