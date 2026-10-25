@@ -157,6 +157,7 @@
 0.0.0.0 25200666.github.io
 0.0.0.0 2ach2ach.github.io
 0.0.0.0 2dplay.com
+0.0.0.0 2player-online.github.io
 0.0.0.0 2player.online
 0.0.0.0 2playergames.gitlab.io
 0.0.0.0 2playergamesunblocked.pages.dev
@@ -877,6 +878,7 @@
 0.0.0.0 blipzi.com
 0.0.0.0 blkrayy.github.io
 0.0.0.0 blob-opera.com
+0.0.0.0 block-blast.io
 0.0.0.0 blockblaast.com
 0.0.0.0 blockblast-game.io
 0.0.0.0 blockblast-unblocked.github.io
@@ -935,6 +937,7 @@
 0.0.0.0 blueisancat.github.io
 0.0.0.0 blueorangegames.com
 0.0.0.0 blueorangegames.eu
+0.0.0.0 bluestacks.com
 0.0.0.0 blumgirocket.org
 0.0.0.0 blumgislime.com
 0.0.0.0 bmanblox.github.io
@@ -2229,6 +2232,7 @@
 0.0.0.0 eshaanmechineni-debug.github.io
 0.0.0.0 esherleongkeanshoen-ux.github.io
 0.0.0.0 esl.eu
+0.0.0.0 espacioapkks.com
 0.0.0.0 especially43.github.io
 0.0.0.0 espritgames.com
 0.0.0.0 essential.gg
@@ -3421,6 +3425,7 @@
 0.0.0.0 gta3browser.vercel.app
 0.0.0.0 gta6unblocked.github.io
 0.0.0.0 gtagusers.github.io
+0.0.0.0 gtahub.gg
 0.0.0.0 gtarcade.com
 0.0.0.0 gtavice.city
 0.0.0.0 gtg0116.github.io
@@ -3954,6 +3959,7 @@
 0.0.0.0 jogosdorei.com.br
 0.0.0.0 jogosfas.com
 0.0.0.0 jogosfriv2.com.br
+0.0.0.0 jogosfriv2018.net
 0.0.0.0 jogosjogos.com
 0.0.0.0 jogosnainternet.com.br
 0.0.0.0 johanromanque.github.io
@@ -5073,6 +5079,7 @@
 0.0.0.0 officialeaglercraft.github.io
 0.0.0.0 offlinedino.com
 0.0.0.0 ofogames.com
+0.0.0.0 ofree.io
 0.0.0.0 ogaithernexus.gitlab.io
 0.0.0.0 ogame.fun
 0.0.0.0 ogame.net.tr
@@ -5563,6 +5570,7 @@
 0.0.0.0 playtouch.net
 0.0.0.0 playtrivia.net
 0.0.0.0 playtropolis.com
+0.0.0.0 playtts.com
 0.0.0.0 playunb.com
 0.0.0.0 playunblocked.lol
 0.0.0.0 playunblockedgames.bitbucket.io
@@ -5578,6 +5586,7 @@
 0.0.0.0 playxo.com
 0.0.0.0 playzen.io
 0.0.0.0 playzool.com
+0.0.0.0 plazasesamo.com
 0.0.0.0 plemiona.pl
 0.0.0.0 plicerin.github.io
 0.0.0.0 plinkod.com
@@ -6188,6 +6197,7 @@
 0.0.0.0 serp.games
 0.0.0.0 serpgames.github.io
 0.0.0.0 servidoresminecraft.info
+0.0.0.0 sesamo.com
 0.0.0.0 sfa21142.github.io
 0.0.0.0 sfbgames.com
 0.0.0.0 sfgame.cz
@@ -7469,6 +7479,7 @@
 0.0.0.0 unblocked-wtf-games.github.io
 0.0.0.0 unblocked.today
 0.0.0.0 unblocked1889.github.io
+0.0.0.0 unblocked66.games
 0.0.0.0 unblocked66world.com
 0.0.0.0 unblocked76.org
 0.0.0.0 unblocked911games.com
@@ -7901,6 +7912,7 @@
 0.0.0.0 x8rr.github.io
 0.0.0.0 xavier371.github.io
 0.0.0.0 xbitlabs.com
+0.0.0.0 xbox.com
 0.0.0.0 xcarcade.vercel.app
 0.0.0.0 xcloudgame.com
 0.0.0.0 xdevman9.github.io
@@ -7973,6 +7985,7 @@
 0.0.0.0 yokogames.com
 0.0.0.0 yomna315.github.io
 0.0.0.0 yonosoymike83.github.io
+0.0.0.0 yoob2.com
 0.0.0.0 yoplay.io
 0.0.0.0 yoshiharu1.github.io
 0.0.0.0 yotam-nagar.github.io

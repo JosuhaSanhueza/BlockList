@@ -156,6 +156,7 @@
 ||25200666.github.io^
 ||2ach2ach.github.io^
 ||2dplay.com^
+||2player-online.github.io^
 ||2player.online^
 ||2playergames.gitlab.io^
 ||2playergamesunblocked.pages.dev^
@@ -876,6 +877,7 @@
 ||blipzi.com^
 ||blkrayy.github.io^
 ||blob-opera.com^
+||block-blast.io^
 ||blockblaast.com^
 ||blockblast-game.io^
 ||blockblast-unblocked.github.io^
@@ -934,6 +936,7 @@
 ||blueisancat.github.io^
 ||blueorangegames.com^
 ||blueorangegames.eu^
+||bluestacks.com^
 ||blumgirocket.org^
 ||blumgislime.com^
 ||bmanblox.github.io^
@@ -2228,6 +2231,7 @@
 ||eshaanmechineni-debug.github.io^
 ||esherleongkeanshoen-ux.github.io^
 ||esl.eu^
+||espacioapkks.com^
 ||especially43.github.io^
 ||espritgames.com^
 ||essential.gg^
@@ -3420,6 +3424,7 @@
 ||gta3browser.vercel.app^
 ||gta6unblocked.github.io^
 ||gtagusers.github.io^
+||gtahub.gg^
 ||gtarcade.com^
 ||gtavice.city^
 ||gtg0116.github.io^
@@ -3953,6 +3958,7 @@
 ||jogosdorei.com.br^
 ||jogosfas.com^
 ||jogosfriv2.com.br^
+||jogosfriv2018.net^
 ||jogosjogos.com^
 ||jogosnainternet.com.br^
 ||johanromanque.github.io^
@@ -5072,6 +5078,7 @@
 ||officialeaglercraft.github.io^
 ||offlinedino.com^
 ||ofogames.com^
+||ofree.io^
 ||ogaithernexus.gitlab.io^
 ||ogame.fun^
 ||ogame.net.tr^
@@ -5562,6 +5569,7 @@
 ||playtouch.net^
 ||playtrivia.net^
 ||playtropolis.com^
+||playtts.com^
 ||playunb.com^
 ||playunblocked.lol^
 ||playunblockedgames.bitbucket.io^
@@ -5577,6 +5585,7 @@
 ||playxo.com^
 ||playzen.io^
 ||playzool.com^
+||plazasesamo.com^
 ||plemiona.pl^
 ||plicerin.github.io^
 ||plinkod.com^
@@ -6187,6 +6196,7 @@
 ||serp.games^
 ||serpgames.github.io^
 ||servidoresminecraft.info^
+||sesamo.com^
 ||sfa21142.github.io^
 ||sfbgames.com^
 ||sfgame.cz^
@@ -7468,6 +7478,7 @@
 ||unblocked-wtf-games.github.io^
 ||unblocked.today^
 ||unblocked1889.github.io^
+||unblocked66.games^
 ||unblocked66world.com^
 ||unblocked76.org^
 ||unblocked911games.com^
@@ -7900,6 +7911,7 @@
 ||x8rr.github.io^
 ||xavier371.github.io^
 ||xbitlabs.com^
+||xbox.com^
 ||xcarcade.vercel.app^
 ||xcloudgame.com^
 ||xdevman9.github.io^
@@ -7972,6 +7984,7 @@
 ||yokogames.com^
 ||yomna315.github.io^
 ||yonosoymike83.github.io^
+||yoob2.com^
 ||yoplay.io^
 ||yoshiharu1.github.io^
 ||yotam-nagar.github.io^
