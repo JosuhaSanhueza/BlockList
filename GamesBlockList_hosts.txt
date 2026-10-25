@@ -3156,6 +3156,7 @@
 0.0.0.0 geolog27.github.io
 0.0.0.0 geometry-dash-1-0.github.io
 0.0.0.0 geometry-dash-games-unbanned.github.io
+0.0.0.0 geometry-dash-lite.bitbucket.io
 0.0.0.0 geometry-dash-lite.io
 0.0.0.0 geometry-dash-lite.org
 0.0.0.0 geometry-dash-online.com
@@ -3221,6 +3222,7 @@
 0.0.0.0 geometrydashmeltdown.io
 0.0.0.0 geometrydashonline.com
 0.0.0.0 geometrydashonline.io
+0.0.0.0 geometrydashpc.bitbucket.io
 0.0.0.0 geometrydashplay.com
 0.0.0.0 geometrydashplay.io
 0.0.0.0 geometrydashsubzero.io
@@ -4358,6 +4360,7 @@
 0.0.0.0 lofgames.com
 0.0.0.0 loglod.com
 0.0.0.0 lokigames.com
+0.0.0.0 lol-beans.bitbucket.io
 0.0.0.0 lol-beans.org
 0.0.0.0 lolbeans.io
 0.0.0.0 lolbeans.us
@@ -4793,6 +4796,7 @@
 0.0.0.0 moto-x3munblocked.github.io
 0.0.0.0 moto3xmbike.github.io
 0.0.0.0 motogame.net
+0.0.0.0 motogames.com
 0.0.0.0 motox3m-unblocked.com
 0.0.0.0 motox3m-unblocked.github.io
 0.0.0.0 motox3m-unblockedgame.github.io
@@ -5676,6 +5680,7 @@
 0.0.0.0 popsgames.online
 0.0.0.0 poptropica.com
 0.0.0.0 populardoodlegames.github.io
+0.0.0.0 populargames.com
 0.0.0.0 populargames.io
 0.0.0.0 portalgameh5.com
 0.0.0.0 portedhub.vercel.app
@@ -7409,6 +7414,7 @@
 0.0.0.0 unblocked-games-2026.github.io
 0.0.0.0 unblocked-games-66ez.gitlab.io
 0.0.0.0 unblocked-games-67-premium.github.io
+0.0.0.0 unblocked-games-76.bitbucket.io
 0.0.0.0 unblocked-games-76.gitlab.io
 0.0.0.0 unblocked-games-77.gitlab.io
 0.0.0.0 unblocked-games-7x.github.io

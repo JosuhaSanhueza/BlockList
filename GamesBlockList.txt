@@ -3155,6 +3155,7 @@
 ||geolog27.github.io^
 ||geometry-dash-1-0.github.io^
 ||geometry-dash-games-unbanned.github.io^
+||geometry-dash-lite.bitbucket.io^
 ||geometry-dash-lite.io^
 ||geometry-dash-lite.org^
 ||geometry-dash-online.com^
@@ -3220,6 +3221,7 @@
 ||geometrydashmeltdown.io^
 ||geometrydashonline.com^
 ||geometrydashonline.io^
+||geometrydashpc.bitbucket.io^
 ||geometrydashplay.com^
 ||geometrydashplay.io^
 ||geometrydashsubzero.io^
@@ -4357,6 +4359,7 @@
 ||lofgames.com^
 ||loglod.com^
 ||lokigames.com^
+||lol-beans.bitbucket.io^
 ||lol-beans.org^
 ||lolbeans.io^
 ||lolbeans.us^
@@ -4792,6 +4795,7 @@
 ||moto-x3munblocked.github.io^
 ||moto3xmbike.github.io^
 ||motogame.net^
+||motogames.com^
 ||motox3m-unblocked.com^
 ||motox3m-unblocked.github.io^
 ||motox3m-unblockedgame.github.io^
@@ -5675,6 +5679,7 @@
 ||popsgames.online^
 ||poptropica.com^
 ||populardoodlegames.github.io^
+||populargames.com^
 ||populargames.io^
 ||portalgameh5.com^
 ||portedhub.vercel.app^
@@ -7408,6 +7413,7 @@
 ||unblocked-games-2026.github.io^
 ||unblocked-games-66ez.gitlab.io^
 ||unblocked-games-67-premium.github.io^
+||unblocked-games-76.bitbucket.io^
 ||unblocked-games-76.gitlab.io^
 ||unblocked-games-77.gitlab.io^
 ||unblocked-games-7x.github.io^
