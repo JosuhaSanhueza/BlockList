@@ -4068,6 +4068,7 @@
 0.0.0.0 jugarcounterstrike.com
 0.0.0.0 jugargratis.org
 0.0.0.0 jugarmccomportal.base44.app
+0.0.0.0 jugarsolitario.es
 0.0.0.0 juicyzhou.github.io
 0.0.0.0 jumponly.io
 0.0.0.0 junyi215.github.io
@@ -5759,6 +5760,7 @@
 0.0.0.0 pushergames.itch.io
 0.0.0.0 puzz.com
 0.0.0.0 puzzio.io
+0.0.0.0 puzzle-index.com
 0.0.0.0 puzzledepot.com
 0.0.0.0 puzzlegame.com
 0.0.0.0 puzzlegarage.com
@@ -6554,6 +6556,7 @@
 0.0.0.0 solitairesite.com
 0.0.0.0 solitairesocial.com
 0.0.0.0 solitar.io
+0.0.0.0 solitario-online.es
 0.0.0.0 solli-games.github.io
 0.0.0.0 solo-mahjong.ru
 0.0.0.0 solvern0mg.github.io
@@ -7875,6 +7878,7 @@
 0.0.0.0 wordleunlimitedgame.org
 0.0.0.0 wordlewebsite.com
 0.0.0.0 wordlyplay.com
+0.0.0.0 wordpuzzleunlimited.com
 0.0.0.0 wordscramble.eu
 0.0.0.0 wordspine.com
 0.0.0.0 workmelt.com

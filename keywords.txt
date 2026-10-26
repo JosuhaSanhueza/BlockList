@@ -2213,3 +2213,11 @@ localchess
 # keyword "tunnelrush" existente), 2026-10-23 ---
 miniscript
 escapethewebsite
+
+# --- Artículos "top paginas de juegos" (terror, solitario/cartas, word games tipo
+# Wordle) y búsqueda dirigida idle/gacha/cooking (4 confirmados: solitario-online,
+# jugarsolitario, puzzle-index, wordpuzzleunlimited), 2026-10-26 ---
+jugarsolitario
+solitarioonline
+puzzleindex
+wordpuzzleunlimited

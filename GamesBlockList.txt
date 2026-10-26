@@ -4067,6 +4067,7 @@
 ||jugarcounterstrike.com^
 ||jugargratis.org^
 ||jugarmccomportal.base44.app^
+||jugarsolitario.es^
 ||juicyzhou.github.io^
 ||jumponly.io^
 ||junyi215.github.io^
@@ -5758,6 +5759,7 @@
 ||pushergames.itch.io^
 ||puzz.com^
 ||puzzio.io^
+||puzzle-index.com^
 ||puzzledepot.com^
 ||puzzlegame.com^
 ||puzzlegarage.com^
@@ -6553,6 +6555,7 @@
 ||solitairesite.com^
 ||solitairesocial.com^
 ||solitar.io^
+||solitario-online.es^
 ||solli-games.github.io^
 ||solo-mahjong.ru^
 ||solvern0mg.github.io^
@@ -7874,6 +7877,7 @@
 ||wordleunlimitedgame.org^
 ||wordlewebsite.com^
 ||wordlyplay.com^
+||wordpuzzleunlimited.com^
 ||wordscramble.eu^
 ||wordspine.com^
 ||workmelt.com^
