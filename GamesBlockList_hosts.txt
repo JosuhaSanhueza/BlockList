@@ -1923,6 +1923,7 @@
 0.0.0.0 duck-clicker.com
 0.0.0.0 duck-duckclicker.com
 0.0.0.0 duck-math-123.global.ssl.fastly.net
+0.0.0.0 duck-math.bitbucket.io
 0.0.0.0 duck-math.gitlab.io
 0.0.0.0 duckclicker.io
 0.0.0.0 duckclicker.org
@@ -5970,6 +5971,7 @@
 0.0.0.0 retrobowlunblocked.github.io
 0.0.0.0 retrobowlunblocked2.gitlab.io
 0.0.0.0 retrogames.cc
+0.0.0.0 retrogames.com
 0.0.0.0 retrogames.cz
 0.0.0.0 retrogames.games
 0.0.0.0 retrogames.me
@@ -7182,6 +7184,7 @@
 0.0.0.0 tops.games
 0.0.0.0 topservers200.com
 0.0.0.0 toptogames.com
+0.0.0.0 topvaz.bitbucket.io
 0.0.0.0 torket.io
 0.0.0.0 torofun.com
 0.0.0.0 totaljerkface.com

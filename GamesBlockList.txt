@@ -1922,6 +1922,7 @@
 ||duck-clicker.com^
 ||duck-duckclicker.com^
 ||duck-math-123.global.ssl.fastly.net^
+||duck-math.bitbucket.io^
 ||duck-math.gitlab.io^
 ||duckclicker.io^
 ||duckclicker.org^
@@ -5969,6 +5970,7 @@
 ||retrobowlunblocked.github.io^
 ||retrobowlunblocked2.gitlab.io^
 ||retrogames.cc^
+||retrogames.com^
 ||retrogames.cz^
 ||retrogames.games^
 ||retrogames.me^
@@ -7181,6 +7183,7 @@
 ||tops.games^
 ||topservers200.com^
 ||toptogames.com^
+||topvaz.bitbucket.io^
 ||torket.io^
 ||torofun.com^
 ||totaljerkface.com^
