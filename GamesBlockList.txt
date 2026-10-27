@@ -4562,6 +4562,7 @@
 ||mediatonicgames.com^
 ||meegames.com^
 ||meeland.io^
+||meelandio.com^
 ||megaapps.online^
 ||megaclip.games^
 ||megafunz.com^
@@ -5150,6 +5151,7 @@
 ||opboi1234.github.io^
 ||opendominion.net^
 ||opengames-dev.github.io^
+||openhtml5games.com^
 ||opensourcegames01.github.io^
 ||openzot.github.io^
 ||opium-games.com^

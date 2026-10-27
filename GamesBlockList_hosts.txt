@@ -4563,6 +4563,7 @@
 0.0.0.0 mediatonicgames.com
 0.0.0.0 meegames.com
 0.0.0.0 meeland.io
+0.0.0.0 meelandio.com
 0.0.0.0 megaapps.online
 0.0.0.0 megaclip.games
 0.0.0.0 megafunz.com
@@ -5151,6 +5152,7 @@
 0.0.0.0 opboi1234.github.io
 0.0.0.0 opendominion.net
 0.0.0.0 opengames-dev.github.io
+0.0.0.0 openhtml5games.com
 0.0.0.0 opensourcegames01.github.io
 0.0.0.0 openzot.github.io
 0.0.0.0 opium-games.com
