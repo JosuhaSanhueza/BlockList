@@ -188,6 +188,10 @@ WHITELIST = {
     # login de Microsoft (Office 365/Teams), Google, reporte de errores web, motor Unity
     # (también Unity Learn), y Etsy. (yandex.com se bloquea completo desde el 2026-10-19: decisión explícita).
     "msauth.net", "googlehosted.com", "sentry.io", "unity3d.com", "etsy.com",
+    # Falso positivo de is_game_website(): directorio/review de juegos idle/incremental,
+    # no aloja juegos jugables en sí (solo enlaza a Steam/itch.io/sitios externos),
+    # detectado 2026-10-27.
+    "topincrementalgames.com",
 }
 
 # Excepciones puntuales: subdominios específicos de un dominio en WHITELIST que

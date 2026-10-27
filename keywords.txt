@@ -2221,3 +2221,13 @@ jugarsolitario
 solitarioonline
 puzzleindex
 wordpuzzleunlimited
+
+# --- Búsqueda dirigida: sudoku/crossword/word search puzzle sites, unblocked games
+# wtf/world mirrors (no publicables, no cumplían), vex mirrors (ya cubierto por dominio
+# exacto vex5.gitlab.io) (6 confirmados: vex5gitlabio ya consolidado por dominio,
+# dailypuzzles, bestforpuzzles, sudokupuzzles, onlinepuzzles, logicloftgames), 2026-10-27 ---
+dailypuzzles
+bestforpuzzles
+sudokupuzzles
+onlinepuzzles
+logicloftgames

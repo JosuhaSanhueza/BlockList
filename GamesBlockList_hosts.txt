@@ -774,6 +774,7 @@
 0.0.0.0 bestcrazygames.com
 0.0.0.0 bestcrosswords.com
 0.0.0.0 bestdosgames.com
+0.0.0.0 bestforpuzzles.com
 0.0.0.0 bestgames.com
 0.0.0.0 bestminecraftserverlist.net
 0.0.0.0 bestofgooglesites.com
@@ -1625,6 +1626,7 @@
 0.0.0.0 dailygameindex.com
 0.0.0.0 dailygames.com
 0.0.0.0 dailygames.discover.google.com
+0.0.0.0 dailypuzzles.com
 0.0.0.0 dakotamaccree2.github.io
 0.0.0.0 daksh23gupta10.github.io
 0.0.0.0 daltonmaulik-hue.github.io
@@ -4366,6 +4368,7 @@
 0.0.0.0 lockloft.org
 0.0.0.0 lofd.de
 0.0.0.0 lofgames.com
+0.0.0.0 logicloftgames.com
 0.0.0.0 loglod.com
 0.0.0.0 lokigames.com
 0.0.0.0 lol-beans.bitbucket.io
@@ -5138,6 +5141,7 @@
 0.0.0.0 onlinehelicoptergame.com
 0.0.0.0 onlinehiddenobjectgames.com
 0.0.0.0 onlineparty.games
+0.0.0.0 onlinepuzzles.org
 0.0.0.0 onlinequicktool.com
 0.0.0.0 onlinerealgames.com
 0.0.0.0 only-game.github.io
@@ -6857,6 +6861,7 @@
 0.0.0.0 sudoku100.com
 0.0.0.0 sudokugame.io
 0.0.0.0 sudokugames.org
+0.0.0.0 sudokupuzzles.net
 0.0.0.0 sudokusweb.com
 0.0.0.0 sudokutable.com
 0.0.0.0 sug-web-dev.github.io
@@ -7688,6 +7693,7 @@
 0.0.0.0 vex.game
 0.0.0.0 vex3game.com
 0.0.0.0 vex4unblocked.github.io
+0.0.0.0 vex5.gitlab.io
 0.0.0.0 vex7.org
 0.0.0.0 vex7game.github.io
 0.0.0.0 vex7games.org

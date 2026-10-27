@@ -773,6 +773,7 @@
 ||bestcrazygames.com^
 ||bestcrosswords.com^
 ||bestdosgames.com^
+||bestforpuzzles.com^
 ||bestgames.com^
 ||bestminecraftserverlist.net^
 ||bestofgooglesites.com^
@@ -1624,6 +1625,7 @@
 ||dailygameindex.com^
 ||dailygames.com^
 ||dailygames.discover.google.com^
+||dailypuzzles.com^
 ||dakotamaccree2.github.io^
 ||daksh23gupta10.github.io^
 ||daltonmaulik-hue.github.io^
@@ -4365,6 +4367,7 @@
 ||lockloft.org^
 ||lofd.de^
 ||lofgames.com^
+||logicloftgames.com^
 ||loglod.com^
 ||lokigames.com^
 ||lol-beans.bitbucket.io^
@@ -5137,6 +5140,7 @@
 ||onlinehelicoptergame.com^
 ||onlinehiddenobjectgames.com^
 ||onlineparty.games^
+||onlinepuzzles.org^
 ||onlinequicktool.com^
 ||onlinerealgames.com^
 ||only-game.github.io^
@@ -6856,6 +6860,7 @@
 ||sudoku100.com^
 ||sudokugame.io^
 ||sudokugames.org^
+||sudokupuzzles.net^
 ||sudokusweb.com^
 ||sudokutable.com^
 ||sug-web-dev.github.io^
@@ -7687,6 +7692,7 @@
 ||vex.game^
 ||vex3game.com^
 ||vex4unblocked.github.io^
+||vex5.gitlab.io^
 ||vex7.org^
 ||vex7game.github.io^
 ||vex7games.org^
