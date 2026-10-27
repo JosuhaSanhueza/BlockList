@@ -2437,6 +2437,7 @@
 ||fnaf.online^
 ||fnaf.xyz^
 ||fnaf1.io^
+||fnaf4game.io^
 ||fnaffree.io^
 ||fnafgame.com^
 ||fnafgame.io^

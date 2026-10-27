@@ -2438,6 +2438,7 @@
 0.0.0.0 fnaf.online
 0.0.0.0 fnaf.xyz
 0.0.0.0 fnaf1.io
+0.0.0.0 fnaf4game.io
 0.0.0.0 fnaffree.io
 0.0.0.0 fnafgame.com
 0.0.0.0 fnafgame.io
