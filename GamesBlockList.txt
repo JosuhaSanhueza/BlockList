@@ -2308,6 +2308,7 @@
 ||fafgamess.github.io^
 ||faisalnatour123-hue.github.io^
 ||falling-sand-game.vercel.app^
+||fallzone.io^
 ||family-arcade.github.io^
 ||famobi.com^
 ||fancy-pants.gitlab.io^
@@ -3562,6 +3563,7 @@
 ||hermes98761234.github.io^
 ||herozerogame.com^
 ||hesham-alpha.github.io^
+||hex-2048-nu.vercel.app^
 ||hexanaut.io^
 ||hexar.io^
 ||hexarena.io^
@@ -7600,6 +7602,7 @@
 ||unblockedgames76-sofia.blogspot.com^
 ||unblockedgames76.com^
 ||unblockedgames76.gitlab.io^
+||unblockedgames76.us^
 ||unblockedgames7677.gitlab.io^
 ||unblockedgames76premium.github.io^
 ||unblockedgames76ubg.github.io^
@@ -7794,6 +7797,7 @@
 ||wadehands.github.io^
 ||wadjeteyegames.com^
 ||wafercafe.com^
+||waffle-game-unlimited.vercel.app^
 ||waffle-game.online^
 ||wafflegame.io^
 ||wafflegame.org^

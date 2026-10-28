@@ -2231,3 +2231,9 @@ bestforpuzzles
 sudokupuzzles
 onlinepuzzles
 logicloftgames
+
+# --- Artículos "battle royale .io" y GitHub topics eaglercraft/unblocked-games
+# (2 confirmados: fallzone.io, hex-2048-nu.vercel.app; unblockedgames76.us y
+# waffle-game-unlimited.vercel.app ya cubiertos por keywords existentes), 2026-10-28 ---
+fallzone
+hex2048

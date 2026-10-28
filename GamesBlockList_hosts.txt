@@ -1323,6 +1323,7 @@
 0.0.0.0 classroom80x.com
 0.0.0.0 classroom97.github.io
 0.0.0.0 classroomgame.github.io
+0.0.0.0 classroomlesson.github.io
 0.0.0.0 classroomlite.vercel.app
 0.0.0.0 classrooms-6x.com
 0.0.0.0 classrooms6x.gitlab.io
@@ -1607,10 +1608,16 @@
 0.0.0.0 czechgames.com
 0.0.0.0 d-anasx.github.io
 0.0.0.0 d11jzht7mj96rr.cloudfront.net
+0.0.0.0 d139khpwsw1rlp.cloudfront.net
+0.0.0.0 d1b8zsan60tues.cloudfront.net
+0.0.0.0 d1imv5hmyw4kfp.cloudfront.net
+0.0.0.0 d1pgfzxl8xljfg.cloudfront.net
 0.0.0.0 d1rkless.github.io
 0.0.0.0 d1tmbzjih4bfq6.cloudfront.net
+0.0.0.0 d1wnrmoe2jrw0g.cloudfront.net
 0.0.0.0 d2gve52fz9syn8.cloudfront.net
 0.0.0.0 d322cqt584bo4o.cloudfront.net
+0.0.0.0 d3qubjunifc70f.cloudfront.net
 0.0.0.0 d3vtoo1s.github.io
 0.0.0.0 d4ni3l-sny.github.io
 0.0.0.0 d8a-1.github.io
@@ -1669,6 +1676,17 @@
 0.0.0.0 davisimionato.github.io
 0.0.0.0 daybreakgames.com
 0.0.0.0 dayverse9097.github.io
+0.0.0.0 db.aitutorgo.com
+0.0.0.0 db.cozykitchen.app
+0.0.0.0 db.frozenschool.com
+0.0.0.0 db.nightbinder.com
+0.0.0.0 db.novaguesser.com
+0.0.0.0 db.sphirewall.com
+0.0.0.0 db2.deepresearch2markdown.com
+0.0.0.0 db2.englishteacherpro.com
+0.0.0.0 db2.glutenfreelove.org
+0.0.0.0 db2.statisticscontest.com
+0.0.0.0 dbdb8oq1j5mbu.cloudfront.net
 0.0.0.0 dbtorrent.games
 0.0.0.0 dbzgames.org
 0.0.0.0 dcs-210.github.io
@@ -1769,6 +1787,7 @@
 0.0.0.0 dlfma1985.github.io
 0.0.0.0 dluxz09.github.io
 0.0.0.0 dmccuk.github.io
+0.0.0.0 dmg-db.pages.dev
 0.0.0.0 dmg013.github.io
 0.0.0.0 dmnd.games
 0.0.0.0 dnrweqffuwjtx.cloudfront.net
@@ -1816,6 +1835,7 @@
 0.0.0.0 dos.zone
 0.0.0.0 dosgames.ru
 0.0.0.0 dosgamesonline.com
+0.0.0.0 dosl6rc74a8u6.cloudfront.net
 0.0.0.0 dotjeux.com
 0.0.0.0 doublee-games.github.io
 0.0.0.0 doublegames.net
@@ -1946,6 +1966,7 @@
 0.0.0.0 ducklings.io
 0.0.0.0 ducklings123.github.io
 0.0.0.0 ducklit.com
+0.0.0.0 duckmath.com
 0.0.0.0 duckmath.freetls.fastly.net
 0.0.0.0 duckmath.global.ssl.fastly.net
 0.0.0.0 duckmath.org
@@ -2095,6 +2116,7 @@
 0.0.0.0 educationbluesky.com
 0.0.0.0 edward-ong-tiliter.github.io
 0.0.0.0 edwardmonteiro.github.io
+0.0.0.0 edymath.com
 0.0.0.0 ee6370-gamer.github.io
 0.0.0.0 eesagames.github.io
 0.0.0.0 effectgames.com
@@ -2287,6 +2309,7 @@
 0.0.0.0 fafgamess.github.io
 0.0.0.0 faisalnatour123-hue.github.io
 0.0.0.0 falling-sand-game.vercel.app
+0.0.0.0 fallzone.io
 0.0.0.0 family-arcade.github.io
 0.0.0.0 famobi.com
 0.0.0.0 fancy-pants.gitlab.io
@@ -2737,6 +2760,7 @@
 0.0.0.0 funyoursgames.com
 0.0.0.0 fupa.com
 0.0.0.0 furryrefuge.com
+0.0.0.0 fusion-formula.b-cdn.net
 0.0.0.0 futbol-11.com
 0.0.0.0 futureproofgames.com
 0.0.0.0 fuzigames.com
@@ -3317,6 +3341,7 @@
 0.0.0.0 glimpse-game.vercel.app
 0.0.0.0 glitchnest.vercel.app
 0.0.0.0 globalgameh5.com
+0.0.0.0 globalguessr.com
 0.0.0.0 globlegame.pages.dev
 0.0.0.0 gm.azgame.io
 0.0.0.0 gnhustgames.org
@@ -3539,6 +3564,7 @@
 0.0.0.0 hermes98761234.github.io
 0.0.0.0 herozerogame.com
 0.0.0.0 hesham-alpha.github.io
+0.0.0.0 hex-2048-nu.vercel.app
 0.0.0.0 hexanaut.io
 0.0.0.0 hexar.io
 0.0.0.0 hexarena.io
@@ -4515,6 +4541,8 @@
 0.0.0.0 match3online.com
 0.0.0.0 matchgameh5.cc
 0.0.0.0 mateobaricevic.github.io
+0.0.0.0 math-a1.b-cdn.net
+0.0.0.0 math-a2.b-cdn.net
 0.0.0.0 math-playground.bitbucket.io
 0.0.0.0 matheusls.github.io
 0.0.0.0 mathevolve.com
@@ -5710,6 +5738,7 @@
 0.0.0.0 poxel.io
 0.0.0.0 pp7-deacons-quorum-arcade.vercel.app
 0.0.0.0 ppigame.com
+0.0.0.0 practice.mathlessons.co
 0.0.0.0 predadorbr.github.io
 0.0.0.0 premiumunblockedgames.github.io
 0.0.0.0 premiumunblockedgames.gitlab.io
@@ -5796,6 +5825,7 @@
 0.0.0.0 quahszekyai-boop.github.io
 0.0.0.0 quake-io.com
 0.0.0.0 quantum-backrooms.vercel.app
+0.0.0.0 quantum.physicscontest.com
 0.0.0.0 queen-games.com
 0.0.0.0 queenalice.com
 0.0.0.0 quenq.com
@@ -6187,6 +6217,8 @@
 0.0.0.0 schoolunblockedgames.org
 0.0.0.0 schoolwork-dotcom.github.io
 0.0.0.0 schplay.com
+0.0.0.0 science-v1.b-cdn.net
+0.0.0.0 science-v2.b-cdn.net
 0.0.0.0 scorchediv.github.io
 0.0.0.0 scorenga.com
 0.0.0.0 scpshowcases.github.io
@@ -7462,6 +7494,8 @@
 0.0.0.0 unblocked-games.gamesroid.com
 0.0.0.0 unblocked-games.me
 0.0.0.0 unblocked-games.org
+0.0.0.0 unblocked-games.s3-accelerate.amazonaws.com
+0.0.0.0 unblocked-games.s3.amazonaws.com
 0.0.0.0 unblocked-games76-x.github.io
 0.0.0.0 unblocked-games76s.github.io
 0.0.0.0 unblocked-games999.github.io
@@ -7569,6 +7603,7 @@
 0.0.0.0 unblockedgames76-sofia.blogspot.com
 0.0.0.0 unblockedgames76.com
 0.0.0.0 unblockedgames76.gitlab.io
+0.0.0.0 unblockedgames76.us
 0.0.0.0 unblockedgames7677.gitlab.io
 0.0.0.0 unblockedgames76premium.github.io
 0.0.0.0 unblockedgames76ubg.github.io
@@ -7642,6 +7677,7 @@
 0.0.0.0 undercovermoose.github.io
 0.0.0.0 underloaded11-blip.github.io
 0.0.0.0 unfair-mario.com
+0.0.0.0 uni-class.b-cdn.net
 0.0.0.0 unicornattack.vercel.app
 0.0.0.0 uniscri.github.io
 0.0.0.0 universflash.com
@@ -7762,6 +7798,7 @@
 0.0.0.0 wadehands.github.io
 0.0.0.0 wadjeteyegames.com
 0.0.0.0 wafercafe.com
+0.0.0.0 waffle-game-unlimited.vercel.app
 0.0.0.0 waffle-game.online
 0.0.0.0 wafflegame.io
 0.0.0.0 wafflegame.org
