@@ -1322,6 +1322,7 @@
 ||classroom80x.com^
 ||classroom97.github.io^
 ||classroomgame.github.io^
+||classroomlesson.github.io^
 ||classroomlite.vercel.app^
 ||classrooms-6x.com^
 ||classrooms6x.gitlab.io^
@@ -1606,10 +1607,16 @@
 ||czechgames.com^
 ||d-anasx.github.io^
 ||d11jzht7mj96rr.cloudfront.net^
+||d139khpwsw1rlp.cloudfront.net^
+||d1b8zsan60tues.cloudfront.net^
+||d1imv5hmyw4kfp.cloudfront.net^
+||d1pgfzxl8xljfg.cloudfront.net^
 ||d1rkless.github.io^
 ||d1tmbzjih4bfq6.cloudfront.net^
+||d1wnrmoe2jrw0g.cloudfront.net^
 ||d2gve52fz9syn8.cloudfront.net^
 ||d322cqt584bo4o.cloudfront.net^
+||d3qubjunifc70f.cloudfront.net^
 ||d3vtoo1s.github.io^
 ||d4ni3l-sny.github.io^
 ||d8a-1.github.io^
@@ -1668,6 +1675,18 @@
 ||davisimionato.github.io^
 ||daybreakgames.com^
 ||dayverse9097.github.io^
+||db.aitutorgo.com^
+||db.cozykitchen.app^
+||db.frozenschool.com^
+||db.nightbinder.com^
+||db.novaguesser.com^
+||db.sphirewall.com^
+||db2.deepresearch2markdown.com^
+||db2.englishteacherpro.com^
+||db2.globalguessr.com^
+||db2.glutenfreelove.org^
+||db2.statisticscontest.com^
+||dbdb8oq1j5mbu.cloudfront.net^
 ||dbtorrent.games^
 ||dbzgames.org^
 ||dcs-210.github.io^
@@ -1768,6 +1787,7 @@
 ||dlfma1985.github.io^
 ||dluxz09.github.io^
 ||dmccuk.github.io^
+||dmg-db.pages.dev^
 ||dmg013.github.io^
 ||dmnd.games^
 ||dnrweqffuwjtx.cloudfront.net^
@@ -1815,6 +1835,7 @@
 ||dos.zone^
 ||dosgames.ru^
 ||dosgamesonline.com^
+||dosl6rc74a8u6.cloudfront.net^
 ||dotjeux.com^
 ||doublee-games.github.io^
 ||doublegames.net^
@@ -1945,6 +1966,7 @@
 ||ducklings.io^
 ||ducklings123.github.io^
 ||ducklit.com^
+||duckmath.com^
 ||duckmath.freetls.fastly.net^
 ||duckmath.global.ssl.fastly.net^
 ||duckmath.org^
@@ -2094,6 +2116,7 @@
 ||educationbluesky.com^
 ||edward-ong-tiliter.github.io^
 ||edwardmonteiro.github.io^
+||edymath.com^
 ||ee6370-gamer.github.io^
 ||eesagames.github.io^
 ||effectgames.com^
@@ -2736,6 +2759,7 @@
 ||funyoursgames.com^
 ||fupa.com^
 ||furryrefuge.com^
+||fusion-formula.b-cdn.net^
 ||futbol-11.com^
 ||futureproofgames.com^
 ||fuzigames.com^
@@ -4514,6 +4538,8 @@
 ||match3online.com^
 ||matchgameh5.cc^
 ||mateobaricevic.github.io^
+||math-a1.b-cdn.net^
+||math-a2.b-cdn.net^
 ||math-playground.bitbucket.io^
 ||matheusls.github.io^
 ||mathevolve.com^
@@ -5709,6 +5735,7 @@
 ||poxel.io^
 ||pp7-deacons-quorum-arcade.vercel.app^
 ||ppigame.com^
+||practice.mathlessons.co^
 ||predadorbr.github.io^
 ||premiumunblockedgames.github.io^
 ||premiumunblockedgames.gitlab.io^
@@ -5795,6 +5822,7 @@
 ||quahszekyai-boop.github.io^
 ||quake-io.com^
 ||quantum-backrooms.vercel.app^
+||quantum.physicscontest.com^
 ||queen-games.com^
 ||queenalice.com^
 ||quenq.com^
@@ -6186,6 +6214,8 @@
 ||schoolunblockedgames.org^
 ||schoolwork-dotcom.github.io^
 ||schplay.com^
+||science-v1.b-cdn.net^
+||science-v2.b-cdn.net^
 ||scorchediv.github.io^
 ||scorenga.com^
 ||scpshowcases.github.io^
@@ -7461,6 +7491,8 @@
 ||unblocked-games.gamesroid.com^
 ||unblocked-games.me^
 ||unblocked-games.org^
+||unblocked-games.s3-accelerate.amazonaws.com^
+||unblocked-games.s3.amazonaws.com^
 ||unblocked-games76-x.github.io^
 ||unblocked-games76s.github.io^
 ||unblocked-games999.github.io^
@@ -7641,6 +7673,7 @@
 ||undercovermoose.github.io^
 ||underloaded11-blip.github.io^
 ||unfair-mario.com^
+||uni-class.b-cdn.net^
 ||unicornattack.vercel.app^
 ||uniscri.github.io^
 ||universflash.com^
