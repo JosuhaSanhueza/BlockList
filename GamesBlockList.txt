@@ -1683,7 +1683,6 @@
 ||db.sphirewall.com^
 ||db2.deepresearch2markdown.com^
 ||db2.englishteacherpro.com^
-||db2.globalguessr.com^
 ||db2.glutenfreelove.org^
 ||db2.statisticscontest.com^
 ||dbdb8oq1j5mbu.cloudfront.net^
@@ -3340,6 +3339,7 @@
 ||glimpse-game.vercel.app^
 ||glitchnest.vercel.app^
 ||globalgameh5.com^
+||globalguessr.com^
 ||globlegame.pages.dev^
 ||gm.azgame.io^
 ||gnhustgames.org^
