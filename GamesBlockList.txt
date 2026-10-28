@@ -4966,6 +4966,7 @@
 ||netbiz-ai.github.io^
 ||netifun.com^
 ||netjogos.com^
+||nettleweb.com^
 ||nettleweb.github.io^
 ||nettleweb.pages.dev^
 ||new66ez.github.io^
@@ -5122,6 +5123,7 @@
 ||online-games-69bcf.firebaseapp.com^
 ||online-games-unblocked-nextjs.vercel.app^
 ||online-games.asia^
+||online-games.io^
 ||online-go.com^
 ||online-mariogames.com^
 ||online-pinball.com^
