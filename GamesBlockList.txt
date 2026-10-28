@@ -55,6 +55,7 @@
 ||1darknesslegend.github.io^
 ||1games.com^
 ||1games.io^
+||1gdata.com^
 ||1simplegame.com^
 ||1sudoku.com^
 ||1tuee.github.io^
@@ -1073,6 +1074,7 @@
 ||bubbletrouble.org^
 ||buckbeak0407.github.io^
 ||buckshotroulette.com^
+||buckshotroulettee.github.io^
 ||buddyboardgames.com^
 ||budgetgames.netlify.app^
 ||buff.game^
@@ -1854,6 +1856,7 @@
 ||drawclimber.com^
 ||drawize.com^
 ||drawthehill.org^
+||drawtheperfectcircle.com^
 ||dreamhomearcades.com^
 ||dreamy0002.github.io^
 ||drednot.io^

@@ -56,6 +56,7 @@
 0.0.0.0 1darknesslegend.github.io
 0.0.0.0 1games.com
 0.0.0.0 1games.io
+0.0.0.0 1gdata.com
 0.0.0.0 1simplegame.com
 0.0.0.0 1sudoku.com
 0.0.0.0 1tuee.github.io
@@ -1074,6 +1075,7 @@
 0.0.0.0 bubbletrouble.org
 0.0.0.0 buckbeak0407.github.io
 0.0.0.0 buckshotroulette.com
+0.0.0.0 buckshotroulettee.github.io
 0.0.0.0 buddyboardgames.com
 0.0.0.0 budgetgames.netlify.app
 0.0.0.0 buff.game
@@ -1855,6 +1857,7 @@
 0.0.0.0 drawclimber.com
 0.0.0.0 drawize.com
 0.0.0.0 drawthehill.org
+0.0.0.0 drawtheperfectcircle.com
 0.0.0.0 dreamhomearcades.com
 0.0.0.0 dreamy0002.github.io
 0.0.0.0 drednot.io
