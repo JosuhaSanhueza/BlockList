@@ -71,6 +71,9 @@ def test_get_root_domain_shared_suffixes():
     assert get_root_domain("www.juego.us.com") == "juego.us.com"
     assert get_root_domain("mess.eu.org") == "mess.eu.org"
     assert get_root_domain("sub.poki.com") == "poki.com"
+    # Sufijos de más de dos partes (servicios de Fastly).
+    assert get_root_domain("a.slope.global.ssl.fastly.net") == "slope.global.ssl.fastly.net"
+    assert get_root_domain("slope.freetls.fastly.net") == "slope.freetls.fastly.net"
 
 
 def test_registrable_shared_suffixes():

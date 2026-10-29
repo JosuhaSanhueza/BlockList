@@ -15,7 +15,20 @@ SHARED_SUFFIXES = {
     "github.io", "gitlab.io", "bitbucket.io", "pages.dev", "vercel.app", "netlify.app", "web.app",
     "firebaseapp.com", "cloudfront.net", "amazonaws.com", "onrender.com", "weebly.com",
     "wixsite.com", "blogspot.com", "wordpress.com", "glitch.me", "surge.sh", "replit.app",
+    "global.ssl.fastly.net", "freetls.fastly.net",
 }
+
+# Fastly da a cada servicio un nombre propio bajo estos sufijos (slope.global.ssl.fastly.net,
+# slope.freetls.fastly.net, el mismo servicio con dos nombres): ese servicio se puede bloquear
+# como un subdominio de github.io, pero nunca la infraestructura de Fastly
+# (reddit.map.fastly.net, *.sni.global.fastly.net) ni el sufijo entero (2026-10-29).
+FASTLY_SERVICE_SUFFIXES = ("global.ssl.fastly.net", "freetls.fastly.net")
+
+
+def is_fastly_service(domain):
+    """Indica si domain es el nombre de un servicio de Fastly, p. ej. slope.freetls.fastly.net."""
+    return any(domain.endswith("." + s) and "." not in domain[:-len(s) - 1]
+               for s in FASTLY_SERVICE_SUFFIXES)
 
 # Dominios cuyo apex no se bloquea porque abarca servicios de sistema, así que se bloquea
 # www.<dominio> (y subdominios de juegos puntuales). msn.com: g.msn.com, ntp.msn.com y
@@ -88,16 +101,6 @@ WHITELIST = {
 # SÍ son un sitio de juegos concreto (no la plataforma compartida entera) y por
 # lo tanto sí se bloquean, igual que se hace con subdominios de gitlab.io/github.io.
 WHITELIST_SUBDOMAIN_EXCEPTIONS = {
-    "eaglercraft.global.ssl.fastly.net",
-    # Copias de Duck Math (juegos camuflados de matemáticas) en Fastly (2026-10-22).
-    "duckmath.global.ssl.fastly.net", "duck-math-123.global.ssl.fastly.net",
-    "duckmath.freetls.fastly.net",
-    "duck-math.global.ssl.fastly.net", "duck-math.freetls.fastly.net",
-    "edu.global.ssl.fastly.net", "edu.freetls.fastly.net",
-    "duck-math-123.freetls.fastly.net",
-    "quack.global.ssl.fastly.net", "quack.freetls.fastly.net",
-    # GlacierArcade (juegos unblocked) en Fastly (2026-10-29).
-    "classroom.global.ssl.fastly.net", "classroom.freetls.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",
@@ -144,7 +147,7 @@ def check_line(line_clean, line_num, domains_seen):
                       f"de juegos, agrégalo a POPULAR_APPROVED; si no, bloquea un subdominio.")
 
     # 3b. Validar presencia accidental de Whitelist (solo servicios no-juegos)
-    if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS:
+    if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS and not is_fastly_service(domain):
         if domain in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST):
             errors.append(f"Línea {line_num}: CRÍTICO - Dominio infraestructura en Whitelist detectado '{domain}'.")
 

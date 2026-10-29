@@ -70,6 +70,18 @@ def test_rejects_infrastructure_and_whole_hostings():
         assert check_line(rule, 1, set())[0], rule
 
 
+def test_fastly_services():
+    from validate_blocklist import check_line
+    # El servicio de Fastly se bloquea con cualquiera de sus dos nombres...
+    for rule in ("||slope.global.ssl.fastly.net^", "||slope.freetls.fastly.net^"):
+        assert check_line(rule, 1, set())[0] == [], rule
+    # ...pero nunca el sufijo entero ni la infraestructura de Fastly.
+    for rule in ("||global.ssl.fastly.net^", "||freetls.fastly.net^", "||fastly.net^",
+                 "||reddit.map.fastly.net^", "||t.sni.global.fastly.net^",
+                 "||a.b.global.ssl.fastly.net^"):
+        assert check_line(rule, 1, set())[0], rule
+
+
 def test_popular_sites_need_explicit_approval():
     from validate_blocklist import check_line
     errors, _ = check_line("||office.com^", 1, set())

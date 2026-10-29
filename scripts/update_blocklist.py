@@ -59,9 +59,9 @@ VALID_TLDS = (
 )
 
 try:
-    from validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line
+    from validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
 except ImportError:
-    from scripts.validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line
+    from scripts.validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
 
 # Plataformas de hosting compartido donde NO debemos consolidar al apex domain
 SHARED_HOSTING_PLATFORMS = (
@@ -198,16 +198,6 @@ WHITELIST = {
 # SÍ son un sitio de juegos concreto (no la plataforma compartida entera) y por
 # lo tanto sí se bloquean, igual que se hace con subdominios de gitlab.io/github.io.
 WHITELIST_SUBDOMAIN_EXCEPTIONS = {
-    "eaglercraft.global.ssl.fastly.net",
-    # Copias de Duck Math (juegos camuflados de matemáticas) en Fastly (2026-10-22).
-    "duckmath.global.ssl.fastly.net", "duck-math-123.global.ssl.fastly.net",
-    "duckmath.freetls.fastly.net",
-    "duck-math.global.ssl.fastly.net", "duck-math.freetls.fastly.net",
-    "edu.global.ssl.fastly.net", "edu.freetls.fastly.net",
-    "duck-math-123.freetls.fastly.net",
-    "quack.global.ssl.fastly.net", "quack.freetls.fastly.net",
-    # GlacierArcade (juegos unblocked) en Fastly (2026-10-29).
-    "classroom.global.ssl.fastly.net", "classroom.freetls.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",
@@ -261,9 +251,10 @@ def get_root_domain(domain):
     if any(domain == w or domain.endswith("." + w) for w in WWW_ONLY):
         return domain
     # algo.it.com -> algo.it.com, nunca it.com (ver SHARED_SUFFIXES).
+    # Los sufijos pueden tener más de dos partes: x.global.ssl.fastly.net.
     for s in SHARED_SUFFIXES:
         if domain.endswith("." + s):
-            return '.'.join(parts[-3:])
+            return '.'.join(parts[-(s.count('.') + 2):])
 
     if len(parts) <= 2:
         return domain
@@ -542,7 +533,7 @@ def process_single_keyword(kw):
 
 def is_game_website(domain):
     root_dom = get_root_domain(domain)
-    if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS:
+    if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS and not is_fastly_service(domain):
         if domain in WHITELIST or root_dom in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST) or any(root_dom.endswith("." + w) for w in WHITELIST):
             return False
 
