@@ -3676,6 +3676,7 @@
 ||gtarcade.com^
 ||gtavice.city^
 ||gtg0116.github.io^
+||gtube.net^
 ||guarapott.github.io^
 ||gudao.games^
 ||guerrastribales.es^
@@ -6877,6 +6878,8 @@
 ||slopeunblocked.bitbucket.io^
 ||slopeunblocked.games^
 ||slopeunblocked.vercel.app^
+||sloppy.freetls.fastly.net^
+||sloppy.global.ssl.fastly.net^
 ||slugstudios.vr-group.gitlab.io^
 ||slycooper1324.github.io^
 ||sm64games.com^
