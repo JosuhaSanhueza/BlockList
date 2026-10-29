@@ -1515,6 +1515,8 @@
 0.0.0.0 crazycattle3d.github.io
 0.0.0.0 crazycattle3dgames.github.io
 0.0.0.0 crazygames-ad.bitbucket.io
+0.0.0.0 crazygames-com.bitbucket.io
+0.0.0.0 crazygames-go.bitbucket.io
 0.0.0.0 crazygames-poki.com
 0.0.0.0 crazygames-unblocked.github.io
 0.0.0.0 crazygames.app
