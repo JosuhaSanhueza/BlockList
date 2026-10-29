@@ -5636,6 +5636,8 @@
 ||plarium.com^
 ||plasma4.github.io^
 ||plasterboy83.github.io^
+||plate.freetls.fastly.net^
+||plate.global.ssl.fastly.net^
 ||platformgames.io^
 ||platinumgames.com^
 ||platypuscodes.github.io^
