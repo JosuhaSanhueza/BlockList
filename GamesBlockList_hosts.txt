@@ -167,6 +167,7 @@
 0.0.0.0 2v2io.io
 0.0.0.0 2vision-rubx.github.io
 0.0.0.0 2ygty.github.io
+0.0.0.0 31005sagab.duckdns.org
 0.0.0.0 365escape.com
 0.0.0.0 37games.com
 0.0.0.0 3kh0.bitbucket.io
@@ -299,6 +300,7 @@
 0.0.0.0 admin-hub-games.vercel.app
 0.0.0.0 adoluxgames.com
 0.0.0.0 adsgames.net
+0.0.0.0 aduckwalkeduptoalemonadestandandhesaidto.duckdns.org
 0.0.0.0 aduritetbh.github.io
 0.0.0.0 adventure2gameonline.github.io
 0.0.0.0 adventuregamehotspot.com
@@ -337,6 +339,7 @@
 0.0.0.0 agooseegg.github.io
 0.0.0.0 agustinquintana401.github.io
 0.0.0.0 ahmeddikinov.github.io
+0.0.0.0 ahrdevelopers.github.io
 0.0.0.0 ai-kids-games-fawn.vercel.app
 0.0.0.0 ai-rebuilds.com
 0.0.0.0 aialchemistart.github.io
@@ -569,6 +572,7 @@
 0.0.0.0 arvexgames.com
 0.0.0.0 asc11-lab.github.io
 0.0.0.0 ascjogos.org.br
+0.0.0.0 asfwyv.duckdns.org
 0.0.0.0 asharsalman.github.io
 0.0.0.0 asherwin86.github.io
 0.0.0.0 ashmeet670.github.io
@@ -610,6 +614,7 @@
 0.0.0.0 avijitbwas.github.io
 0.0.0.0 avyansatija-crypto.github.io
 0.0.0.0 awana-arcade.vercel.app
+0.0.0.0 awecom.ru
 0.0.0.0 awesometanks-unblocked.github.io
 0.0.0.0 awesometanks.github.io
 0.0.0.0 awltyyman.github.io
@@ -621,6 +626,7 @@
 0.0.0.0 aychlabs.github.io
 0.0.0.0 aydinuygar2015-rgb.github.io
 0.0.0.0 ayhamazad.github.io
+0.0.0.0 aylestone.duckdns.org
 0.0.0.0 azagames.io
 0.0.0.0 azaleasdolls.com
 0.0.0.0 azatlik29.github.io
@@ -656,6 +662,8 @@
 0.0.0.0 badtimesimulator.me
 0.0.0.0 badtimesimulator.org
 0.0.0.0 badtimesimulatorr.com
+0.0.0.0 bagas-50013.duckdns.org
+0.0.0.0 bagas50013.duckdns.org
 0.0.0.0 bagelcomics.com
 0.0.0.0 baifan7574.github.io
 0.0.0.0 bakiel.github.io
@@ -974,6 +982,7 @@
 0.0.0.0 bonk-io.com
 0.0.0.0 bonk.io
 0.0.0.0 bontegames.com
+0.0.0.0 book.freezeschool.com
 0.0.0.0 bookal9.github.io
 0.0.0.0 booleet.itch.io
 0.0.0.0 booty-master.com
@@ -999,6 +1008,7 @@
 0.0.0.0 bplus-math.github.io
 0.0.0.0 bpupadhyaya.github.io
 0.0.0.0 bqurxe.github.io
+0.0.0.0 brad-gate-housee.duckdns.org
 0.0.0.0 brain-games.co.uk
 0.0.0.0 brain-lines.io
 0.0.0.0 brainide.com
@@ -1097,6 +1107,7 @@
 0.0.0.0 bunnelldp-sketch.github.io
 0.0.0.0 bunnies.lat
 0.0.0.0 bunnygames.com
+0.0.0.0 bunnyhop.lol
 0.0.0.0 burdlad.github.io
 0.0.0.0 burritobison-online.github.io
 0.0.0.0 burritobison-unblocked.com
@@ -1124,6 +1135,7 @@
 0.0.0.0 cakemania.org
 0.0.0.0 calcsolver.net
 0.0.0.0 calculatorforyou.online
+0.0.0.0 calculus.mathlife.org
 0.0.0.0 caleb012711.github.io
 0.0.0.0 calebmc782.github.io
 0.0.0.0 calebstaats.github.io
@@ -1301,6 +1313,7 @@
 0.0.0.0 classroom-online-games.vercel.app
 0.0.0.0 classroom-unblocked-games-10x.github.io
 0.0.0.0 classroom-unblocked.github.io
+0.0.0.0 classroom.games
 0.0.0.0 classroom10x.com
 0.0.0.0 classroom15x.com
 0.0.0.0 classroom20x.com
@@ -1394,6 +1407,7 @@
 0.0.0.0 comdot-loser.github.io
 0.0.0.0 comdotgame.com
 0.0.0.0 complex-arcade.github.io
+0.0.0.0 compositedrivegames.github.io
 0.0.0.0 conectagames.com
 0.0.0.0 conewasnthere.github.io
 0.0.0.0 congusbongus.itch.io
@@ -1549,6 +1563,7 @@
 0.0.0.0 crazyluca.github.io
 0.0.0.0 crazymonkeygames.com
 0.0.0.0 crazyschoolgames.com
+0.0.0.0 createsomestufffr.duckdns.org
 0.0.0.0 creepydates.org
 0.0.0.0 cribbage-online.net
 0.0.0.0 crico-coder.github.io
@@ -1681,15 +1696,25 @@
 0.0.0.0 daybreakgames.com
 0.0.0.0 dayverse9097.github.io
 0.0.0.0 db.aitutorgo.com
+0.0.0.0 db.alltutors.org
+0.0.0.0 db.blogbott.com
 0.0.0.0 db.cozykitchen.app
+0.0.0.0 db.exampredictor.org
 0.0.0.0 db.frozenschool.com
 0.0.0.0 db.nightbinder.com
 0.0.0.0 db.novaguesser.com
+0.0.0.0 db.quackprep.com
 0.0.0.0 db.sphirewall.com
+0.0.0.0 db2.alltutors.org
+0.0.0.0 db2.blogbott.com
 0.0.0.0 db2.deepresearch2markdown.com
 0.0.0.0 db2.englishteacherpro.com
+0.0.0.0 db2.exampredictor.org
+0.0.0.0 db2.fullsusmtb.org
 0.0.0.0 db2.glutenfreelove.org
+0.0.0.0 db2.quackprep.com
 0.0.0.0 db2.statisticscontest.com
+0.0.0.0 db2.theducklair.com
 0.0.0.0 dbdb8oq1j5mbu.cloudfront.net
 0.0.0.0 dbtorrent.games
 0.0.0.0 dbzgames.org
@@ -1742,6 +1767,7 @@
 0.0.0.0 devtiwari-bit.github.io
 0.0.0.0 deweshtri.github.io
 0.0.0.0 dexter946.github.io
+0.0.0.0 dfbc11d2-779b-4871-aa76-c93137fcb67c.duckdns.org
 0.0.0.0 dfghj3456.github.io
 0.0.0.0 dfsw.github.io
 0.0.0.0 dgtraining99.github.io
@@ -1762,6 +1788,7 @@
 0.0.0.0 digamore.com
 0.0.0.0 digdig.io
 0.0.0.0 digitalspacebooks.github.io
+0.0.0.0 digithub1.github.io
 0.0.0.0 diguifi.com
 0.0.0.0 diguifi.itch.io
 0.0.0.0 diknigara.github.io
@@ -1950,8 +1977,15 @@
 0.0.0.0 duck-clicker.com
 0.0.0.0 duck-duckclicker.com
 0.0.0.0 duck-math-123.global.ssl.fastly.net
+0.0.0.0 duck-math.b-cdn.net
 0.0.0.0 duck-math.bitbucket.io
+0.0.0.0 duck-math.freetls.fastly.net
+0.0.0.0 duck-math.github.io
 0.0.0.0 duck-math.gitlab.io
+0.0.0.0 duck-math.global.ssl.fastly.net
+0.0.0.0 duck.alltutors.org
+0.0.0.0 duck.exampredictor.org
+0.0.0.0 duck.quackprep.com
 0.0.0.0 duckclicker.io
 0.0.0.0 duckclicker.org
 0.0.0.0 duckduckclicker.com
@@ -1960,6 +1994,7 @@
 0.0.0.0 duckduckclicker.net
 0.0.0.0 duckduckclicker.org
 0.0.0.0 duckduckclicker3d.net
+0.0.0.0 duckduckmath.com
 0.0.0.0 ducklet.net
 0.0.0.0 ducklife.app
 0.0.0.0 ducklife.gitlab.io
@@ -1971,10 +2006,19 @@
 0.0.0.0 ducklings.io
 0.0.0.0 ducklings123.github.io
 0.0.0.0 ducklit.com
+0.0.0.0 duckmath-github-io-goofyrandomschoolamegmickeymouseclubhou.pages.dev
+0.0.0.0 duckmath-online.github.io
+0.0.0.0 duckmath-sigma.vercel.app
+0.0.0.0 duckmath-ten.vercel.app
 0.0.0.0 duckmath.com
 0.0.0.0 duckmath.freetls.fastly.net
 0.0.0.0 duckmath.global.ssl.fastly.net
+0.0.0.0 duckmath.it.com
 0.0.0.0 duckmath.org
+0.0.0.0 duckmathgames.com
+0.0.0.0 duckmathgithubio-sable.vercel.app
+0.0.0.0 duckmathlearning-dpwektsw5t93.edgeone.dev
+0.0.0.0 duckmayhem-v2.vercel.app
 0.0.0.0 duckyygames.github.io
 0.0.0.0 duelboard.com
 0.0.0.0 dumguy516-ship-it.github.io
@@ -2112,6 +2156,7 @@
 0.0.0.0 eden-sun.github.io
 0.0.0.0 edmondsonedits.github.io
 0.0.0.0 edslap.com
+0.0.0.0 edu.global.ssl.fastly.net
 0.0.0.0 eduardo50lucas10-crypto.github.io
 0.0.0.0 eduardo7881.github.io
 0.0.0.0 eduardoplayss5.github.io
@@ -2182,6 +2227,7 @@
 0.0.0.0 emochi.com
 0.0.0.0 emojitest.com
 0.0.0.0 emolingo.games
+0.0.0.0 emperorvon.duckdns.org
 0.0.0.0 emubrowser.com
 0.0.0.0 emugames-com.bitbucket.io
 0.0.0.0 emugames-io.bitbucket.io
@@ -2283,6 +2329,7 @@
 0.0.0.0 everspace.game
 0.0.0.0 everything-game.com
 0.0.0.0 evilgeniusgame.com
+0.0.0.0 evolution.biologycontest.com
 0.0.0.0 evolutionaryarcade.com
 0.0.0.0 evolutionsofgame.github.io
 0.0.0.0 evowars.io
@@ -2297,6 +2344,7 @@
 0.0.0.0 exordiumgames.com
 0.0.0.0 exoticghost404.github.io
 0.0.0.0 experimonkey.com
+0.0.0.0 external-green-9nvl6gws-dpbnotsjlvbq.edgeone.dev
 0.0.0.0 extreme-games.net
 0.0.0.0 eyebrow-tetris.sanderdesnaijer.com
 0.0.0.0 eyezmaze.com
@@ -2514,6 +2562,7 @@
 0.0.0.0 footballgames.org
 0.0.0.0 footballlegends.github.io
 0.0.0.0 footballstrikeunblocked.github.io
+0.0.0.0 fordhouseswolverhampton.duckdns.org
 0.0.0.0 forfr1.github.io
 0.0.0.0 forgedreams-ai.github.io
 0.0.0.0 forgeofempires.com
@@ -2606,7 +2655,13 @@
 0.0.0.0 freewar.de
 0.0.0.0 freewebarcade.com
 0.0.0.0 freewebgames.io
+0.0.0.0 freezenova-game.github.io
 0.0.0.0 freezenova-unblocked.github.io
+0.0.0.0 freezenova.blog
+0.0.0.0 freezenova.com
+0.0.0.0 freezenova.net
+0.0.0.0 freezenova.netlify.app
+0.0.0.0 freezenovagames.github.io
 0.0.0.0 freezgames.com
 0.0.0.0 freezoneplay.com
 0.0.0.0 freshnewgames.com
@@ -3177,6 +3232,7 @@
 0.0.0.0 gdfree.io
 0.0.0.0 gdg-cv-arcade.vercel.app
 0.0.0.0 gdub156.github.io
+0.0.0.0 gdvs.lucsanders.ca
 0.0.0.0 gdvsakdcvhoedevircho-hue.github.io
 0.0.0.0 geg-bread.github.io
 0.0.0.0 gembly.com
@@ -3325,6 +3381,7 @@
 0.0.0.0 git-games.github.io
 0.0.0.0 git-hub-games.github.io
 0.0.0.0 git-hub-games.gitlab.io
+0.0.0.0 gitbagas-50013hub.duckdns.org
 0.0.0.0 gitdog11.github.io
 0.0.0.0 github-games.gitlab.io
 0.0.0.0 githubgames.bitbucket.io
@@ -3448,6 +3505,7 @@
 0.0.0.0 gringo-retro-arcade.netlify.app
 0.0.0.0 grow-agarden.io
 0.0.0.0 growden.io
+0.0.0.0 groxyai.github.io
 0.0.0.0 grrd.ch
 0.0.0.0 grteam2.github.io
 0.0.0.0 grummpy.github.io
@@ -3754,6 +3812,7 @@
 0.0.0.0 ilikedogsinocean.github.io
 0.0.0.0 ilikeglueyum.github.io
 0.0.0.0 illrpg.com
+0.0.0.0 ilovealltypesofducks.duckdns.org
 0.0.0.0 ilyalesunov.gitlab.io
 0.0.0.0 imagineisland.game
 0.0.0.0 imcaca12.github.io
@@ -3793,6 +3852,7 @@
 0.0.0.0 instant-games.github.io
 0.0.0.0 instantgames.top
 0.0.0.0 instgame.com
+0.0.0.0 interval.statisticscontest.com
 0.0.0.0 io-game.com
 0.0.0.0 io-games.com
 0.0.0.0 io-games.io
@@ -3830,6 +3890,7 @@
 0.0.0.0 itch.zone
 0.0.0.0 itchio.top
 0.0.0.0 itchiogame.com
+0.0.0.0 its2026.duckdns.org
 0.0.0.0 itsagustinbtw.github.io
 0.0.0.0 itsukit0723-netizen.github.io
 0.0.0.0 itsvijaysingh1.github.io
@@ -4206,6 +4267,7 @@
 0.0.0.0 kidzeegames.com
 0.0.0.0 kieranmcl12.github.io
 0.0.0.0 kiiyoika.github.io
+0.0.0.0 kikas41271.duckdns.org
 0.0.0.0 kill-the-stickman-n97y.vercel.app
 0.0.0.0 killmondaygames.com
 0.0.0.0 kinda.fun
@@ -4332,6 +4394,7 @@
 0.0.0.0 leanderbell.github.io
 0.0.0.0 learn-duck.firebaseapp.com
 0.0.0.0 learn-to-fly-unblocked.github.io
+0.0.0.0 learnduck.duckdns.org
 0.0.0.0 learntofly2.io
 0.0.0.0 lebronjames127449-eng.github.io
 0.0.0.0 left4rcade.github.io
@@ -4357,9 +4420,11 @@
 0.0.0.0 leveldevilgames.github.io
 0.0.0.0 levissio.github.io
 0.0.0.0 levithomas15.github.io
+0.0.0.0 lexaloffle.com
 0.0.0.0 lezinsaajid.github.io
 0.0.0.0 lfoti95-crypto.github.io
 0.0.0.0 libregames.gitlab.io
+0.0.0.0 lich.com
 0.0.0.0 lichess.org
 0.0.0.0 lidowg2011.github.io
 0.0.0.0 lieutran27787-web.github.io
@@ -4401,6 +4466,7 @@
 0.0.0.0 lofd.de
 0.0.0.0 lofgames.com
 0.0.0.0 logicloftgames.com
+0.0.0.0 login-live.blogbott.com
 0.0.0.0 loglod.com
 0.0.0.0 lokigames.com
 0.0.0.0 lol-beans.bitbucket.io
@@ -4464,7 +4530,11 @@
 0.0.0.0 macrojuegos.com
 0.0.0.0 madalingames.com
 0.0.0.0 madalinstuntcars2.io
+0.0.0.0 maddox.alltutors.org
+0.0.0.0 maddox.blogbott.com
+0.0.0.0 maddox.exampredictor.org
 0.0.0.0 maddox.games
+0.0.0.0 maddox.quackprep.com
 0.0.0.0 madfingergames.com
 0.0.0.0 madkidgames.com
 0.0.0.0 mafa.com
@@ -4549,6 +4619,7 @@
 0.0.0.0 math-a1.b-cdn.net
 0.0.0.0 math-a2.b-cdn.net
 0.0.0.0 math-playground.bitbucket.io
+0.0.0.0 matheducation.top
 0.0.0.0 matheusls.github.io
 0.0.0.0 mathevolve.com
 0.0.0.0 mathgames.com
@@ -4694,6 +4765,7 @@
 0.0.0.0 minecraftjava.net
 0.0.0.0 minecraftjava.pages.dev
 0.0.0.0 minecraftlist.com
+0.0.0.0 minecraftnovirus.duckdns.org
 0.0.0.0 minecraftoneblockonline.github.io
 0.0.0.0 minecraftopus.vercel.app
 0.0.0.0 minecraftservers.us
@@ -4821,6 +4893,7 @@
 0.0.0.0 mope.io
 0.0.0.0 mopixie.com
 0.0.0.0 moranri.github.io
+0.0.0.0 mordecaiandrigby.duckdns.org
 0.0.0.0 more9game.com
 0.0.0.0 morefriv.com
 0.0.0.0 moretanktrouble.com
@@ -4959,6 +5032,7 @@
 0.0.0.0 namogame.com
 0.0.0.0 nanakoinoue-ui.github.io
 0.0.0.0 naoxink.epizy.com
+0.0.0.0 napoleonfanclub.duckdns.org
 0.0.0.0 naptechgames.com
 0.0.0.0 naresh-tech6380.github.io
 0.0.0.0 nargames.com
@@ -4966,6 +5040,7 @@
 0.0.0.0 narrow.one
 0.0.0.0 naruto.games.onamis.free.fr
 0.0.0.0 narwhale.io
+0.0.0.0 narwhalnarwhalswimmingintheocean.mydiscussion.net
 0.0.0.0 nat748.github.io
 0.0.0.0 nataraja-games.github.io
 0.0.0.0 nate-games.github.io
@@ -4997,6 +5072,7 @@
 0.0.0.0 neoteo.com
 0.0.0.0 neoxminecraft.github.io
 0.0.0.0 nerdle.ie
+0.0.0.0 neruvy.github.io
 0.0.0.0 netbiz-ai.github.io
 0.0.0.0 netifun.com
 0.0.0.0 netjogos.com
@@ -5007,6 +5083,7 @@
 0.0.0.0 newalgebra.com
 0.0.0.0 newbeetechh5game.com
 0.0.0.0 newbrowsergames.com
+0.0.0.0 newclasses.duckdns.org
 0.0.0.0 newdoku.com
 0.0.0.0 newga22.github.io
 0.0.0.0 newgrounds.com
@@ -5097,6 +5174,7 @@
 0.0.0.0 nub.games
 0.0.0.0 null-x-team.github.io
 0.0.0.0 nullboy000.github.io
+0.0.0.0 nullxiety.com
 0.0.0.0 numskullgames.com
 0.0.0.0 numuki.com
 0.0.0.0 nunorgcarvalho.github.io
@@ -5208,6 +5286,7 @@
 0.0.0.0 orisinal.com
 0.0.0.0 orteil.dashnet.org
 0.0.0.0 osgameclones.com
+0.0.0.0 oskc.duckdns.org
 0.0.0.0 oskh2012.github.io
 0.0.0.0 othehumbled.github.io
 0.0.0.0 othermgwebsite.github.io
@@ -5261,6 +5340,7 @@
 0.0.0.0 ozgames.io
 0.0.0.0 ozogames.com
 0.0.0.0 p0xgames.online
+0.0.0.0 pachimonedu.github.io
 0.0.0.0 pacman.game
 0.0.0.0 pacmangamefree.com
 0.0.0.0 pacmangratis.net
@@ -5339,6 +5419,7 @@
 0.0.0.0 parthivgvs172.github.io
 0.0.0.0 passion-industry-game.com
 0.0.0.0 passwordgate123.gitlab.io
+0.0.0.0 pastexams.org
 0.0.0.0 pataltimore.github.io
 0.0.0.0 patch-the-hype.github.io
 0.0.0.0 patrasxd.github.io
@@ -5753,6 +5834,7 @@
 0.0.0.0 prettysimplegames.com
 0.0.0.0 primarygames.com
 0.0.0.0 primarygames.gitlab.io
+0.0.0.0 prime.mathematicscontest.com
 0.0.0.0 princeton-tower-defense.vercel.app
 0.0.0.0 printhelloworldasdas.github.io
 0.0.0.0 prinxy.app
@@ -5775,6 +5857,7 @@
 0.0.0.0 prosdong20-dot.github.io
 0.0.0.0 protik-developer.github.io
 0.0.0.0 protostargames.com
+0.0.0.0 prototype.engineeringcontest.com
 0.0.0.0 prototypegame.com
 0.0.0.0 proxiious.github.io
 0.0.0.0 proxsolver.github.io
@@ -5787,6 +5870,7 @@
 0.0.0.0 pucks.io
 0.0.0.0 puckyou.lol
 0.0.0.0 pudugame.com
+0.0.0.0 pulsefan.duckdns.org
 0.0.0.0 punchgamebr.com
 0.0.0.0 punit015.github.io
 0.0.0.0 punkygame.com
@@ -5801,6 +5885,7 @@
 0.0.0.0 purplesstrat.github.io
 0.0.0.0 purplyeye7.github.io
 0.0.0.0 pushergames.itch.io
+0.0.0.0 pushtolearn.com
 0.0.0.0 puzz.com
 0.0.0.0 puzzio.io
 0.0.0.0 puzzle-index.com
@@ -5820,6 +5905,7 @@
 0.0.0.0 qasim51312.github.io
 0.0.0.0 qerionx.github.io
 0.0.0.0 qg9999.github.io
+0.0.0.0 qkygames.github.io
 0.0.0.0 qleededgta-cloud.github.io
 0.0.0.0 qman0817.github.io
 0.0.0.0 qperkz.github.io
@@ -6224,11 +6310,13 @@
 0.0.0.0 schplay.com
 0.0.0.0 science-v1.b-cdn.net
 0.0.0.0 science-v2.b-cdn.net
+0.0.0.0 scienceacheivement.duckdns.org
 0.0.0.0 scorchediv.github.io
 0.0.0.0 scorenga.com
 0.0.0.0 scpshowcases.github.io
 0.0.0.0 scratchgamesonline.io
 0.0.0.0 scratchgeometrydash.org
+0.0.0.0 screaminginstoresprank.mooo.com
 0.0.0.0 scroll-games.vercel.app
 0.0.0.0 seagames-joy.com
 0.0.0.0 seaguys.io
@@ -6529,6 +6617,7 @@
 0.0.0.0 snkplaymoreusa.com
 0.0.0.0 snokido.com
 0.0.0.0 snokido.fr
+0.0.0.0 snokido.github.io
 0.0.0.0 snow-rider-3d-unblocked-76.github.io
 0.0.0.0 snow-rider-3d-unblocked.gitlab.io
 0.0.0.0 snow-rider-3d.bitbucket.io
@@ -6777,6 +6866,7 @@
 0.0.0.0 steezy943.github.io
 0.0.0.0 stefanbogoev4545-cyber.github.io
 0.0.0.0 stein.world
+0.0.0.0 stem.schooleducation.org
 0.0.0.0 stephenlb.github.io
 0.0.0.0 stephenlucerne.github.io
 0.0.0.0 stepz-games.vercel.app
@@ -6992,6 +7082,7 @@
 0.0.0.0 tagpro.koalabeast.com
 0.0.0.0 taguchieri.github.io
 0.0.0.0 tagunblocked.com
+0.0.0.0 take-a-shower.duckdns.org
 0.0.0.0 takecareofshadowmilk.life
 0.0.0.0 taktaktak.com
 0.0.0.0 tallosen.github.io
@@ -7167,6 +7258,7 @@
 0.0.0.0 tileman.io
 0.0.0.0 timepass-games.github.io
 0.0.0.0 timeshooter-2online.github.io
+0.0.0.0 timis.ro
 0.0.0.0 timmahthoey23.github.io
 0.0.0.0 timmythecoolest.github.io
 0.0.0.0 timothy815.github.io
@@ -7231,6 +7323,7 @@
 0.0.0.0 topgamesites.net
 0.0.0.0 topgamesoffline.com
 0.0.0.0 toplistgameh5.com
+0.0.0.0 tops-games.workers.dev
 0.0.0.0 tops.games
 0.0.0.0 topservers200.com
 0.0.0.0 toptogames.com
@@ -7287,6 +7380,7 @@
 0.0.0.0 trollgames.de
 0.0.0.0 trollgames.io
 0.0.0.0 trollquests.com
+0.0.0.0 tropical-copper-ybwi2dcv-dpyxpfh7dbuy.edgeone.dev
 0.0.0.0 troyskinner3.github.io
 0.0.0.0 troywilliames.github.io
 0.0.0.0 truckloader.net
@@ -7329,6 +7423,7 @@
 0.0.0.0 turtlegames.com
 0.0.0.0 turtlegames.org
 0.0.0.0 tusna-67.github.io
+0.0.0.0 tutor.bad.mn
 0.0.0.0 tuuchen.github.io
 0.0.0.0 tuxpusher.github.io
 0.0.0.0 tvgames.com.br
@@ -7629,6 +7724,7 @@
 0.0.0.0 unblockedgamesbrowser.com
 0.0.0.0 unblockedgamesbrowser.github.io
 0.0.0.0 unblockedgamesforschools.github.io
+0.0.0.0 unblockedgamesfreezenova.github.io
 0.0.0.0 unblockedgamesgg.com
 0.0.0.0 unblockedgamesgplus.gitlab.io
 0.0.0.0 unblockedgamesgplus2.gitlab.io
@@ -7829,6 +7925,7 @@
 0.0.0.0 watermelongame.online
 0.0.0.0 watermelongame.org
 0.0.0.0 wavedash.com
+0.0.0.0 waves.geologycontest.com
 0.0.0.0 waylonmassey8-prog.github.io
 0.0.0.0 waynetd777.github.io
 0.0.0.0 wbgamesmontreal.com
@@ -7865,6 +7962,7 @@
 0.0.0.0 weeklyarcade.games
 0.0.0.0 wegcraft.github.io
 0.0.0.0 welcometo.gitlab.io
+0.0.0.0 wellesyarthurclub.duckdns.org
 0.0.0.0 wellgames.com
 0.0.0.0 wemakegames.sk
 0.0.0.0 weplayretro.games
@@ -7952,6 +8050,7 @@
 0.0.0.0 wormax2.io
 0.0.0.0 worms.zone
 0.0.0.0 worthplaying.com
+0.0.0.0 wouwliuqie14432344444444444.github.io
 0.0.0.0 wowubg.github.io
 0.0.0.0 wrench12317.github.io
 0.0.0.0 wruhfiuwgehf.github.io
@@ -8016,6 +8115,7 @@
 0.0.0.0 yakashif.github.io
 0.0.0.0 yaki6332.github.io
 0.0.0.0 yaksgame.com
+0.0.0.0 yami-kawaii.camdvr.org
 0.0.0.0 yandex.com
 0.0.0.0 yandexgames.online
 0.0.0.0 yangyang8305.github.io

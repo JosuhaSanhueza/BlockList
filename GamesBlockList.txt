@@ -613,6 +613,7 @@
 ||avijitbwas.github.io^
 ||avyansatija-crypto.github.io^
 ||awana-arcade.vercel.app^
+||awecom.ru^
 ||awesometanks-unblocked.github.io^
 ||awesometanks.github.io^
 ||awltyyman.github.io^
@@ -1105,6 +1106,7 @@
 ||bunnelldp-sketch.github.io^
 ||bunnies.lat^
 ||bunnygames.com^
+||bunnyhop.lol^
 ||burdlad.github.io^
 ||burritobison-online.github.io^
 ||burritobison-unblocked.com^
@@ -4417,6 +4419,7 @@
 ||leveldevilgames.github.io^
 ||levissio.github.io^
 ||levithomas15.github.io^
+||lexaloffle.com^
 ||lezinsaajid.github.io^
 ||lfoti95-crypto.github.io^
 ||libregames.gitlab.io^
