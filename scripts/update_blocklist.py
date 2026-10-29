@@ -203,7 +203,11 @@ WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     "duckmath.global.ssl.fastly.net", "duck-math-123.global.ssl.fastly.net",
     "duckmath.freetls.fastly.net",
     "duck-math.global.ssl.fastly.net", "duck-math.freetls.fastly.net",
-    "edu.global.ssl.fastly.net",
+    "edu.global.ssl.fastly.net", "edu.freetls.fastly.net",
+    "duck-math-123.freetls.fastly.net",
+    "quack.global.ssl.fastly.net", "quack.freetls.fastly.net",
+    # GlacierArcade (juegos unblocked) en Fastly (2026-10-29).
+    "classroom.global.ssl.fastly.net", "classroom.freetls.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",

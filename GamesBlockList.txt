@@ -1312,7 +1312,9 @@
 ||classroom-online-games.vercel.app^
 ||classroom-unblocked-games-10x.github.io^
 ||classroom-unblocked.github.io^
+||classroom.freetls.fastly.net^
 ||classroom.games^
+||classroom.global.ssl.fastly.net^
 ||classroom10x.com^
 ||classroom15x.com^
 ||classroom20x.com^
@@ -1975,6 +1977,7 @@
 ||dubdoo.com^
 ||duck-clicker.com^
 ||duck-duckclicker.com^
+||duck-math-123.freetls.fastly.net^
 ||duck-math-123.global.ssl.fastly.net^
 ||duck-math.b-cdn.net^
 ||duck-math.bitbucket.io^
@@ -2155,6 +2158,7 @@
 ||eden-sun.github.io^
 ||edmondsonedits.github.io^
 ||edslap.com^
+||edu.freetls.fastly.net^
 ||edu.global.ssl.fastly.net^
 ||eduardo50lucas10-crypto.github.io^
 ||eduardo7881.github.io^
@@ -5910,6 +5914,8 @@
 ||qperkz.github.io^
 ||qq-yt.github.io^
 ||qscasino.github.io^
+||quack.freetls.fastly.net^
+||quack.global.ssl.fastly.net^
 ||quackprep.org^
 ||quadys712.github.io^
 ||quahszekyai-boop.github.io^
