@@ -202,6 +202,8 @@ WHITELIST_SUBDOMAIN_EXCEPTIONS = {
     # Copias de Duck Math (juegos camuflados de matemáticas) en Fastly (2026-10-22).
     "duckmath.global.ssl.fastly.net", "duck-math-123.global.ssl.fastly.net",
     "duckmath.freetls.fastly.net",
+    "duck-math.global.ssl.fastly.net", "duck-math.freetls.fastly.net",
+    "edu.global.ssl.fastly.net",
     "five-nights-at-freddys-high-school.fandom.com",
     "dailygames.discover.google.com",
     "santatracker.google.com",
