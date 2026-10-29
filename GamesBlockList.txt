@@ -150,6 +150,7 @@
 ||247games.com^
 ||247hearts.com^
 ||247mahjong.com^
+||247pinball.com^
 ||247pool.com^
 ||247solitaire.com^
 ||247spades.com^
@@ -280,6 +281,8 @@
 ||ace127647-cloud.github.io^
 ||acequinalty123-sys.github.io^
 ||acerzxv.github.io^
+||achoo.freetls.fastly.net^
+||achoo.global.ssl.fastly.net^
 ||acideye11413.github.io^
 ||acmegamer.com^
 ||acquaday14-arch.github.io^
@@ -299,6 +302,8 @@
 ||adfreegames.com^
 ||adinplay.com^
 ||aditya-coder-h.github.io^
+||adjust.freetls.fastly.net^
+||adjust.global.ssl.fastly.net^
 ||admeen.com^
 ||admin-hub-games.vercel.app^
 ||adoluxgames.com^
@@ -360,6 +365,8 @@
 ||akilesh-him.github.io^
 ||akshun-akxe.github.io^
 ||al652025.github.io^
+||alcohol.freetls.fastly.net^
+||alcohol.global.ssl.fastly.net^
 ||aldagames.com^
 ||aldifadhilah72-eng.github.io^
 ||aleex-penguin.github.io^
@@ -396,6 +403,8 @@
 ||allout.game^
 ||allsonicgames.net^
 ||allunblockedgames.github.io^
+||alluvium.freetls.fastly.net^
+||alluvium.global.ssl.fastly.net^
 ||allwebgames.com^
 ||almostidle.com^
 ||alphadoggames.com^
@@ -479,6 +488,8 @@
 ||apoorvammaganur792-droid.github.io^
 ||app.3daimtrainer.com^
 ||applaudedadam-beep.github.io^
+||apple.freetls.fastly.net^
+||apple.global.ssl.fastly.net^
 ||applepie6969.github.io^
 ||applewin1.github.io^
 ||apps4blast.com^
@@ -560,7 +571,10 @@
 ||arodalmodovar7-hue.github.io^
 ||arqs-arcade-labs.vercel.app^
 ||arrowsgames.io^
+||arsenic-isso-back.freetls.fastly.net^
+||arsenic-isso-back.global.ssl.fastly.net^
 ||arsenic.smartfoloo.space^
+||arsenicsection.carrd.co^
 ||arshajavady-dot.github.io^
 ||arson3004-maker.github.io^
 ||arsyilsalman2511-cloud.github.io^
@@ -624,6 +638,8 @@
 ||awltyyman.github.io^
 ||axenthost.com^
 ||axeso5.com^
+||axiom.freetls.fastly.net^
+||axiom.global.ssl.fastly.net^
 ||axolotlguy7707.gitlab.io^
 ||axu594747.github.io^
 ||ayaangupta12.github.io^
@@ -670,6 +686,8 @@
 ||bagas50013.duckdns.org^
 ||bagelcomics.com^
 ||baifan7574.github.io^
+||bakery.freetls.fastly.net^
+||bakery.global.ssl.fastly.net^
 ||bakiel.github.io^
 ||baldi-game.com^
 ||baldibasicsplus.com^
@@ -680,6 +698,8 @@
 ||ballinhere.github.io^
 ||bamb421.github.io^
 ||bambousoft.com^
+||banana.freetls.fastly.net^
+||banana.global.ssl.fastly.net^
 ||bananaclickerunblocked.github.io^
 ||bananaking23.github.io^
 ||banhidiboti.github.io^
@@ -755,6 +775,8 @@
 ||baticodingmaster.github.io^
 ||batmanscripts.github.io^
 ||batterystaplegames.com^
+||battle.freetls.fastly.net^
+||battle.global.ssl.fastly.net^
 ||battlegrounds2d.io^
 ||battleon.com^
 ||battlepoint.io^
@@ -765,6 +787,8 @@
 ||bcpofficial.github.io^
 ||bdmunnaua.github.io^
 ||bds-games.github.io^
+||bean.freetls.fastly.net^
+||bean.global.ssl.fastly.net^
 ||bearclicker.net^
 ||beatbone95-source.github.io^
 ||bee.games^
@@ -993,6 +1017,8 @@
 ||booleet.itch.io^
 ||booty-master.com^
 ||bored.com^
+||boredom.freetls.fastly.net^
+||boredom.global.ssl.fastly.net^
 ||boredomarcade.xyz^
 ||boredomgames.com^
 ||boredomgames.pages.dev^
@@ -1030,6 +1056,8 @@
 ||brainzilla.com^
 ||brawl-stars-unblocked.com^
 ||brawl-stars.eu^
+||brawl.freetls.fastly.net^
+||brawl.global.ssl.fastly.net^
 ||brawlstars-unblocked.github.io^
 ||braydenadult6-eng.github.io^
 ||breakbar.itch.io^
@@ -1051,6 +1079,8 @@
 ||brodie-debugg.github.io^
 ||brodyfong8.github.io^
 ||brogames.io^
+||broken.freetls.fastly.net^
+||broken.global.ssl.fastly.net^
 ||brokenfunction.com^
 ||brooksbyers-cell.github.io^
 ||brooksch123.github.io^
@@ -1131,12 +1161,16 @@
 ||bward916-byte.github.io^
 ||bwenedianjr.github.io^
 ||bwort.github.io^
+||bypassed.freetls.fastly.net^
+||bypassed.global.ssl.fastly.net^
 ||bypasser-alt.github.io^
 ||byteboss8.github.io^
 ||byteharmony73.github.io^
 ||c00lkimx01-creator.github.io^
 ||c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com^
 ||cadawnofthedead.github.io^
+||cadmium.freetls.fastly.net^
+||cadmium.global.ssl.fastly.net^
 ||caerulav.github.io^
 ||caiman.us^
 ||cainsoto460-lab.github.io^
@@ -1278,6 +1312,10 @@
 ||chumleesockson.github.io^
 ||chyckn.github.io^
 ||ciphanonstudios.github.io^
+||citadelisme.carrd.co^
+||citadelofvoid.carrd.co^
+||citadelofvoidisbest.freetls.fastly.net^
+||citadelofvoidisbest.global.ssl.fastly.net^
 ||cittagames.com^
 ||ciudadelas.net^
 ||civilitythegame.com^
@@ -1397,6 +1435,8 @@
 ||cmykero.github.io^
 ||cn-7-sb.github.io^
 ||cngames-rs.com^
+||coconut.freetls.fastly.net^
+||coconut.global.ssl.fastly.net^
 ||coconutgames.com^
 ||coderadii58.github.io^
 ||codetorch.net^
@@ -1474,6 +1514,8 @@
 ||cool-games-two.vercel.app^
 ||cool-jeux.com^
 ||cool-orpin.vercel.app^
+||cool.freetls.fastly.net^
+||cool.global.ssl.fastly.net^
 ||cool77.com^
 ||coolboy8297.github.io^
 ||coolbrnd.com^
@@ -1516,6 +1558,8 @@
 ||costcodle.net^
 ||costcodle.online^
 ||costcodle.xyz^
+||cotton.freetls.fastly.net^
+||cotton.global.ssl.fastly.net^
 ||couchfriends.com^
 ||country-defense-bheng.vercel.app^
 ||coupon4games.com^
@@ -1596,6 +1640,8 @@
 ||crazymonkeygames.com^
 ||crazyschoolgames.com^
 ||createsomestufffr.duckdns.org^
+||credits.freetls.fastly.net^
+||credits.global.ssl.fastly.net^
 ||creepydates.org^
 ||cribbage-online.net^
 ||crico-coder.github.io^
@@ -1632,6 +1678,8 @@
 ||cucumberpork3.github.io^
 ||culga.com^
 ||culpixtg.github.io^
+||cup.freetls.fastly.net^
+||cup.global.ssl.fastly.net^
 ||curseforge.com^
 ||cursor-cafe-game-portal.vercel.app^
 ||cursorball.onrender.com^
@@ -1764,12 +1812,20 @@
 ||deadshotgame.io^
 ||deadzed.web.app^
 ||deadzonegame.net^
+||dean.freetls.fastly.net^
+||dean.global.ssl.fastly.net^
 ||deathrun3d.io^
 ||decagames.com^
 ||decentgames.co.uk^
 ||decilitre.github.io^
+||decision.freetls.fastly.net^
+||decision.global.ssl.fastly.net^
+||decisive.freetls.fastly.net^
+||decisive.global.ssl.fastly.net^
 ||deepnight.net^
 ||deev.is^
+||definitely.freetls.fastly.net^
+||definitely.global.ssl.fastly.net^
 ||defly.io^
 ||defnotgames.github.io^
 ||dekada72h.github.io^
@@ -1824,6 +1880,8 @@
 ||diepio2.pages.dev^
 ||digamore.com^
 ||digdig.io^
+||digger.freetls.fastly.net^
+||digger.global.ssl.fastly.net^
 ||digitalspacebooks.github.io^
 ||digithub1.github.io^
 ||diguifi.com^
@@ -1848,6 +1906,8 @@
 ||dipa0102.github.io^
 ||disney--games.com^
 ||divertissez-vous.com^
+||divinity.freetls.fastly.net^
+||divinity.global.ssl.fastly.net^
 ||djessemann.github.io^
 ||djmarikyan.github.io^
 ||djwkfneifn.github.io^
@@ -2183,6 +2243,8 @@
 ||earntodie.com^
 ||earntodie.github.io^
 ||earntodiegames.com^
+||earthquake.freetls.fastly.net^
+||earthquake.global.ssl.fastly.net^
 ||easegame.com^
 ||eastsidegames.com^
 ||eastwardgame.com^
@@ -2193,6 +2255,8 @@
 ||eb-hue.github.io^
 ||ebhasin.com^
 ||ech0-11.github.io^
+||echo.freetls.fastly.net^
+||echo.global.ssl.fastly.net^
 ||echothebest.github.io^
 ||echtragames.com^
 ||ecleaire.github.io^
@@ -2392,6 +2456,8 @@
 ||exordiumgames.com^
 ||exoticghost404.github.io^
 ||experimonkey.com^
+||exploit.freetls.fastly.net^
+||exploit.global.ssl.fastly.net^
 ||external-green-9nvl6gws-dpbnotsjlvbq.edgeone.dev^
 ||extreme-games.net^
 ||eyebrow-tetris.sanderdesnaijer.com^
@@ -2409,6 +2475,8 @@
 ||faf-gaming.github.io^
 ||fafgamess.github.io^
 ||faisalnatour123-hue.github.io^
+||fake.freetls.fastly.net^
+||fake.global.ssl.fastly.net^
 ||falling-sand-game.vercel.app^
 ||fallzone.io^
 ||family-arcade.github.io^
@@ -2427,6 +2495,8 @@
 ||fastplaygames.com^
 ||fathiwbs-alt.github.io^
 ||fatimariazahmed2-kh.github.io^
+||fatty.freetls.fastly.net^
+||fatty.global.ssl.fastly.net^
 ||fbmore.github.io^
 ||fdfdsfadf.github.io^
 ||fearlessai-coder.github.io^
@@ -2434,6 +2504,8 @@
 ||federicog94.github.io^
 ||federyeeco.itch.io^
 ||feelfreegames.com^
+||femboy.freetls.fastly.net^
+||femboy.global.ssl.fastly.net^
 ||femo.com^
 ||femoi.dk^
 ||fengzhou2520-debug.github.io^
@@ -2479,6 +2551,8 @@
 ||fishington.io^
 ||fishysticks37.github.io^
 ||five-nights-at-freddys-high-school.fandom.com^
+||five.freetls.fastly.net^
+||five.global.ssl.fastly.net^
 ||fiveminutesgames.com^
 ||fivenightsatfreddys-fnaf.io^
 ||fivenightsatfreddys.com^
@@ -3259,6 +3333,8 @@
 ||gamhub.net^
 ||gaming-hub-kohl-delta.vercel.app^
 ||gaming-style.com^
+||gaming.freetls.fastly.net^
+||gaming.global.ssl.fastly.net^
 ||gamingdragons.com^
 ||gaminglab.dev^
 ||gamivox-green.vercel.app^
@@ -3309,6 +3385,8 @@
 ||geodashunblocked.github.io^
 ||geofungames.com^
 ||geography-lessons.github.io^
+||geography.freetls.fastly.net^
+||geography.global.ssl.fastly.net^
 ||geoguessr.com^
 ||geolog27.github.io^
 ||geometry-dash-1-0.github.io^
@@ -3376,6 +3454,7 @@
 ||geometrydashlite.us^
 ||geometrydashlite2.io^
 ||geometrydashlite22.io^
+||geometrydashlite3d.com^
 ||geometrydashlitefree.com^
 ||geometrydashmeltdown.com^
 ||geometrydashmeltdown.io^
@@ -3470,6 +3549,8 @@
 ||glennfb83.github.io^
 ||glimpse-game.vercel.app^
 ||glitchnest.vercel.app^
+||global.freetls.fastly.net^
+||global.global.ssl.fastly.net^
 ||globalgameh5.com^
 ||globalguessr.com^
 ||globlegame.pages.dev^
@@ -3501,6 +3582,8 @@
 ||gominigames.com^
 ||gondal.de^
 ||gonzheus-prog.github.io^
+||goober.freetls.fastly.net^
+||goober.global.ssl.fastly.net^
 ||goobix.com^
 ||goobusgh.github.io^
 ||goodgamebigfarm.eu^
@@ -3615,6 +3698,8 @@
 ||gx-launcher.github.io^
 ||gx-storage-lfs.github.io^
 ||gx.games^
+||gym.freetls.fastly.net^
+||gym.global.ssl.fastly.net^
 ||h-droid146.github.io^
 ||h5crazygame.com^
 ||h5games.com^
@@ -3668,6 +3753,8 @@
 ||haxball.com^
 ||haydenlgbushell-source.github.io^
 ||hazargames.com^
+||haze.freetls.fastly.net^
+||haze.global.ssl.fastly.net^
 ||hazmobfps.com^
 ||hazmobfps.io^
 ||hbrine.github.io^
@@ -3688,6 +3775,8 @@
 ||hefc557.github.io^
 ||heheas.github.io^
 ||helixjump.me^
+||hello.freetls.fastly.net^
+||hello.global.ssl.fastly.net^
 ||hello4649games.com^
 ||helloiamarealperson.github.io^
 ||hellomrgoodie2-eng.github.io^
@@ -3755,6 +3844,8 @@
 ||holyunblocker.freetls.fastly.net^
 ||holyunblocker.global.ssl.fastly.net^
 ||homearcades.com^
+||homeroom.freetls.fastly.net^
+||homeroom.global.ssl.fastly.net^
 ||honestwar.com^
 ||hoodamath-games.github.io^
 ||hoodamath.com^
@@ -3809,6 +3900,8 @@
 ||hxm535.github.io^
 ||hxmpterr.github.io^
 ||hybridarcade.com^
+||hydra.freetls.fastly.net^
+||hydra.global.ssl.fastly.net^
 ||hydralauncher.gg^
 ||hypackellite1.github.io^
 ||hyper-network.net^
@@ -3911,6 +4004,8 @@
 ||impostor.io^
 ||imsleepybob.github.io^
 ||inblog.io^
+||inbred.freetls.fastly.net^
+||inbred.global.ssl.fastly.net^
 ||infexity5748.github.io^
 ||infinigongames.com^
 ||infinite-hub-chi.vercel.app^
@@ -3929,6 +4024,8 @@
 ||instant-games.github.io^
 ||instantgames.top^
 ||instgame.com^
+||interstellarisbackguys.freetls.fastly.net^
+||interstellarisbackguys.global.ssl.fastly.net^
 ||interval.statisticscontest.com^
 ||invisiproxy.com^
 ||io-game.com^
@@ -3951,6 +4048,8 @@
 ||iqgamehub.com^
 ||iready-bay.vercel.app^
 ||iron-snout.gitlab.io^
+||iron.freetls.fastly.net^
+||iron.global.ssl.fastly.net^
 ||ironrealms.com^
 ||irv77.github.io^
 ||isaachong365.github.io^
@@ -3970,6 +4069,8 @@
 ||itchio.global.ssl.fastly.net^
 ||itchio.top^
 ||itchiogame.com^
+||itchy.freetls.fastly.net^
+||itchy.global.ssl.fastly.net^
 ||its2026.duckdns.org^
 ||itsagustinbtw.github.io^
 ||itsukit0723-netizen.github.io^
@@ -4008,6 +4109,8 @@
 ||jamesland.org^
 ||jamir.io^
 ||jamsilgotabujagogabojago-lang.github.io^
+||japan.freetls.fastly.net^
+||japan.global.ssl.fastly.net^
 ||jaque404py.github.io^
 ||jarvisubg.github.io^
 ||jasesherman12345-coder.github.io^
@@ -4256,6 +4359,8 @@
 ||justfalllol.github.io^
 ||justgames.com^
 ||justgolfgames.com^
+||justice.freetls.fastly.net^
+||justice.global.ssl.fastly.net^
 ||justlachin.github.io^
 ||justmorv.github.io^
 ||justplayhere.com^
@@ -4301,6 +4406,8 @@
 ||kazap.io^
 ||kazuto0217.github.io^
 ||kazwire.com^
+||kazwireomg.freetls.fastly.net^
+||kazwireomg.global.ssl.fastly.net^
 ||kbhgame.gitlab.io^
 ||kbhgames.com^
 ||kbhgames.freetls.fastly.net^
@@ -4467,6 +4574,8 @@
 ||lanterna-games.gitlab.io^
 ||larkinor.com^
 ||larrinamsalva.github.io^
+||lassoed.freetls.fastly.net^
+||lassoed.global.ssl.fastly.net^
 ||lastline.011203.xyz^
 ||latpong22.github.io^
 ||launchpad-games-lobby.vercel.app^
@@ -4526,8 +4635,12 @@
 ||linerider.web.app^
 ||linglingmaster889.github.io^
 ||linh5.com^
+||link.freetls.fastly.net^
+||link.global.ssl.fastly.net^
 ||linkgameh5.com^
 ||linkingtechnologies.github.io^
+||linkportal.freetls.fastly.net^
+||linkportal.global.ssl.fastly.net^
 ||lion-games.github.io^
 ||lionroar28.github.io^
 ||liotabib2006-lgtm.github.io^
@@ -4669,6 +4782,8 @@
 ||manal5664.github.io^
 ||manalisuryawanshi23.github.io^
 ||manasource.itch.io^
+||mango.freetls.fastly.net^
+||mango.global.ssl.fastly.net^
 ||manicpixeldream.github.io^
 ||manking2024.github.io^
 ||manomarichal.github.io^
@@ -4712,6 +4827,8 @@
 ||math-a2.b-cdn.net^
 ||math-playground.bitbucket.io^
 ||matheducation.top^
+||mathematical.freetls.fastly.net^
+||mathematical.global.ssl.fastly.net^
 ||matheusls.github.io^
 ||mathevolve.com^
 ||mathgames.com^
@@ -4793,6 +4910,8 @@
 ||mergerotgame.com^
 ||meridiem-games.com^
 ||merrygeva.github.io^
+||mes.freetls.fastly.net^
+||mes.global.ssl.fastly.net^
 ||mesjeuxvirtuels.com^
 ||mess.eu.org^
 ||messcraft.ovh^
@@ -4800,6 +4919,7 @@
 ||meta00s.com^
 ||metagames.hu^
 ||metrothegame.com^
+||mexi.rest^
 ||meyagames.com^
 ||mfhplayz.github.io^
 ||mgalternative.github.io^
@@ -4813,6 +4933,8 @@
 ||michaelthecyco-yt.github.io^
 ||michuscrypt.github.io^
 ||microsoft123456789.github.io^
+||middling.freetls.fastly.net^
+||middling.global.ssl.fastly.net^
 ||midnighhtclub3.online^
 ||midnight-mafia.co.uk^
 ||midnight-mafia.com^
@@ -5106,6 +5228,8 @@
 ||mygamesonline.org^
 ||mygladiators.com^
 ||myglobalgames.com^
+||mylinkportal.freetls.fastly.net^
+||mylinkportal.global.ssl.fastly.net^
 ||mymoneyrain.com^
 ||mynameisyou-cmyk.github.io^
 ||myrealgames.com^
@@ -5185,6 +5309,8 @@
 ||nettleweb.github.io^
 ||nettleweb.global.ssl.fastly.net^
 ||nettleweb.pages.dev^
+||never.freetls.fastly.net^
+||never.global.ssl.fastly.net^
 ||new66ez.github.io^
 ||newalgebra.com^
 ||newbeetechh5game.com^
@@ -5291,6 +5417,8 @@
 ||nullxiety.com^
 ||numskullgames.com^
 ||numuki.com^
+||nun.freetls.fastly.net^
+||nun.global.ssl.fastly.net^
 ||nunorgcarvalho.github.io^
 ||nurunnobi7.github.io^
 ||nxx99.github.io^
@@ -5525,6 +5653,8 @@
 ||paperiogame.io^
 ||paperioonline.io^
 ||paperminecraft.co^
+||papers.freetls.fastly.net^
+||papers.global.ssl.fastly.net^
 ||paracrafteros-cell.github.io^
 ||parcoil.com^
 ||pardus.at^
@@ -5569,13 +5699,21 @@
 ||perfectscoregames.com^
 ||persongaming1234.github.io^
 ||peterdsouza247.github.io^
+||petezahgame29.freetls.fastly.net^
+||petezahgame29.global.ssl.fastly.net^
 ||petezahgames.com^
 ||petezahgames.freetls.fastly.net^
 ||petezahgames.global.ssl.fastly.net^
 ||petezahgames26.firebaseapp.com^
+||petezahisback.freetls.fastly.net^
+||petezahisback.global.ssl.fastly.net^
+||petezahismyking.freetls.fastly.net^
+||petezahismyking.global.ssl.fastly.net^
 ||petovicdan87-droid.github.io^
 ||petridish.pw^
 ||peytonplayz595.github.io^
+||phantoms.freetls.fastly.net^
+||phantoms.global.ssl.fastly.net^
 ||phasebubble.github.io^
 ||phaser.io^
 ||phg-123.github.io^
@@ -5594,7 +5732,11 @@
 ||pierrefitzroy.github.io^
 ||pikpok.com^
 ||pikpokgames.com^
+||pinball.freetls.fastly.net^
+||pinball.global.ssl.fastly.net^
 ||pinball4u.com^
+||pineapple.freetls.fastly.net^
+||pineapple.global.ssl.fastly.net^
 ||pingameh5.com^
 ||pingponggo.com^
 ||pinturillo2.com^
@@ -5613,6 +5755,8 @@
 ||piyushji040.github.io^
 ||pizza-edition-games.bitbucket.io^
 ||pizza-edition-unblocked.github.io^
+||pizza.freetls.fastly.net^
+||pizza.global.ssl.fastly.net^
 ||pizzaedition-net.github.io^
 ||pizzaedition.bitbucket.io^
 ||pizzaedition.com^
@@ -5640,6 +5784,8 @@
 ||plate.global.ssl.fastly.net^
 ||platformgames.io^
 ||platinumgames.com^
+||platter.freetls.fastly.net^
+||platter.global.ssl.fastly.net^
 ||platypuscodes.github.io^
 ||play-board-games.com^
 ||play-cs.com^
@@ -5986,6 +6132,8 @@
 ||proprofsgames.com^
 ||prosdong20-dot.github.io^
 ||protik-developer.github.io^
+||protocol.freetls.fastly.net^
+||protocol.global.ssl.fastly.net^
 ||protostargames.com^
 ||prototype.engineeringcontest.com^
 ||prototypegame.com^
@@ -6080,6 +6228,8 @@
 ||racinglimits.net^
 ||racks6ix.github.io^
 ||radiangames.com^
+||radical.freetls.fastly.net^
+||radical.global.ssl.fastly.net^
 ||radicalplay.com^
 ||radidmondal.gitlab.io^
 ||radmanplays.github.io^
@@ -6157,6 +6307,8 @@
 ||rebubbled.com^
 ||rec0ded88.com^
 ||recessgames.vercel.app^
+||red.freetls.fastly.net^
+||red.global.ssl.fastly.net^
 ||redabamessaoud9-sketch.github.io^
 ||redalphagames.github.io^
 ||redartgames.com^
@@ -6269,6 +6421,8 @@
 ||rider-1yt5-eaglercraft-single.vercel.app^
 ||riftc-on-top.github.io^
 ||rileygramlich.github.io^
+||ripharambe.freetls.fastly.net^
+||ripharambe.global.ssl.fastly.net^
 ||risingstargames.com^
 ||rivegames.com^
 ||rivercombat.com^
@@ -6427,6 +6581,8 @@
 ||say.games^
 ||sayels0202-max.github.io^
 ||scalacube.com^
+||scam.freetls.fastly.net^
+||scam.global.ssl.fastly.net^
 ||scary-games.com^
 ||scary-maze.com^
 ||scaryhorrorgames.io^
@@ -6465,6 +6621,8 @@
 ||searide.io^
 ||sebbii59185.github.io^
 ||secretuser23-games.github.io^
+||sections.freetls.fastly.net^
+||sections.global.ssl.fastly.net^
 ||sedecordle.com^
 ||segaarcade.com^
 ||selfstudybrain.com^
@@ -6475,6 +6633,8 @@
 ||serpgames.github.io^
 ||servidoresminecraft.info^
 ||sesamo.com^
+||seven.freetls.fastly.net^
+||seven.global.ssl.fastly.net^
 ||sfa21142.github.io^
 ||sfbgames.com^
 ||sfgame.cz^
@@ -6526,6 +6686,8 @@
 ||shhnowisnottheti.me^
 ||shiftyeyegames.com^
 ||shihli0213.github.io^
+||shiner.freetls.fastly.net^
+||shiner.global.ssl.fastly.net^
 ||shioshio40400516.github.io^
 ||shipcraft.io^
 ||shivamkr12.github.io^
@@ -6547,6 +6709,8 @@
 ||shsgames.github.io^
 ||shueisha-games.com^
 ||shukla1016.github.io^
+||shush.freetls.fastly.net^
+||shush.global.ssl.fastly.net^
 ||shuttleproxy.com^
 ||sickheadgames.com^
 ||siddarbadofofficialroblox7-wq.github.io^
@@ -6586,6 +6750,8 @@
 ||site.freetls.fastly.net^
 ||site.global.ssl.fastly.net^
 ||sites.google.com^
+||six.freetls.fastly.net^
+||six.global.ssl.fastly.net^
 ||siyuwu23-dev.github.io^
 ||sjefvanleeuwen.github.io^
 ||skabkleveta-creator.github.io^
@@ -6602,6 +6768,8 @@
 ||skibiditoiletonline.github.io^
 ||skidrowgamereloaded.co^
 ||skilledgamerjoel-art.github.io^
+||skills.freetls.fastly.net^
+||skills.global.ssl.fastly.net^
 ||skinsmc.org^
 ||skitterix.github.io^
 ||skmedix.pl^
@@ -6616,12 +6784,16 @@
 ||skribblgame.org^
 ||skribblio.online^
 ||skribblio.org^
+||skull.freetls.fastly.net^
+||skull.global.ssl.fastly.net^
 ||skygames.com.pk^
 ||skylessgames.com^
 ||skylords.com^
 ||skynet000-hub.github.io^
 ||skyubgame.com^
 ||slapbattlesgame.com^
+||sled.freetls.fastly.net^
+||sled.global.ssl.fastly.net^
 ||slice-master.io^
 ||slicemaster.bitbucket.io^
 ||slidedown.io^
@@ -6720,6 +6892,8 @@
 ||smash-karts-frame.vercel.app^
 ||smash-karts.com^
 ||smash-karts.org^
+||smashing.freetls.fastly.net^
+||smashing.global.ssl.fastly.net^
 ||smashkarts-online.github.io^
 ||smashkarts-unblocked.pages.dev^
 ||smashkarts.app^
@@ -6799,6 +6973,8 @@
 ||snowrider3dunblocked.github.io^
 ||snowrider97.github.io^
 ||snowridergame.io^
+||snowstorm.freetls.fastly.net^
+||snowstorm.global.ssl.fastly.net^
 ||soccer-bros.github.io^
 ||soccer-random-game.github.io^
 ||soccer-random.net^
@@ -6810,6 +6986,8 @@
 ||soccerrandom.io^
 ||soccerrandomgame.com^
 ||soccerrandomgame.net^
+||socks.freetls.fastly.net^
+||socks.global.ssl.fastly.net^
 ||sofiamuweiyi-wq.github.io^
 ||soflo-wheelielife.github.io^
 ||soflowheelielife.github.io^
@@ -6846,6 +7024,8 @@
 ||solitario-online.es^
 ||solli-games.github.io^
 ||solo-mahjong.ru^
+||solstice.freetls.fastly.net^
+||solstice.global.ssl.fastly.net^
 ||solvern0mg.github.io^
 ||someschoolgames.com^
 ||sonsaur.com^
@@ -6853,6 +7033,8 @@
 ||sorry-bob.org^
 ||sorrybob.io^
 ||soumyadityaa.github.io^
+||soups.freetls.fastly.net^
+||soups.global.ssl.fastly.net^
 ||sourdays-1.github.io^
 ||space-shooter-shadrouh.netlify.app^
 ||spaceblast.io^
@@ -7103,8 +7285,12 @@
 ||stratos-technologies-fzco.github.io^
 ||stratusgames.com^
 ||stressreliefgames.net^
+||stretch.freetls.fastly.net^
+||stretch.global.ssl.fastly.net^
 ||struckd.com^
 ||studuser-git.github.io^
+||stuff.freetls.fastly.net^
+||stuff.global.ssl.fastly.net^
 ||stumbleguys.com^
 ||stumpypup.gitlab.io^
 ||stunt-simulator.com^
@@ -7191,6 +7377,8 @@
 ||supertanks.io^
 ||supremacy1914.com^
 ||supremacy1914.fr^
+||surfers.freetls.fastly.net^
+||surfers.global.ssl.fastly.net^
 ||suroi.io^
 ||survev.io^
 ||surviv.freetls.fastly.net^
@@ -7293,6 +7481,8 @@
 ||terminaljs.github.io^
 ||terrainfnffnf.github.io^
 ||terrariagame.io^
+||terrarium.freetls.fastly.net^
+||terrarium.global.ssl.fastly.net^
 ||territorial.io^
 ||terrycavanaghgames.com^
 ||tessel.at^
@@ -7488,6 +7678,8 @@
 ||torofun.com^
 ||totaljerkface.com^
 ||totally-science-unblocked.github.io^
+||totally.freetls.fastly.net^
+||totally.global.ssl.fastly.net^
 ||totallymath-gamma.vercel.app^
 ||totallyscience.co^
 ||totallyscience.gitlab.io^
@@ -7505,6 +7697,8 @@
 ||tpsreports2.github.io^
 ||trafficcontrolunblocked.github.io^
 ||trafficroad.io^
+||trains.freetls.fastly.net^
+||trains.global.ssl.fastly.net^
 ||transformice.com^
 ||trappersquares.io^
 ||trapz.io^
@@ -7979,9 +8173,15 @@
 ||vampiregenesis.com^
 ||vandaranikunj.github.io^
 ||vanguardgames.net^
+||vapor.freetls.fastly.net^
+||vapor.global.ssl.fastly.net^
 ||vaporum-game.com^
 ||vattenfisk3n.github.io^
 ||vault-ubg.pages.dev^
+||vault.freetls.fastly.net^
+||vault.global.ssl.fastly.net^
+||vaults.freetls.fastly.net^
+||vaults.global.ssl.fastly.net^
 ||vbhl-overlord.github.io^
 ||veck.io^
 ||veckio.com^
@@ -8077,6 +8277,10 @@
 ||wafflegames.net^
 ||waffleunlimited.com^
 ||wahidzeb.github.io^
+||waiting.freetls.fastly.net^
+||waiting.global.ssl.fastly.net^
+||walls.freetls.fastly.net^
+||walls.global.ssl.fastly.net^
 ||wanpwang2025-boop.github.io^
 ||wanted5games.com^
 ||warbot.io^
@@ -8209,6 +8413,8 @@
 ||wordpuzzleunlimited.com^
 ||wordscramble.eu^
 ||wordspine.com^
+||work.freetls.fastly.net^
+||work.global.ssl.fastly.net^
 ||workmelt.com^
 ||world-of-dungeons.de^
 ||world-of-dungeons.fr^
@@ -8381,6 +8587,8 @@
 ||zechariah-guo.github.io^
 ||zeeeeeee1.github.io^
 ||zelgirl.com^
+||zenith.freetls.fastly.net^
+||zenith.global.ssl.fastly.net^
 ||zenith391.itch.io^
 ||zenithub.pages.dev^
 ||zens-slope.vercel.app^
