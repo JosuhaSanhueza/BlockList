@@ -1603,6 +1603,7 @@
 ||crazygames-ad.bitbucket.io^
 ||crazygames-com.bitbucket.io^
 ||crazygames-go.bitbucket.io^
+||crazygames-oficiall.bitbucket.io^
 ||crazygames-poki.com^
 ||crazygames-unblocked.github.io^
 ||crazygames.app^
