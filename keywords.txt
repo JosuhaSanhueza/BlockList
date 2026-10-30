@@ -2237,3 +2237,15 @@ logicloftgames
 # waffle-game-unlimited.vercel.app ya cubiertos por keywords existentes), 2026-10-28 ---
 fallzone
 hex2048
+
+# --- Artículos "top paginas de juegos"/alternativas a friv y y8, dress up, cartas,
+# juegos tipo Jackbox e idle/clicker (8 confirmados: paisdelosjuegos.es ya cubierto
+# por keyword "paisdelosjuegos" existente, meiker, kiloo, playvry, gamenightcentral,
+# padlessbox, gamingcouch, zoqgames), 2026-10-30 ---
+meiker
+kiloo
+playvry
+gamenightcentral
+padlessbox
+gamingcouch
+zoqgames

@@ -3097,6 +3097,7 @@
 ||gamempire-iq.com^
 ||gamenation.in^
 ||gamengame.com^
+||gamenightcentral.net^
 ||gamenila.com^
 ||gameninja.com^
 ||gamenora-com.bitbucket.io^
@@ -3336,6 +3337,7 @@
 ||gaming-style.com^
 ||gaming.freetls.fastly.net^
 ||gaming.global.ssl.fastly.net^
+||gamingcouch.com^
 ||gamingdragons.com^
 ||gaminglab.dev^
 ||gamivox-green.vercel.app^
@@ -4461,6 +4463,7 @@
 ||kikas41271.duckdns.org^
 ||kill-the-stickman-n97y.vercel.app^
 ||killmondaygames.com^
+||kiloo.com^
 ||kinda.fun^
 ||kinda.games^
 ||kinetic-csharp.github.io^
@@ -4892,6 +4895,7 @@
 ||megafunz.com^
 ||megapoopturd.github.io^
 ||mehmetmhy.gitlab.io^
+||meiker.io^
 ||melonplayground.io^
 ||melonplayground.lol^
 ||melonplaygroundgame.org^
@@ -5599,9 +5603,11 @@
 ||paco123455.github.io^
 ||pacogames.com^
 ||padale323.github.io^
+||padlessbox.com^
 ||padlet.com^
 ||padletusercontent.com^
 ||pagamerican.app^
+||paisdelosjuegos.es^
 ||paisdelosjuegos.net^
 ||paixnidiaxl.gr^
 ||pancakegod62.github.io^
@@ -5973,6 +5979,7 @@
 ||playunblockedgames.bitbucket.io^
 ||playupi.com^
 ||playvio.io^
+||playvry.com^
 ||playwings.org^
 ||playwithyourmind.com^
 ||playwolfstudios.com^
@@ -8628,6 +8635,7 @@
 ||zone.msn.com^
 ||zone4game.com^
 ||zonedelta.github.io^
+||zoqgames.com^
 ||zplay.com^
 ||zqm-labs.github.io^
 ||zqurashi8.github.io^
