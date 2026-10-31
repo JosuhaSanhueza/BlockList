@@ -1232,6 +1232,7 @@
 ||catmario.org^
 ||catninja-unblocked.com^
 ||cattn.github.io^
+||cattype.io^
 ||causalzap.com^
 ||cavegame.io^
 ||cbgamesdev.github.io^
@@ -3317,6 +3318,7 @@
 ||gamevi.github.io^
 ||gameviora.com^
 ||gamevoi.com^
+||gamevolt.io^
 ||gamewarriorzone.top^
 ||gamewinner.fr^
 ||gamexp404.github.io^
@@ -4789,6 +4791,7 @@
 ||manasource.itch.io^
 ||mango.freetls.fastly.net^
 ||mango.global.ssl.fastly.net^
+||mangotype.io^
 ||manicpixeldream.github.io^
 ||manking2024.github.io^
 ||manomarichal.github.io^
@@ -6601,6 +6604,7 @@
 ||schach-spielen.eu^
 ||schacharena.de^
 ||schere14.github.io^
+||schoolgames.io^
 ||schoolgamethingy.github.io^
 ||schoolgms.github.io^
 ||schoolhackr.github.io^
@@ -7802,8 +7806,10 @@
 ||tylerdsoccer2014.github.io^
 ||tylerunblocked.github.io^
 ||typ127.github.io^
+||typearena.io^
 ||typingclub.com^
 ||typinggames.zone^
+||typinglab.github.io^
 ||typingstudy.com^
 ||typingtestdaily.com^
 ||tyran.io^

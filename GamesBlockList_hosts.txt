@@ -1233,6 +1233,7 @@
 0.0.0.0 catmario.org
 0.0.0.0 catninja-unblocked.com
 0.0.0.0 cattn.github.io
+0.0.0.0 cattype.io
 0.0.0.0 causalzap.com
 0.0.0.0 cavegame.io
 0.0.0.0 cbgamesdev.github.io
@@ -3318,6 +3319,7 @@
 0.0.0.0 gamevi.github.io
 0.0.0.0 gameviora.com
 0.0.0.0 gamevoi.com
+0.0.0.0 gamevolt.io
 0.0.0.0 gamewarriorzone.top
 0.0.0.0 gamewinner.fr
 0.0.0.0 gamexp404.github.io
@@ -4790,6 +4792,7 @@
 0.0.0.0 manasource.itch.io
 0.0.0.0 mango.freetls.fastly.net
 0.0.0.0 mango.global.ssl.fastly.net
+0.0.0.0 mangotype.io
 0.0.0.0 manicpixeldream.github.io
 0.0.0.0 manking2024.github.io
 0.0.0.0 manomarichal.github.io
@@ -6602,6 +6605,7 @@
 0.0.0.0 schach-spielen.eu
 0.0.0.0 schacharena.de
 0.0.0.0 schere14.github.io
+0.0.0.0 schoolgames.io
 0.0.0.0 schoolgamethingy.github.io
 0.0.0.0 schoolgms.github.io
 0.0.0.0 schoolhackr.github.io
@@ -7803,8 +7807,10 @@
 0.0.0.0 tylerdsoccer2014.github.io
 0.0.0.0 tylerunblocked.github.io
 0.0.0.0 typ127.github.io
+0.0.0.0 typearena.io
 0.0.0.0 typingclub.com
 0.0.0.0 typinggames.zone
+0.0.0.0 typinglab.github.io
 0.0.0.0 typingstudy.com
 0.0.0.0 typingtestdaily.com
 0.0.0.0 tyran.io
