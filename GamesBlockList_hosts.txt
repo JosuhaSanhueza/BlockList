@@ -1335,6 +1335,7 @@
 0.0.0.0 classes.global.ssl.fastly.net
 0.0.0.0 classgame77.com
 0.0.0.0 classic-retro-games.com
+0.0.0.0 classic.game
 0.0.0.0 classicarcade.win
 0.0.0.0 classicfreearcade.com
 0.0.0.0 classicgame.com

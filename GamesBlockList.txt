@@ -1334,6 +1334,7 @@
 ||classes.global.ssl.fastly.net^
 ||classgame77.com^
 ||classic-retro-games.com^
+||classic.game^
 ||classicarcade.win^
 ||classicfreearcade.com^
 ||classicgame.com^
