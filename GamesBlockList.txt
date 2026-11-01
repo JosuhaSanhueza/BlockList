@@ -3738,6 +3738,7 @@
 ||happy-wheels.co^
 ||happy-wheelsplay.com^
 ||happy401.github.io^
+||happykidgames.com^
 ||happywheels.cc^
 ||happywheels.com^
 ||happywheels.fr^
