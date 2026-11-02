@@ -610,6 +610,7 @@
 ||arjunshah-pixel.github.io^
 ||ark854.github.io^
 ||arkadium.com^
+||arkadiumhosted.com^
 ||arkai.win^
 ||arkanoidonline.com^
 ||arkerderacker.github.io^
@@ -2736,6 +2737,7 @@
 ||eaglercrafthub.com^
 ||eaglercrafthub.github.io^
 ||eaglercraftjava120.vercel.app^
+||eaglercraftminecraft.github.io^
 ||eaglercraftonline.bitbucket.io^
 ||eaglercraftonline.gitlab.io^
 ||eaglercraftservers.com^
@@ -3207,6 +3209,7 @@
 ||fnaf.online^
 ||fnaf.xyz^
 ||fnaf1.io^
+||fnaf3game.io^
 ||fnaf4game.io^
 ||fnaffree.io^
 ||fnaffree.org^
@@ -7821,6 +7824,7 @@
 ||run3.org^
 ||run3.pro^
 ||run3.web.app^
+||run3dgame.io^
 ||run3free.github.io^
 ||run3game.org^
 ||run3gamefree.com^
