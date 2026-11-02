@@ -2134,6 +2134,7 @@
 ||duckmathgames.com^
 ||duckmathgithubio-sable.vercel.app^
 ||duckmathlearning-dpwektsw5t93.edgeone.dev^
+||duckmaths.com^
 ||duckmayhem-v2.vercel.app^
 ||ducksum.freetls.fastly.net^
 ||ducksum.global.ssl.fastly.net^
@@ -2214,6 +2215,7 @@
 ||eaglercraft.tools^
 ||eaglercraft.top^
 ||eaglercraft.us^
+||eaglercraft.vip^
 ||eaglercraft.win^
 ||eaglercraft1-8.github.io^
 ||eaglercraft1220.github.io^
@@ -3386,6 +3388,7 @@
 ||garticphone.com^
 ||gasgasgoose.github.io^
 ||gatlin303.github.io^
+||gatoconbota.com^
 ||gats.io^
 ||gavinruls516.github.io^
 ||gavyn.alejandro.gitlab.io^
@@ -3412,6 +3415,7 @@
 ||geo-guessr.pages.dev^
 ||geoakser-afk.github.io^
 ||geodash.org^
+||geodashlite.org^
 ||geodashunblocked.com^
 ||geodashunblocked.github.io^
 ||geofungames.com^
@@ -4451,6 +4455,7 @@
 ||kbhgames.global.ssl.fastly.net^
 ||kbhgamesonline.github.io^
 ||kcheburek.github.io^
+||kdata1.com^
 ||kebabfanpl.github.io^
 ||keepwork.com^
 ||kelvenclay19.github.io^
@@ -6482,6 +6487,8 @@
 ||rivegames.com^
 ||rivercombat.com^
 ||rizz-inspector.github.io^
+||rizzy-ducks.freetls.fastly.net^
+||rizzy-ducks.global.ssl.fastly.net^
 ||rmy4143.github.io^
 ||rngrofl.github.io^
 ||robalexdev.gitlab.io^
@@ -7218,6 +7225,7 @@
 ||sprunksters.com^
 ||sprunky.org^
 ||sprunkygame.co^
+||sprunkygames.io^
 ||spunky.games^
 ||squaresgame.pages.dev^
 ||squid-game.pro^
@@ -7435,6 +7443,7 @@
 ||superhelmetsgame.com^
 ||superhex.io^
 ||superjocs.com^
+||superliquidsoccer-online.github.io^
 ||supermario-play.com^
 ||supermario.ee^
 ||supermario64.com^
