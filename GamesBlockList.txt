@@ -169,6 +169,7 @@
 ||2v2io.io^
 ||2vision-rubx.github.io^
 ||2ygty.github.io^
+||31005-sagab.duckdns.org^
 ||31005sagab.duckdns.org^
 ||365escape.com^
 ||37games.com^
@@ -1318,6 +1319,7 @@
 ||citadelofvoidisbest.freetls.fastly.net^
 ||citadelofvoidisbest.global.ssl.fastly.net^
 ||cittagames.com^
+||city-boyyyyyyyyy.duckdns.org^
 ||ciudadelas.net^
 ||civilitythegame.com^
 ||cjis6.github.io^
@@ -1643,6 +1645,7 @@
 ||crazymonkeygames.com^
 ||crazyschoolgames.com^
 ||createsomestufffr.duckdns.org^
+||creationgames.duckdns.org^
 ||credits.freetls.fastly.net^
 ||credits.global.ssl.fastly.net^
 ||creepydates.org^
@@ -2097,7 +2100,11 @@
 ||duckduckclicker.net^
 ||duckduckclicker.org^
 ||duckduckclicker3d.net^
+||duckduckduck.freetls.fastly.net^
+||duckduckduck.global.ssl.fastly.net^
 ||duckduckmath.com^
+||duckduckymath.freetls.fastly.net^
+||duckduckymath.global.ssl.fastly.net^
 ||ducklet.net^
 ||ducklife.app^
 ||ducklife.gitlab.io^
@@ -2122,6 +2129,12 @@
 ||duckmathgithubio-sable.vercel.app^
 ||duckmathlearning-dpwektsw5t93.edgeone.dev^
 ||duckmayhem-v2.vercel.app^
+||ducksum.freetls.fastly.net^
+||ducksum.global.ssl.fastly.net^
+||duckymath2.freetls.fastly.net^
+||duckymath2.global.ssl.fastly.net^
+||duckymath3.freetls.fastly.net^
+||duckymath3.global.ssl.fastly.net^
 ||duckyygames.github.io^
 ||duelboard.com^
 ||dumguy516-ship-it.github.io^
@@ -2620,6 +2633,7 @@
 ||flopsed.io^
 ||flqmedev.github.io^
 ||flyerarcade.vercel.app^
+||flygamestrue.duckdns.org^
 ||flymyxa.github.io^
 ||flynnira2011-star.github.io^
 ||flyordie.com^
@@ -2689,6 +2703,7 @@
 ||footballlegends.github.io^
 ||footballstrikeunblocked.github.io^
 ||fordhouseswolverhampton.duckdns.org^
+||fordhouseswolverhampton.duckdns.org.duckdns.org^
 ||forfr1.github.io^
 ||forgedreams-ai.github.io^
 ||forgeofempires.com^
@@ -2713,6 +2728,7 @@
 ||fred7cross-cpu.github.io^
 ||fredblumenthal27-blip.github.io^
 ||freddecgames.com^
+||free-11plus-math-games.duckdns.org^
 ||free-aigames.com^
 ||free-freecell-solitaire.com^
 ||free-games.bitbucket.io^
@@ -4837,6 +4853,7 @@
 ||math-a1.b-cdn.net^
 ||math-a2.b-cdn.net^
 ||math-playground.bitbucket.io^
+||mathacheivement.duckdns.org^
 ||matheducation.top^
 ||mathematical.freetls.fastly.net^
 ||mathematical.global.ssl.fastly.net^
@@ -5523,6 +5540,7 @@
 ||op.game^
 ||opal1056.github.io^
 ||opboi1234.github.io^
+||open-education.dns.navy^
 ||opendominion.net^
 ||opengames-dev.github.io^
 ||openhtml5games.com^
@@ -6635,6 +6653,7 @@
 ||seaguys.io^
 ||seanxiaori.github.io^
 ||seapusher.github.io^
+||search-now.duckdns.org^
 ||searchamateur.com^
 ||searide.io^
 ||sebbii59185.github.io^
@@ -6809,6 +6828,7 @@
 ||skylords.com^
 ||skynet000-hub.github.io^
 ||skyubgame.com^
+||slackerclassroom.duckdns.org^
 ||slapbattlesgame.com^
 ||sled.freetls.fastly.net^
 ||sled.global.ssl.fastly.net^
