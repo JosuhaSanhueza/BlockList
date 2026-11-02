@@ -2249,3 +2249,11 @@ gamenightcentral
 padlessbox
 gamingcouch
 zoqgames
+
+# --- Artículos "top paginas de juegos", GitHub topics (unblocked-games/eaglercraft/
+# io-games/friv-games) y búsqueda dirigida merge/clicker/escape room (3 confirmados:
+# pipygames, robokade, langwiligi; ernestdefoe.online descartado a mano -verificación
+# automática dio True pero es un foro Flarum genérico, no un sitio de juegos-), 2026-11-02 ---
+pipygames
+robokade
+langwiligi

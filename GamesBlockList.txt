@@ -4950,6 +4950,7 @@
 ||lamia-0ps.github.io^
 ||landofgames.ru^
 ||landsandlords.de^
+||langwiligi.site^
 ||lantanagames.com^
 ||lanterna-games.gitlab.io^
 ||larkinor.com^
@@ -6207,6 +6208,7 @@
 ||pingponggo.com^
 ||pinturillo2.com^
 ||pipehd54.github.io^
+||pipygames.com^
 ||pirongames.com^
 ||pixelantgames.com^
 ||pixelarena.netlify.app^
@@ -7003,6 +7005,7 @@
 ||robloxunblockedonline.gitlab.io^
 ||robo-galactic-shooter.netlify.app^
 ||roboaaron.github.io^
+||robokade.com^
 ||robsonfounar.github.io^
 ||robtopgames.com^
 ||robwood17.github.io^
