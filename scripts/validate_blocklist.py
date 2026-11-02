@@ -81,6 +81,14 @@ WHITELIST = {
     "fastly.com", "fastly.net", "fastlylb.net", "kickstarter.com",
     "archive.org", "scratch.mit.edu", "cartoonnetwork.es", "cartoonnetworkhq.com",
     # Contenido 100% educativo — ver comentario en scripts/update_blocklist.py
+    # Matemáticas y aula: decisión del administrador de no bloquearlos (2026-11-02). Los portales
+    # disfrazados con esos nombres (Classroom 6x, copias de Cool Math) sí se bloquean.
+    "mathgames.net", "mathgames.org", "math-gamesfree.com", "mathgameshub.com",
+    "mathgamesfree.io", "math-games-online.com", "coolmath.com", "playcoolmath.com",
+    "classroom-games.com", "classroomgames.org", "classroomgames.app", "freeschoolgames.com",
+    "classroom-games.pages.dev", "classroomgames.fun", "classroomgames.net",
+    "classroom-games.gitlab.io", "classroom-games.bitbucket.io", "classroomgames.bitbucket.io",
+    "cool-math-games.com",
     "mathplayground.com", "calculalo.app", "mathsframe.co.uk", "cristic.com",
     "world-geography-games.com", "juegos-geograficos.com", "sandboxeducacion.es",
     "tablasdemultiplicar.com", "tablas-multiplicar.com", "vedoque.com",

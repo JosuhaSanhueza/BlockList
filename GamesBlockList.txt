@@ -1655,11 +1655,8 @@
 ||classroom-6xx.github.io^
 ||classroom-games-ashy.vercel.app^
 ||classroom-games-unblocked.pages.dev^
-||classroom-games.bitbucket.io^
 ||classroom-games.github.io^
-||classroom-games.gitlab.io^
 ||classroom-games.net^
-||classroom-games.pages.dev^
 ||classroom-online-games.vercel.app^
 ||classroom-unblocked-games-10x.github.io^
 ||classroom-unblocked.github.io^
@@ -1699,10 +1696,7 @@
 ||classroom80x.com^
 ||classroom97.github.io^
 ||classroomgame.github.io^
-||classroomgames.bitbucket.io^
-||classroomgames.fun^
 ||classroomgames.io^
-||classroomgames.net^
 ||classroomgames.pages.dev^
 ||classroomgames.xyz^
 ||classroomlesson.github.io^
@@ -1860,7 +1854,6 @@
 ||cool-jeux.com^
 ||cool-math-games-unblocked.firebaseapp.com^
 ||cool-math-games-unblocked.web.app^
-||cool-math-games.com^
 ||cool-orpin.vercel.app^
 ||cool.freetls.fastly.net^
 ||cool.global.ssl.fastly.net^
