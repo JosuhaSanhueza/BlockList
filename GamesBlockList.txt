@@ -7435,6 +7435,7 @@
 ||sunsetgames.netlify.app^
 ||sunstudio.io^
 ||super-hex.io^
+||super-liquid-soccer.com^
 ||super-mario-bros.gitlab.io^
 ||super-stacker.com^
 ||supercitygame.com^
@@ -7443,7 +7444,12 @@
 ||superhelmetsgame.com^
 ||superhex.io^
 ||superjocs.com^
+||superliquid-soccer.com^
 ||superliquidsoccer-online.github.io^
+||superliquidsoccer-pro.github.io^
+||superliquidsoccer.games^
+||superliquidsoccer.github.io^
+||superliquidsoccer.org^
 ||supermario-play.com^
 ||supermario.ee^
 ||supermario64.com^
