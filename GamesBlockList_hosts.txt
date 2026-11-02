@@ -2379,6 +2379,7 @@
 0.0.0.0 eoboy.gitlab.io
 0.0.0.0 epic-craft.vercel.app
 0.0.0.0 epic704.github.io
+0.0.0.0 epicfreegames78.github.io
 0.0.0.0 epicgames.com
 0.0.0.0 epiconlinegames.com
 0.0.0.0 epicshq-maker.github.io
@@ -5519,6 +5520,7 @@
 0.0.0.0 oofmangus-2007.github.io
 0.0.0.0 oogwaymc.github.io
 0.0.0.0 ooooooooo.ooo
+0.0.0.0 oopsgames.io
 0.0.0.0 op.game
 0.0.0.0 opal1056.github.io
 0.0.0.0 opboi1234.github.io
@@ -5796,6 +5798,7 @@
 0.0.0.0 plasterboy83.github.io
 0.0.0.0 plate.freetls.fastly.net
 0.0.0.0 plate.global.ssl.fastly.net
+0.0.0.0 platformergames.io
 0.0.0.0 platformgames.io
 0.0.0.0 platinumgames.com
 0.0.0.0 platter.freetls.fastly.net
@@ -7072,12 +7075,15 @@
 0.0.0.0 sparxcorporation.github.io
 0.0.0.0 specterz.com
 0.0.0.0 spectrum.games
+0.0.0.0 speed-stars.io
 0.0.0.0 speedescape.io
 0.0.0.0 speedstars-unblocked.github.io
 0.0.0.0 speedstars.im
+0.0.0.0 speedstars.io
 0.0.0.0 speedstarsgame.io
 0.0.0.0 speedstarsonline.com
 0.0.0.0 speedstarsonline.io
+0.0.0.0 speedstarspc.github.io
 0.0.0.0 speedstarsunblocked.net
 0.0.0.0 speedyhammer999999.github.io
 0.0.0.0 speedysebas.github.io

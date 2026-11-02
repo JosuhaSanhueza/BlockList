@@ -2378,6 +2378,7 @@
 ||eoboy.gitlab.io^
 ||epic-craft.vercel.app^
 ||epic704.github.io^
+||epicfreegames78.github.io^
 ||epicgames.com^
 ||epiconlinegames.com^
 ||epicshq-maker.github.io^
@@ -5518,6 +5519,7 @@
 ||oofmangus-2007.github.io^
 ||oogwaymc.github.io^
 ||ooooooooo.ooo^
+||oopsgames.io^
 ||op.game^
 ||opal1056.github.io^
 ||opboi1234.github.io^
@@ -5795,6 +5797,7 @@
 ||plasterboy83.github.io^
 ||plate.freetls.fastly.net^
 ||plate.global.ssl.fastly.net^
+||platformergames.io^
 ||platformgames.io^
 ||platinumgames.com^
 ||platter.freetls.fastly.net^
@@ -7071,12 +7074,15 @@
 ||sparxcorporation.github.io^
 ||specterz.com^
 ||spectrum.games^
+||speed-stars.io^
 ||speedescape.io^
 ||speedstars-unblocked.github.io^
 ||speedstars.im^
+||speedstars.io^
 ||speedstarsgame.io^
 ||speedstarsonline.com^
 ||speedstarsonline.io^
+||speedstarspc.github.io^
 ||speedstarsunblocked.net^
 ||speedyhammer999999.github.io^
 ||speedysebas.github.io^
