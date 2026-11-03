@@ -228,6 +228,7 @@
 ||openart.ai^
 ||opencode.ai^
 ||openrouter.ai^
+||overchat.ai^
 ||paperpal.com^
 ||paraphraser.io^
 ||paraphrasingtool.ai^
