@@ -22,6 +22,7 @@
 ||answerai.pro^
 ||anthropic.com^
 ||arena.ai^
+||askaichat.app^
 ||askyourpdf.com^
 ||atalk-ai.com^
 ||augmentcode.com^
@@ -67,6 +68,7 @@
 ||chatlyai.app^
 ||chaton.ai^
 ||chatpdf.com^
+||chattide.ai^
 ||chattools.top^
 ||cici.com^
 ||ciciai.com^
@@ -89,6 +91,7 @@
 ||cursor.sh^
 ||cursor.so^
 ||deepai.org^
+||deeparena.ai^
 ||deepdreamgenerator.com^
 ||deepseek.com^
 ||deevid.ai^
@@ -176,6 +179,7 @@
 ||liner.com^
 ||lmarena.ai^
 ||lmstudio.ai^
+||longbridge.com^
 ||lovable.dev^
 ||luma.ai^
 ||lumalabs.ai^
