@@ -534,6 +534,7 @@
 0.0.0.0 aoortega007-arch.github.io
 0.0.0.0 apalabrados.github.io
 0.0.0.0 apatrick-ui.github.io
+0.0.0.0 apkblade.com
 0.0.0.0 apoorvammaganur792-droid.github.io
 0.0.0.0 app.3daimtrainer.com
 0.0.0.0 applaudedadam-beep.github.io
@@ -1410,6 +1411,7 @@
 0.0.0.0 burdlad.github.io
 0.0.0.0 burnoutdrift.firebaseapp.com
 0.0.0.0 burnoutdrift.web.app
+0.0.0.0 burrito-craft.com
 0.0.0.0 burritobison-online.github.io
 0.0.0.0 burritobison-unblocked.com
 0.0.0.0 burritobison.github.io
@@ -1417,6 +1419,7 @@
 0.0.0.0 burritobison.org
 0.0.0.0 burritobisononline.gitlab.io
 0.0.0.0 burritobisonrevenge.github.io
+0.0.0.0 burritocraft.io
 0.0.0.0 bus-simulator.firebaseapp.com
 0.0.0.0 bus-simulator.web.app
 0.0.0.0 buscaminas-pro.com
@@ -1456,6 +1459,7 @@
 0.0.0.0 candycrush.com
 0.0.0.0 candycrush.gitlab.io
 0.0.0.0 candycrush.org
+0.0.0.0 candycrushable.com
 0.0.0.0 cannotbeblankt.github.io
 0.0.0.0 canopian.com
 0.0.0.0 capprime.netlify.app
@@ -2632,6 +2636,7 @@
 0.0.0.0 duckmath.com
 0.0.0.0 duckmath.freetls.fastly.net
 0.0.0.0 duckmath.global.ssl.fastly.net
+0.0.0.0 duckmath.io
 0.0.0.0 duckmath.it.com
 0.0.0.0 duckmath.org
 0.0.0.0 duckmath.pages.dev
@@ -3248,9 +3253,12 @@
 0.0.0.0 fnf.gg
 0.0.0.0 fnfans.com
 0.0.0.0 fnffree.io
+0.0.0.0 fnfgame.co
 0.0.0.0 fnfgame.io
 0.0.0.0 fnfgame24.github.io
+0.0.0.0 fnfgameonline.io
 0.0.0.0 fnfgamesonline.github.io
+0.0.0.0 fnfgaming.com
 0.0.0.0 fnfgo.com
 0.0.0.0 fnfmod.online
 0.0.0.0 fnfmods.io
@@ -4306,6 +4314,7 @@
 0.0.0.0 golforbitgame.com
 0.0.0.0 golforbitunblocked.github.io
 0.0.0.0 gombis.com
+0.0.0.0 gombis.es
 0.0.0.0 gombis.fr
 0.0.0.0 gomestable.netlify.app
 0.0.0.0 gominigames.com
@@ -8458,6 +8467,7 @@
 0.0.0.0 softgames.de
 0.0.0.0 softrains.games
 0.0.0.0 sojogar.com.br
+0.0.0.0 solarsmashonline.com
 0.0.0.0 solarstreamer.github.io
 0.0.0.0 solems.github.io
 0.0.0.0 solitair.ee

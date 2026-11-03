@@ -533,6 +533,7 @@
 ||aoortega007-arch.github.io^
 ||apalabrados.github.io^
 ||apatrick-ui.github.io^
+||apkblade.com^
 ||apoorvammaganur792-droid.github.io^
 ||app.3daimtrainer.com^
 ||applaudedadam-beep.github.io^
@@ -1409,6 +1410,7 @@
 ||burdlad.github.io^
 ||burnoutdrift.firebaseapp.com^
 ||burnoutdrift.web.app^
+||burrito-craft.com^
 ||burritobison-online.github.io^
 ||burritobison-unblocked.com^
 ||burritobison.github.io^
@@ -1416,6 +1418,7 @@
 ||burritobison.org^
 ||burritobisononline.gitlab.io^
 ||burritobisonrevenge.github.io^
+||burritocraft.io^
 ||bus-simulator.firebaseapp.com^
 ||bus-simulator.web.app^
 ||buscaminas-pro.com^
@@ -1455,6 +1458,7 @@
 ||candycrush.com^
 ||candycrush.gitlab.io^
 ||candycrush.org^
+||candycrushable.com^
 ||cannotbeblankt.github.io^
 ||canopian.com^
 ||capprime.netlify.app^
@@ -2631,6 +2635,7 @@
 ||duckmath.com^
 ||duckmath.freetls.fastly.net^
 ||duckmath.global.ssl.fastly.net^
+||duckmath.io^
 ||duckmath.it.com^
 ||duckmath.org^
 ||duckmath.pages.dev^
@@ -3247,9 +3252,12 @@
 ||fnf.gg^
 ||fnfans.com^
 ||fnffree.io^
+||fnfgame.co^
 ||fnfgame.io^
 ||fnfgame24.github.io^
+||fnfgameonline.io^
 ||fnfgamesonline.github.io^
+||fnfgaming.com^
 ||fnfgo.com^
 ||fnfmod.online^
 ||fnfmods.io^
@@ -4305,6 +4313,7 @@
 ||golforbitgame.com^
 ||golforbitunblocked.github.io^
 ||gombis.com^
+||gombis.es^
 ||gombis.fr^
 ||gomestable.netlify.app^
 ||gominigames.com^
@@ -8457,6 +8466,7 @@
 ||softgames.de^
 ||softrains.games^
 ||sojogar.com.br^
+||solarsmashonline.com^
 ||solarstreamer.github.io^
 ||solems.github.io^
 ||solitair.ee^
