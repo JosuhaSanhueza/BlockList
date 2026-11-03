@@ -1689,6 +1689,7 @@
 0.0.0.0 classroom6x.school
 0.0.0.0 classroom6x.us.com
 0.0.0.0 classroom6x.web.app
+0.0.0.0 classroom6x9.gitlab.io
 0.0.0.0 classroom6xgame.pages.dev
 0.0.0.0 classroom6xgg.github.io
 0.0.0.0 classroom6xonline.github.io
@@ -10210,6 +10211,7 @@
 0.0.0.0 windows10fan648.github.io
 0.0.0.0 wings.io
 0.0.0.0 winklegames.github.io
+0.0.0.0 winlator.gitlab.io
 0.0.0.0 winrogames.com
 0.0.0.0 winternightgames.com
 0.0.0.0 winzygame.com

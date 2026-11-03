@@ -1688,6 +1688,7 @@
 ||classroom6x.school^
 ||classroom6x.us.com^
 ||classroom6x.web.app^
+||classroom6x9.gitlab.io^
 ||classroom6xgame.pages.dev^
 ||classroom6xgg.github.io^
 ||classroom6xonline.github.io^
@@ -10209,6 +10210,7 @@
 ||windows10fan648.github.io^
 ||wings.io^
 ||winklegames.github.io^
+||winlator.gitlab.io^
 ||winrogames.com^
 ||winternightgames.com^
 ||winzygame.com^
