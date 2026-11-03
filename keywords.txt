@@ -2257,3 +2257,13 @@ zoqgames
 pipygames
 robokade
 langwiligi
+
+# --- Artículos "mejores páginas de juegos online"/trivia quiz/retro arcade/idle
+# clicker (5 confirmados: brainpickle, doquizzes, horadejuegos, clickergaming,
+# retroarcade; triviamaker.com y eneba.com dejados para revisión -tool de
+# profesor/marketplace de claves, no sitio jugable-), 2026-11-03 ---
+brainpickle
+doquizzes
+horadejuegos
+clickergaming
+retroarcade

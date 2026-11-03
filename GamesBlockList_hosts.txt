@@ -1256,6 +1256,7 @@
 0.0.0.0 brain-lines.io
 0.0.0.0 brainide.com
 0.0.0.0 brainking.com
+0.0.0.0 brainpickle.app
 0.0.0.0 brainplay.com
 0.0.0.0 brainrot-clicker-online.vercel.app
 0.0.0.0 brainrot-game.io
@@ -1718,6 +1719,7 @@
 0.0.0.0 clicker-heroes.io
 0.0.0.0 clickergames.io
 0.0.0.0 clickergamesaz.io
+0.0.0.0 clickergaming.com
 0.0.0.0 clickerheroes.com
 0.0.0.0 clickerheroes.firebaseapp.com
 0.0.0.0 clickerheroes.org
@@ -2399,6 +2401,7 @@
 0.0.0.0 doodoo.love
 0.0.0.0 doodoolove.github.io
 0.0.0.0 doomlord.net
+0.0.0.0 doquizzes.com
 0.0.0.0 dordle.gg
 0.0.0.0 dordle.io
 0.0.0.0 dordle.online
@@ -4662,6 +4665,7 @@
 0.0.0.0 hopekuf.github.io
 0.0.0.0 hopesgames.online
 0.0.0.0 hopgames.online
+0.0.0.0 horadejuegos.com
 0.0.0.0 horallapenjo.github.io
 0.0.0.0 hornex.pro
 0.0.0.0 horrorgames.io
@@ -7579,6 +7583,7 @@
 0.0.0.0 resent5.pages.dev
 0.0.0.0 restlessmonkeyking.github.io
 0.0.0.0 resurviv.biz
+0.0.0.0 retro-arcade.org
 0.0.0.0 retro-bowl-25.github.io
 0.0.0.0 retro-bowl-56x.github.io
 0.0.0.0 retro-bowl-75.github.io
