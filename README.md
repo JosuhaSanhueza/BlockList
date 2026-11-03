@@ -22,6 +22,8 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 | Games (Hosts) | [GamesBlockList_hosts.txt](https://raw.githubusercontent.com/JosuhaSanhueza/BlockList/main/GamesBlockList_hosts.txt) | Páginas de juegos, formato hosts estándar. |
 | Windows Update | [WindowsUpdate.txt](https://raw.githubusercontent.com/JosuhaSanhueza/BlockList/main/WindowsUpdate.txt) | Bloqueo de actualizaciones de Windows. |
 | Google Update | [GoogleUpdate.txt](https://raw.githubusercontent.com/JosuhaSanhueza/BlockList/main/GoogleUpdate.txt) | Bloqueo de actualizaciones de Google. |
+| AI tools (AdGuard) | [AIBlockList.txt](https://raw.githubusercontent.com/JosuhaSanhueza/BlockList/main/AIBlockList.txt) | Chats de IA, resolvedores de tareas, redacción, programación y generadores |
+| AI companions (AdGuard) | [AICompanionBlockList.txt](https://raw.githubusercontent.com/JosuhaSanhueza/BlockList/main/AICompanionBlockList.txt) | IA de personajes, compañía, rol y contenido para adultos |
 
 ## ⚙️ Mantenimiento automático
 
@@ -33,7 +35,7 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 Mantenido por **Josuha Sanhueza (EscolarApp)**.
 
 - **Listas** (`GamesBlockList.txt`, `GamesBlockList_hosts.txt`, `WindowsUpdate.txt`,
-  `GoogleUpdate.txt`, `keywords.txt`): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+  `GoogleUpdate.txt`, `keywords.txt`, `AIBlockList.txt`, `AICompanionBlockList.txt`): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
   ([texto completo](LICENSE-LISTS)). Puedes usarlas y adaptarlas **citando este repositorio**,
   **sin fines comerciales** y compartiendo tus cambios con la misma licencia.
 - **Código** (`scripts/`, `tests/`, `.github/`): [MIT](LICENSE).
