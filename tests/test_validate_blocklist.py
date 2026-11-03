@@ -14,6 +14,10 @@ class TestCheckLine:
         errors, domain = check_line("# comentario", 1, set())
         assert errors == [] and domain is None
 
+    def test_ai_companion_is_rejected(self):
+        errors, _ = check_line("||janitorai.com^", 1, set())
+        assert any("AICompanionBlockList" in e for e in errors)
+
     def test_invalid_syntax_missing_prefix(self):
         errors, domain = check_line("poki.com^", 1, set())
         assert len(errors) == 1
