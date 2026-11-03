@@ -8,6 +8,7 @@ dominio se decide después (mismo criterio que la lista de juegos).
 import concurrent.futures
 import html
 import os
+import random
 import re
 import ssl
 import sys
@@ -141,7 +142,9 @@ def main():
             print(f"[!] Fuente no disponible: {url} ({exc})", file=sys.stderr)
 
     known = load_known()
-    pending = sorted(d for d in candidates if not is_covered(d, known))[:MAX_FETCH]
+    # Al azar: los sitios sin señales no se guardan, y en orden siempre se visitarían los mismos.
+    pending = [d for d in candidates if not is_covered(d, known)]
+    pending = random.sample(pending, min(len(pending), MAX_FETCH))
     print(f"[*] {len(candidates)} dominios en las fuentes, {len(pending)} por visitar.", file=sys.stderr)
 
     shown = 0
