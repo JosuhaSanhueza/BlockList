@@ -59,9 +59,9 @@ VALID_TLDS = (
 )
 
 try:
-    from validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
+    from validate_blocklist import AI_COMPANIONS, SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
 except ImportError:
-    from scripts.validate_blocklist import SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
+    from scripts.validate_blocklist import AI_COMPANIONS, SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
 
 # Plataformas de hosting compartido donde NO debemos consolidar al apex domain
 SHARED_HOSTING_PLATFORMS = (
@@ -540,6 +540,9 @@ def process_single_keyword(kw):
     return res
 
 def is_game_website(domain):
+    if domain in AI_COMPANIONS:
+        return False
+
     root_dom = get_root_domain(domain)
     if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS and not is_fastly_service(domain):
         if domain in WHITELIST or root_dom in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST) or any(root_dom.endswith("." + w) for w in WHITELIST):

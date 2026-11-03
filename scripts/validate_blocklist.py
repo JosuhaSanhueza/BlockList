@@ -44,7 +44,7 @@ POPULAR_APPROVED = {
     "poki.com", "crazygames.com", "lichess.org", "playhop.com", "cardgames.io", "aternos.org",
     "gamebanana.com", "minecraft.net", "zynga.com", "runescape.com", "my.games", "newgrounds.com",
     "king.com", "jigsawplanet.com", "miniclip.com", "solitaired.com", "coolmathgames.com",
-    "neal.fun", "boardgamearena.com", "gameforge.com", "nitrotype.com", "emochi.com", "friv.com",
+    "neal.fun", "boardgamearena.com", "gameforge.com", "nitrotype.com", "friv.com",
     "lagged.com", "ankergames.net",
     # Buscador con sección de juegos (yandex.com/games) que el DNS no puede separar: se
     # bloquea completo por decisión explícita (2026-10-19).
@@ -55,13 +55,24 @@ POPULAR_APPROVED = {
     # Roblox y su CDN: se bloquean desde la lista de juegos (no desde Servicios bloqueados) para
     # que el botón "Permitir juegos" del docente lo controle (2026-10-20).
     "roblox.com", "rbxcdn.com",
-    # Pedidos explícitamente (2026-10-22): mods de juegos (CurseForge), rankings de juegos y
-    # personajes (TierMaker) y chat de rol con IA (PolyBuzz).
-    "curseforge.com", "tiermaker.com", "polybuzz.ai",
+    # Pedidos explícitamente (2026-10-22): mods de juegos (CurseForge) y rankings de juegos y
+    # personajes (TierMaker).
+    "curseforge.com", "tiermaker.com",
     # Aprobados en el panel del auditor (2026-10-19), confirmados el 2026-10-24: Xbox (incluye
     # Xbox Cloud Gaming en el navegador) y el emulador de Android BlueStacks.
     "xbox.com", "bluestacks.com",
 }
+
+
+def load_ai_companions():
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "AICompanionBlockList.txt")
+    with open(path, encoding="utf-8") as f:
+        return {l.strip()[2:-1] for l in f if l.startswith("||")}
+
+
+# La IA de personajes no tiene switch, pero un sitio que también esté en la lista de juegos se
+# abriría con "Permitir juegos": el DNS responde con una sola regla y puede ser la de juegos.
+AI_COMPANIONS = load_ai_companions()
 
 
 def load_popular():
@@ -148,6 +159,11 @@ def check_line(line_clean, line_num, domains_seen):
     # 3. Un dominio compartido completo bloquearía miles de sitios sin relación.
     if domain in SHARED_SUFFIXES:
         errors.append(f"Línea {line_num}: CRÍTICO - Dominio compartido completo '{domain}': bloqueá el subdominio.")
+
+    # 3. La IA de personajes va solo en su propia lista.
+    if domain in AI_COMPANIONS:
+        errors.append(f"Línea {line_num}: '{domain}' ya está en AICompanionBlockList.txt: en esta lista "
+                      f"se abriría con \"Permitir juegos\".")
 
     # 3a. Un sitio muy popular casi siempre es infraestructura: requiere aprobación explícita.
     if domain in POPULAR and domain not in POPULAR_APPROVED:

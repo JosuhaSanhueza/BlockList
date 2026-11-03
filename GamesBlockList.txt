@@ -2858,7 +2858,6 @@
 ||emberlockgames.github.io^
 ||emberwars.io^
 ||emmegray.github.io^
-||emochi.com^
 ||emojitest.com^
 ||emolingo.games^
 ||emperorvon.duckdns.org^
@@ -7225,7 +7224,6 @@
 ||poly-track.top^
 ||poly-trackgame.com^
 ||polybackup.github.io^
-||polybuzz.ai^
 ||polytrack-3d.vercel.app^
 ||polytrack-eight.vercel.app^
 ||polytrack-games.pages.dev^
