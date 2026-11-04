@@ -207,6 +207,7 @@
 ||myessaywriter.ai^
 ||mygpt.thesamur.ai^
 ||mymap.ai^
+||nanogpt.com^
 ||napkin.ai^
 ||naturalwrite.com^
 ||netus.ai^

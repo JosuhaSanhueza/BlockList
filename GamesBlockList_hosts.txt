@@ -696,6 +696,7 @@
 0.0.0.0 aug66.github.io
 0.0.0.0 austin9361.github.io
 0.0.0.0 authsrng.xyz
+0.0.0.0 autowebgames.com
 0.0.0.0 avandagame.com
 0.0.0.0 avangame.com
 0.0.0.0 avi-patel-game-hub.vercel.app
@@ -1190,6 +1191,7 @@
 0.0.0.0 boardgamearena.com
 0.0.0.0 boardgamecentral.com
 0.0.0.0 boardgameman.com
+0.0.0.0 boardgames247.com
 0.0.0.0 boardgamesonline.net
 0.0.0.0 boardgamespub.com
 0.0.0.0 boardgameuniverse.com
@@ -6358,6 +6360,7 @@
 0.0.0.0 neymarkingingyt.github.io
 0.0.0.0 ngswing.com
 0.0.0.0 nhineety.github.io
+0.0.0.0 nicecargames.com
 0.0.0.0 nick77331.github.io
 0.0.0.0 nickelodeongame.com
 0.0.0.0 nickesc.github.io
@@ -8641,6 +8644,7 @@
 0.0.0.0 sports-games.io
 0.0.0.0 sportsgames.gitlab.io
 0.0.0.0 sportsgamesaz.io
+0.0.0.0 sportwebgames.com
 0.0.0.0 spotlightongames.com
 0.0.0.0 spotygames.com
 0.0.0.0 spoutog.github.io

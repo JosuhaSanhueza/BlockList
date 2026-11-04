@@ -695,6 +695,7 @@
 ||aug66.github.io^
 ||austin9361.github.io^
 ||authsrng.xyz^
+||autowebgames.com^
 ||avandagame.com^
 ||avangame.com^
 ||avi-patel-game-hub.vercel.app^
@@ -1189,6 +1190,7 @@
 ||boardgamearena.com^
 ||boardgamecentral.com^
 ||boardgameman.com^
+||boardgames247.com^
 ||boardgamesonline.net^
 ||boardgamespub.com^
 ||boardgameuniverse.com^
@@ -6357,6 +6359,7 @@
 ||neymarkingingyt.github.io^
 ||ngswing.com^
 ||nhineety.github.io^
+||nicecargames.com^
 ||nick77331.github.io^
 ||nickelodeongame.com^
 ||nickesc.github.io^
@@ -8640,6 +8643,7 @@
 ||sports-games.io^
 ||sportsgames.gitlab.io^
 ||sportsgamesaz.io^
+||sportwebgames.com^
 ||spotlightongames.com^
 ||spotygames.com^
 ||spoutog.github.io^

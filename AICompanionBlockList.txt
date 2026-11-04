@@ -69,8 +69,10 @@
 ||spicychat.ai^
 ||sugarlab.ai^
 ||swipey.ai^
+||talkai.chat^
 ||talkie-ai.com^
 ||tavernai.net^
 ||unstability.ai^
 ||venice.ai^
+||xoul.ai^
 ||yodayo.com^
