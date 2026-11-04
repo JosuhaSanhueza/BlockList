@@ -31,6 +31,7 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 
 - **Diario** ([daily_blocklist.yml](.github/workflows/daily_blocklist.yml)): busca nuevos dominios de páginas de juegos a partir de `keywords.txt`, los valida y actualiza `GamesBlockList.txt` / `GamesBlockList_hosts.txt`.
 - **Días hábiles** ([ai_candidates.py](scripts/ai_candidates.py)): busca candidatos nuevos para las listas de IA, que se revisan uno a uno antes de agregarlos.
+- **Miércoles** ([media_candidates.py](scripts/media_candidates.py)): busca candidatos nuevos para las listas de anime y hentai, que se revisan uno a uno antes de agregarlos.
 - **Anual** ([yearly_cleanup.yml](.github/workflows/yearly_cleanup.yml)): revisa toda la lista y elimina dominios que ya no responden (ni HTTP/HTTPS ni DNS), dado que las páginas de juegos suelen tener vida útil larga.
 
 ## 📄 Licencia
