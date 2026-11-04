@@ -397,6 +397,7 @@
 ||aidentrevino-droid.github.io^
 ||aigameshare.com^
 ||airconsole.com^
+||airconsole.io^
 ||airoyale007.github.io^
 ||airplanegame.us^
 ||airplanegames.org^
@@ -822,6 +823,7 @@
 ||basgroos.github.io^
 ||basicallygames.com^
 ||basim103basim.github.io^
+||basket-ball-random.bitbucket.io^
 ||basket-bros-unblocked.github.io^
 ||basket-random-games.github.io^
 ||basket-random-unblocked.netlify.app^
@@ -1078,6 +1080,7 @@
 ||block-blast-unblocked.com^
 ||block-blast-unblocked.pages.dev^
 ||block-blast.app^
+||block-blast.bitbucket.io^
 ||block-blast.com^
 ||block-blast.gg^
 ||block-blast.io^
@@ -6880,6 +6883,7 @@
 ||planetcapture.io^
 ||planete-games.com^
 ||plants-vs-brainrots.io^
+||plants-vs-zombies.bitbucket.io^
 ||plantshley.github.io^
 ||plantsvs-zombies.pages.dev^
 ||plantsvszombies.onl^
@@ -9489,6 +9493,7 @@
 ||tsyuay.github.io^
 ||ttvmythical.github.io^
 ||tubeboiii.github.io^
+||tubeclicker.com^
 ||tubeclicker.io^
 ||tubzi.org^
 ||tuckerlikesbees.github.io^

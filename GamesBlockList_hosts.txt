@@ -398,6 +398,7 @@
 0.0.0.0 aidentrevino-droid.github.io
 0.0.0.0 aigameshare.com
 0.0.0.0 airconsole.com
+0.0.0.0 airconsole.io
 0.0.0.0 airoyale007.github.io
 0.0.0.0 airplanegame.us
 0.0.0.0 airplanegames.org
@@ -823,6 +824,7 @@
 0.0.0.0 basgroos.github.io
 0.0.0.0 basicallygames.com
 0.0.0.0 basim103basim.github.io
+0.0.0.0 basket-ball-random.bitbucket.io
 0.0.0.0 basket-bros-unblocked.github.io
 0.0.0.0 basket-random-games.github.io
 0.0.0.0 basket-random-unblocked.netlify.app
@@ -1079,6 +1081,7 @@
 0.0.0.0 block-blast-unblocked.com
 0.0.0.0 block-blast-unblocked.pages.dev
 0.0.0.0 block-blast.app
+0.0.0.0 block-blast.bitbucket.io
 0.0.0.0 block-blast.com
 0.0.0.0 block-blast.gg
 0.0.0.0 block-blast.io
@@ -6881,6 +6884,7 @@
 0.0.0.0 planetcapture.io
 0.0.0.0 planete-games.com
 0.0.0.0 plants-vs-brainrots.io
+0.0.0.0 plants-vs-zombies.bitbucket.io
 0.0.0.0 plantshley.github.io
 0.0.0.0 plantsvs-zombies.pages.dev
 0.0.0.0 plantsvszombies.onl
@@ -9490,6 +9494,7 @@
 0.0.0.0 tsyuay.github.io
 0.0.0.0 ttvmythical.github.io
 0.0.0.0 tubeboiii.github.io
+0.0.0.0 tubeclicker.com
 0.0.0.0 tubeclicker.io
 0.0.0.0 tubzi.org
 0.0.0.0 tuckerlikesbees.github.io
