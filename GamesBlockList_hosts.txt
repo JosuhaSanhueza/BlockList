@@ -723,6 +723,7 @@
 0.0.0.0 azaleasdolls.com
 0.0.0.0 azatlik29.github.io
 0.0.0.0 azenark.github.io
+0.0.0.0 azgame.io
 0.0.0.0 azgames.io
 0.0.0.0 azimdesings.github.io
 0.0.0.0 azurgames.com
@@ -1478,6 +1479,7 @@
 0.0.0.0 capybaragames.com
 0.0.0.0 car-games-unblocked-five.vercel.app
 0.0.0.0 car-parking-game.netlify.app
+0.0.0.0 car-simulator.com
 0.0.0.0 caraccio.itch.io
 0.0.0.0 cardgames.io
 0.0.0.0 cardgamesolitaire.com
@@ -1908,6 +1910,7 @@
 0.0.0.0 copero.com.ar
 0.0.0.0 copter.io
 0.0.0.0 copterroyale.org
+0.0.0.0 copy.sh
 0.0.0.0 copyofmasite.pages.dev
 0.0.0.0 corriscant.github.io
 0.0.0.0 coscoman262.github.io
@@ -1925,6 +1928,7 @@
 0.0.0.0 cozygame.io
 0.0.0.0 cozygames-ten.vercel.app
 0.0.0.0 cozynxis.github.io
+0.0.0.0 cplegacy.com
 0.0.0.0 cpscount.com
 0.0.0.0 cpsgames.org
 0.0.0.0 cpstest.click
@@ -2732,6 +2736,7 @@
 0.0.0.0 eaglercraft.ir
 0.0.0.0 eaglercraft.is
 0.0.0.0 eaglercraft.q13x.com
+0.0.0.0 eaglercraft.studio
 0.0.0.0 eaglercraft.tools
 0.0.0.0 eaglercraft.top
 0.0.0.0 eaglercraft.us
@@ -3752,6 +3757,7 @@
 0.0.0.0 gameload.fun
 0.0.0.0 gamelog.cc
 0.0.0.0 gameloomh5.com
+0.0.0.0 gameloop.com
 0.0.0.0 gameluster.com
 0.0.0.0 gamelybyte.com
 0.0.0.0 gamemakerims.github.io
@@ -4891,6 +4897,7 @@
 0.0.0.0 interstellarisbackguys.global.ssl.fastly.net
 0.0.0.0 interval.statisticscontest.com
 0.0.0.0 invisiproxy.com
+0.0.0.0 inxanitylabs.com
 0.0.0.0 io-game.com
 0.0.0.0 io-games-online.com
 0.0.0.0 io-games.co
@@ -5930,6 +5937,7 @@
 0.0.0.0 minecraft-web-ub25.vercel.app
 0.0.0.0 minecraft.com
 0.0.0.0 minecraft.net
+0.0.0.0 minecraft.pl
 0.0.0.0 minecraft194eaglercraft.weebly.com
 0.0.0.0 minecraftclassic.firebaseapp.com
 0.0.0.0 minecraftclassic.online
@@ -6788,6 +6796,7 @@
 0.0.0.0 pbmcube.com
 0.0.0.0 pbskids.org
 0.0.0.0 pcastromendez1971-eng.github.io
+0.0.0.0 pcjs.org
 0.0.0.0 pcmobilegames.com
 0.0.0.0 pcriver.github.io
 0.0.0.0 peargames4help-code.github.io
@@ -7062,6 +7071,7 @@
 0.0.0.0 playminesweeper.org
 0.0.0.0 playminigames.com
 0.0.0.0 playminigames.net
+0.0.0.0 playminigames.ru
 0.0.0.0 playmonkeymart.com
 0.0.0.0 playmonkeymart.online
 0.0.0.0 playmoregame.cc

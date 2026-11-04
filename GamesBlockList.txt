@@ -722,6 +722,7 @@
 ||azaleasdolls.com^
 ||azatlik29.github.io^
 ||azenark.github.io^
+||azgame.io^
 ||azgames.io^
 ||azimdesings.github.io^
 ||azurgames.com^
@@ -1477,6 +1478,7 @@
 ||capybaragames.com^
 ||car-games-unblocked-five.vercel.app^
 ||car-parking-game.netlify.app^
+||car-simulator.com^
 ||caraccio.itch.io^
 ||cardgames.io^
 ||cardgamesolitaire.com^
@@ -1907,6 +1909,7 @@
 ||copero.com.ar^
 ||copter.io^
 ||copterroyale.org^
+||copy.sh^
 ||copyofmasite.pages.dev^
 ||corriscant.github.io^
 ||coscoman262.github.io^
@@ -1924,6 +1927,7 @@
 ||cozygame.io^
 ||cozygames-ten.vercel.app^
 ||cozynxis.github.io^
+||cplegacy.com^
 ||cpscount.com^
 ||cpsgames.org^
 ||cpstest.click^
@@ -2731,6 +2735,7 @@
 ||eaglercraft.ir^
 ||eaglercraft.is^
 ||eaglercraft.q13x.com^
+||eaglercraft.studio^
 ||eaglercraft.tools^
 ||eaglercraft.top^
 ||eaglercraft.us^
@@ -3751,6 +3756,7 @@
 ||gameload.fun^
 ||gamelog.cc^
 ||gameloomh5.com^
+||gameloop.com^
 ||gameluster.com^
 ||gamelybyte.com^
 ||gamemakerims.github.io^
@@ -4890,6 +4896,7 @@
 ||interstellarisbackguys.global.ssl.fastly.net^
 ||interval.statisticscontest.com^
 ||invisiproxy.com^
+||inxanitylabs.com^
 ||io-game.com^
 ||io-games-online.com^
 ||io-games.co^
@@ -5929,6 +5936,7 @@
 ||minecraft-web-ub25.vercel.app^
 ||minecraft.com^
 ||minecraft.net^
+||minecraft.pl^
 ||minecraft194eaglercraft.weebly.com^
 ||minecraftclassic.firebaseapp.com^
 ||minecraftclassic.online^
@@ -6787,6 +6795,7 @@
 ||pbmcube.com^
 ||pbskids.org^
 ||pcastromendez1971-eng.github.io^
+||pcjs.org^
 ||pcmobilegames.com^
 ||pcriver.github.io^
 ||peargames4help-code.github.io^
@@ -7061,6 +7070,7 @@
 ||playminesweeper.org^
 ||playminigames.com^
 ||playminigames.net^
+||playminigames.ru^
 ||playmonkeymart.com^
 ||playmonkeymart.online^
 ||playmoregame.cc^
