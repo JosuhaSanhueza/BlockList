@@ -341,6 +341,7 @@
 ||adjust.global.ssl.fastly.net^
 ||admeen.com^
 ||admin-hub-games.vercel.app^
+||adogames.com^
 ||adoluxgames.com^
 ||adsgames.net^
 ||aduckwalkeduptoalemonadestandandhesaidto.duckdns.org^
@@ -1563,7 +1564,6 @@
 ||chess-online.games^
 ||chess-online.net^
 ||chess-online.org^
-||chess.com^
 ||chess.game^
 ||chess.org^
 ||chessbin.com^
@@ -1935,6 +1935,7 @@
 ||craftpix.net^
 ||crash-casino-games-18.vercel.app^
 ||crashgames.com^
+||craziestsub-domain.duckdns.org^
 ||crazy-cattle-3d-2.pages.dev^
 ||crazy-cattle-3d-76.github.io^
 ||crazy-cattle-3d.bitbucket.io^
@@ -2602,6 +2603,7 @@
 ||duck-math.net^
 ||duck-math.netlify.app^
 ||duck.alltutors.org^
+||duck.deepresearch2markdown.com^
 ||duck.exampredictor.org^
 ||duck.quackprep.com^
 ||duckclicker.io^
@@ -2617,6 +2619,7 @@
 ||duckduckmath.com^
 ||duckduckymath.freetls.fastly.net^
 ||duckduckymath.global.ssl.fastly.net^
+||ducklessons.com^
 ||ducklet.net^
 ||ducklife.app^
 ||ducklife.firebaseapp.com^
@@ -2647,6 +2650,8 @@
 ||duckmathlearning-dpwektsw5t93.edgeone.dev^
 ||duckmaths.com^
 ||duckmayhem-v2.vercel.app^
+||duckscience.duckdns.org^
+||ducksum.com^
 ||ducksum.freetls.fastly.net^
 ||ducksum.global.ssl.fastly.net^
 ||duckymath2.freetls.fastly.net^
@@ -3612,6 +3617,7 @@
 ||furryrefuge.com^
 ||fusion-formula.b-cdn.net^
 ||futbol-11.com^
+||futbol11.com^
 ||futureproofgames.com^
 ||fuzigames.com^
 ||fyscloud01.gitlab.io^
@@ -5533,7 +5539,6 @@
 ||lfoti95-crypto.github.io^
 ||libregames.gitlab.io^
 ||lich.com^
-||lichess.org^
 ||lidowg2011.github.io^
 ||lieutran27787-web.github.io^
 ||lifeskillsprogram.net^
@@ -5764,6 +5769,7 @@
 ||matheusls.github.io^
 ||mathevolve.com^
 ||mathgames.com^
+||mathlessons.b-cdn.net^
 ||mathlete.freetls.fastly.net^
 ||mathlete.global.ssl.fastly.net^
 ||mathlete.pages.dev^
@@ -7932,6 +7938,7 @@
 ||schach-spielen.eu^
 ||schacharena.de^
 ||schere14.github.io^
+||school.car-simulator.com^
 ||schoolgames.io^
 ||schoolgamesfree.com^
 ||schoolgamethingy.github.io^
@@ -10142,6 +10149,7 @@
 ||warofdragons.de^
 ||warp2games.com^
 ||warren-bank.github.io^
+||wasmarcade.com^
 ||wasmarcade.net^
 ||watergirl-and-fireboy.github.io^
 ||watermelon-game.bitbucket.io^

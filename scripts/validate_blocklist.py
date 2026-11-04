@@ -40,8 +40,8 @@ WWW_ONLY = {"msn.com"}
 # bloquean completos por decisión explícita. Cualquier otro sitio de ese top hace fallar la
 # validación: suele ser infraestructura (CDN, login, buscadores) y bloquearlo rompe servicios.
 POPULAR_APPROVED = {
-    "epicgames.com", "steampowered.com", "steamcommunity.com", "itch.io", "chess.com",
-    "poki.com", "crazygames.com", "lichess.org", "playhop.com", "cardgames.io", "aternos.org",
+    "epicgames.com", "steampowered.com", "steamcommunity.com", "itch.io",
+    "poki.com", "crazygames.com", "playhop.com", "cardgames.io", "aternos.org",
     "gamebanana.com", "minecraft.net", "zynga.com", "runescape.com", "my.games", "newgrounds.com",
     "king.com", "jigsawplanet.com", "miniclip.com", "solitaired.com", "coolmathgames.com",
     "neal.fun", "boardgamearena.com", "gameforge.com", "nitrotype.com", "friv.com",
@@ -52,6 +52,8 @@ POPULAR_APPROVED = {
     # Muro colaborativo usado para publicar Eaglercraft y otros juegos subidos como archivos:
     # se bloquea completo por decisión explícita (2026-10-20).
     "padlet.com",
+    # Juegos diarios de fútbol, pedido explícitamente (2026-11-04).
+    "futbol11.com",
     # Roblox y su CDN: se bloquean desde la lista de juegos (no desde Servicios bloqueados) para
     # que el botón "Permitir juegos" del docente lo controle (2026-10-20).
     "roblox.com", "rbxcdn.com",
@@ -100,6 +102,8 @@ WHITELIST = {
     "classroom-games.pages.dev", "classroomgames.fun", "classroomgames.net",
     "classroom-games.gitlab.io", "classroom-games.bitbucket.io", "classroomgames.bitbucket.io",
     "cool-math-games.com",
+    # Ajedrez: decisión del administrador de no bloquearlos (2026-11-04).
+    "chess.com", "lichess.org", "worldchess.com",
     "mathplayground.com", "calculalo.app", "mathsframe.co.uk", "cristic.com",
     "world-geography-games.com", "juegos-geograficos.com", "sandboxeducacion.es",
     "tablasdemultiplicar.com", "tablas-multiplicar.com", "vedoque.com",

@@ -342,6 +342,7 @@
 0.0.0.0 adjust.global.ssl.fastly.net
 0.0.0.0 admeen.com
 0.0.0.0 admin-hub-games.vercel.app
+0.0.0.0 adogames.com
 0.0.0.0 adoluxgames.com
 0.0.0.0 adsgames.net
 0.0.0.0 aduckwalkeduptoalemonadestandandhesaidto.duckdns.org
@@ -1564,7 +1565,6 @@
 0.0.0.0 chess-online.games
 0.0.0.0 chess-online.net
 0.0.0.0 chess-online.org
-0.0.0.0 chess.com
 0.0.0.0 chess.game
 0.0.0.0 chess.org
 0.0.0.0 chessbin.com
@@ -1936,6 +1936,7 @@
 0.0.0.0 craftpix.net
 0.0.0.0 crash-casino-games-18.vercel.app
 0.0.0.0 crashgames.com
+0.0.0.0 craziestsub-domain.duckdns.org
 0.0.0.0 crazy-cattle-3d-2.pages.dev
 0.0.0.0 crazy-cattle-3d-76.github.io
 0.0.0.0 crazy-cattle-3d.bitbucket.io
@@ -2603,6 +2604,7 @@
 0.0.0.0 duck-math.net
 0.0.0.0 duck-math.netlify.app
 0.0.0.0 duck.alltutors.org
+0.0.0.0 duck.deepresearch2markdown.com
 0.0.0.0 duck.exampredictor.org
 0.0.0.0 duck.quackprep.com
 0.0.0.0 duckclicker.io
@@ -2618,6 +2620,7 @@
 0.0.0.0 duckduckmath.com
 0.0.0.0 duckduckymath.freetls.fastly.net
 0.0.0.0 duckduckymath.global.ssl.fastly.net
+0.0.0.0 ducklessons.com
 0.0.0.0 ducklet.net
 0.0.0.0 ducklife.app
 0.0.0.0 ducklife.firebaseapp.com
@@ -2648,6 +2651,8 @@
 0.0.0.0 duckmathlearning-dpwektsw5t93.edgeone.dev
 0.0.0.0 duckmaths.com
 0.0.0.0 duckmayhem-v2.vercel.app
+0.0.0.0 duckscience.duckdns.org
+0.0.0.0 ducksum.com
 0.0.0.0 ducksum.freetls.fastly.net
 0.0.0.0 ducksum.global.ssl.fastly.net
 0.0.0.0 duckymath2.freetls.fastly.net
@@ -3613,6 +3618,7 @@
 0.0.0.0 furryrefuge.com
 0.0.0.0 fusion-formula.b-cdn.net
 0.0.0.0 futbol-11.com
+0.0.0.0 futbol11.com
 0.0.0.0 futureproofgames.com
 0.0.0.0 fuzigames.com
 0.0.0.0 fyscloud01.gitlab.io
@@ -5534,7 +5540,6 @@
 0.0.0.0 lfoti95-crypto.github.io
 0.0.0.0 libregames.gitlab.io
 0.0.0.0 lich.com
-0.0.0.0 lichess.org
 0.0.0.0 lidowg2011.github.io
 0.0.0.0 lieutran27787-web.github.io
 0.0.0.0 lifeskillsprogram.net
@@ -5765,6 +5770,7 @@
 0.0.0.0 matheusls.github.io
 0.0.0.0 mathevolve.com
 0.0.0.0 mathgames.com
+0.0.0.0 mathlessons.b-cdn.net
 0.0.0.0 mathlete.freetls.fastly.net
 0.0.0.0 mathlete.global.ssl.fastly.net
 0.0.0.0 mathlete.pages.dev
@@ -7933,6 +7939,7 @@
 0.0.0.0 schach-spielen.eu
 0.0.0.0 schacharena.de
 0.0.0.0 schere14.github.io
+0.0.0.0 school.car-simulator.com
 0.0.0.0 schoolgames.io
 0.0.0.0 schoolgamesfree.com
 0.0.0.0 schoolgamethingy.github.io
@@ -10143,6 +10150,7 @@
 0.0.0.0 warofdragons.de
 0.0.0.0 warp2games.com
 0.0.0.0 warren-bank.github.io
+0.0.0.0 wasmarcade.com
 0.0.0.0 wasmarcade.net
 0.0.0.0 watergirl-and-fireboy.github.io
 0.0.0.0 watermelon-game.bitbucket.io

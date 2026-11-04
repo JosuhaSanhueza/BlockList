@@ -162,6 +162,8 @@ WHITELIST = {
     "classroom-games.pages.dev", "classroomgames.fun", "classroomgames.net",
     "classroom-games.gitlab.io", "classroom-games.bitbucket.io", "classroomgames.bitbucket.io",
     "cool-math-games.com",
+    # Ajedrez: decisión del administrador de no bloquearlos (2026-11-04).
+    "chess.com", "lichess.org", "worldchess.com",
     "mathplayground.com", "calculalo.app", "mathsframe.co.uk", "cristic.com",
     "world-geography-games.com", "juegos-geograficos.com", "sandboxeducacion.es",
     "tablasdemultiplicar.com", "tablas-multiplicar.com", "vedoque.com",
