@@ -6239,6 +6239,7 @@
 ||my1001games.com^
 ||myabandonware.com^
 ||mybestgames.net^
+||myemulator.cc^
 ||myemulator.onl^
 ||myfreefarm.de^
 ||myfreegames.net^

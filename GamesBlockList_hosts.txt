@@ -6240,6 +6240,7 @@
 0.0.0.0 my1001games.com
 0.0.0.0 myabandonware.com
 0.0.0.0 mybestgames.net
+0.0.0.0 myemulator.cc
 0.0.0.0 myemulator.onl
 0.0.0.0 myfreefarm.de
 0.0.0.0 myfreegames.net
