@@ -89,6 +89,7 @@ vortex.data.microsoft.com
 vortex-win.data.microsoft.com
 fp-afd-nocache.azureedge.net
 cdn.storeedgefd.dsx.mp.microsoft.com
+storeedge.microsoft.com
 ds.download.windowsupdate.com
 fe2.update.microsoft.com
 mrodevicemgr.officeapps.live.com
