@@ -200,6 +200,7 @@
 0.0.0.0 31005sagab.duckdns.org
 0.0.0.0 365escape.com
 0.0.0.0 37games.com
+0.0.0.0 3daimtrainer.com
 0.0.0.0 3kh0.bitbucket.io
 0.0.0.0 3kh0.github.io
 0.0.0.0 3kh0games.gitlab.io

@@ -199,6 +199,7 @@
 ||31005sagab.duckdns.org^
 ||365escape.com^
 ||37games.com^
+||3daimtrainer.com^
 ||3kh0.bitbucket.io^
 ||3kh0.github.io^
 ||3kh0games.gitlab.io^
