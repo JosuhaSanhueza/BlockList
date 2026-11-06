@@ -2,7 +2,7 @@
 """Regenera GamesBlockList_hosts.txt a partir de GamesBlockList.txt.
 
 Solo reformatea (sin verificar accesibilidad por red, eso lo hace
-cleanup_dead_domains.py una vez al año), así que es rápido y se puede
+cleanup_dead_domains.py, que se corre a mano), así que es rápido y se puede
 correr en cada actualización diaria sin costo de red.
 """
 import os
