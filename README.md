@@ -6,7 +6,7 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 - **Formato**: Texto plano, en sintaxis AdGuard Home (`||dominio^`) y también como hosts estándar (`0.0.0.0 dominio`).
 - **Contenido**: Dominios de páginas de juegos online, servidores de Minecraft web (Eaglercraft, Opticraft, etc.) y bloqueadores de actualizaciones de Windows/Google.
 - **Uso principal**: Bloqueo de tráfico no deseado en servidores DNS o firewalls.
-- **Actualización**: La lista de juegos se actualiza automáticamente todos los días mediante GitHub Actions, y se depura de dominios muertos una vez al año.
+- **Actualización**: La lista de juegos se actualiza automáticamente todos los días mediante GitHub Actions. Los dominios muertos no se sacan automáticamente.
 
 ## 🚀 Cómo usar la lista
 1. Descarga el archivo de la lista o usa el link que corresponda en la tabla de abajo.
@@ -32,7 +32,7 @@ Esta es una **lista de bloqueo** en formato texto diseñada para herramientas co
 - **Diario** ([daily_blocklist.yml](.github/workflows/daily_blocklist.yml)): busca nuevos dominios de páginas de juegos a partir de `keywords.txt`, los valida y actualiza `GamesBlockList.txt` / `GamesBlockList_hosts.txt`.
 - **Días hábiles** ([ai_candidates.py](scripts/ai_candidates.py)): busca candidatos nuevos para las listas de IA, que se revisan uno a uno antes de agregarlos.
 - **Miércoles** ([media_candidates.py](scripts/media_candidates.py)): busca candidatos nuevos para las listas de anime y hentai, que se revisan uno a uno antes de agregarlos.
-- **Anual** ([yearly_cleanup.yml](.github/workflows/yearly_cleanup.yml)): revisa toda la lista y elimina dominios que ya no responden (ni HTTP/HTTPS ni DNS), dado que las páginas de juegos suelen tener vida útil larga.
+- **Manual** ([yearly_cleanup.yml](.github/workflows/yearly_cleanup.yml)): revisa toda la lista y elimina dominios que ya no responden (ni HTTP/HTTPS ni DNS). No corre solo: un sitio de juegos expirado suele volver como espejo, y sacarlo ahorra poco.
 
 ## 📄 Licencia
 
