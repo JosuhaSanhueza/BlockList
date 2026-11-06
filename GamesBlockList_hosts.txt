@@ -2628,8 +2628,10 @@
 0.0.0.0 duck.deepresearch2markdown.com
 0.0.0.0 duck.exampredictor.org
 0.0.0.0 duck.quackprep.com
+0.0.0.0 duck.studymenes.com
 0.0.0.0 duckclicker.io
 0.0.0.0 duckclicker.org
+0.0.0.0 duckcraft.top
 0.0.0.0 duckduckclicker.com
 0.0.0.0 duckduckclicker.games
 0.0.0.0 duckduckclicker.io
@@ -2662,11 +2664,13 @@
 0.0.0.0 duckmath-ten.vercel.app
 0.0.0.0 duckmath.com
 0.0.0.0 duckmath.freetls.fastly.net
+0.0.0.0 duckmath.games
 0.0.0.0 duckmath.global.ssl.fastly.net
 0.0.0.0 duckmath.io
 0.0.0.0 duckmath.it.com
 0.0.0.0 duckmath.org
 0.0.0.0 duckmath.pages.dev
+0.0.0.0 duckmath.school
 0.0.0.0 duckmathgames.com
 0.0.0.0 duckmathgithubio-sable.vercel.app
 0.0.0.0 duckmathlearning-dpwektsw5t93.edgeone.dev
@@ -2676,6 +2680,7 @@
 0.0.0.0 ducksum.com
 0.0.0.0 ducksum.freetls.fastly.net
 0.0.0.0 ducksum.global.ssl.fastly.net
+0.0.0.0 ducky-math.vercel.app
 0.0.0.0 duckymath2.freetls.fastly.net
 0.0.0.0 duckymath2.global.ssl.fastly.net
 0.0.0.0 duckymath3.freetls.fastly.net
@@ -3324,6 +3329,7 @@
 0.0.0.0 forgeofempires.com
 0.0.0.0 forsakenunblocked.github.io
 0.0.0.0 fortcade.com
+0.0.0.0 fortmath.com
 0.0.0.0 fortnite-unblocked.firebaseapp.com
 0.0.0.0 fortnite-unblocked.org
 0.0.0.0 fortnite-unblocked.pages.dev
@@ -3646,6 +3652,7 @@
 0.0.0.0 futbol-11.com
 0.0.0.0 futbol11.com
 0.0.0.0 futureproofgames.com
+0.0.0.0 futuristicmath.com
 0.0.0.0 fuzigames.com
 0.0.0.0 fyscloud01.gitlab.io
 0.0.0.0 g-wars.de
@@ -6523,6 +6530,7 @@
 0.0.0.0 obsidianig.com
 0.0.0.0 oceanar.io
 0.0.0.0 oceanbreezegames.com
+0.0.0.0 ocigames.com
 0.0.0.0 octordle.com
 0.0.0.0 octordle.org
 0.0.0.0 octordlegame.com
