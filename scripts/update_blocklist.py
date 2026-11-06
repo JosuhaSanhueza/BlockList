@@ -16,6 +16,9 @@ from html.parser import HTMLParser
 BLOCKLIST_FILE = "GamesBlockList.txt"
 KEYWORDS_FILE = "keywords.txt"
 MAX_NEW_DOMAINS = 300
+# Palabras clave por corrida (al azar). Recorrer las 2.133 tomaba casi 2 horas y desde que
+# DuckDuckGo responde con captcha no aporta casi nada: las fuentes nuevas están en hunt_sources.py.
+KEYWORDS_PER_RUN = 150
 TIMEOUT_SECONDS = 3.0  # Timeout ágil por petición
 MAX_WORKERS_SEARCH = 25  # Hilos simultáneos para buscar por palabras clave
 MAX_WORKERS_VERIFY = 20  # Hilos simultáneos para inspeccionar candidatos por HTTP/HTTPS
@@ -759,6 +762,8 @@ def main():
     print(f"[*] Palabras clave a procesar: {len(keywords)}")
     
     random.shuffle(keywords)
+    keywords = keywords[:KEYWORDS_PER_RUN]
+    print(f"[*] Palabras clave de esta corrida (al azar): {len(keywords)}")
     
     candidate_domains = set()
 

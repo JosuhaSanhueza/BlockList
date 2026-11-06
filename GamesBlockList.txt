@@ -3113,7 +3113,6 @@
 ||fightz.io^
 ||filamentgames.com^
 ||findeaglerservers.com^
-||findeljuego.com^
 ||fingameon.com^
 ||finishlinegames.com^
 ||finndafish28.github.io^
@@ -3834,7 +3833,6 @@
 ||gamerbolt.com^
 ||gamerdam.com^
 ||gamereadygo.com^
-||gamerelay.io^
 ||gamerfocus.co^
 ||gamerheaven.github.io^
 ||gamerhub.tv^
@@ -3989,7 +3987,6 @@
 ||gamessumo.com^
 ||gamestoday.org^
 ||gamestoplay.gitlab.io^
-||gamestudio-demo.kumodeck.app^
 ||gamesufo.com^
 ||gamesumo.com^
 ||gamesunblocked.gitlab.io^
@@ -6047,7 +6044,6 @@
 ||miniconomy.com^
 ||miniconomy.nl^
 ||minidiamonddev.github.io^
-||minigame-labs.com^
 ||minigame.com^
 ||minigame.group^
 ||minigame.vip^
@@ -6257,7 +6253,6 @@
 ||mullergame.com^
 ||multilife21c-sketch.github.io^
 ||multiplayer-card-games-two.vercel.app^
-||multiplayeragent.com^
 ||multiplayerchess.com^
 ||multiplayergames.com^
 ||multiplayertrivia.com^
@@ -6632,7 +6627,6 @@
 ||optijuegos.com^
 ||optijuegos.net^
 ||oqureqzz.github.io^
-||orbitzenplaykinetic.com^
 ||oriera26.github.io^
 ||orisinal.com^
 ||orteil.dashnet.org^
