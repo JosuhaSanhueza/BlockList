@@ -1,0 +1,9 @@
+# Dominios revisados que no van en GamesBlockList: herramientas para desarrolladores de juegos,
+# noticias y reseñas de videojuegos. La búsqueda diaria no los vuelve a agregar (ver
+# validate_blocklist.py). Revisados el 2026-11-06:
+findeljuego.com
+gamerelay.io
+gamestudio-demo.kumodeck.app
+minigame-labs.com
+multiplayeragent.com
+orbitzenplaykinetic.com

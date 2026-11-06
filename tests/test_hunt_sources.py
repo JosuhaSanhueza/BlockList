@@ -51,3 +51,11 @@ def test_spam_pages_and_hosting_names():
 def test_short_names_need_word_boundaries():
     assert not hunt_candidate_ok("vivacious-red-itzf520j-dpn59chiy80k.edgeone.dev", "urlscan")
     assert hunt_candidate_ok("y8-games.pages.dev", "urlscan")
+
+
+def test_rejected_domains_are_not_published():
+    from update_blocklist import is_publishable
+
+    assert not is_publishable("multiplayeragent.com")
+    assert not is_publishable("findeljuego.com")
+    assert is_publishable("watermellon.online")

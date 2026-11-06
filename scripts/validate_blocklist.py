@@ -88,6 +88,17 @@ def load_popular():
 
 POPULAR = load_popular()
 
+
+def load_rejected():
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "games_rejected.txt")
+    with open(path, encoding="utf-8") as f:
+        return {l.strip() for l in f if l.strip() and not l.startswith("#")}
+
+
+# Revisados a mano y descartados (herramientas para desarrolladores, noticias, reseñas): la
+# búsqueda diaria no los vuelve a agregar, porque is_publishable() usa esta validación.
+REJECTED = load_rejected()
+
 # La Whitelist solo protege infraestructura esencial de internet (buscadores/redes sociales), NUNCA sitios de juegos
 WHITELIST = {
     "google.com", "youtube.com", "wikipedia.org", "github.com", "microsoft.com",
@@ -181,6 +192,11 @@ def check_line(line_clean, line_num, domains_seen):
     if domain not in WHITELIST_SUBDOMAIN_EXCEPTIONS and not is_fastly_service(domain):
         if domain in WHITELIST or any(domain.endswith("." + w) for w in WHITELIST):
             errors.append(f"Línea {line_num}: CRÍTICO - Dominio infraestructura en Whitelist detectado '{domain}'.")
+
+    # 3c. Revisado y descartado a mano.
+    if domain in REJECTED:
+        errors.append(f"Línea {line_num}: '{domain}' está en scripts/games_rejected.txt: se revisó y no es "
+                      f"un sitio de juegos. Si cambió, sácalo de ese archivo.")
 
     # 4. Validar formato de caracteres de dominio
     if not re.match(r'^[a-z0-9.-]+\.[a-z]{2,10}$', domain):
