@@ -59,6 +59,11 @@ VALID_TLDS = (
 )
 
 try:
+    import hunt_sources
+except ImportError:
+    from scripts import hunt_sources
+
+try:
     from validate_blocklist import AI_COMPANIONS, SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
 except ImportError:
     from scripts.validate_blocklist import AI_COMPANIONS, SHARED_SUFFIXES, WWW_ONLY, check_line, is_fastly_service
@@ -536,7 +541,8 @@ def search_shodan_internetdb(domain):
 
 def process_single_keyword(kw):
     res = set()
-    res.update(search_duckduckgo_organic(kw))
+    # DuckDuckGo responde con captcha a los servidores desde 2026-11 (search_duckduckgo_organic
+    # queda para correr a mano): las fuentes nuevas están en hunt_sources.py.
     res.update(search_subdomains_dns(kw))
     res.update(search_crtsh(kw))
     return res
@@ -634,6 +640,116 @@ def verify_single_candidate(domain, existing_domains):
         return (domain, root_dom)
     return None
 
+# Las fuentes nuevas traen apuestas (que cubre la lista de HaGeZi) y, desde GitHub, portafolios
+# personales: por eso piden más que is_game_website().
+GAMBLING_HOST = re.compile(r"casino|togel|slot|toto|bet|qq|jackpot|judi|gacor|maxwin|poker|bonus|btc|crypto")
+GAME_HOST = re.compile(r"game|juego|jogo|unblock|play|arcade|eagler|craft|roblox|funkin|retro|slope|clicker|"
+                       r"geometry|subway|bloxorz|cookie|minecraft|friv|poki|krunker|"
+                       # Las siglas cortas solo como palabra: "y8" aparece en nombres al azar.
+                       r"(?<![a-z0-9])(?:gms|fnf|1v1|ovo|y8)(?![a-z0-9])")
+# Hostings gratuitos donde cualquiera publica: ahí se exige un nombre de juego.
+FREE_HOSTING = ("github.io", "gitlab.io", "pages.dev", "vercel.app", "netlify.app", "edgeone.dev",
+                "web.app", "firebaseapp.com", "blogspot.com", "x10.mx", "onrender.com", "cloudfront.net",
+                "workers.dev", "canva.site")
+MAX_HUNT_DOMAINS = 100
+
+
+def collect_hunt_candidates():
+    """Devuelve los candidatos de hunt_sources (urlscan y GitHub), sin los que no corresponden."""
+    found = set()
+    for name, fn in (("urlscan", hunt_sources.search_urlscan), ("GitHub", hunt_sources.search_github_topics)):
+        try:
+            got = fn()
+        except Exception as exc:
+            print(f"[!] {name} no respondió: {exc}")
+            continue
+        print(f"[*] {name}: {len(got)} candidatos.")
+        found |= {(d, name) for d in got}
+    return found
+
+
+def hunt_candidate_ok(domain, source):
+    """Indica si un candidato de hunt_sources puede verificarse: no es de apuestas, no es un
+    nombre con IP (sslip.io) y, en hostings gratuitos o si viene de GitHub, su nombre es de juego."""
+    if GAMBLING_HOST.search(domain) or re.search(r"\d+\.\d+\.\d+\.\d+|sslip\.io|nip\.io", domain):
+        return False
+    hosting = next((h for h in FREE_HOSTING if domain.endswith("." + h)), None)
+    # El nombre del hosting no cuenta (github.io termina en .io).
+    name = domain[: -len(hosting) - 1] if hosting else domain
+    # En hostings gratuitos, un nombre de cuatro guiones o más suele ser una página de spam
+    # ("best-roblox-games-horror-reddit.pages.dev"), no un juego.
+    if hosting and name.count("-") >= 4:
+        return False
+
+    return bool(GAME_HOST.search(name)) if hosting or source == "GitHub" else True
+
+
+def verify_hunt_candidate(domain, existing_domains):
+    """Devuelve domain si es un sitio de juegos publicable. A diferencia de la búsqueda por palabras
+    clave no se consolida al dominio raíz: arcade.ejemplo.com no dice nada de ejemplo.com, y en
+    hostings como edgeone.dev la raíz es el hosting entero."""
+    parts = domain.split(".")
+    if any(".".join(parts[i:]) in existing_domains for i in range(len(parts) - 1)):
+        return None
+    if not is_game_website(domain) or not is_publishable(domain):
+        return None
+
+    return domain
+
+
+def verify_duck_clone(domain, existing_domains):
+    """Devuelve domain si su portada es el disfraz de Duck Math (ver hunt_sources.is_duck_clone).
+    is_game_website() no lo reconoce, porque la portada no muestra juegos."""
+    parts = domain.split(".")
+    if any(".".join(parts[i:]) in existing_domains for i in range(len(parts) - 1)):
+        return None
+    try:
+        page = hunt_sources._get(f"https://{domain}/")
+    except Exception:
+        return None
+
+    return domain if hunt_sources.is_duck_clone(page) and is_publishable(domain) else None
+
+
+def add_duck_clones(existing_domains):
+    """Busca clones de Duck Math en urlscan y devuelve los nuevos confirmados."""
+    try:
+        found = hunt_sources.search_duck_clones()
+    except Exception as exc:
+        print(f"[!] urlscan (Duck Math) no respondió: {exc}")
+        return []
+    found = [d for d in found if not re.search(r"\d+\.\d+\.\d+\.\d+|sslip\.io|nip\.io", d)]
+    added = []
+    for d in found:
+        dom = verify_duck_clone(d, existing_domains)
+        if dom:
+            print(f"  [+] Confirmado (clon de Duck Math): {dom}")
+            added.append(dom)
+            existing_domains.add(dom)
+
+    return added
+
+
+def add_hunt_domains(existing_domains):
+    """Busca en hunt_sources y devuelve los dominios nuevos verificados (como mucho MAX_HUNT_DOMAINS)."""
+    candidates = [(d, s) for d, s in collect_hunt_candidates() if hunt_candidate_ok(d, s)]
+    print(f"[*] Candidatos de urlscan/GitHub a verificar: {len(candidates)}")
+    added = []
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS_VERIFY) as executor:
+        futures = {executor.submit(verify_hunt_candidate, d, existing_domains): d for d, _ in candidates}
+        for future in as_completed(futures):
+            try:
+                dom = future.result()
+            except Exception:
+                dom = None
+            if dom and len(added) < MAX_HUNT_DOMAINS and dom not in existing_domains:
+                print(f"  [+] Confirmado (urlscan/GitHub): {dom}")
+                added.append(dom)
+                existing_domains.add(dom)
+
+    return added
+
+
 def main():
     print("[*] Cargando dominios existentes y palabras clave...")
     existing_domains = load_existing_domains()
@@ -705,6 +821,9 @@ def main():
                     print(f"  [-] Descartado (no parece sitio de juegos): {dom_checked}")
             except Exception as exc:
                 print(f"  [-] Descartado (error de verificación: {exc}): {dom_checked}")
+
+    new_domains += add_hunt_domains(existing_domains)
+    new_domains += add_duck_clones(existing_domains)
 
     if new_domains:
         print(f"\n[+] Agregando {len(new_domains)} dominios principales consolidados a {BLOCKLIST_FILE}...")

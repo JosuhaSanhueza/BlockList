@@ -25,6 +25,10 @@ jobs:
       - name: Run BlockList Updater
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # La API de GitHub admite más búsquedas con el token del workflow; urlscan, más con su
+          # clave (opcional).
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          URLSCAN_API_KEY: ${{ secrets.URLSCAN_API_KEY }}
         run: |
           python3 scripts/update_blocklist.py
 
