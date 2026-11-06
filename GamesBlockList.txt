@@ -3325,7 +3325,6 @@
 ||footballmasters.web.app^
 ||footballstrikeunblocked.github.io^
 ||fordhouseswolverhampton.duckdns.org^
-||fordhouseswolverhampton.duckdns.org.duckdns.org^
 ||forfr1.github.io^
 ||forgedreams-ai.github.io^
 ||forgeofempires.com^
