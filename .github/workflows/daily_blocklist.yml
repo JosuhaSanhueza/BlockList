@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# Mismo grupo que el auditor de colegios: no escriben la lista al mismo tiempo.
+concurrency:
+  group: blocklist-write
+  cancel-in-progress: false
+
 jobs:
   update-blocklist:
     runs-on: ubuntu-latest
@@ -49,5 +54,15 @@ jobs:
             echo "No changes in blocklist today."
           else
             git commit -m "auto: update GamesBlockList.txt and multi-format hosts [skip ci]"
-            git push
+            # main puede haber cambiado durante la corrida (un merge, el auditor de colegios):
+            # se trae lo nuevo y se reintenta. Si dos cambios tocan la misma línea, falla aquí.
+            for i in 1 2 3; do
+              git push && exit 0
+              git pull --rebase origin main || { git rebase --abort; exit 1; }
+              python3 scripts/generate_hosts_format.py
+              python3 scripts/validate_blocklist.py
+              git add GamesBlockList_hosts.txt
+              git diff --staged --quiet || git commit -m "auto: regenerate hosts after rebase [skip ci]"
+            done
+            exit 1
           fi
