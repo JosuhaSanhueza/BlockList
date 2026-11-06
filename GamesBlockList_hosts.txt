@@ -1249,6 +1249,7 @@
 0.0.0.0 bounceball.co
 0.0.0.0 bouncegames.net
 0.0.0.0 bouncybasketball.com
+0.0.0.0 bountyboard.gg
 0.0.0.0 box10.com
 0.0.0.0 boxgames.io
 0.0.0.0 boxheadplay.com
@@ -1507,6 +1508,7 @@
 0.0.0.0 carmendm92.gitlab.io
 0.0.0.0 carrot-craft.org
 0.0.0.0 carsimulator.pro
+0.0.0.0 carsoccer.net
 0.0.0.0 carsonlarson41.github.io
 0.0.0.0 cart1416.github.io
 0.0.0.0 cartitans.com
@@ -1933,6 +1935,7 @@
 0.0.0.0 costcodle.net
 0.0.0.0 costcodle.online
 0.0.0.0 costcodle.xyz
+0.0.0.0 cosyhex.com
 0.0.0.0 cotton.freetls.fastly.net
 0.0.0.0 cotton.global.ssl.fastly.net
 0.0.0.0 couchfriends.com
@@ -5414,6 +5417,7 @@
 0.0.0.0 king.com
 0.0.0.0 kingbest0.github.io
 0.0.0.0 kingdomarchitect.netlify.app
+0.0.0.0 kingdomofloathing.com
 0.0.0.0 kingdomofmarionettes.live
 0.0.0.0 kingdomrush.com
 0.0.0.0 kingdomrush.online
@@ -9560,6 +9564,7 @@
 0.0.0.0 trains.freetls.fastly.net
 0.0.0.0 trains.global.ssl.fastly.net
 0.0.0.0 transformice.com
+0.0.0.0 trap-thecat.com
 0.0.0.0 trappersquares.io
 0.0.0.0 trapz.io
 0.0.0.0 travisdeal291-debug.github.io

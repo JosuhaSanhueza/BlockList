@@ -1248,6 +1248,7 @@
 ||bounceball.co^
 ||bouncegames.net^
 ||bouncybasketball.com^
+||bountyboard.gg^
 ||box10.com^
 ||boxgames.io^
 ||boxheadplay.com^
@@ -1506,6 +1507,7 @@
 ||carmendm92.gitlab.io^
 ||carrot-craft.org^
 ||carsimulator.pro^
+||carsoccer.net^
 ||carsonlarson41.github.io^
 ||cart1416.github.io^
 ||cartitans.com^
@@ -1932,6 +1934,7 @@
 ||costcodle.net^
 ||costcodle.online^
 ||costcodle.xyz^
+||cosyhex.com^
 ||cotton.freetls.fastly.net^
 ||cotton.global.ssl.fastly.net^
 ||couchfriends.com^
@@ -5413,6 +5416,7 @@
 ||king.com^
 ||kingbest0.github.io^
 ||kingdomarchitect.netlify.app^
+||kingdomofloathing.com^
 ||kingdomofmarionettes.live^
 ||kingdomrush.com^
 ||kingdomrush.online^
@@ -9559,6 +9563,7 @@
 ||trains.freetls.fastly.net^
 ||trains.global.ssl.fastly.net^
 ||transformice.com^
+||trap-thecat.com^
 ||trappersquares.io^
 ||trapz.io^
 ||travisdeal291-debug.github.io^
