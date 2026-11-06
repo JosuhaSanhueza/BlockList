@@ -259,6 +259,7 @@
 ||75kh0.github.io^
 ||76-games.bitbucket.io^
 ||76-games.gitlab.io^
+||76-unblocked-games-roblox.pages.dev^
 ||76ezgames.github.io^
 ||76unblockedgamesonline.github.io^
 ||77unblockedgames.gitlab.io^
@@ -392,6 +393,7 @@
 ||agustinquintana401.github.io^
 ||ahmeddikinov.github.io^
 ||ahrdevelopers.github.io^
+||ai-games.luccabuilds.com^
 ||ai-kids-games-fawn.vercel.app^
 ||ai-rebuilds.com^
 ||aialchemistart.github.io^
@@ -518,6 +520,7 @@
 ||angrybirdsonline.gitlab.io^
 ||angrybirdsunblocked.github.io^
 ||angusa13.github.io^
+||animation-games-roblox.pages.dev^
 ||animeshlabs.github.io^
 ||aniruddhaadak80.github.io^
 ||anjos22-el.github.io^
@@ -569,11 +572,13 @@
 ||arcade-liard.vercel.app^
 ||arcade-portal-delta.vercel.app^
 ||arcade.laughingbuddhagames.com^
+||arcade.vrg.li^
 ||arcadebloom.com^
 ||arcadebomb.com^
 ||arcadeboss.com^
 ||arcadecampushub.github.io^
 ||arcadeclash.github.io^
+||arcadegame-vault.vercel.app^
 ||arcadegameplace.com^
 ||arcadegames.gitlab.io^
 ||arcadegames.nu^
@@ -610,6 +615,7 @@
 ||arealme.com^
 ||arenahub.gg^
 ||ares-xtechnologies.github.io^
+||argiegames.vercel.app^
 ||arielyapo.github.io^
 ||ariff123trr.github.io^
 ||arihantajikumar283-debug.github.io^
@@ -1496,6 +1502,7 @@
 ||cargamesunblocked.gitlab.io^
 ||cargamesunblocked.net^
 ||carlin23-stack.github.io^
+||carlson-games.vercel.app^
 ||carmendm92.gitlab.io^
 ||carrot-craft.org^
 ||carsimulator.pro^
@@ -1795,8 +1802,10 @@
 ||combatsiege.com^
 ||comdot-loser.github.io^
 ||comdotgame.com^
+||community-server-roblox.pages.dev^
 ||complex-arcade.github.io^
 ||compositedrivegames.github.io^
+||condo-game-omega.vercel.app^
 ||conectagames.com^
 ||conewasnthere.github.io^
 ||congusbongus.itch.io^
@@ -2177,6 +2186,7 @@
 ||darren-rawlings.github.io^
 ||darrylgoudeausr59-boop.github.io^
 ||dashcraft.io^
+||dashgeometrydash.github.io^
 ||dashmetry.com^
 ||dashmetry.io^
 ||dashnet.org^
@@ -2361,6 +2371,7 @@
 ||djwkfneifn.github.io^
 ||dkmgames.com^
 ||dlfma1985.github.io^
+||dlpsgames-click-y68.pages.dev^
 ||dluxz09.github.io^
 ||dmccuk.github.io^
 ||dmg-db.pages.dev^
@@ -3008,6 +3019,7 @@
 ||etoso951.github.io^
 ||euroskat.com^
 ||eurpo.github.io^
+||ev-rush-game.pages.dev^
 ||ev.freetls.fastly.net^
 ||ev.global.ssl.fastly.net^
 ||ev.io^
@@ -3101,6 +3113,7 @@
 ||fightz.io^
 ||filamentgames.com^
 ||findeaglerservers.com^
+||findeljuego.com^
 ||fingameon.com^
 ||finishlinegames.com^
 ||finndafish28.github.io^
@@ -3360,6 +3373,7 @@
 ||freeasteroids.org^
 ||freebie.games^
 ||freebirdgames.com^
+||freebrowsergames.vercel.app^
 ||freecell-game.pages.dev^
 ||freecell-online.vercel.app^
 ||freecell.com^
@@ -3585,6 +3599,7 @@
 ||fun-games.app^
 ||fun-games.co^
 ||fun-games.pages.dev^
+||fun-unblocked-games-roblox.pages.dev^
 ||fun.freetls.fastly.net^
 ||fun.global.ssl.fastly.net^
 ||funandgames.org^
@@ -3659,6 +3674,7 @@
 ||gam.onl^
 ||gamalod.com^
 ||gamaverse.com^
+||game-board-pi.vercel.app^
 ||game-free.gitlab.io^
 ||game-galaxy-hub.vercel.app^
 ||game-game.com^
@@ -3679,6 +3695,7 @@
 ||game-unloc.github.io^
 ||game-vault.dev^
 ||game.backkampung.com^
+||game.croffle-play.link^
 ||game.giantshaft.com^
 ||game.zerodayclock.com^
 ||game01.ru^
@@ -3816,6 +3833,8 @@
 ||gameravv.com^
 ||gamerbolt.com^
 ||gamerdam.com^
+||gamereadygo.com^
+||gamerelay.io^
 ||gamerfocus.co^
 ||gamerheaven.github.io^
 ||gamerhub.tv^
@@ -3835,6 +3854,7 @@
 ||games-alchemist.com^
 ||games-answers.net^
 ||games-arcade-gray.vercel.app^
+||games-att.pages.dev^
 ||games-award2007.com^
 ||games-flash.ru^
 ||games-games.com^
@@ -3843,6 +3863,7 @@
 ||games-kids.com^
 ||games-lake-omega-54.vercel.app^
 ||games-library.ru^
+||games-like-kitty-roblox.pages.dev^
 ||games-msn.com^
 ||games-online.io^
 ||games-ovo.github.io^
@@ -3855,6 +3876,7 @@
 ||games-wheat-chi.vercel.app^
 ||games-x-flash.com^
 ||games-xi-dusky.vercel.app^
+||games.aiandsons.io^
 ||games.amc.com^
 ||games.azgame.io^
 ||games.ch^
@@ -3865,6 +3887,8 @@
 ||games.fm^
 ||games.gg^
 ||games.gr^
+||games.iamdenny.com^
+||games.klyo.pl^
 ||games.lol^
 ||games.mirror.co.uk^
 ||games.msn.com^
@@ -3965,6 +3989,7 @@
 ||gamessumo.com^
 ||gamestoday.org^
 ||gamestoplay.gitlab.io^
+||gamestudio-demo.kumodeck.app^
 ||gamesufo.com^
 ||gamesumo.com^
 ||gamesunblocked.gitlab.io^
@@ -3998,6 +4023,7 @@
 ||gamevgames.com^
 ||gamevi.github.io^
 ||gameviora.com^
+||gamevo-staging.pages.dev^
 ||gamevoi.com^
 ||gamevolt.io^
 ||gamewarriorzone.top^
@@ -4008,6 +4034,7 @@
 ||gamezapz.com^
 ||gamezboost.com^
 ||gamezen.cc^
+||gamezfull.com^
 ||gamezhero.com^
 ||gamezine207.com^
 ||gamezipper.com^
@@ -4152,6 +4179,7 @@
 ||geometrydash.us.com^
 ||geometrydash22.com^
 ||geometrydash3d.com^
+||geometrydashaapk.com^
 ||geometrydashfree.co^
 ||geometrydashgame.com^
 ||geometrydashgames.app^
@@ -4190,6 +4218,7 @@
 ||geometrydashwave.com^
 ||geometrydashworld.org^
 ||geometrygames.gitlab.io^
+||geometrylite.github.io^
 ||geometrylitepc.com^
 ||geometrylitepc.io^
 ||geometrylitepc.net^
@@ -4201,6 +4230,7 @@
 ||geometryvibes.pages.dev^
 ||geometryvibes2.com^
 ||geometryvibes3d.com^
+||geometryydash-apk.com^
 ||geometydashwave.io^
 ||geonautica.pages.dev^
 ||geracaobitgames.com.br^
@@ -4373,6 +4403,7 @@
 ||googlesnake.pro^
 ||googlesnakegame.pages.dev^
 ||googlygiraffesigma67.github.io^
+||goomer-jogos-picpay.vercel.app^
 ||goood.games^
 ||goose.game^
 ||gorchakovpawel-alt.github.io^
@@ -4699,6 +4730,8 @@
 ||horadejuegos.com^
 ||horallapenjo.github.io^
 ||hornex.pro^
+||horror-games-roblox-good.pages.dev^
+||horror-games-roblox-itsfunneh.pages.dev^
 ||horrorgames.io^
 ||horse-games.org^
 ||horseracegame.com^
@@ -4728,6 +4761,7 @@
 ||html5games.vercel.app^
 ||html5gameshub.com^
 ||htmlgames.com^
+||htmlgamescode.com^
 ||hub-pro.github.io^
 ||hub16x.github.io^
 ||hudsonhilchie-create.github.io^
@@ -5298,6 +5332,7 @@
 ||kanniebo.github.io^
 ||kanogames.com^
 ||kanoplay.com^
+||kantmicrogames.lohyapkant.workers.dev^
 ||kaoticgreen.github.io^
 ||karami503.github.io^
 ||karammnakr5-cloud.github.io^
@@ -5841,6 +5876,7 @@
 ||meegames.com^
 ||meeland.io^
 ||meelandio.com^
+||meeplixgames.com^
 ||megaapps.online^
 ||megaclip.games^
 ||megafunz.com^
@@ -6011,6 +6047,7 @@
 ||miniconomy.com^
 ||miniconomy.nl^
 ||minidiamonddev.github.io^
+||minigame-labs.com^
 ||minigame.com^
 ||minigame.group^
 ||minigame.vip^
@@ -6220,6 +6257,7 @@
 ||mullergame.com^
 ||multilife21c-sketch.github.io^
 ||multiplayer-card-games-two.vercel.app^
+||multiplayeragent.com^
 ||multiplayerchess.com^
 ||multiplayergames.com^
 ||multiplayertrivia.com^
@@ -6248,6 +6286,7 @@
 ||my1001games.com^
 ||myabandonware.com^
 ||mybestgames.net^
+||mycondosgame.netlify.app^
 ||myemulator.cc^
 ||myemulator.onl^
 ||myfreefarm.de^
@@ -6420,6 +6459,7 @@
 ||noahespfig.github.io^
 ||nobody5231.github.io^
 ||nocache.pomu.com^
+||noggg-roblox.pages.dev^
 ||nogoinvr.github.io^
 ||nogravitygames.com^
 ||nointernetgame.com^
@@ -6494,7 +6534,10 @@
 ||odddevelopment.github.io^
 ||oddgames.uk^
 ||ody-seretis.github.io^
+||odyssey-freeapplegame-com.pages.dev^
+||oeogames-com.pages.dev^
 ||office-arcade-eta.vercel.app^
+||officegamehour.com^
 ||officialeaglercraft.github.io^
 ||offlinedino.com^
 ||ofogames.com^
@@ -6589,6 +6632,7 @@
 ||optijuegos.com^
 ||optijuegos.net^
 ||oqureqzz.github.io^
+||orbitzenplaykinetic.com^
 ||oriera26.github.io^
 ||orisinal.com^
 ||orteil.dashnet.org^
@@ -6876,6 +6920,7 @@
 ||pingpong-games.github.io^
 ||pingponggo.com^
 ||pinturillo2.com^
+||pip-games.vercel.app^
 ||pipehd54.github.io^
 ||pipygames.com^
 ||pirongames.com^
@@ -6971,6 +7016,7 @@
 ||play.date^
 ||play.de^
 ||play.gilect.com^
+||play.kiwiprojekt.pl^
 ||play.msn.com^
 ||play.st^
 ||play.vg^
@@ -7040,11 +7086,13 @@
 ||playfestival.de^
 ||playfg.com^
 ||playfiddlebops.com^
+||playfreegamesonlinewithoutdownloading.github.io^
 ||playfridaynightfunkin.com^
 ||playfrog.gg^
 ||playfruitninja.com^
 ||playfun-games.com^
 ||playgama.com^
+||playgameabcd-site.pages.dev^
 ||playgamer.com.ar^
 ||playgames.io^
 ||playgamesonline.ru^
@@ -7056,6 +7104,7 @@
 ||playgtav.vercel.app^
 ||playgunlake.com^
 ||playgwent.com^
+||playharmony.ai^
 ||playhawken.com^
 ||playheadsoccer.com^
 ||playheardle.com^
@@ -7090,6 +7139,7 @@
 ||playmurdermystery.com^
 ||playmushies.com^
 ||playniac.com^
+||playnova.me^
 ||playnowgames.space^
 ||playoctordle.com^
 ||playok.com^
@@ -7120,6 +7170,7 @@
 ||plays.org^
 ||playscarymazegame.net^
 ||playschoolgames.com^
+||playscondosgame.netlify.app^
 ||playscribble.com^
 ||playshellshockers.com^
 ||playslope.com^
@@ -7191,6 +7242,7 @@
 ||plutonium.pw^
 ||pocketworlds.com^
 ||pog.com^
+||poggygames.vercel.app^
 ||pogo.com^
 ||pogogamesplay.com^
 ||poiludog.github.io^
@@ -7341,6 +7393,7 @@
 ||pressplayontape.com^
 ||prestondonut340.github.io^
 ||prettysimplegames.com^
+||prigames.netlify.app^
 ||primarygames.com^
 ||primarygames.gitlab.io^
 ||prime.mathematicscontest.com^
@@ -7383,6 +7436,7 @@
 ||pucks.io^
 ||puckyou.lol^
 ||pudugame.com^
+||pulpower.com^
 ||pulsefan.duckdns.org^
 ||punchgamebr.com^
 ||punit015.github.io^
@@ -7411,6 +7465,7 @@
 ||puzzle-index.com^
 ||puzzledepot.com^
 ||puzzlegame.com^
+||puzzlegames-click.pages.dev^
 ||puzzlegames.app^
 ||puzzlegames.com^
 ||puzzlegames.io^
@@ -7672,6 +7727,7 @@
 ||retrobowl.global.ssl.fastly.net^
 ||retrobowl.info^
 ||retrobowl.me^
+||retrobowl.onl^
 ||retrobowl.org^
 ||retrobowl.pro^
 ||retrobowl.school^
@@ -7707,6 +7763,7 @@
 ||retrobowlunblocked.org^
 ||retrobowlunblocked.pages.dev^
 ||retrobowlunblocked2.gitlab.io^
+||retrobowlunblocked6x.github.io^
 ||retrogames-online.com^
 ||retrogames.cc^
 ||retrogames.com^
@@ -7756,15 +7813,24 @@
 ||rmy4143.github.io^
 ||rngrofl.github.io^
 ||robalexdev.gitlab.io^
+||roblox-card-games.pages.dev^
+||roblox-game-download-link.pages.dev^
+||roblox-games-half-loading.pages.dev^
 ||roblox-games-unblocked.github.io^
+||roblox-hood-games-leaked.pages.dev^
+||roblox-horror-games-asmr.pages.dev^
 ||roblox-online.bitbucket.io^
+||roblox-rats.pages.dev^
 ||roblox-unblock.github.io^
 ||roblox-unblocked-game.github.io^
+||roblox-unblocked-games-school.pages.dev^
 ||roblox-unblocked-games.pages.dev^
 ||roblox-unblocked.gitlab.io^
 ||roblox-unblocked.org^
 ||roblox-unblocked.pages.dev^
 ||roblox-unblocked1.github.io^
+||roblox-vr-script-valuablely.pages.dev^
+||roblox-zombie-elimination-games.pages.dev^
 ||roblox.cn^
 ||roblox.com^
 ||roblox.org^
@@ -7777,6 +7843,7 @@
 ||robloxunblocked.org^
 ||robloxunblockedgames.github.io^
 ||robloxunblockedonline.gitlab.io^
+||robloxwendigoscriptai.pages.dev^
 ||robo-galactic-shooter.netlify.app^
 ||roboaaron.github.io^
 ||robokade.com^
@@ -7984,6 +8051,7 @@
 ||scorchediv.github.io^
 ||scorenga.com^
 ||scpshowcases.github.io^
+||scratch-roblox-cookie-clicker.pages.dev^
 ||scratchgamesonline.io^
 ||scratchgeometrydash.org^
 ||screaminginstoresprank.mooo.com^
@@ -8496,6 +8564,7 @@
 ||soccerrandomgame.com^
 ||soccerrandomgame.net^
 ||soccerskillsworldcup.com^
+||socializing-games-on-roblox.pages.dev^
 ||socks.freetls.fastly.net^
 ||socks.global.ssl.fastly.net^
 ||sofiamuweiyi-wq.github.io^
@@ -9271,6 +9340,7 @@
 ||thearcadecrew.com^
 ||thebananamanalt.github.io^
 ||theboomhazaura.github.io^
+||thebraincodegames.github.io^
 ||thebrotherhoodgames.com^
 ||thebrowserarcade.github.io^
 ||thechoicervoicergames.com^
@@ -9327,6 +9397,7 @@
 ||theslope.github.io^
 ||thesportbros.com^
 ||thetinyfishing.com^
+||theunblockedinitiative.p2pgames.workers.dev^
 ||thewebsitesbridge.com^
 ||thewikigame.com^
 ||thewordbee.com^
@@ -9420,6 +9491,7 @@
 ||tombofthemask.net^
 ||tombofthemask.org^
 ||tombofthemask.pages.dev^
+||tomfordgames.github.io^
 ||tommalbran.github.io^
 ||tonicgames.com^
 ||toocool12544.github.io^
@@ -9689,6 +9761,7 @@
 ||ultimafia.com^
 ||ultimagame.com^
 ||ultimagame.es^
+||ultimate-games.github.io^
 ||ultimate-warfare.com^
 ||ultimatecoder345.github.io^
 ||ultimateflashgame.com^
@@ -10039,11 +10112,13 @@
 ||ux-67.github.io^
 ||uyenthu0322-lgtm.github.io^
 ||v.poki-cdn.com^
+||v0-v0-games-blond.vercel.app^
 ||v2-disaster-arena-poki-unblocked.vercel.app^
 ||v7-mods.github.io^
 ||valisium.github.io^
 ||valux-game.github.io^
 ||valuxshop.github.io^
+||vampire-roblox-games.pages.dev^
 ||vampiregenesis.com^
 ||vandaranikunj.github.io^
 ||vanguardgames.net^
@@ -10184,6 +10259,7 @@
 ||wasmarcade.com^
 ||wasmarcade.net^
 ||watergirl-and-fireboy.github.io^
+||watermellon.online^
 ||watermelon-game.bitbucket.io^
 ||watermelon-game.org^
 ||watermelon-game.pages.dev^
@@ -10267,6 +10343,7 @@
 ||whtzwsh.github.io^
 ||whytrygames.github.io^
 ||whywhywhyw.github.io^
+||willinggames.com^
 ||wimpress.itch.io^
 ||winbolo.com^
 ||windows10fan648.github.io^
@@ -10536,6 +10613,7 @@
 ||zlisto.github.io^
 ||zlite.zatoga.net^
 ||znkgames.com^
+||zodiac-games.netlify.app^
 ||zohair-racing-portfolio.vercel.app^
 ||zohoho.org^
 ||zoidgames.vercel.app^
