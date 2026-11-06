@@ -8030,6 +8030,7 @@
 0.0.0.0 scaryhorrorgames.io
 0.0.0.0 scarymaze.io
 0.0.0.0 scaryteacher-3d.io
+0.0.0.0 scaryteacher.com
 0.0.0.0 scattergoriesonline.net
 0.0.0.0 schach-spielen.eu
 0.0.0.0 schacharena.de
@@ -8613,6 +8614,7 @@
 0.0.0.0 solitairesocial.com
 0.0.0.0 solitar.io
 0.0.0.0 solitario-online.es
+0.0.0.0 solitarioonline.com
 0.0.0.0 solli-games.github.io
 0.0.0.0 solo-mahjong.ru
 0.0.0.0 solstice.freetls.fastly.net
