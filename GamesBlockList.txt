@@ -525,6 +525,7 @@
 ||anonymousbirb5100.github.io^
 ||ant.games^
 ||antebm.github.io^
+||anthropeum.games^
 ||antitudegames.com^
 ||antoinebou12.github.io^
 ||antonykmykhailo2013.github.io^
@@ -4369,6 +4370,7 @@
 ||googlesnake.pro^
 ||googlesnakegame.pages.dev^
 ||googlygiraffesigma67.github.io^
+||goood.games^
 ||goose.game^
 ||gorchakovpawel-alt.github.io^
 ||gorilla-tag-game.com^
@@ -6509,6 +6511,7 @@
 ||oldgames.app^
 ||oldnowgames-web.github.io^
 ||oldschoolgames.eu^
+||oldvideo.games^
 ||olgammail.github.io^
 ||olivia-games.github.io^
 ||ollgames.net^
@@ -6870,6 +6873,7 @@
 ||pipehd54.github.io^
 ||pipygames.com^
 ||pirongames.com^
+||pito.games^
 ||pixelantgames.com^
 ||pixelarena.netlify.app^
 ||pixelburstgame.com^
