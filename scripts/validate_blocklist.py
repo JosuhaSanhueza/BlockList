@@ -49,6 +49,9 @@ POPULAR_APPROVED = {
     # Buscador con sección de juegos (yandex.com/games) que el DNS no puede separar: se
     # bloquea completo por decisión explícita (2026-10-19).
     "yandex.com",
+    # La versión rusa, con la misma sección de juegos (yandex.ru/games): pedida explícitamente
+    # (2026-11-06).
+    "yandex.ru",
     # Muro colaborativo usado para publicar Eaglercraft y otros juegos subidos como archivos:
     # se bloquea completo por decisión explícita (2026-10-20).
     "padlet.com",

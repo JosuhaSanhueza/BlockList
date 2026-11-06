@@ -33,6 +33,7 @@
 ||1001unblockedgames.github.io^
 ||100pasyansov.ru^
 ||101-games-unblocked-pluh.github.io^
+||101games.io^
 ||101xp.com^
 ||103-arcade-game-hub.vercel.app^
 ||105games.github.io^
@@ -76,6 +77,7 @@
 ||1v1-lol-unblocked.pages.dev^
 ||1v1-lol-unbloked.github.io^
 ||1v1-lol.cc^
+||1v1-lol.gitlab.io^
 ||1v1-lol.surge.sh^
 ||1v1-lol.vercel.app^
 ||1v1-lolgame.github.io^
@@ -3279,6 +3281,7 @@
 ||fnfmod.online^
 ||fnfmods.io^
 ||fnfmodsonline.github.io^
+||fnfonlinevs.github.io^
 ||fnfunblocked.pages.dev^
 ||fnfunblockedonline.github.io^
 ||fnfunkin.com^
@@ -4827,6 +4830,7 @@
 ||igroflot.com^
 ||igroutka.github.io^
 ||igroutka.ru^
+||igry.io^
 ||igry.ru^
 ||ihackedgames.com^
 ||ihatecamouflage.github.io^
@@ -5145,6 +5149,7 @@
 ||johndoe642is7here-spec.github.io^
 ||johnkovs2-sys.github.io^
 ||johnmilley.github.io^
+||johnnyplay.com^
 ||johnygames.com^
 ||jona-gill.github.io^
 ||jonaslpeuu.github.io^
@@ -5608,6 +5613,7 @@
 ||lolbeans.io^
 ||lolbeans.us^
 ||lolgames.net^
+||lolygames.github.io^
 ||lomuroundtheoutside.github.io^
 ||london47990.github.io^
 ||longhtd.github.io^
@@ -7925,6 +7931,7 @@
 ||samuelwiles.github.io^
 ||sandbox.game^
 ||sandboxelsgame.com^
+||sandboxgames.io^
 ||sandspiel.club^
 ||sandspiel.io^
 ||sandspiel.surge.sh^
@@ -8131,6 +8138,7 @@
 ||sjefvanleeuwen.github.io^
 ||skabkleveta-creator.github.io^
 ||skap.nightly.pw^
+||skate3-browser.com^
 ||skate3browser.com^
 ||skblinkhelp-cloud.github.io^
 ||skc47313-lang.github.io^
@@ -8149,6 +8157,7 @@
 ||skills.freetls.fastly.net^
 ||skills.global.ssl.fastly.net^
 ||skinsmc.org^
+||skipmath.com^
 ||skitterix.github.io^
 ||skmedix.pl^
 ||skoolgq.github.io^
@@ -8486,6 +8495,7 @@
 ||soccerrandom.web.app^
 ||soccerrandomgame.com^
 ||soccerrandomgame.net^
+||soccerskillsworldcup.com^
 ||socks.freetls.fastly.net^
 ||socks.global.ssl.fastly.net^
 ||sofiamuweiyi-wq.github.io^
@@ -8569,6 +8579,7 @@
 ||spades.co^
 ||sparkchess.com^
 ||sparxcorporation.github.io^
+||spawn.co^
 ||specterz.com^
 ||spectrum.games^
 ||speed-stars.io^
@@ -9674,6 +9685,7 @@
 ||uicomponentsforge-pixel.github.io^
 ||ujghfty.github.io^
 ||ukgamesfund.com^
+||ukraine-gta5.com.ua^
 ||ultimafia.com^
 ||ultimagame.com^
 ||ultimagame.es^
@@ -10199,6 +10211,7 @@
 ||web-adventures.org^
 ||web-dashers.github.io^
 ||web-game-portal-siggraph-task-nu.vercel.app^
+||web-games.io^
 ||web-minecraft-iota.vercel.app^
 ||webcraft-kappa-opal.vercel.app^
 ||webdeveloper43.github.io^
@@ -10214,6 +10227,7 @@
 ||webmc.com^
 ||webmc.fun^
 ||webmulator.com^
+||webosumania.com^
 ||webretro-bay.vercel.app^
 ||webretro.freetls.fastly.net^
 ||webretro.global.ssl.fastly.net^
@@ -10410,6 +10424,7 @@
 ||yaksgame.com^
 ||yami-kawaii.camdvr.org^
 ||yandex.com^
+||yandex.ru^
 ||yandexgames.online^
 ||yangyang8305.github.io^
 ||yapgames.com^

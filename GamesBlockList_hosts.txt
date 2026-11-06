@@ -34,6 +34,7 @@
 0.0.0.0 1001unblockedgames.github.io
 0.0.0.0 100pasyansov.ru
 0.0.0.0 101-games-unblocked-pluh.github.io
+0.0.0.0 101games.io
 0.0.0.0 101xp.com
 0.0.0.0 103-arcade-game-hub.vercel.app
 0.0.0.0 105games.github.io
@@ -77,6 +78,7 @@
 0.0.0.0 1v1-lol-unblocked.pages.dev
 0.0.0.0 1v1-lol-unbloked.github.io
 0.0.0.0 1v1-lol.cc
+0.0.0.0 1v1-lol.gitlab.io
 0.0.0.0 1v1-lol.surge.sh
 0.0.0.0 1v1-lol.vercel.app
 0.0.0.0 1v1-lolgame.github.io
@@ -3280,6 +3282,7 @@
 0.0.0.0 fnfmod.online
 0.0.0.0 fnfmods.io
 0.0.0.0 fnfmodsonline.github.io
+0.0.0.0 fnfonlinevs.github.io
 0.0.0.0 fnfunblocked.pages.dev
 0.0.0.0 fnfunblockedonline.github.io
 0.0.0.0 fnfunkin.com
@@ -4828,6 +4831,7 @@
 0.0.0.0 igroflot.com
 0.0.0.0 igroutka.github.io
 0.0.0.0 igroutka.ru
+0.0.0.0 igry.io
 0.0.0.0 igry.ru
 0.0.0.0 ihackedgames.com
 0.0.0.0 ihatecamouflage.github.io
@@ -5146,6 +5150,7 @@
 0.0.0.0 johndoe642is7here-spec.github.io
 0.0.0.0 johnkovs2-sys.github.io
 0.0.0.0 johnmilley.github.io
+0.0.0.0 johnnyplay.com
 0.0.0.0 johnygames.com
 0.0.0.0 jona-gill.github.io
 0.0.0.0 jonaslpeuu.github.io
@@ -5609,6 +5614,7 @@
 0.0.0.0 lolbeans.io
 0.0.0.0 lolbeans.us
 0.0.0.0 lolgames.net
+0.0.0.0 lolygames.github.io
 0.0.0.0 lomuroundtheoutside.github.io
 0.0.0.0 london47990.github.io
 0.0.0.0 longhtd.github.io
@@ -7926,6 +7932,7 @@
 0.0.0.0 samuelwiles.github.io
 0.0.0.0 sandbox.game
 0.0.0.0 sandboxelsgame.com
+0.0.0.0 sandboxgames.io
 0.0.0.0 sandspiel.club
 0.0.0.0 sandspiel.io
 0.0.0.0 sandspiel.surge.sh
@@ -8132,6 +8139,7 @@
 0.0.0.0 sjefvanleeuwen.github.io
 0.0.0.0 skabkleveta-creator.github.io
 0.0.0.0 skap.nightly.pw
+0.0.0.0 skate3-browser.com
 0.0.0.0 skate3browser.com
 0.0.0.0 skblinkhelp-cloud.github.io
 0.0.0.0 skc47313-lang.github.io
@@ -8150,6 +8158,7 @@
 0.0.0.0 skills.freetls.fastly.net
 0.0.0.0 skills.global.ssl.fastly.net
 0.0.0.0 skinsmc.org
+0.0.0.0 skipmath.com
 0.0.0.0 skitterix.github.io
 0.0.0.0 skmedix.pl
 0.0.0.0 skoolgq.github.io
@@ -8487,6 +8496,7 @@
 0.0.0.0 soccerrandom.web.app
 0.0.0.0 soccerrandomgame.com
 0.0.0.0 soccerrandomgame.net
+0.0.0.0 soccerskillsworldcup.com
 0.0.0.0 socks.freetls.fastly.net
 0.0.0.0 socks.global.ssl.fastly.net
 0.0.0.0 sofiamuweiyi-wq.github.io
@@ -8570,6 +8580,7 @@
 0.0.0.0 spades.co
 0.0.0.0 sparkchess.com
 0.0.0.0 sparxcorporation.github.io
+0.0.0.0 spawn.co
 0.0.0.0 specterz.com
 0.0.0.0 spectrum.games
 0.0.0.0 speed-stars.io
@@ -9675,6 +9686,7 @@
 0.0.0.0 uicomponentsforge-pixel.github.io
 0.0.0.0 ujghfty.github.io
 0.0.0.0 ukgamesfund.com
+0.0.0.0 ukraine-gta5.com.ua
 0.0.0.0 ultimafia.com
 0.0.0.0 ultimagame.com
 0.0.0.0 ultimagame.es
@@ -10200,6 +10212,7 @@
 0.0.0.0 web-adventures.org
 0.0.0.0 web-dashers.github.io
 0.0.0.0 web-game-portal-siggraph-task-nu.vercel.app
+0.0.0.0 web-games.io
 0.0.0.0 web-minecraft-iota.vercel.app
 0.0.0.0 webcraft-kappa-opal.vercel.app
 0.0.0.0 webdeveloper43.github.io
@@ -10215,6 +10228,7 @@
 0.0.0.0 webmc.com
 0.0.0.0 webmc.fun
 0.0.0.0 webmulator.com
+0.0.0.0 webosumania.com
 0.0.0.0 webretro-bay.vercel.app
 0.0.0.0 webretro.freetls.fastly.net
 0.0.0.0 webretro.global.ssl.fastly.net
@@ -10411,6 +10425,7 @@
 0.0.0.0 yaksgame.com
 0.0.0.0 yami-kawaii.camdvr.org
 0.0.0.0 yandex.com
+0.0.0.0 yandex.ru
 0.0.0.0 yandexgames.online
 0.0.0.0 yangyang8305.github.io
 0.0.0.0 yapgames.com
