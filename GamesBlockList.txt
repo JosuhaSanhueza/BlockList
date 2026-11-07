@@ -33,6 +33,7 @@
 ||1001unblockedgames.github.io^
 ||100pasyansov.ru^
 ||101-games-unblocked-pluh.github.io^
+||101games.es^
 ||101games.io^
 ||101xp.com^
 ||103-arcade-game-hub.vercel.app^
@@ -1759,6 +1760,7 @@
 ||clockworksilas.github.io^
 ||clodytheo1221-hue.github.io^
 ||clouddeck.app^
+||cloudfrontgames.com^
 ||cloudgames.gg^
 ||cloudimperiumgames.com^
 ||cloudmoonapp.com^
@@ -4113,6 +4115,7 @@
 ||geoakser-afk.github.io^
 ||geodash.org^
 ||geodashlite.org^
+||geodashlite.pages.dev^
 ||geodashunblocked.com^
 ||geodashunblocked.github.io^
 ||geofungames.com^
@@ -5464,6 +5467,7 @@
 ||kjmkjm.gitlab.io^
 ||kkecaom.github.io^
 ||kleiders3010.github.io^
+||klipy.com^
 ||klngcobralce.github.io^
 ||klo773.github.io^
 ||klondike-online.com^
@@ -6655,6 +6659,7 @@
 ||osgameclones.com^
 ||oskc.duckdns.org^
 ||oskh2012.github.io^
+||osumania.net^
 ||othehumbled.github.io^
 ||othermgwebsite.github.io^
 ||otrosantix.github.io^
@@ -6941,6 +6946,7 @@
 ||pipygames.com^
 ||pirongames.com^
 ||pito.games^
+||pivigames.blog^
 ||pixelantgames.com^
 ||pixelarena.netlify.app^
 ||pixelburstgame.com^
@@ -7328,6 +7334,7 @@
 ||pokigamesonline.com^
 ||pokigamesunblocked.gitlab.io^
 ||pokigamez.github.io^
+||pokii.co.com^
 ||pokiigame.com^
 ||pokiunblocked.github.io^
 ||pokiunblocked.gitlab.io^
@@ -7701,6 +7708,7 @@
 ||resent5.pages.dev^
 ||restlessmonkeyking.github.io^
 ||resurviv.biz^
+||retolam.online^
 ||retro-arcade.org^
 ||retro-bowl-25.github.io^
 ||retro-bowl-56x.github.io^
@@ -8669,6 +8677,7 @@
 ||spacetrace.org^
 ||spacewaves-game.github.io^
 ||spacewaves.io^
+||spacewaves2.io^
 ||spacewaves2.org^
 ||spacewavesfree.io^
 ||spacewavesgame.io^
@@ -8677,6 +8686,7 @@
 ||sparkchess.com^
 ||sparxcorporation.github.io^
 ||spawn.co^
+||spawnfile.io^
 ||specterz.com^
 ||spectrum.games^
 ||speed-stars.io^
@@ -9664,6 +9674,7 @@
 ||tunnelrushunblocked.github.io^
 ||tunnelrushunblocked.pages.dev^
 ||tunnelrushunblockedgames66.github.io^
+||turball.io^
 ||turbo-typer-pro.vercel.app^
 ||turbogames.com^
 ||turbonuke.com^
