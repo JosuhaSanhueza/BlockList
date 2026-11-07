@@ -714,6 +714,7 @@
 ||avyansatija-crypto.github.io^
 ||awana-arcade.vercel.app^
 ||awecom.ru^
+||awesomegamesapp.pages.dev^
 ||awesometanks-unblocked.github.io^
 ||awesometanks.github.io^
 ||awltyyman.github.io^
@@ -1515,6 +1516,7 @@
 ||cartoongames.net^
 ||cartoonnetwork-games.com^
 ||casperf18.github.io^
+||castle-game-hub.vercel.app^
 ||castle.xyz^
 ||castlexyz.com^
 ||casualgameplay.com^
@@ -2447,6 +2449,7 @@
 ||doublee-games.github.io^
 ||doublegames.net^
 ||doublespeakgames.com^
+||downandoutgames.pages.dev^
 ||dragon-ball-javascript.vercel.app^
 ||dragonawaken.com^
 ||dragonblade12.github.io^
@@ -2570,6 +2573,7 @@
 ||driftking.org^
 ||driftking.surge.sh^
 ||driftking.web.app^
+||driftwood-games.onrender.com^
 ||drillur.itch.io^
 ||drive-mad-2.pages.dev^
 ||drive-mad-unblock.github.io^
@@ -3897,6 +3901,7 @@
 ||games.iamdenny.com^
 ||games.klyo.pl^
 ||games.lol^
+||games.meirmsn.dev^
 ||games.mirror.co.uk^
 ||games.msn.com^
 ||games.serp.co^
@@ -3920,6 +3925,7 @@
 ||games560.github.io^
 ||games68.com^
 ||games6x.com^
+||games76-walker.blogspot.com^
 ||games87.com^
 ||games9000.com^
 ||gamesaksks.github.io^
@@ -4410,6 +4416,7 @@
 ||googlesnakegame.pages.dev^
 ||googlygiraffesigma67.github.io^
 ||goomer-jogos-picpay.vercel.app^
+||gooning-games-on-roblox.pages.dev^
 ||goood.games^
 ||goose.game^
 ||gorchakovpawel-alt.github.io^
@@ -4570,6 +4577,7 @@
 ||happy-wheels.co^
 ||happy-wheels.pages.dev^
 ||happy-wheels.surge.sh^
+||happy-wheels.unblockedgameswtf.workers.dev^
 ||happy-wheelsplay.com^
 ||happy401.github.io^
 ||happykidgames.com^
@@ -4908,6 +4916,7 @@
 ||incognito.freetls.fastly.net^
 ||incognito.global.ssl.fastly.net^
 ||incrediboxunblocked.pages.dev^
+||indian-games-in-roblox.pages.dev^
 ||infexity5748.github.io^
 ||infinigongames.com^
 ||infinite-craft.com^
@@ -6110,6 +6119,7 @@
 ||mmogames.com^
 ||mmolegend.com^
 ||mobballick.github.io^
+||mobile4kgames.pages.dev^
 ||mobirix.com^
 ||mobirix.net^
 ||mochig.com^
@@ -6156,6 +6166,7 @@
 ||monkeymartunblocked.pages.dev^
 ||monkeymath.pages.dev^
 ||monogamer.net^
+||monster-energy-drink-roblox.pages.dev^
 ||monstersgame.fr^
 ||monstersgame.net^
 ||mookistewkewl.github.io^
@@ -6959,6 +6970,7 @@
 ||pizzatower.pages.dev^
 ||pizzatower.web.app^
 ||pkmnreborn.com^
+||pkv-games-disdukcapillubuklinggaukota-amp.pages.dev^
 ||pla.bad-time-simulator.com^
 ||planetcapture.io^
 ||planete-games.com^
@@ -7025,6 +7037,7 @@
 ||play.msn.com^
 ||play.st^
 ||play.vg^
+||play.vrg.li^
 ||play123.com^
 ||play123.in^
 ||play2048.co^
@@ -7048,6 +7061,7 @@
 ||playapex.com^
 ||playartifact.com^
 ||playatlunch.com^
+||playback-contact.pages.dev^
 ||playbadicecream.com^
 ||playbasketballbros.com^
 ||playblockpost.pages.dev^
@@ -7379,6 +7393,7 @@
 ||poppytime.github.io^
 ||popsgames.online^
 ||poptropica.com^
+||popular-roblox-car-games.pages.dev^
 ||populardoodlegames.github.io^
 ||populargames.com^
 ||populargames.io^
@@ -7824,8 +7839,12 @@
 ||roblox-games-unblocked.github.io^
 ||roblox-hood-games-leaked.pages.dev^
 ||roblox-horror-games-asmr.pages.dev^
+||roblox-horror-games-easy.pages.dev^
+||roblox-jailbreak-like-games.pages.dev^
 ||roblox-online.bitbucket.io^
 ||roblox-rats.pages.dev^
+||roblox-robot-sound.pages.dev^
+||roblox-sorcerer-temp.pages.dev^
 ||roblox-unblock.github.io^
 ||roblox-unblocked-game.github.io^
 ||roblox-unblocked-games-school.pages.dev^
@@ -7835,6 +7854,7 @@
 ||roblox-unblocked.pages.dev^
 ||roblox-unblocked1.github.io^
 ||roblox-vr-script-valuablely.pages.dev^
+||roblox-zachs-service-station.pages.dev^
 ||roblox-zombie-elimination-games.pages.dev^
 ||roblox.cn^
 ||roblox.com^
@@ -8066,6 +8086,7 @@
 ||seagames-joy.com^
 ||seaguys.io^
 ||seanxiaori.github.io^
+||seapusher.com^
 ||seapusher.github.io^
 ||search-now.duckdns.org^
 ||searchamateur.com^
@@ -10616,6 +10637,7 @@
 ||zigiz.com^
 ||zihit.com^
 ||zillakgames.com^
+||zillion-games-scommesse.pages.dev^
 ||ziphao2010.github.io^
 ||zizogamer0139.github.io^
 ||zlisto.github.io^
