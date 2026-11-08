@@ -1078,6 +1078,7 @@
 ||bkoib.github.io^
 ||blablanbh.github.io^
 ||blackjack-browser-game.pages.dev^
+||blackopsbrowser.com^
 ||blackrobotgames.com^
 ||blade-ball.net^
 ||blake964.github.io^
@@ -2099,6 +2100,7 @@
 ||cubes-2048.io^
 ||cubes2048.org^
 ||cucumberpork3.github.io^
+||cuevadeclasicos.org^
 ||culga.com^
 ||culpixtg.github.io^
 ||cup.freetls.fastly.net^
@@ -2439,6 +2441,7 @@
 ||doodman6741.github.io^
 ||doodoo.love^
 ||doodoolove.github.io^
+||doombrowser.vercel.app^
 ||doomlord.net^
 ||doquizzes.com^
 ||dordle.gg^
@@ -3981,6 +3984,7 @@
 ||gamesgames.com^
 ||gamesgamescdn.com^
 ||gamesgizmo.blogspot.com^
+||gamesglue.com^
 ||gamesgo.net^
 ||gameshandbook.com^
 ||gamesheep.com^
@@ -4512,11 +4516,14 @@
 ||gswitch3.github.io^
 ||gt2048.com^
 ||gta3browser.vercel.app^
+||gta5browser.com^
 ||gta6unblocked.github.io^
+||gtabrowser.com^
 ||gtagusers.github.io^
 ||gtahub.gg^
 ||gtarcade.com^
 ||gtavice.city^
+||gtaweb.eu^
 ||gtg0116.github.io^
 ||gtube.net^
 ||guarapott.github.io^
@@ -4568,6 +4575,7 @@
 ||halflemongames.com^
 ||halloweengames.us^
 ||halopro5251.github.io^
+||hamachinetwork.info^
 ||hammadshakeelai.github.io^
 ||hammerchen.github.io^
 ||hamnerrc.github.io^
@@ -5060,6 +5068,7 @@
 ||jamalisda.github.io^
 ||james9120.github.io^
 ||jamesland.org^
+||jamestore214.github.io^
 ||jamir.io^
 ||jamsilgotabujagogabojago-lang.github.io^
 ||japan.freetls.fastly.net^
@@ -7027,6 +7036,7 @@
 ||play-games.com^
 ||play-geometry-dash.com^
 ||play-grounds.github.io^
+||play-gta5.vercel.app^
 ||play-hangman.com^
 ||play-iogames.com^
 ||play-level-devil.com^
@@ -7987,6 +7997,7 @@
 ||run3.gg^
 ||run3.io^
 ||run3.live^
+||run3.onl^
 ||run3.org^
 ||run3.pro^
 ||run3.web.app^
@@ -8616,6 +8627,7 @@
 ||soccerrandom.web.app^
 ||soccerrandomgame.com^
 ||soccerrandomgame.net^
+||soccerskills-worldcup.com^
 ||soccerskillsworldcup.com^
 ||socializing-games-on-roblox.pages.dev^
 ||socks.freetls.fastly.net^
@@ -9382,7 +9394,9 @@
 ||thatdevexotic.github.io^
 ||thatnoisy.github.io^
 ||thatoneguy-67.github.io^
+||thatsnotmyneighbor-game.io^
 ||thatsnotmyneighbor.com^
+||thatsnotmyneighbor.online^
 ||thatvideogamesite.com^
 ||thawflow.github.io^
 ||the-arcade-edition.github.io^
@@ -10133,6 +10147,7 @@
 ||underloaded11-blip.github.io^
 ||underratedrobloxgamestwitter.pages.dev^
 ||undertale-game.com^
+||undertale-spanish.com^
 ||undertale.com^
 ||unfair-mario.com^
 ||uni-class.b-cdn.net^
@@ -10364,6 +10379,7 @@
 ||webmc.com^
 ||webmc.fun^
 ||webmulator.com^
+||webosu-2.github.io^
 ||webosumania.com^
 ||webretro-bay.vercel.app^
 ||webretro.freetls.fastly.net^

@@ -1079,6 +1079,7 @@
 0.0.0.0 bkoib.github.io
 0.0.0.0 blablanbh.github.io
 0.0.0.0 blackjack-browser-game.pages.dev
+0.0.0.0 blackopsbrowser.com
 0.0.0.0 blackrobotgames.com
 0.0.0.0 blade-ball.net
 0.0.0.0 blake964.github.io
@@ -2100,6 +2101,7 @@
 0.0.0.0 cubes-2048.io
 0.0.0.0 cubes2048.org
 0.0.0.0 cucumberpork3.github.io
+0.0.0.0 cuevadeclasicos.org
 0.0.0.0 culga.com
 0.0.0.0 culpixtg.github.io
 0.0.0.0 cup.freetls.fastly.net
@@ -2440,6 +2442,7 @@
 0.0.0.0 doodman6741.github.io
 0.0.0.0 doodoo.love
 0.0.0.0 doodoolove.github.io
+0.0.0.0 doombrowser.vercel.app
 0.0.0.0 doomlord.net
 0.0.0.0 doquizzes.com
 0.0.0.0 dordle.gg
@@ -3982,6 +3985,7 @@
 0.0.0.0 gamesgames.com
 0.0.0.0 gamesgamescdn.com
 0.0.0.0 gamesgizmo.blogspot.com
+0.0.0.0 gamesglue.com
 0.0.0.0 gamesgo.net
 0.0.0.0 gameshandbook.com
 0.0.0.0 gamesheep.com
@@ -4513,11 +4517,14 @@
 0.0.0.0 gswitch3.github.io
 0.0.0.0 gt2048.com
 0.0.0.0 gta3browser.vercel.app
+0.0.0.0 gta5browser.com
 0.0.0.0 gta6unblocked.github.io
+0.0.0.0 gtabrowser.com
 0.0.0.0 gtagusers.github.io
 0.0.0.0 gtahub.gg
 0.0.0.0 gtarcade.com
 0.0.0.0 gtavice.city
+0.0.0.0 gtaweb.eu
 0.0.0.0 gtg0116.github.io
 0.0.0.0 gtube.net
 0.0.0.0 guarapott.github.io
@@ -4569,6 +4576,7 @@
 0.0.0.0 halflemongames.com
 0.0.0.0 halloweengames.us
 0.0.0.0 halopro5251.github.io
+0.0.0.0 hamachinetwork.info
 0.0.0.0 hammadshakeelai.github.io
 0.0.0.0 hammerchen.github.io
 0.0.0.0 hamnerrc.github.io
@@ -5061,6 +5069,7 @@
 0.0.0.0 jamalisda.github.io
 0.0.0.0 james9120.github.io
 0.0.0.0 jamesland.org
+0.0.0.0 jamestore214.github.io
 0.0.0.0 jamir.io
 0.0.0.0 jamsilgotabujagogabojago-lang.github.io
 0.0.0.0 japan.freetls.fastly.net
@@ -7028,6 +7037,7 @@
 0.0.0.0 play-games.com
 0.0.0.0 play-geometry-dash.com
 0.0.0.0 play-grounds.github.io
+0.0.0.0 play-gta5.vercel.app
 0.0.0.0 play-hangman.com
 0.0.0.0 play-iogames.com
 0.0.0.0 play-level-devil.com
@@ -7988,6 +7998,7 @@
 0.0.0.0 run3.gg
 0.0.0.0 run3.io
 0.0.0.0 run3.live
+0.0.0.0 run3.onl
 0.0.0.0 run3.org
 0.0.0.0 run3.pro
 0.0.0.0 run3.web.app
@@ -8617,6 +8628,7 @@
 0.0.0.0 soccerrandom.web.app
 0.0.0.0 soccerrandomgame.com
 0.0.0.0 soccerrandomgame.net
+0.0.0.0 soccerskills-worldcup.com
 0.0.0.0 soccerskillsworldcup.com
 0.0.0.0 socializing-games-on-roblox.pages.dev
 0.0.0.0 socks.freetls.fastly.net
@@ -9383,7 +9395,9 @@
 0.0.0.0 thatdevexotic.github.io
 0.0.0.0 thatnoisy.github.io
 0.0.0.0 thatoneguy-67.github.io
+0.0.0.0 thatsnotmyneighbor-game.io
 0.0.0.0 thatsnotmyneighbor.com
+0.0.0.0 thatsnotmyneighbor.online
 0.0.0.0 thatvideogamesite.com
 0.0.0.0 thawflow.github.io
 0.0.0.0 the-arcade-edition.github.io
@@ -10134,6 +10148,7 @@
 0.0.0.0 underloaded11-blip.github.io
 0.0.0.0 underratedrobloxgamestwitter.pages.dev
 0.0.0.0 undertale-game.com
+0.0.0.0 undertale-spanish.com
 0.0.0.0 undertale.com
 0.0.0.0 unfair-mario.com
 0.0.0.0 uni-class.b-cdn.net
@@ -10365,6 +10380,7 @@
 0.0.0.0 webmc.com
 0.0.0.0 webmc.fun
 0.0.0.0 webmulator.com
+0.0.0.0 webosu-2.github.io
 0.0.0.0 webosumania.com
 0.0.0.0 webretro-bay.vercel.app
 0.0.0.0 webretro.freetls.fastly.net
