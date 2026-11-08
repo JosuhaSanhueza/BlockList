@@ -273,6 +273,7 @@
 ||8ballpoolonline.gitlab.io^
 ||8ballpoolunblocked.github.io^
 ||8ballpoolunblocked.gitlab.io^
+||8f5f24010d137e4e.wccheck-f98929d1-ext.www.fordhouseswolverhampton.duckdns.org.duckdns.org^
 ||8fat.com^
 ||8games.com^
 ||8games.io^
@@ -572,6 +573,7 @@
 ||arcade-hub-arcade-site.vercel.app^
 ||arcade-liard.vercel.app^
 ||arcade-portal-delta.vercel.app^
+||arcade.joacod.com^
 ||arcade.laughingbuddhagames.com^
 ||arcade.vrg.li^
 ||arcadebloom.com^
@@ -971,6 +973,7 @@
 ||bennettryanroach-blip.github.io^
 ||bennisai.github.io^
 ||benteachesmathdotcom.github.io^
+||beras11-games.pages.dev^
 ||beright454-cyber.github.io^
 ||berkecancavus1881-design.github.io^
 ||berrys2.github.io^
@@ -1930,6 +1933,7 @@
 ||copterroyale.org^
 ||copy.sh^
 ||copyofmasite.pages.dev^
+||core-social-games.pages.dev^
 ||corriscant.github.io^
 ||coscoman262.github.io^
 ||cosmicconst.github.io^
@@ -2842,6 +2846,7 @@
 ||eden-sun.github.io^
 ||edmondsonedits.github.io^
 ||edslap.com^
+||edu-games.vercel.app^
 ||edu.freetls.fastly.net^
 ||edu.global.ssl.fastly.net^
 ||eduardo50lucas10-crypto.github.io^
@@ -2908,6 +2913,7 @@
 ||elyorkhakimov.github.io^
 ||emanperson.github.io^
 ||emarsh93.github.io^
+||embergrove-games-studio.vercel.app^
 ||emberlockgames.github.io^
 ||emberwars.io^
 ||emmegray.github.io^
@@ -3832,6 +3838,7 @@
 ||gamepoint.com^
 ||gamepoint.in^
 ||gamepoint.tech^
+||gameport-project.github.io^
 ||gameportal-chi.vercel.app^
 ||gameportal-livid.vercel.app^
 ||gameportal-sigma.vercel.app^
@@ -3903,6 +3910,7 @@
 ||games.iamdenny.com^
 ||games.klyo.pl^
 ||games.lol^
+||games.markusmayer.dev^
 ||games.meirmsn.dev^
 ||games.mirror.co.uk^
 ||games.msn.com^
@@ -4105,6 +4113,7 @@
 ||gdub156.github.io^
 ||gdvs.lucsanders.ca^
 ||gdvsakdcvhoedevircho-hue.github.io^
+||gdwasm.xcv.cx^
 ||geg-bread.github.io^
 ||gembly.com^
 ||genarcy.github.io^
@@ -4759,6 +4768,7 @@
 ||hotpizzayt.github.io^
 ||houselearning.org^
 ||how429.github.io^
+||howtoplaygames.pages.dev^
 ||hpgames.jp^
 ||hpproguy8730-ship-it.github.io^
 ||ht83.com^
@@ -5818,6 +5828,7 @@
 ||mariounblocked.gitlab.io^
 ||marley5225.github.io^
 ||marsbattle.com^
+||marselok-games-preview.pages.dev^
 ||martianmashaal.github.io^
 ||martingrahn-cmd.github.io^
 ||marvelousgames.com^
@@ -5862,6 +5873,7 @@
 ||mavix12.github.io^
 ||maxcliang-blip.github.io^
 ||maxgames.com^
+||maxigames.com^
 ||maxigames.io^
 ||maximenv1.github.io^
 ||maxoegames.com^
@@ -6097,6 +6109,7 @@
 ||minjia-hu.github.io^
 ||minteez.github.io^
 ||mintinboxdigitalgames.com^
+||mintplay-agent.vercel.app^
 ||mintrocketgames.com^
 ||minwoo19930301.github.io^
 ||miractr.github.io^
@@ -6428,6 +6441,7 @@
 ||newgrounds.com^
 ||newresent.vercel.app^
 ||newunblockedgames.gitlab.io^
+||newyonogames.pages.dev^
 ||nexkinproblog.com^
 ||nextgenunblocked.github.io^
 ||nextpulsegames.github.io^
@@ -7084,6 +7098,7 @@
 ||playclassic.games^
 ||playclassicsolitaire.com^
 ||playclassroom6x.com^
+||playcombo.it^
 ||playcrazygames.com^
 ||playcrossword.com^
 ||playcrossyroad.com^
@@ -7845,9 +7860,11 @@
 ||roblox-game-download-link.pages.dev^
 ||roblox-games-half-loading.pages.dev^
 ||roblox-games-unblocked.github.io^
+||roblox-games-without-tags.pages.dev^
 ||roblox-hood-games-leaked.pages.dev^
 ||roblox-horror-games-asmr.pages.dev^
 ||roblox-horror-games-easy.pages.dev^
+||roblox-horror-games-horangi99.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
 ||roblox-online.bitbucket.io^
 ||roblox-rats.pages.dev^
@@ -7861,6 +7878,7 @@
 ||roblox-unblocked.org^
 ||roblox-unblocked.pages.dev^
 ||roblox-unblocked1.github.io^
+||roblox-vr-roleplay-games.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
 ||roblox-zachs-service-station.pages.dev^
 ||roblox-zombie-elimination-games.pages.dev^
@@ -9992,6 +10010,7 @@
 ||unblockedgames1024.gitlab.io^
 ||unblockedgames37.github.io^
 ||unblockedgames45.blogspot.com^
+||unblockedgames4schoolsz.weebly.com^
 ||unblockedgames500.github.io^
 ||unblockedgames64.github.io^
 ||unblockedgames66-ez.github.io^
@@ -10085,6 +10104,7 @@
 ||unblockedgameworld.github.io^
 ||unblockedgamewtf.gitlab.io^
 ||unblockedgamez.github.io^
+||unblockedgamingforschools.weebly.com^
 ||unblockedgithubgames.gitlab.io^
 ||unblockedhub.github.io^
 ||unblockedminecraft.gitlab.io^
@@ -10111,6 +10131,7 @@
 ||undeadcorridor.io^
 ||undercovermoose.github.io^
 ||underloaded11-blip.github.io^
+||underratedrobloxgamestwitter.pages.dev^
 ||undertale-game.com^
 ||undertale.com^
 ||unfair-mario.com^
