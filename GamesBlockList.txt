@@ -544,6 +544,7 @@
 ||aoortega007-arch.github.io^
 ||apalabrados.github.io^
 ||apatrick-ui.github.io^
+||apex-appcraft-website.pages.dev^
 ||apkblade.com^
 ||apoorvammaganur792-droid.github.io^
 ||app.3daimtrainer.com^
@@ -981,6 +982,7 @@
 ||bestallgames.com^
 ||bestcrazygames.com^
 ||bestcrosswords.com^
+||bestdaily.games^
 ||bestdosgames.com^
 ||bestforpuzzles.com^
 ||bestgames.com^
@@ -1541,6 +1543,7 @@
 ||cavegame.io^
 ||cbgamesdev.github.io^
 ||cbingham222-cpu.github.io^
+||cc84434bb2299629.www.da.198-251-83-251.plesk.page^
 ||cdata.github.io^
 ||cdgameclub.com^
 ||cdn-augames.github.io^
@@ -1813,6 +1816,7 @@
 ||comdot-loser.github.io^
 ||comdotgame.com^
 ||community-server-roblox.pages.dev^
+||comojogarrobloxnaextencao.pages.dev^
 ||complex-arcade.github.io^
 ||compositedrivegames.github.io^
 ||condo-game-omega.vercel.app^
@@ -3079,6 +3083,7 @@
 ||ezekielk1.github.io^
 ||ezgaming2026-cloud.github.io^
 ||ezpzunblockedgames.com^
+||f-games.pages.dev^
 ||f1-three-ivory.vercel.app^
 ||f1thunder.vercel.app^
 ||f2pg.com^
@@ -3131,6 +3136,7 @@
 ||ferals.io^
 ||ff.garena.com^
 ||fflashgames.com^
+||fg.notipify.com^
 ||fgames.com^
 ||fgl.com^
 ||fightz.io^
@@ -3717,6 +3723,7 @@
 ||game-stickman.vercel.app^
 ||game-unloc.github.io^
 ||game-vault.dev^
+||game-verify.pages.dev^
 ||game.backkampung.com^
 ||game.croffle-play.link^
 ||game.giantshaft.com^
@@ -4410,6 +4417,7 @@
 ||goodkidsgame.com^
 ||goodoldtetris.com^
 ||goodshepherd.games^
+||google-doodle-games-roblox.pages.dev^
 ||google-doodles.appspot.com^
 ||google-pacman.github.io^
 ||google-snake-game.netlify.app^
@@ -4418,6 +4426,7 @@
 ||google-snake.gitlab.io^
 ||google-snake.net^
 ||google-snake.pages.dev^
+||google777-playwin.pages.dev^
 ||googleclassroom6x.github.io^
 ||googledoodlebaseballunblocked.github.io^
 ||googlesnake.com^
@@ -5399,6 +5408,7 @@
 ||kelvenclay19.github.io^
 ||kemono.games^
 ||kenfin777.github.io^
+||kenji-games.vercel.app^
 ||kerlinamitha-debug.github.io^
 ||kermittheconqueror.github.io^
 ||kernelgreyberet.github.io^
@@ -5910,6 +5920,7 @@
 ||mcsrc.dev^
 ||meaburro.com^
 ||meccabingo.com^
+||meccha-chameleon-games.pages.dev^
 ||mecchachameleongame.io^
 ||media.copero.com.ar^
 ||mediagecko.com^
@@ -6452,6 +6463,7 @@
 ||newunblockedgames.gitlab.io^
 ||newyonogames.pages.dev^
 ||nexkinproblog.com^
+||nextgame-abc.pages.dev^
 ||nextgenunblocked.github.io^
 ||nextpulsegames.github.io^
 ||nextuser.lat^
@@ -6609,6 +6621,7 @@
 ||olivia-games.github.io^
 ||ollgames.net^
 ||olliezwmarshall-create.github.io^
+||olx188-dstplay.pages.dev^
 ||omerfarukoktay112-max.github.io^
 ||omgspider.com^
 ||omigames.com^
@@ -6882,6 +6895,7 @@
 ||parthgadge2025.github.io^
 ||parthivgvs172.github.io^
 ||passion-industry-game.com^
+||passiongames-es.com^
 ||passwordgate123.gitlab.io^
 ||pastexams.org^
 ||pataltimore.github.io^
@@ -7577,6 +7591,7 @@
 ||rabbimkosofsky-droid.github.io^
 ||rac3trase.github.io^
 ||race-game-2.vercel.app^
+||racecatgames-com.pages.dev^
 ||raceconflicts.com^
 ||racing-games.org^
 ||racing-limits.io^
@@ -8137,6 +8152,7 @@
 ||selfstudybrain.com^
 ||senpailord.github.io^
 ||seo-game-website.vercel.app^
+||serial-killer-on-roblox.pages.dev^
 ||sermardf.github.io^
 ||serp.games^
 ||serpgames.github.io^
@@ -8526,6 +8542,7 @@
 ||snakeonline.io^
 ||snakex-game.vercel.app^
 ||snapfingerclick.com^
+||snazplay.pages.dev^
 ||snes.party^
 ||sneslive.com^
 ||sniperassassingames.com^
@@ -9646,6 +9663,7 @@
 ||triippiing.github.io^
 ||trikamdevasi.github.io^
 ||trine-thegame.com^
+||tripleogames-web.pages.dev^
 ||tripletsandus.com^
 ||tristan-web.github.io^
 ||triviando.com^
