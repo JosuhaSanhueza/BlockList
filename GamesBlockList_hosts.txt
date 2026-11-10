@@ -269,6 +269,7 @@
 0.0.0.0 7juegos.es
 0.0.0.0 7some.github.io
 0.0.0.0 7x.games
+0.0.0.0 888tragamonedas.com
 0.0.0.0 8ballpool.online
 0.0.0.0 8ballpool3d.com
 0.0.0.0 8ballpoolonline.gitlab.io
@@ -356,6 +357,7 @@
 0.0.0.0 adventure2gameonline.github.io
 0.0.0.0 adventuregamehotspot.com
 0.0.0.0 adventuregames.io
+0.0.0.0 advertise-roblox-games-discord.pages.dev
 0.0.0.0 adwebture.de
 0.0.0.0 aelienz.web.app
 0.0.0.0 aeon-network.net
@@ -749,6 +751,7 @@
 0.0.0.0 babygames.com
 0.0.0.0 babyhazelgames.com
 0.0.0.0 babyowl1990-cloud.github.io
+0.0.0.0 backend-games-oddlatent.vercel.app
 0.0.0.0 backgammon-io.vercel.app
 0.0.0.0 backgammon-online.pages.dev
 0.0.0.0 backgammon-play.firebaseapp.com
@@ -964,6 +967,7 @@
 0.0.0.0 bee.games
 0.0.0.0 beefalo1234.github.io
 0.0.0.0 beelzy.gitlab.io
+0.0.0.0 beginner-friendly-roblox-games.pages.dev
 0.0.0.0 begonio.github.io
 0.0.0.0 belykh186.github.io
 0.0.0.0 bemuse.ninja
@@ -2469,6 +2473,7 @@
 0.0.0.0 dragonblade12.github.io
 0.0.0.0 dragonbound.net
 0.0.0.0 dragonclient.vercel.app
+0.0.0.0 dragonforgegames.github.io
 0.0.0.0 dragonsprophetthegame.com
 0.0.0.0 drak332.github.io
 0.0.0.0 drakensang.com
@@ -3250,6 +3255,7 @@
 0.0.0.0 flipline.com
 0.0.0.0 flixifytvisbackformoregithub.github.io
 0.0.0.0 flognodyt.github.io
+0.0.0.0 floof-games.vercel.app
 0.0.0.0 flopsed.io
 0.0.0.0 flqmedev.github.io
 0.0.0.0 flyerarcade.vercel.app
@@ -6124,6 +6130,7 @@
 0.0.0.0 miniplay.io
 0.0.0.0 miniputtgames.com
 0.0.0.0 miniscript.gg
+0.0.0.0 minisgame-love-money-game.pages.dev
 0.0.0.0 minisnake.vercel.app
 0.0.0.0 miniwebgames.com
 0.0.0.0 minix.games
@@ -6680,6 +6687,7 @@
 0.0.0.0 opengames-dev.github.io
 0.0.0.0 openhtml5games.com
 0.0.0.0 opensourcegames01.github.io
+0.0.0.0 openvibe.games
 0.0.0.0 openzot.github.io
 0.0.0.0 opium-games.com
 0.0.0.0 opivankristovi.github.io
@@ -6956,6 +6964,7 @@
 0.0.0.0 philipposk.github.io
 0.0.0.0 phoenixkoester-bit.github.io
 0.0.0.0 pholmes30-ship-it.github.io
+0.0.0.0 phone-controller-games.pages.dev
 0.0.0.0 phrazle.co
 0.0.0.0 physicsgames.net
 0.0.0.0 phytosguy.github.io
@@ -6973,6 +6982,7 @@
 0.0.0.0 pinball.freetls.fastly.net
 0.0.0.0 pinball.global.ssl.fastly.net
 0.0.0.0 pinball4u.com
+0.0.0.0 pineapple-games.pages.dev
 0.0.0.0 pineapple.freetls.fastly.net
 0.0.0.0 pineapple.global.ssl.fastly.net
 0.0.0.0 pingameh5.com
@@ -7123,6 +7133,7 @@
 0.0.0.0 playclassic.games
 0.0.0.0 playclassicsolitaire.com
 0.0.0.0 playclassroom6x.com
+0.0.0.0 playclub-es.com
 0.0.0.0 playcombo.it
 0.0.0.0 playcrazygames.com
 0.0.0.0 playcrossword.com
@@ -7892,10 +7903,12 @@
 0.0.0.0 roblox-horror-games-easy.pages.dev
 0.0.0.0 roblox-horror-games-horangi99.pages.dev
 0.0.0.0 roblox-jailbreak-like-games.pages.dev
+0.0.0.0 roblox-mystery-games-detective.pages.dev
 0.0.0.0 roblox-online.bitbucket.io
 0.0.0.0 roblox-rats.pages.dev
 0.0.0.0 roblox-robot-sound.pages.dev
 0.0.0.0 roblox-sorcerer-temp.pages.dev
+0.0.0.0 roblox-tiny-script.pages.dev
 0.0.0.0 roblox-unblock.github.io
 0.0.0.0 roblox-unblocked-game.github.io
 0.0.0.0 roblox-unblocked-games-school.pages.dev
@@ -7904,8 +7917,11 @@
 0.0.0.0 roblox-unblocked.org
 0.0.0.0 roblox-unblocked.pages.dev
 0.0.0.0 roblox-unblocked1.github.io
+0.0.0.0 roblox-unlock-script.pages.dev
+0.0.0.0 roblox-violin-sound.pages.dev
 0.0.0.0 roblox-vr-roleplay-games.pages.dev
 0.0.0.0 roblox-vr-script-valuablely.pages.dev
+0.0.0.0 roblox-window-esp.pages.dev
 0.0.0.0 roblox-zachs-service-station.pages.dev
 0.0.0.0 roblox-zombie-elimination-games.pages.dev
 0.0.0.0 roblox.cn
@@ -7914,6 +7930,7 @@
 0.0.0.0 roblox.qq.com
 0.0.0.0 robloxcdn.com
 0.0.0.0 robloxdev.cn
+0.0.0.0 robloxhandtrackingsupportscript.pages.dev
 0.0.0.0 robloxpiggy.com
 0.0.0.0 robloxunblocked.gitlab.io
 0.0.0.0 robloxunblocked.online
@@ -7978,6 +7995,7 @@
 0.0.0.0 rose008821312.github.io
 0.0.0.0 roseonlinegame.com
 0.0.0.0 rossygames.github.io
+0.0.0.0 rost-games-hub.netlify.app
 0.0.0.0 rotikak6-cpu.github.io
 0.0.0.0 roundgames.com
 0.0.0.0 roundgames.net
@@ -10724,6 +10742,7 @@
 0.0.0.0 zone.msn.com
 0.0.0.0 zone4game.com
 0.0.0.0 zonedelta.github.io
+0.0.0.0 zoom.applesana.es
 0.0.0.0 zoqgames.com
 0.0.0.0 zplay.com
 0.0.0.0 zqm-labs.github.io

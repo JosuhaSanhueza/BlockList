@@ -268,6 +268,7 @@
 ||7juegos.es^
 ||7some.github.io^
 ||7x.games^
+||888tragamonedas.com^
 ||8ballpool.online^
 ||8ballpool3d.com^
 ||8ballpoolonline.gitlab.io^
@@ -355,6 +356,7 @@
 ||adventure2gameonline.github.io^
 ||adventuregamehotspot.com^
 ||adventuregames.io^
+||advertise-roblox-games-discord.pages.dev^
 ||adwebture.de^
 ||aelienz.web.app^
 ||aeon-network.net^
@@ -748,6 +750,7 @@
 ||babygames.com^
 ||babyhazelgames.com^
 ||babyowl1990-cloud.github.io^
+||backend-games-oddlatent.vercel.app^
 ||backgammon-io.vercel.app^
 ||backgammon-online.pages.dev^
 ||backgammon-play.firebaseapp.com^
@@ -963,6 +966,7 @@
 ||bee.games^
 ||beefalo1234.github.io^
 ||beelzy.gitlab.io^
+||beginner-friendly-roblox-games.pages.dev^
 ||begonio.github.io^
 ||belykh186.github.io^
 ||bemuse.ninja^
@@ -2468,6 +2472,7 @@
 ||dragonblade12.github.io^
 ||dragonbound.net^
 ||dragonclient.vercel.app^
+||dragonforgegames.github.io^
 ||dragonsprophetthegame.com^
 ||drak332.github.io^
 ||drakensang.com^
@@ -3249,6 +3254,7 @@
 ||flipline.com^
 ||flixifytvisbackformoregithub.github.io^
 ||flognodyt.github.io^
+||floof-games.vercel.app^
 ||flopsed.io^
 ||flqmedev.github.io^
 ||flyerarcade.vercel.app^
@@ -6123,6 +6129,7 @@
 ||miniplay.io^
 ||miniputtgames.com^
 ||miniscript.gg^
+||minisgame-love-money-game.pages.dev^
 ||minisnake.vercel.app^
 ||miniwebgames.com^
 ||minix.games^
@@ -6679,6 +6686,7 @@
 ||opengames-dev.github.io^
 ||openhtml5games.com^
 ||opensourcegames01.github.io^
+||openvibe.games^
 ||openzot.github.io^
 ||opium-games.com^
 ||opivankristovi.github.io^
@@ -6955,6 +6963,7 @@
 ||philipposk.github.io^
 ||phoenixkoester-bit.github.io^
 ||pholmes30-ship-it.github.io^
+||phone-controller-games.pages.dev^
 ||phrazle.co^
 ||physicsgames.net^
 ||phytosguy.github.io^
@@ -6972,6 +6981,7 @@
 ||pinball.freetls.fastly.net^
 ||pinball.global.ssl.fastly.net^
 ||pinball4u.com^
+||pineapple-games.pages.dev^
 ||pineapple.freetls.fastly.net^
 ||pineapple.global.ssl.fastly.net^
 ||pingameh5.com^
@@ -7122,6 +7132,7 @@
 ||playclassic.games^
 ||playclassicsolitaire.com^
 ||playclassroom6x.com^
+||playclub-es.com^
 ||playcombo.it^
 ||playcrazygames.com^
 ||playcrossword.com^
@@ -7891,10 +7902,12 @@
 ||roblox-horror-games-easy.pages.dev^
 ||roblox-horror-games-horangi99.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
+||roblox-mystery-games-detective.pages.dev^
 ||roblox-online.bitbucket.io^
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
 ||roblox-sorcerer-temp.pages.dev^
+||roblox-tiny-script.pages.dev^
 ||roblox-unblock.github.io^
 ||roblox-unblocked-game.github.io^
 ||roblox-unblocked-games-school.pages.dev^
@@ -7903,8 +7916,11 @@
 ||roblox-unblocked.org^
 ||roblox-unblocked.pages.dev^
 ||roblox-unblocked1.github.io^
+||roblox-unlock-script.pages.dev^
+||roblox-violin-sound.pages.dev^
 ||roblox-vr-roleplay-games.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
+||roblox-window-esp.pages.dev^
 ||roblox-zachs-service-station.pages.dev^
 ||roblox-zombie-elimination-games.pages.dev^
 ||roblox.cn^
@@ -7913,6 +7929,7 @@
 ||roblox.qq.com^
 ||robloxcdn.com^
 ||robloxdev.cn^
+||robloxhandtrackingsupportscript.pages.dev^
 ||robloxpiggy.com^
 ||robloxunblocked.gitlab.io^
 ||robloxunblocked.online^
@@ -7977,6 +7994,7 @@
 ||rose008821312.github.io^
 ||roseonlinegame.com^
 ||rossygames.github.io^
+||rost-games-hub.netlify.app^
 ||rotikak6-cpu.github.io^
 ||roundgames.com^
 ||roundgames.net^
@@ -10723,6 +10741,7 @@
 ||zone.msn.com^
 ||zone4game.com^
 ||zonedelta.github.io^
+||zoom.applesana.es^
 ||zoqgames.com^
 ||zplay.com^
 ||zqm-labs.github.io^
