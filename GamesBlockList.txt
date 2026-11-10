@@ -2246,6 +2246,7 @@
 ||dbzgames.org^
 ||dcs-210.github.io^
 ||ddfungame.com^
+||ddlc.moe^
 ||deadagainunblocked.github.io^
 ||deadastronauts.games^
 ||deadlyghost-arch.github.io^
@@ -4952,6 +4953,7 @@
 ||incognito.freetls.fastly.net^
 ||incognito.global.ssl.fastly.net^
 ||incrediboxunblocked.pages.dev^
+||indcoof.com^
 ||indian-games-in-roblox.pages.dev^
 ||infexity5748.github.io^
 ||infinigongames.com^

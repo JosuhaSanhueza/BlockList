@@ -2247,6 +2247,7 @@
 0.0.0.0 dbzgames.org
 0.0.0.0 dcs-210.github.io
 0.0.0.0 ddfungame.com
+0.0.0.0 ddlc.moe
 0.0.0.0 deadagainunblocked.github.io
 0.0.0.0 deadastronauts.games
 0.0.0.0 deadlyghost-arch.github.io
@@ -4953,6 +4954,7 @@
 0.0.0.0 incognito.freetls.fastly.net
 0.0.0.0 incognito.global.ssl.fastly.net
 0.0.0.0 incrediboxunblocked.pages.dev
+0.0.0.0 indcoof.com
 0.0.0.0 indian-games-in-roblox.pages.dev
 0.0.0.0 infexity5748.github.io
 0.0.0.0 infinigongames.com
