@@ -91,6 +91,7 @@
 0.0.0.0 1v1.lol.github.io
 0.0.0.0 1v1gvg.vercel.app
 0.0.0.0 1v1lol-brown.vercel.app
+0.0.0.0 1v1lol-free.github.io
 0.0.0.0 1v1lol-games.github.io
 0.0.0.0 1v1lol-gg.github.io
 0.0.0.0 1v1lol-kappa.vercel.app
@@ -688,6 +689,7 @@
 0.0.0.0 asobrain.com
 0.0.0.0 asriel-deemurr.github.io
 0.0.0.0 assets.gd.sbs.softgames.de
+0.0.0.0 asspixel.net
 0.0.0.0 astasolfo.github.io
 0.0.0.0 asteroids-games.com
 0.0.0.0 asteroids.cc
@@ -753,6 +755,7 @@
 0.0.0.0 b01092661738-prog.github.io
 0.0.0.0 b0bert1us.github.io
 0.0.0.0 b2geravesh-cmd.github.io
+0.0.0.0 b2server.tk
 0.0.0.0 b5teacher.github.io
 0.0.0.0 babygames.com
 0.0.0.0 babyhazelgames.com
@@ -1217,6 +1220,7 @@
 0.0.0.0 bmanblox.github.io
 0.0.0.0 bmiqueias-07.github.io
 0.0.0.0 bn-games.vercel.app
+0.0.0.0 bnogocarft.games
 0.0.0.0 bns34.github.io
 0.0.0.0 boardgamearena.com
 0.0.0.0 boardgamecentral.com
@@ -1979,6 +1983,7 @@
 0.0.0.0 cptest.io
 0.0.0.0 cpzero.net
 0.0.0.0 cr1toss.github.io
+0.0.0.0 craftclue.rocks
 0.0.0.0 craftdownunder.co
 0.0.0.0 craftnite.io
 0.0.0.0 craftpix.net
@@ -2111,6 +2116,7 @@
 0.0.0.0 cryptonartis.github.io
 0.0.0.0 crystalsquid.com
 0.0.0.0 cryzen.io
+0.0.0.0 csjs.live
 0.0.0.0 ctbridge.org
 0.0.0.0 ctrl29.github.io
 0.0.0.0 cubecraft.net
@@ -2418,6 +2424,7 @@
 0.0.0.0 doge2048unblocked.github.io
 0.0.0.0 dogeminer-online.github.io
 0.0.0.0 dogeminerce.com
+0.0.0.0 dokidokiheadpatsimulator.com
 0.0.0.0 doll-games.org
 0.0.0.0 dolldivine.com
 0.0.0.0 dolygames.com
@@ -2456,6 +2463,7 @@
 0.0.0.0 doodlejumping.pages.dev
 0.0.0.0 doodlejumponline.github.io
 0.0.0.0 doodlejumpunblocked.github.io
+0.0.0.0 doodles.goog
 0.0.0.0 doodlr.io
 0.0.0.0 doodman6741.github.io
 0.0.0.0 doodoo.love
@@ -2854,6 +2862,7 @@
 0.0.0.0 easegame.com
 0.0.0.0 eastsidegames.com
 0.0.0.0 eastwardgame.com
+0.0.0.0 easy-games.io
 0.0.0.0 easyfun.gg
 0.0.0.0 easyhub.games
 0.0.0.0 eatingmaster123.github.io
@@ -5344,6 +5353,7 @@
 0.0.0.0 juegosmahjong.com
 0.0.0.0 juegosole.com
 0.0.0.0 juegosonline.cl
+0.0.0.0 juegospoki.co
 0.0.0.0 juegossd.com
 0.0.0.0 juegossolitario.com
 0.0.0.0 juegoswapos.es
@@ -5498,6 +5508,7 @@
 0.0.0.0 kirka.io
 0.0.0.0 kite-games.com
 0.0.0.0 kiwiarcade.com
+0.0.0.0 kiwifungames.com
 0.0.0.0 kiwigames.fun
 0.0.0.0 kiwigames.io
 0.0.0.0 kiwijuice56.itch.io
@@ -7194,6 +7205,7 @@
 0.0.0.0 playgeodash.com
 0.0.0.0 playgeodash.pages.dev
 0.0.0.0 playgorillatag.com
+0.0.0.0 playgta5.net
 0.0.0.0 playgtav.vercel.app
 0.0.0.0 playgunlake.com
 0.0.0.0 playgwent.com
@@ -8693,6 +8705,7 @@
 0.0.0.0 socks.global.ssl.fastly.net
 0.0.0.0 sofiamuweiyi-wq.github.io
 0.0.0.0 soflo-wheelielife.github.io
+0.0.0.0 soflowheelielife.com
 0.0.0.0 soflowheelielife.github.io
 0.0.0.0 softakgames.com
 0.0.0.0 softgames.com
@@ -9504,6 +9517,7 @@
 0.0.0.0 themethodgames.github.io
 0.0.0.0 themimicartist.github.io
 0.0.0.0 themonkeexe.github.io
+0.0.0.0 themoongolf.com
 0.0.0.0 themyprintspeople.github.io
 0.0.0.0 thenextturn.web.app
 0.0.0.0 theninja-rpg.com
@@ -9647,6 +9661,7 @@
 0.0.0.0 topvaz.bitbucket.io
 0.0.0.0 topvaz.freetls.fastly.net
 0.0.0.0 topvaz.global.ssl.fastly.net
+0.0.0.0 topvazfree.github.io
 0.0.0.0 torket.io
 0.0.0.0 torofun.com
 0.0.0.0 totaljerkface.com
@@ -10260,6 +10275,7 @@
 0.0.0.0 vampiregenesis.com
 0.0.0.0 vandaranikunj.github.io
 0.0.0.0 vanguardgames.net
+0.0.0.0 vanillacraftsmp.org
 0.0.0.0 vapor.freetls.fastly.net
 0.0.0.0 vapor.global.ssl.fastly.net
 0.0.0.0 vaporum-game.com
@@ -10395,8 +10411,11 @@
 0.0.0.0 warofdragons.de
 0.0.0.0 warp2games.com
 0.0.0.0 warren-bank.github.io
+0.0.0.0 wasmarcade.app
 0.0.0.0 wasmarcade.com
+0.0.0.0 wasmarcade.games
 0.0.0.0 wasmarcade.net
+0.0.0.0 wasmarcade.org
 0.0.0.0 watergirl-and-fireboy.github.io
 0.0.0.0 watermellon.online
 0.0.0.0 watermelon-game.bitbucket.io
@@ -10751,6 +10770,7 @@
 0.0.0.0 zillion-games-scommesse.pages.dev
 0.0.0.0 ziphao2010.github.io
 0.0.0.0 zizogamer0139.github.io
+0.0.0.0 zlap.io
 0.0.0.0 zlisto.github.io
 0.0.0.0 zlite.zatoga.net
 0.0.0.0 znkgames.com

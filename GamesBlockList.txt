@@ -90,6 +90,7 @@
 ||1v1.lol.github.io^
 ||1v1gvg.vercel.app^
 ||1v1lol-brown.vercel.app^
+||1v1lol-free.github.io^
 ||1v1lol-games.github.io^
 ||1v1lol-gg.github.io^
 ||1v1lol-kappa.vercel.app^
@@ -110,8 +111,8 @@
 ||1v1lol.me^
 ||1v1lol.net^
 ||1v1lol.org^
-||1v1lol.us.com^
 ||1v1lol.us^
+||1v1lol.us.com^
 ||1v1lol.vercel.app^
 ||1v1lol183.github.io^
 ||1v1lolboberts.github.io^
@@ -687,6 +688,7 @@
 ||asobrain.com^
 ||asriel-deemurr.github.io^
 ||assets.gd.sbs.softgames.de^
+||asspixel.net^
 ||astasolfo.github.io^
 ||asteroids-games.com^
 ||asteroids.cc^
@@ -752,6 +754,7 @@
 ||b01092661738-prog.github.io^
 ||b0bert1us.github.io^
 ||b2geravesh-cmd.github.io^
+||b2server.tk^
 ||b5teacher.github.io^
 ||babygames.com^
 ||babyhazelgames.com^
@@ -1216,6 +1219,7 @@
 ||bmanblox.github.io^
 ||bmiqueias-07.github.io^
 ||bn-games.vercel.app^
+||bnogocarft.games^
 ||bns34.github.io^
 ||boardgamearena.com^
 ||boardgamecentral.com^
@@ -1930,8 +1934,8 @@
 ||coolmath4kids.com^
 ||coolmathcoolgames.com^
 ||coolmathgames.cc^
-||coolmathgames.com.es^
 ||coolmathgames.com^
+||coolmathgames.com.es^
 ||coolmathgames.freetls.fastly.net^
 ||coolmathgames.games^
 ||coolmathgames.global.ssl.fastly.net^
@@ -1978,6 +1982,7 @@
 ||cptest.io^
 ||cpzero.net^
 ||cr1toss.github.io^
+||craftclue.rocks^
 ||craftdownunder.co^
 ||craftnite.io^
 ||craftpix.net^
@@ -2033,9 +2038,9 @@
 ||crazygames.be^
 ||crazygames.cc^
 ||crazygames.co.id^
+||crazygames.com^
 ||crazygames.com.br^
 ||crazygames.com.es^
-||crazygames.com^
 ||crazygames.dk^
 ||crazygames.es^
 ||crazygames.fr^
@@ -2044,8 +2049,8 @@
 ||crazygames.global.ssl.fastly.net^
 ||crazygames.hu^
 ||crazygames.nl^
-||crazygames.org.es^
 ||crazygames.org^
+||crazygames.org.es^
 ||crazygames.pl^
 ||crazygames.site^
 ||crazygames.to^
@@ -2110,6 +2115,7 @@
 ||cryptonartis.github.io^
 ||crystalsquid.com^
 ||cryzen.io^
+||csjs.live^
 ||ctbridge.org^
 ||ctrl29.github.io^
 ||cubecraft.net^
@@ -2417,6 +2423,7 @@
 ||doge2048unblocked.github.io^
 ||dogeminer-online.github.io^
 ||dogeminerce.com^
+||dokidokiheadpatsimulator.com^
 ||doll-games.org^
 ||dolldivine.com^
 ||dolygames.com^
@@ -2455,6 +2462,7 @@
 ||doodlejumping.pages.dev^
 ||doodlejumponline.github.io^
 ||doodlejumpunblocked.github.io^
+||doodles.goog^
 ||doodlr.io^
 ||doodman6741.github.io^
 ||doodoo.love^
@@ -2735,8 +2743,8 @@
 ||dzrotgame.com^
 ||e9-kkuat.github.io^
 ||eag.pages.dev^
-||eaglecraft.com.co^
 ||eaglecraft.com^
+||eaglecraft.com.co^
 ||eaglecraft.freetls.fastly.net^
 ||eaglecraft.global.ssl.fastly.net^
 ||eaglecraftgame.io^
@@ -2853,6 +2861,7 @@
 ||easegame.com^
 ||eastsidegames.com^
 ||eastwardgame.com^
+||easy-games.io^
 ||easyfun.gg^
 ||easyhub.games^
 ||eatingmaster123.github.io^
@@ -3534,9 +3543,9 @@
 ||friv-games.site^
 ||friv.cm^
 ||friv.co^
+||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
-||friv.com^
 ||friv.info^
 ||friv.io^
 ||friv.lol^
@@ -4217,8 +4226,8 @@
 ||geometrydash-unblocked.org^
 ||geometrydash-unblocked.pages.dev^
 ||geometrydash-unblockedx.github.io^
-||geometrydash.com.mx^
 ||geometrydash.com^
+||geometrydash.com.mx^
 ||geometrydash.es^
 ||geometrydash.freetls.fastly.net^
 ||geometrydash.gg^
@@ -4229,8 +4238,8 @@
 ||geometrydash.online^
 ||geometrydash.school^
 ||geometrydash.to^
-||geometrydash.us.com^
 ||geometrydash.us^
+||geometrydash.us.com^
 ||geometrydash22.com^
 ||geometrydash3d.com^
 ||geometrydashaapk.com^
@@ -5230,8 +5239,8 @@
 ||jogojogar.com^
 ||jogos-friv.com^
 ||jogos-online.netlify.app^
-||jogos.com.br^
 ||jogos.com^
+||jogos.com.br^
 ||jogos123.net^
 ||jogos360.com.br^
 ||jogosbr.net^
@@ -5294,8 +5303,8 @@
 ||juegos-infantiles.pages.dev^
 ||juegos-poki.bitbucket.io^
 ||juegos-poki.mx^
-||juegos.com.ar^
 ||juegos.com^
+||juegos.com.ar^
 ||juegos.games^
 ||juegos.io^
 ||juegos.net^
@@ -5343,6 +5352,7 @@
 ||juegosmahjong.com^
 ||juegosole.com^
 ||juegosonline.cl^
+||juegospoki.co^
 ||juegossd.com^
 ||juegossolitario.com^
 ||juegoswapos.es^
@@ -5497,6 +5507,7 @@
 ||kirka.io^
 ||kite-games.com^
 ||kiwiarcade.com^
+||kiwifungames.com^
 ||kiwigames.fun^
 ||kiwigames.io^
 ||kiwijuice56.itch.io^
@@ -6342,8 +6353,8 @@
 ||mundigames.com^
 ||mundigiochi.it^
 ||mundijeux.fr^
-||mundijuegos.com.ar^
 ||mundijuegos.com^
+||mundijuegos.com.ar^
 ||mundogamers.com^
 ||munetios.github.io^
 ||murder-mystery-2.pages.dev^
@@ -7193,6 +7204,7 @@
 ||playgeodash.com^
 ||playgeodash.pages.dev^
 ||playgorillatag.com^
+||playgta5.net^
 ||playgtav.vercel.app^
 ||playgunlake.com^
 ||playgwent.com^
@@ -7369,16 +7381,16 @@
 ||poki-unblocked.gitlab.io^
 ||poki.co.com^
 ||poki.co.in^
-||poki.com.cm^
 ||poki.com^
+||poki.com.cm^
 ||poki.ee^
 ||poki.games^
 ||poki.homes^
 ||poki.hu^
 ||poki.io^
+||poki.org^
 ||poki.org.es^
 ||poki.org.mx^
-||poki.org^
 ||poki.to^
 ||poki.us.com^
 ||poki.us.org^
@@ -8692,6 +8704,7 @@
 ||socks.global.ssl.fastly.net^
 ||sofiamuweiyi-wq.github.io^
 ||soflo-wheelielife.github.io^
+||soflowheelielife.com^
 ||soflowheelielife.github.io^
 ||softakgames.com^
 ||softgames.com^
@@ -9503,6 +9516,7 @@
 ||themethodgames.github.io^
 ||themimicartist.github.io^
 ||themonkeexe.github.io^
+||themoongolf.com^
 ||themyprintspeople.github.io^
 ||thenextturn.web.app^
 ||theninja-rpg.com^
@@ -9580,8 +9594,8 @@
 ||tinyfishing-unblocked.github.io^
 ||tinyfishing-unblocked.pages.dev^
 ||tinyfishing.app^
-||tinyfishing.co.uk^
 ||tinyfishing.co^
+||tinyfishing.co.uk^
 ||tinyfishing.github.io^
 ||tinyfishing.io^
 ||tinyfishing.pages.dev^
@@ -9646,6 +9660,7 @@
 ||topvaz.bitbucket.io^
 ||topvaz.freetls.fastly.net^
 ||topvaz.global.ssl.fastly.net^
+||topvazfree.github.io^
 ||torket.io^
 ||torofun.com^
 ||totaljerkface.com^
@@ -10259,6 +10274,7 @@
 ||vampiregenesis.com^
 ||vandaranikunj.github.io^
 ||vanguardgames.net^
+||vanillacraftsmp.org^
 ||vapor.freetls.fastly.net^
 ||vapor.global.ssl.fastly.net^
 ||vaporum-game.com^
@@ -10394,8 +10410,11 @@
 ||warofdragons.de^
 ||warp2games.com^
 ||warren-bank.github.io^
+||wasmarcade.app^
 ||wasmarcade.com^
+||wasmarcade.games^
 ||wasmarcade.net^
+||wasmarcade.org^
 ||watergirl-and-fireboy.github.io^
 ||watermellon.online^
 ||watermelon-game.bitbucket.io^
@@ -10750,6 +10769,7 @@
 ||zillion-games-scommesse.pages.dev^
 ||ziphao2010.github.io^
 ||zizogamer0139.github.io^
+||zlap.io^
 ||zlisto.github.io^
 ||zlite.zatoga.net^
 ||znkgames.com^
