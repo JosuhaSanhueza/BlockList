@@ -415,6 +415,7 @@
 0.0.0.0 ajedrez-online.eu
 0.0.0.0 akabenji1.gitlab.io
 0.0.0.0 akilesh-him.github.io
+0.0.0.0 akses-opera-games.pages.dev
 0.0.0.0 akshun-akxe.github.io
 0.0.0.0 al652025.github.io
 0.0.0.0 alcohol.freetls.fastly.net
@@ -548,6 +549,7 @@
 0.0.0.0 apalabrados.github.io
 0.0.0.0 apatrick-ui.github.io
 0.0.0.0 apex-appcraft-website.pages.dev
+0.0.0.0 apk0-com-games.pages.dev
 0.0.0.0 apkblade.com
 0.0.0.0 apoorvammaganur792-droid.github.io
 0.0.0.0 app.3daimtrainer.com
@@ -572,6 +574,7 @@
 0.0.0.0 arbyusuf.github.io
 0.0.0.0 arcade-collection.vercel.app
 0.0.0.0 arcade-dock.vercel.app
+0.0.0.0 arcade-game-zone.vercel.app
 0.0.0.0 arcade-games-rho.vercel.app
 0.0.0.0 arcade-grid.vercel.app
 0.0.0.0 arcade-hub-arcade-site.vercel.app
@@ -1099,6 +1102,7 @@
 0.0.0.0 blipzi.com
 0.0.0.0 blkrayy.github.io
 0.0.0.0 blob-opera.com
+0.0.0.0 blobgame.io
 0.0.0.0 block-blast-online.com
 0.0.0.0 block-blast-online.pages.dev
 0.0.0.0 block-blast-online.vercel.app
@@ -1769,6 +1773,7 @@
 0.0.0.0 clickspersecond.com
 0.0.0.0 client.freetls.fastly.net
 0.0.0.0 client.global.ssl.fastly.net
+0.0.0.0 client.knockback.cc
 0.0.0.0 clockworksilas.github.io
 0.0.0.0 clodytheo1221-hue.github.io
 0.0.0.0 clouddeck.app
@@ -1944,6 +1949,7 @@
 0.0.0.0 copy.sh
 0.0.0.0 copyofmasite.pages.dev
 0.0.0.0 core-social-games.pages.dev
+0.0.0.0 corn-games.vercel.app
 0.0.0.0 corriscant.github.io
 0.0.0.0 coscoman262.github.io
 0.0.0.0 cosmicconst.github.io
@@ -3692,6 +3698,7 @@
 0.0.0.0 g8-games.com
 0.0.0.0 gaamess.com
 0.0.0.0 gab644.github.io
+0.0.0.0 gabilangames-site.pages.dev
 0.0.0.0 gabrielviado.github.io
 0.0.0.0 gacha-life-2.com
 0.0.0.0 gacha-life-online.com
@@ -3896,6 +3903,7 @@
 0.0.0.0 games-award2007.com
 0.0.0.0 games-flash.ru
 0.0.0.0 games-games.com
+0.0.0.0 games-hub-44s.pages.dev
 0.0.0.0 games-hub-beryl-nine.vercel.app
 0.0.0.0 games-hub-sepia.vercel.app
 0.0.0.0 games-kids.com
@@ -4980,6 +4988,7 @@
 0.0.0.0 ingamejob.com
 0.0.0.0 inglan2.github.io
 0.0.0.0 ink-saint.vercel.app
+0.0.0.0 inquisitormaster-scary-roblox-games.pages.dev
 0.0.0.0 insanogame.github.io
 0.0.0.0 inside-games.jp
 0.0.0.0 insideoutfan1.github.io
@@ -5567,6 +5576,7 @@
 0.0.0.0 kyabai.com
 0.0.0.0 kylebob.com
 0.0.0.0 kyles-game-hub.vercel.app
+0.0.0.0 l1games.pages.dev
 0.0.0.0 l3-n0x.github.io
 0.0.0.0 lablockedgames.com
 0.0.0.0 lachameleon.github.io
@@ -6016,6 +6026,7 @@
 0.0.0.0 min2win.org
 0.0.0.0 min2win.ru
 0.0.0.0 mindgames.com
+0.0.0.0 minds.training.elcofredeldinero.com
 0.0.0.0 mindustrygame.github.io
 0.0.0.0 mine-craft.io
 0.0.0.0 mine.freetls.fastly.net
@@ -7900,17 +7911,21 @@
 0.0.0.0 roblox-games-half-loading.pages.dev
 0.0.0.0 roblox-games-unblocked.github.io
 0.0.0.0 roblox-games-without-tags.pages.dev
+0.0.0.0 roblox-hitbox-expander-script.pages.dev
 0.0.0.0 roblox-hood-games-leaked.pages.dev
 0.0.0.0 roblox-horror-games-asmr.pages.dev
 0.0.0.0 roblox-horror-games-easy.pages.dev
 0.0.0.0 roblox-horror-games-horangi99.pages.dev
 0.0.0.0 roblox-jailbreak-like-games.pages.dev
+0.0.0.0 roblox-mist-sound.pages.dev
 0.0.0.0 roblox-mystery-games-detective.pages.dev
 0.0.0.0 roblox-online.bitbucket.io
 0.0.0.0 roblox-rats.pages.dev
 0.0.0.0 roblox-robot-sound.pages.dev
 0.0.0.0 roblox-sorcerer-temp.pages.dev
+0.0.0.0 roblox-superman-script-fly.pages.dev
 0.0.0.0 roblox-tiny-script.pages.dev
+0.0.0.0 roblox-trap-esp.pages.dev
 0.0.0.0 roblox-unblock.github.io
 0.0.0.0 roblox-unblocked-game.github.io
 0.0.0.0 roblox-unblocked-games-school.pages.dev
@@ -7923,6 +7938,7 @@
 0.0.0.0 roblox-violin-sound.pages.dev
 0.0.0.0 roblox-vr-roleplay-games.pages.dev
 0.0.0.0 roblox-vr-script-valuablely.pages.dev
+0.0.0.0 roblox-websocketsend.pages.dev
 0.0.0.0 roblox-window-esp.pages.dev
 0.0.0.0 roblox-zachs-service-station.pages.dev
 0.0.0.0 roblox-zombie-elimination-games.pages.dev
@@ -7930,6 +7946,7 @@
 0.0.0.0 roblox.com
 0.0.0.0 roblox.org
 0.0.0.0 roblox.qq.com
+0.0.0.0 roblox.rw
 0.0.0.0 robloxcdn.com
 0.0.0.0 robloxdev.cn
 0.0.0.0 robloxhandtrackingsupportscript.pages.dev
@@ -9767,6 +9784,7 @@
 0.0.0.0 twilightheroes.com
 0.0.0.0 twistedpixelgames.com
 0.0.0.0 twitgames.com
+0.0.0.0 twittergames.pages.dev
 0.0.0.0 two-player-games-unblocked.github.io
 0.0.0.0 twobitssoapco.github.io
 0.0.0.0 twoplayergames.com
@@ -10338,6 +10356,7 @@
 0.0.0.0 voxel-war.vercel.app
 0.0.0.0 voxiom.io
 0.0.0.0 voxiom.xyz
+0.0.0.0 vr-games-banner.vercel.app
 0.0.0.0 vrdevil44.github.io
 0.0.0.0 vresod.gitlab.io
 0.0.0.0 vrstheft.github.io

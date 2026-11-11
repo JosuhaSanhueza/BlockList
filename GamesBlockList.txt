@@ -414,6 +414,7 @@
 ||ajedrez-online.eu^
 ||akabenji1.gitlab.io^
 ||akilesh-him.github.io^
+||akses-opera-games.pages.dev^
 ||akshun-akxe.github.io^
 ||al652025.github.io^
 ||alcohol.freetls.fastly.net^
@@ -547,6 +548,7 @@
 ||apalabrados.github.io^
 ||apatrick-ui.github.io^
 ||apex-appcraft-website.pages.dev^
+||apk0-com-games.pages.dev^
 ||apkblade.com^
 ||apoorvammaganur792-droid.github.io^
 ||app.3daimtrainer.com^
@@ -571,6 +573,7 @@
 ||arbyusuf.github.io^
 ||arcade-collection.vercel.app^
 ||arcade-dock.vercel.app^
+||arcade-game-zone.vercel.app^
 ||arcade-games-rho.vercel.app^
 ||arcade-grid.vercel.app^
 ||arcade-hub-arcade-site.vercel.app^
@@ -1098,6 +1101,7 @@
 ||blipzi.com^
 ||blkrayy.github.io^
 ||blob-opera.com^
+||blobgame.io^
 ||block-blast-online.com^
 ||block-blast-online.pages.dev^
 ||block-blast-online.vercel.app^
@@ -1768,6 +1772,7 @@
 ||clickspersecond.com^
 ||client.freetls.fastly.net^
 ||client.global.ssl.fastly.net^
+||client.knockback.cc^
 ||clockworksilas.github.io^
 ||clodytheo1221-hue.github.io^
 ||clouddeck.app^
@@ -1943,6 +1948,7 @@
 ||copy.sh^
 ||copyofmasite.pages.dev^
 ||core-social-games.pages.dev^
+||corn-games.vercel.app^
 ||corriscant.github.io^
 ||coscoman262.github.io^
 ||cosmicconst.github.io^
@@ -3691,6 +3697,7 @@
 ||g8-games.com^
 ||gaamess.com^
 ||gab644.github.io^
+||gabilangames-site.pages.dev^
 ||gabrielviado.github.io^
 ||gacha-life-2.com^
 ||gacha-life-online.com^
@@ -3895,6 +3902,7 @@
 ||games-award2007.com^
 ||games-flash.ru^
 ||games-games.com^
+||games-hub-44s.pages.dev^
 ||games-hub-beryl-nine.vercel.app^
 ||games-hub-sepia.vercel.app^
 ||games-kids.com^
@@ -4979,6 +4987,7 @@
 ||ingamejob.com^
 ||inglan2.github.io^
 ||ink-saint.vercel.app^
+||inquisitormaster-scary-roblox-games.pages.dev^
 ||insanogame.github.io^
 ||inside-games.jp^
 ||insideoutfan1.github.io^
@@ -5566,6 +5575,7 @@
 ||kyabai.com^
 ||kylebob.com^
 ||kyles-game-hub.vercel.app^
+||l1games.pages.dev^
 ||l3-n0x.github.io^
 ||lablockedgames.com^
 ||lachameleon.github.io^
@@ -6015,6 +6025,7 @@
 ||min2win.org^
 ||min2win.ru^
 ||mindgames.com^
+||minds.training.elcofredeldinero.com^
 ||mindustrygame.github.io^
 ||mine-craft.io^
 ||mine.freetls.fastly.net^
@@ -7899,17 +7910,21 @@
 ||roblox-games-half-loading.pages.dev^
 ||roblox-games-unblocked.github.io^
 ||roblox-games-without-tags.pages.dev^
+||roblox-hitbox-expander-script.pages.dev^
 ||roblox-hood-games-leaked.pages.dev^
 ||roblox-horror-games-asmr.pages.dev^
 ||roblox-horror-games-easy.pages.dev^
 ||roblox-horror-games-horangi99.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
+||roblox-mist-sound.pages.dev^
 ||roblox-mystery-games-detective.pages.dev^
 ||roblox-online.bitbucket.io^
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
 ||roblox-sorcerer-temp.pages.dev^
+||roblox-superman-script-fly.pages.dev^
 ||roblox-tiny-script.pages.dev^
+||roblox-trap-esp.pages.dev^
 ||roblox-unblock.github.io^
 ||roblox-unblocked-game.github.io^
 ||roblox-unblocked-games-school.pages.dev^
@@ -7922,6 +7937,7 @@
 ||roblox-violin-sound.pages.dev^
 ||roblox-vr-roleplay-games.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
+||roblox-websocketsend.pages.dev^
 ||roblox-window-esp.pages.dev^
 ||roblox-zachs-service-station.pages.dev^
 ||roblox-zombie-elimination-games.pages.dev^
@@ -7929,6 +7945,7 @@
 ||roblox.com^
 ||roblox.org^
 ||roblox.qq.com^
+||roblox.rw^
 ||robloxcdn.com^
 ||robloxdev.cn^
 ||robloxhandtrackingsupportscript.pages.dev^
@@ -9766,6 +9783,7 @@
 ||twilightheroes.com^
 ||twistedpixelgames.com^
 ||twitgames.com^
+||twittergames.pages.dev^
 ||two-player-games-unblocked.github.io^
 ||twobitssoapco.github.io^
 ||twoplayergames.com^
@@ -10337,6 +10355,7 @@
 ||voxel-war.vercel.app^
 ||voxiom.io^
 ||voxiom.xyz^
+||vr-games-banner.vercel.app^
 ||vrdevil44.github.io^
 ||vresod.gitlab.io^
 ||vrstheft.github.io^
