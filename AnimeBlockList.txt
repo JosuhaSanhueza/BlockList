@@ -1,5 +1,5 @@
-# EscolarApp - Streaming de anime y manga pirata. Siempre bloqueada, sin switch.
 # Cada dominio se verifico por su titulo o por su nombre; otras listas solo son pistas.
+# EscolarApp - Streaming de anime y manga pirata. Siempre bloqueada, sin switch.
 ||123animes.ru^
 ||1xanimes.com^
 ||2anime.xyz^
@@ -146,6 +146,7 @@
 ||crunchyroll.com^
 ||daemonanime.net^
 ||danime.2ya.com^
+||demonslayer-mangaonline.com^
 ||desidubanime.me^
 ||dessinanime.cc^
 ||dl-zip.com^
@@ -280,6 +281,7 @@
 ||tortugaceviri.com^
 ||turkanime.live^
 ||veranime.top^
+||violetmanga.com^
 ||voir-anime.to^
 ||voiranime.rip^
 ||voratoon.id^

@@ -1,5 +1,5 @@
-# EscolarApp - Hentai que NSFW OISD y HaGeZi NSFW no cubren. Siempre bloqueada, sin switch.
 # Cada dominio se verifico por su titulo o por su nombre; otras listas solo son pistas.
+# EscolarApp - Hentai que NSFW OISD y HaGeZi NSFW no cubren. Siempre bloqueada, sin switch.
 ||0hentai0.tumblr.com^
 ||1000hentai.com^
 ||123-hentai.com^
@@ -7,6 +7,8 @@
 ||2freehentai.tumblr.com^
 ||2nakedhentai.tumblr.com^
 ||3dhentai.fr^
+||3dhentai.it.com^
+||3dhentai.tv^
 ||3dhentaisexgames.com^
 ||3dpornhentai.tumblr.com^
 ||3xkawaiixhentaiix3.tumblr.com^
@@ -24,6 +26,7 @@
 ||analmomhentai.tumblr.com^
 ||animated-hentai-gifs.tumblr.com^
 ||anime-hentai-legends.tumblr.com^
+||anime-hentai.net^
 ||anime-hentai.tumblr.com^
 ||animehentai-porn.tumblr.com^
 ||animehentaianime.tumblr.com^
@@ -357,6 +360,7 @@
 ||hentai-pics-of-anon.tumblr.com^
 ||hentai-pics.info^
 ||hentai-pics.net^
+||hentai-pictures.com^
 ||hentai-pink-studios.tumblr.com^
 ||hentai-playground.tumblr.com^
 ||hentai-pokemon-x.tumblr.com^
@@ -470,11 +474,13 @@
 ||hentaicolors.tumblr.com^
 ||hentaicolosseum.tumblr.com^
 ||hentaicomic.com^
+||hentaicomics18.xyz^
 ||hentaicomix.com^
 ||hentaicommissions.com^
 ||hentaicore.net^
 ||hentaicream.tumblr.com^
 ||hentaicredo.com^
+||hentaicrot.com^
 ||hentaicube.xyz^
 ||hentaicumshots.tumblr.com^
 ||hentaicurious.tumblr.com^
@@ -543,6 +549,7 @@
 ||hentaihardcore.tumblr.com^
 ||hentaiharmony.tumblr.com^
 ||hentaihaven.app^
+||hentaihaven.me^
 ||hentaihavenxxx.ru^
 ||hentaihd.org^
 ||hentaiheaven.vze.com^
@@ -708,6 +715,7 @@
 ||hentaiuncnsored.tumblr.com^
 ||hentaiunlimited.tumblr.com^
 ||hentaiverse.org^
+||hentaivideo.tv^
 ||hentaivideos.me^
 ||hentaivietsub.com^
 ||hentaivirtualpaper.tumblr.com^
@@ -942,10 +950,13 @@
 ||mahouirexnohentaikarte.com^
 ||mamashentai.tumblr.com^
 ||manga-hentai.net^
+||manga18free.com^
 ||mangahentaioficial.com^
 ||mangahentaipro.com^
 ||mangaxxxhentai.canalblog.com^
 ||mangohentai-kun.tumblr.com^
+||manhwa-18.com^
+||manhwa.xxx^
 ||marvelhentai.com^
 ||maxihentai.over-blog.com^
 ||maxim-hentai-pics.tumblr.com^
@@ -975,6 +986,7 @@
 ||mybesthentai.tumblr.com^
 ||myfluffysmuthentai.tumblr.com^
 ||myhentaifantasy.com^
+||myhentaigrid.com^
 ||myhentaisupply.tumblr.com^
 ||myhentaisupport.tumblr.com^
 ||mylittlehentaiponies.tumblr.com^
@@ -987,6 +999,7 @@
 ||nekohentaigirl.tumblr.com^
 ||nerd-porn-hentai.tumblr.com^
 ||nhentai.fan^
+||nhentaibrasil.com^
 ||nhentaivn.com^
 ||nicehentai.com^
 ||nintendo-land-hentai.tumblr.com^
@@ -1063,6 +1076,7 @@
 ||rougethebathentai.tumblr.com^
 ||rule-34-hentai-porn.tumblr.com^
 ||rule34-betterthantheaverageporn.tumblr.com^
+||rule34.moe^
 ||rule34.studio^
 ||rule34andstuff.tumblr.com^
 ||rule34collection.tumblr.com^
@@ -1071,6 +1085,8 @@
 ||rule34milf.tumblr.com^
 ||rule34ofhentai.tumblr.com^
 ||rule34porn.com^
+||rule34s.com^
+||rule34video.party^
 ||rule34world.tumblr.com^
 ||sailor-hentai.com^
 ||savoryhentai.tumblr.com^
@@ -1127,6 +1143,7 @@
 ||submissivehentaifun.tumblr.com^
 ||suck-my-hentai.tumblr.com^
 ||sucking-pussy-hentaiii.tumblr.com^
+||sugoihentai.work^
 ||sugoihentaigoodshit.tumblr.com^
 ||super-kawaii-hentai-gifs.tumblr.com^
 ||supercumhentai.tumblr.com^
@@ -1202,6 +1219,7 @@
 ||world-of-hentai.to^
 ||worldsbesthentai.tumblr.com^
 ||wpghentai.tumblr.com^
+||x-anime.com^
 ||x-blackerhentainime-x.tumblr.com^
 ||x-hentai.net^
 ||x-rated-hentai.tumblr.com^

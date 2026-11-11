@@ -24,6 +24,7 @@
 ||arena.ai^
 ||askaichat.app^
 ||askyourpdf.com^
+||assignmentgpt.io^
 ||atalk-ai.com^
 ||augmentcode.com^
 ||bard.google.com^
@@ -236,6 +237,7 @@
 ||pdf.ai^
 ||perplexity.ai^
 ||phind.com^
+||photoai.com^
 ||photomath.com^
 ||photomath.net^
 ||phrasly.ai^

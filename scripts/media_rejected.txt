@@ -29,3 +29,10 @@ sectahentai.org
 hentai789.com
 hentaitop.de
 hentai-galleries.com
+
+# Revisados el 2026-11-11: hardcoremanga.com (servidor privado de MMORPG, no manga;
+# tampoco pasa is_game_website), oldmangayporn.org (porno gay genérico, sin relación
+# a anime), manga-forum.de (foro de discusión, no aloja contenido para leer/ver)
+hardcoremanga.com
+oldmangayporn.org
+manga-forum.de

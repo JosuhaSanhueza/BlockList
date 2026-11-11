@@ -244,6 +244,8 @@
 0.0.0.0 66-ez.gitlab.io
 0.0.0.0 666games.net
 0.0.0.0 66games.io
+0.0.0.0 66unblocked.com
+0.0.0.0 66unblockedgames.com
 0.0.0.0 674unblocked.github.io
 0.0.0.0 67clicker.bitbucket.io
 0.0.0.0 67clicker.com
@@ -314,6 +316,7 @@
 0.0.0.0 abisdbest.github.io
 0.0.0.0 ablackett82.github.io
 0.0.0.0 abrainrot.com
+0.0.0.0 absolutist.com
 0.0.0.0 abss3.github.io
 0.0.0.0 absurdle.cc
 0.0.0.0 acbrewer12.github.io
@@ -3774,6 +3777,7 @@
 0.0.0.0 gameduddles.com
 0.0.0.0 gameduell.com
 0.0.0.0 gamee.com
+0.0.0.0 gameer.io
 0.0.0.0 gamefabrique.com
 0.0.0.0 gameflare.com
 0.0.0.0 gameflare.freetls.fastly.net
@@ -9805,6 +9809,7 @@
 0.0.0.0 tyronegames.gitlab.io
 0.0.0.0 tyronegamesonline.github.io
 0.0.0.0 tyrones-unblocked-games.pages.dev
+0.0.0.0 tyronesunblockedgames.com
 0.0.0.0 tyroneunblocked.games
 0.0.0.0 tyroneunblockedgame.com
 0.0.0.0 tyroneunblockedgames.com

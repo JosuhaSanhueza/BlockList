@@ -2276,3 +2276,12 @@ nicecargames
 autowebgames
 sportwebgames
 boardgames247
+
+# --- Artículos "top paginas de juegos"/unblocked games 66 alternativas, horror/
+# match-3 dirigido (5 confirmados: 66unblocked, absolutist, gameer, tyrones
+# -tyronesunblockedgames.com-; bluemaxima.org descartado a mano -proyecto de
+# preservación/launcher descargable, no sitio jugable en navegador-), 2026-11-11 ---
+66unblocked
+absolutist
+gameer
+tyrones
