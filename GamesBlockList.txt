@@ -401,6 +401,7 @@
 ||agustinquintana401.github.io^
 ||ahmeddikinov.github.io^
 ||ahrdevelopers.github.io^
+||ai-games-portal.pages.dev^
 ||ai-games.luccabuilds.com^
 ||ai-kids-games-fawn.vercel.app^
 ||ai-rebuilds.com^
@@ -610,6 +611,7 @@
 ||arcadespot.com^
 ||arcadetown.com^
 ||arcadevillage.com^
+||arcadewelten.eu^
 ||arcadewild.com^
 ||arcadeyh5.cc^
 ||arcadia-104.github.io^
@@ -718,6 +720,7 @@
 ||atzmael.github.io^
 ||aug66.github.io^
 ||austin9361.github.io^
+||australian-army-training-roblox.pages.dev^
 ||authsrng.xyz^
 ||autowebgames.com^
 ||avandagame.com^
@@ -1465,6 +1468,7 @@
 ||buscaminas-pro.com^
 ||buscaminas.com^
 ||buscaminas.eu^
+||business-management-games-roblox.pages.dev^
 ||bust.freetls.fastly.net^
 ||bust.global.ssl.fastly.net^
 ||buzzedgames.com^
@@ -1903,6 +1907,7 @@
 ||cookieclickerunblocked.site^
 ||cookieclickerunblocked0.github.io^
 ||cookieclickerunblockedx.github.io^
+||cookiegame.org^
 ||cooking-games.io^
 ||cooking-mama-unblocked.pages.dev^
 ||cookinggames.com^
@@ -2136,6 +2141,7 @@
 ||cursorball.onrender.com^
 ||curvefever.com^
 ||curvefever.pro^
+||custom-physics-engine-roblox.pages.dev^
 ||cut-the-rope-game.firebaseapp.com^
 ||cut-the-rope-game.web.app^
 ||cut-the-rope.firebaseapp.com^
@@ -2894,6 +2900,7 @@
 ||eesagames.github.io^
 ||effectgames.com^
 ||effigymedia.github.io^
+||efgames.netlify.app^
 ||egamers.io^
 ||egamesarcade.com^
 ||egedebu.github.io^
@@ -2945,6 +2952,7 @@
 ||emanperson.github.io^
 ||emarsh93.github.io^
 ||embergrove-games-studio.vercel.app^
+||emberhold-games.vercel.app^
 ||emberlockgames.github.io^
 ||emberwars.io^
 ||emmegray.github.io^
@@ -2983,6 +2991,7 @@
 ||endlessdungeon.github.io^
 ||energames.com^
 ||energon-a-secas.github.io^
+||engineering-roblox.pages.dev^
 ||englishpubpool.co.uk^
 ||enjoy4fun.com^
 ||enjoydressup.com^
@@ -3136,6 +3145,7 @@
 ||far-han-sa-d-ik.github.io^
 ||farmerama.com^
 ||farmerama.de^
+||fashion-model-games-roblox.pages.dev^
 ||fastclient.net^
 ||fastgameh5.cc^
 ||fastgames.com^
@@ -3353,6 +3363,7 @@
 ||fnfunkin.com^
 ||fnfunkin.org^
 ||fngames.io^
+||foam-frenzy-roblox.pages.dev^
 ||fog.com^
 ||foilmant1234.github.io^
 ||foony.com^
@@ -3913,6 +3924,7 @@
 ||games-arcade-gray.vercel.app^
 ||games-att.pages.dev^
 ||games-award2007.com^
+||games-centre.vercel.app^
 ||games-flash.ru^
 ||games-games.com^
 ||games-hub-44s.pages.dev^
@@ -3925,6 +3937,7 @@
 ||games-msn.com^
 ||games-online.io^
 ||games-ovo.github.io^
+||games-play-on-roblox.pages.dev^
 ||games-portal-delta.vercel.app^
 ||games-six-mu-17.vercel.app^
 ||games-unblocked-g.github.io^
@@ -4263,6 +4276,7 @@
 ||geometrydashlite22.io^
 ||geometrydashlite3d.com^
 ||geometrydashlitefree.com^
+||geometrydashlitepc.com^
 ||geometrydashliteunblocked.pages.dev^
 ||geometrydashmeltdown.com^
 ||geometrydashmeltdown.io^
@@ -5292,6 +5306,7 @@
 ||jtgamesstudios.github.io^
 ||juanes1020.github.io^
 ||jubal.com^
+||jubulgames.github.io^
 ||juegaenlineachile.com^
 ||juegaenred.com^
 ||juegamix.com^
@@ -5844,6 +5859,7 @@
 ||majorbdal-ai.github.io^
 ||mak7-16.github.io^
 ||makeitmeme.com^
+||maknexgames.pages.dev^
 ||malachi-svg-00.github.io^
 ||malachyjennifer-beep.github.io^
 ||mamot-theoneandonly.github.io^
@@ -5878,6 +5894,7 @@
 ||mariosonicgames.com^
 ||mariospielespielen.de^
 ||mariounblocked.gitlab.io^
+||markovgamesqatar.netlify.app^
 ||marley5225.github.io^
 ||marsbattle.com^
 ||marselok-games-preview.pages.dev^
@@ -5999,6 +6016,7 @@
 ||mergefruit.io^
 ||mergerotgame.com^
 ||meridiem-games.com^
+||merry-played-christmas.vercel.app^
 ||merrygeva.github.io^
 ||mes.freetls.fastly.net^
 ||mes.global.ssl.fastly.net^
@@ -6238,6 +6256,7 @@
 ||monkeymartunblocked.pages.dev^
 ||monkeymath.pages.dev^
 ||monogamer.net^
+||monster-doors-roblox.pages.dev^
 ||monster-energy-drink-roblox.pages.dev^
 ||monstersgame.fr^
 ||monstersgame.net^
@@ -7921,7 +7940,10 @@
 ||rmy4143.github.io^
 ||rngrofl.github.io^
 ||robalexdev.gitlab.io^
+||roblox-bodyforce-ui-library.pages.dev^
 ||roblox-card-games.pages.dev^
+||roblox-classic-zombie-games.pages.dev^
+||roblox-custom-validation-script.pages.dev^
 ||roblox-game-download-link.pages.dev^
 ||roblox-games-half-loading.pages.dev^
 ||roblox-games-unblocked.github.io^
@@ -7933,6 +7955,7 @@
 ||roblox-horror-games-horangi99.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
 ||roblox-mist-sound.pages.dev^
+||roblox-model-id-list.pages.dev^
 ||roblox-mystery-games-detective.pages.dev^
 ||roblox-online.bitbucket.io^
 ||roblox-rats.pages.dev^
@@ -7951,7 +7974,9 @@
 ||roblox-unblocked1.github.io^
 ||roblox-unlock-script.pages.dev^
 ||roblox-violin-sound.pages.dev^
+||roblox-virus-removal-script.pages.dev^
 ||roblox-vr-roleplay-games.pages.dev^
+||roblox-vr-script-property.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
 ||roblox-websocketsend.pages.dev^
 ||roblox-window-esp.pages.dev^
@@ -7964,13 +7989,17 @@
 ||roblox.rw^
 ||robloxcdn.com^
 ||robloxdev.cn^
+||robloxgenjutsuscript.pages.dev^
 ||robloxhandtrackingsupportscript.pages.dev^
 ||robloxpiggy.com^
+||robloxrainbowscriptparticle.pages.dev^
+||robloxtycoongames2player.pages.dev^
 ||robloxunblocked.gitlab.io^
 ||robloxunblocked.online^
 ||robloxunblocked.org^
 ||robloxunblockedgames.github.io^
 ||robloxunblockedonline.gitlab.io^
+||robloxuniversalconstraintscript2.pages.dev^
 ||robloxwendigoscriptai.pages.dev^
 ||robo-galactic-shooter.netlify.app^
 ||roboaaron.github.io^
@@ -8324,6 +8353,7 @@
 ||simplyph0.gitlab.io^
 ||simsplay-game.com^
 ||simulationgameso.com^
+||singing-in-public-roblox.pages.dev^
 ||sinistersquidward.com^
 ||sircrabapple99.github.io^
 ||sirpeep.github.io^
@@ -8996,6 +9026,7 @@
 ||stahllll.github.io^
 ||stanasko.github.io^
 ||starblast.io^
+||starbucks-like-games-roblox.pages.dev^
 ||stardoll.com^
 ||starfallfestival.github.io^
 ||starifiedmc.github.io^
@@ -10324,6 +10355,7 @@
 ||vibearcade.com^
 ||vibecoderanon.github.io^
 ||vibecruiser.com^
+||vibegamer.io^
 ||vibegames.com^
 ||vibegames.net^
 ||viberverse.github.io^
