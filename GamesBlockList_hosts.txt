@@ -1888,6 +1888,7 @@
 0.0.0.0 cookieclicker.freetls.fastly.net
 0.0.0.0 cookieclicker.gg
 0.0.0.0 cookieclicker.global.ssl.fastly.net
+0.0.0.0 cookieclicker.live
 0.0.0.0 cookieclicker.online
 0.0.0.0 cookieclicker.pro
 0.0.0.0 cookieclicker2.io
@@ -2509,6 +2510,7 @@
 0.0.0.0 drawize.com
 0.0.0.0 drawthehill.org
 0.0.0.0 drawtheperfectcircle.com
+0.0.0.0 dreamcore.gg
 0.0.0.0 dreamhomearcades.com
 0.0.0.0 dreamy0002.github.io
 0.0.0.0 drednot.io
@@ -2837,6 +2839,7 @@
 0.0.0.0 eaglercraftservers.com
 0.0.0.0 eaglercraftservers.vercel.app
 0.0.0.0 eaglercrafttopvaz.gitlab.io
+0.0.0.0 eaglercraftub.neocities.org
 0.0.0.0 eaglercraftunblocked.pages.dev
 0.0.0.0 eaglercraftweb.com
 0.0.0.0 eaglercraftx.com
@@ -3957,6 +3960,7 @@
 0.0.0.0 games.com
 0.0.0.0 games.directory
 0.0.0.0 games.fm
+0.0.0.0 games.gacarbla.es
 0.0.0.0 games.gg
 0.0.0.0 games.gr
 0.0.0.0 games.iamdenny.com
@@ -4487,6 +4491,7 @@
 0.0.0.0 gooning-games-on-roblox.pages.dev
 0.0.0.0 goood.games
 0.0.0.0 goose.game
+0.0.0.0 goplayfreegames.com
 0.0.0.0 gorchakovpawel-alt.github.io
 0.0.0.0 gorilla-tag-game.com
 0.0.0.0 gorilla-tag.net
@@ -5086,6 +5091,7 @@
 0.0.0.0 itchiogame.com
 0.0.0.0 itchy.freetls.fastly.net
 0.0.0.0 itchy.global.ssl.fastly.net
+0.0.0.0 ito.gg
 0.0.0.0 its2026.duckdns.org
 0.0.0.0 itsagustinbtw.github.io
 0.0.0.0 itsukit0723-netizen.github.io
@@ -5312,6 +5318,7 @@
 0.0.0.0 juegaenred.com
 0.0.0.0 juegamix.com
 0.0.0.0 juegator.com
+0.0.0.0 juegix.com
 0.0.0.0 juegoloco.com
 0.0.0.0 juegos-es.bitbucket.io
 0.0.0.0 juegos-gratis.bitbucket.io
@@ -8377,6 +8384,7 @@
 0.0.0.0 skelitin-xyz.github.io
 0.0.0.0 sketchful.io
 0.0.0.0 sketchpad-arcade.vercel.app
+0.0.0.0 skibidi-1v1lol.vercel.app
 0.0.0.0 skibidi-toilet-online.netlify.app
 0.0.0.0 skibidi-toilet.io
 0.0.0.0 skibidi-toilet.org
@@ -8797,6 +8805,7 @@
 0.0.0.0 sourdays-1.github.io
 0.0.0.0 space-shooter-shadrouh.netlify.app
 0.0.0.0 spaceblast.io
+0.0.0.0 spaceguard.io
 0.0.0.0 spaceinvaders.co
 0.0.0.0 spaceinvaders.online
 0.0.0.0 spaceinvaders.pages.dev
@@ -9199,6 +9208,7 @@
 0.0.0.0 suasponte1313.github.io
 0.0.0.0 subagames.com
 0.0.0.0 subway-surfers-free.netlify.app
+0.0.0.0 subway-surfers-london.tops-games.workers.dev
 0.0.0.0 subway-surfers-online.pages.dev
 0.0.0.0 subway-surfers-sand.vercel.app
 0.0.0.0 subway-surfers-unbanned.github.io

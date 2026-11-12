@@ -2285,3 +2285,18 @@ boardgames247
 absolutist
 gameer
 tyrones
+
+# --- hunt_sources.py (urlscan/GitHub topics) y artículos de deportes/mesa/vestir/eaglercraft
+# (7 confirmados: cookieclicker.live, skibidi-1v1lol.vercel.app, dreamcore.gg -deportes-,
+# games.gacarbla.es, goplayfreegames.com, juegix.com -mesa/cartas-, spaceguard.io -io game-;
+# driftengine.dev y glitchless.gg descartados a mano -motor/herramienta de desarrollo de
+# juegos, no jugables-, interstellar-unblocked-games-roblox.pages.dev y
+# robloxobbygameshard.pages.dev y unblocked-games-premium-roblox-server.pages.dev descartados
+# -páginas "SEO filler" sin juego embebido-), 2026-11-12 ---
+cookieclicker
+skibidi
+dreamcore
+gacarbla
+goplayfreegames
+juegix
+spaceguard

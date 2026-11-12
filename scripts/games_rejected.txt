@@ -7,3 +7,11 @@ gamestudio-demo.kumodeck.app
 minigame-labs.com
 multiplayeragent.com
 orbitzenplaykinetic.com
+
+# Revisados el 2026-11-12: herramientas de desarrollo de juegos (analytics/engine, no jugables)
+# y páginas de contenido "SEO filler" sobre Roblox/unblocked games que no hospedan ningún juego.
+driftengine.dev
+glitchless.gg
+interstellar-unblocked-games-roblox.pages.dev
+robloxobbygameshard.pages.dev
+unblocked-games-premium-roblox-server.pages.dev

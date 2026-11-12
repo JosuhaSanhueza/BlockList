@@ -105,6 +105,7 @@
 ||duck.ai^
 ||easy-peasy.ai^
 ||edubrain.ai^
+||eduwriter.ai^
 ||elevenlabs.io^
 ||elicit.com^
 ||elicit.org^
@@ -235,6 +236,7 @@
 ||paraphraser.io^
 ||paraphrasingtool.ai^
 ||pdf.ai^
+||perfectessaywriter.ai^
 ||perplexity.ai^
 ||phind.com^
 ||photoai.com^
