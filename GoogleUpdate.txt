@@ -5,3 +5,4 @@ dl.google.com
 ||brave.com^
 ||opera.com^
 ||librewolf.net^
+||duckduckgo.com^
