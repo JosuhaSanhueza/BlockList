@@ -173,6 +173,7 @@
 0.0.0.0 2048zone.com
 0.0.0.0 20q.net
 0.0.0.0 2321564369.github.io
+0.0.0.0 23azostore.github.io
 0.0.0.0 247backgammon.org
 0.0.0.0 247bridge.com
 0.0.0.0 247checkers.com
@@ -1723,6 +1724,7 @@
 0.0.0.0 classroom15x.com
 0.0.0.0 classroom15xgame.github.io
 0.0.0.0 classroom20x.com
+0.0.0.0 classroom2111.github.io
 0.0.0.0 classroom4x.com
 0.0.0.0 classroom60x.com
 0.0.0.0 classroom66games.github.io
@@ -1752,6 +1754,7 @@
 0.0.0.0 classroom76.app
 0.0.0.0 classroom80x.com
 0.0.0.0 classroom97.github.io
+0.0.0.0 classroomcenterg.com
 0.0.0.0 classroomgame.github.io
 0.0.0.0 classroomgames.io
 0.0.0.0 classroomgames.pages.dev
@@ -5604,6 +5607,7 @@
 0.0.0.0 krunkergame.io
 0.0.0.0 krunkergame.org
 0.0.0.0 krushnachaudhary.github.io
+0.0.0.0 kubeverse.com
 0.0.0.0 kucyzzx.github.io
 0.0.0.0 kudige79.github.io
 0.0.0.0 kudo1004.github.io
@@ -5977,6 +5981,7 @@
 0.0.0.0 mcraft.global.ssl.fastly.net
 0.0.0.0 mcsrc.dev
 0.0.0.0 meaburro.com
+0.0.0.0 mecanografiapro.com
 0.0.0.0 meccabingo.com
 0.0.0.0 meccha-chameleon-games.pages.dev
 0.0.0.0 mecchachameleongame.io
@@ -7371,6 +7376,7 @@
 0.0.0.0 plutonium.freetls.fastly.net
 0.0.0.0 plutonium.global.ssl.fastly.net
 0.0.0.0 plutonium.pw
+0.0.0.0 po.ki
 0.0.0.0 pocketworlds.com
 0.0.0.0 pog.com
 0.0.0.0 poggygames.vercel.app
@@ -9566,6 +9572,7 @@
 0.0.0.0 theoryinteractive.net
 0.0.0.0 thepixiepit.co.uk
 0.0.0.0 thepizzaedition-games.bitbucket.io
+0.0.0.0 thepizzaedition-games.com
 0.0.0.0 thepizzaedition-games.github.io
 0.0.0.0 thepizzaedition-unblock.github.io
 0.0.0.0 thepizzaeditionunblocked.github.io
@@ -10553,6 +10560,7 @@
 0.0.0.0 winlator.gitlab.io
 0.0.0.0 winrogames.com
 0.0.0.0 winternightgames.com
+0.0.0.0 winwilder.com
 0.0.0.0 winzygame.com
 0.0.0.0 withren.github.io
 0.0.0.0 wixgames.co.uk
