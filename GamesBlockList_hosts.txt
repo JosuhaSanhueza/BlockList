@@ -1141,6 +1141,7 @@
 0.0.0.0 bigfarm.goodgamestudios.com
 0.0.0.0 bigfinishgames.com
 0.0.0.0 bigfishgames.com
+0.0.0.0 bigfishgamesloginaccount.pages.dev
 0.0.0.0 bigmoneyarcade.com
 0.0.0.0 bigmouse1976.github.io
 0.0.0.0 bigpoint.com
@@ -1951,6 +1952,7 @@
 0.0.0.0 clever-portal.github.io
 0.0.0.0 cleverappssg.com
 0.0.0.0 cleverman606.github.io
+0.0.0.0 click-games-on-roblox.pages.dev
 0.0.0.0 click.pl
 0.0.0.0 click.unusida.id
 0.0.0.0 clickacookie.github.io
@@ -2218,6 +2220,7 @@
 0.0.0.0 crazy-games.netlify.app
 0.0.0.0 crazy-games.online
 0.0.0.0 crazy-games.org
+0.0.0.0 crazy-good-roblox-games.pages.dev
 0.0.0.0 crazy.freetls.fastly.net
 0.0.0.0 crazy.global.ssl.fastly.net
 0.0.0.0 crazyayden888.github.io
@@ -3908,6 +3911,7 @@
 0.0.0.0 fridaynightfunkingame.com
 0.0.0.0 fridaynightfunkingame.pages.dev
 0.0.0.0 friendlyfiregame.com
+0.0.0.0 friends-games-on-roblox.pages.dev
 0.0.0.0 frin2.com
 0.0.0.0 friu.net
 0.0.0.0 friv-2017.com
@@ -4328,6 +4332,7 @@
 0.0.0.0 games-kids.com
 0.0.0.0 games-lake-omega-54.vercel.app
 0.0.0.0 games-library.ru
+0.0.0.0 games-like-aut-roblox.pages.dev
 0.0.0.0 games-like-kitty-roblox.pages.dev
 0.0.0.0 games-msn.com
 0.0.0.0 games-not-filtered-school.pages.dev
@@ -5635,6 +5640,7 @@
 0.0.0.0 itchiogame.com
 0.0.0.0 itchy.freetls.fastly.net
 0.0.0.0 itchy.global.ssl.fastly.net
+0.0.0.0 items-gratis-roblox-juegos.pages.dev
 0.0.0.0 ito.gg
 0.0.0.0 its2026.duckdns.org
 0.0.0.0 itsagustinbtw.github.io
@@ -5991,6 +5997,7 @@
 0.0.0.0 jump-doodle.pages.dev
 0.0.0.0 jumponly.io
 0.0.0.0 junyi215.github.io
+0.0.0.0 jupiter-delta-games.pages.dev
 0.0.0.0 just-fall.com
 0.0.0.0 just-falllol.github.io
 0.0.0.0 justachip678.github.io
@@ -6401,6 +6408,7 @@
 0.0.0.0 lolygames.github.io
 0.0.0.0 lomuroundtheoutside.github.io
 0.0.0.0 london47990.github.io
+0.0.0.0 longest-words-for-roblox.pages.dev
 0.0.0.0 longhtd.github.io
 0.0.0.0 lonniebeal-droid.github.io
 0.0.0.0 loopchomp.com
@@ -7473,6 +7481,7 @@
 0.0.0.0 ollgames.net
 0.0.0.0 olliezwmarshall-create.github.io
 0.0.0.0 olx188-dstplay.pages.dev
+0.0.0.0 olx188-games-online.pages.dev
 0.0.0.0 olympicgames.online
 0.0.0.0 omerfarukoktay112-max.github.io
 0.0.0.0 omgspider.com
@@ -7888,6 +7897,7 @@
 0.0.0.0 pirongames.com
 0.0.0.0 pito.games
 0.0.0.0 pivigames.blog
+0.0.0.0 pixel-art-games-roblox.pages.dev
 0.0.0.0 pixel-number-diy-coloring.pages.dev
 0.0.0.0 pixelantgames.com
 0.0.0.0 pixelarena.netlify.app
@@ -8246,6 +8256,7 @@
 0.0.0.0 playsprunkiphase10.com
 0.0.0.0 playstacking.github.io
 0.0.0.0 playstation.com.cn
+0.0.0.0 playstationplusgamesjune20252.pages.dev
 0.0.0.0 playstickfight.com
 0.0.0.0 playstickmanclimb3d.pages.dev
 0.0.0.0 playstickmanhook.pages.dev
@@ -8763,6 +8774,7 @@
 0.0.0.0 realdunkin.github.io
 0.0.0.0 realgames.com
 0.0.0.0 realhack101sunblockedunq.webnode.page
+0.0.0.0 realistic-rpg-games-roblox.pages.dev
 0.0.0.0 realmofthemadgod.com
 0.0.0.0 realphas.github.io
 0.0.0.0 realvaxy667.github.io
@@ -8967,17 +8979,21 @@
 0.0.0.0 roblox-classic-zombie-games.pages.dev
 0.0.0.0 roblox-custom-validation-script.pages.dev
 0.0.0.0 roblox-game-download-link.pages.dev
+0.0.0.0 roblox-games-api-v2.pages.dev
 0.0.0.0 roblox-games-half-loading.pages.dev
 0.0.0.0 roblox-games-unblocked-school.vercel.app
 0.0.0.0 roblox-games-unblocked.github.io
 0.0.0.0 roblox-games-unblocked.vercel.app
 0.0.0.0 roblox-games-without-tags.pages.dev
+0.0.0.0 roblox-harry-potter-script.pages.dev
 0.0.0.0 roblox-hitbox-expander-script.pages.dev
 0.0.0.0 roblox-hood-games-leaked.pages.dev
 0.0.0.0 roblox-horror-games-asmr.pages.dev
 0.0.0.0 roblox-horror-games-easy.pages.dev
 0.0.0.0 roblox-horror-games-horangi99.pages.dev
 0.0.0.0 roblox-jailbreak-like-games.pages.dev
+0.0.0.0 roblox-memory-optimizer-plugin.pages.dev
+0.0.0.0 roblox-microprofiler-guide-optimization.pages.dev
 0.0.0.0 roblox-mist-sound.pages.dev
 0.0.0.0 roblox-model-id-list.pages.dev
 0.0.0.0 roblox-mystery-games-detective.pages.dev
@@ -9000,6 +9016,7 @@
 0.0.0.0 roblox-unblocked.pages.dev
 0.0.0.0 roblox-unblocked1.github.io
 0.0.0.0 roblox-unlock-script.pages.dev
+0.0.0.0 roblox-valorant-clone-script.pages.dev
 0.0.0.0 roblox-violin-sound.pages.dev
 0.0.0.0 roblox-virus-removal-script.pages.dev
 0.0.0.0 roblox-vr-roleplay-games.pages.dev
@@ -9018,8 +9035,10 @@
 0.0.0.0 robloxdev.cn
 0.0.0.0 robloxgenjutsuscript.pages.dev
 0.0.0.0 robloxhandtrackingsupportscript.pages.dev
+0.0.0.0 robloxhapticfeedbackscript.pages.dev
 0.0.0.0 robloxpiggy.com
 0.0.0.0 robloxrainbowscriptparticle.pages.dev
+0.0.0.0 robloxrule34games.pages.dev
 0.0.0.0 robloxtycoongames2player.pages.dev
 0.0.0.0 robloxunblocked.gitlab.io
 0.0.0.0 robloxunblocked.online
@@ -9244,6 +9263,7 @@
 0.0.0.0 schoolgms.github.io
 0.0.0.0 schoolhackr.github.io
 0.0.0.0 schoolimpostor.github.io
+0.0.0.0 schoolmath-dpi39nntz4qp.edgeone.dev
 0.0.0.0 schoology-1v1lol.github.io
 0.0.0.0 schoology-unblocked-10x.github.io
 0.0.0.0 schoology-unblocked.github.io
@@ -11657,6 +11677,7 @@
 0.0.0.0 vexx3m.com
 0.0.0.0 vgames88.com
 0.0.0.0 vhkngame.com
+0.0.0.0 vibe.wiz.games
 0.0.0.0 vibearcade-git-version.pages.dev
 0.0.0.0 vibearcade.com
 0.0.0.0 vibecoderanon.github.io
@@ -11846,6 +11867,7 @@
 0.0.0.0 wheeliebikegame.github.io
 0.0.0.0 whenzzz56-code.github.io
 0.0.0.0 whims00.github.io
+0.0.0.0 whiskey-games-website.pages.dev
 0.0.0.0 whist-cardgame.com
 0.0.0.0 whiteboard.games
 0.0.0.0 whitemilkgames.com
@@ -11969,6 +11991,7 @@
 0.0.0.0 wtianzi.github.io
 0.0.0.0 wurzelimperium.de
 0.0.0.0 wuwugames.com
+0.0.0.0 www-bigapplegame-com.pages.dev
 0.0.0.0 www.msn.com
 0.0.0.0 wyattcolegif.github.io
 0.0.0.0 wzh656.github.io
