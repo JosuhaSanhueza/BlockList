@@ -197,6 +197,7 @@
 ||manus.im^
 ||manuscdn.com^
 ||mathgptpro.com^
+||mathosai.com^
 ||maxai.co^
 ||maxai.me^
 ||merlin.foyer.work^
@@ -221,11 +222,13 @@
 ||newpc.icoding.ink^
 ||nightcafe.studio^
 ||ninjachat.ai^
+||nokeep.ai^
 ||notebook.google.com^
 ||notebooklm-pa.googleapis.com^
-||notebooklm.google.com^
 ||notebooklm.google^
+||notebooklm.google.com^
 ||notegpt.io^
+||notrack.ai^
 ||oaistatic.com^
 ||oaistatsig.com^
 ||oaiusercontent.com^
@@ -259,6 +262,8 @@
 ||pplx.ai^
 ||promptboom.com^
 ||prompthero.com^
+||proofreaderpro.ai^
+||purewrite.io^
 ||questionai.ai^
 ||questionai.com^
 ||quillbot.com^

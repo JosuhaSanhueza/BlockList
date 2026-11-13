@@ -450,3 +450,5 @@ anima.ai
 grammark.org
 vividengine.com
 yourgpt.ai
+# Revisados el 2026-11-13 (búsqueda manual):
+isthisaiwritten.com

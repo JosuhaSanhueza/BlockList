@@ -658,6 +658,7 @@
 0.0.0.0 arcadegames.gitlab.io
 0.0.0.0 arcadegames.nu
 0.0.0.0 arcadehideout.com
+0.0.0.0 arcadeindex.io
 0.0.0.0 arcadeish.com
 0.0.0.0 arcadelab.ai
 0.0.0.0 arcadelab.vercel.app
@@ -1068,6 +1069,7 @@
 0.0.0.0 bean.global.ssl.fastly.net
 0.0.0.0 bearclicker.net
 0.0.0.0 beatbone95-source.github.io
+0.0.0.0 beatcombo.com
 0.0.0.0 beatemupgames.com
 0.0.0.0 beatsaber.com
 0.0.0.0 bee.games
@@ -1841,6 +1843,7 @@
 0.0.0.0 clash3d.com
 0.0.0.0 clashofskulls.pages.dev
 0.0.0.0 clashofspace.netlify.app
+0.0.0.0 clashroids.com
 0.0.0.0 clashroyale-unblocked.pages.dev
 0.0.0.0 clashroyale.com
 0.0.0.0 clashroyaleplay.com
@@ -2345,6 +2348,7 @@
 0.0.0.0 cubelands.com
 0.0.0.0 cubes-2048.io
 0.0.0.0 cubes2048.org
+0.0.0.0 cubiccastles.com
 0.0.0.0 cucumberpork3.github.io
 0.0.0.0 cuevadeclasicos.org
 0.0.0.0 culga.com
@@ -2704,6 +2708,7 @@
 0.0.0.0 doodle-solitaire.pages.dev
 0.0.0.0 doodlebaseballgame.com
 0.0.0.0 doodlecricket.org
+0.0.0.0 doodleduel.ai
 0.0.0.0 doodlejump-2.io
 0.0.0.0 doodlejump-unblocked.github.io
 0.0.0.0 doodlejump-unblocked.gitlab.io
@@ -2883,6 +2888,7 @@
 0.0.0.0 driftking.org
 0.0.0.0 driftking.surge.sh
 0.0.0.0 driftking.web.app
+0.0.0.0 driftunlocked.com
 0.0.0.0 driftwood-games.onrender.com
 0.0.0.0 drillur.itch.io
 0.0.0.0 drive-mad-2.pages.dev
@@ -6320,6 +6326,7 @@
 0.0.0.0 lesliedaft.github.io
 0.0.0.0 lestersarcade.io
 0.0.0.0 lets-fish.com
+0.0.0.0 letsdraw.it
 0.0.0.0 letterboxedpuzzle.com
 0.0.0.0 level-devil.bitbucket.io
 0.0.0.0 level-devil.net
@@ -6389,6 +6396,7 @@
 0.0.0.0 lmogolyan-arcade.vercel.app
 0.0.0.0 lmyeeuu.github.io
 0.0.0.0 loadbit6.github.io
+0.0.0.0 lobbystrike.com
 0.0.0.0 localcas.gameaps.net
 0.0.0.0 localchess.online
 0.0.0.0 lockloft.org
@@ -10604,6 +10612,7 @@
 0.0.0.0 tantoswrld.github.io
 0.0.0.0 tanukisunsetgame.com
 0.0.0.0 tanukisunsetgame.github.io
+0.0.0.0 taoyuan.wenzi.games
 0.0.0.0 tap-nation.io
 0.0.0.0 tap-road.github.io
 0.0.0.0 taparcade.app

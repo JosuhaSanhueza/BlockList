@@ -2300,3 +2300,23 @@ gacarbla
 goplayfreegames
 juegix
 spaceguard
+
+# --- Artículos dirigidos a dibujo/adivinar, drift/racing, battle royale, tower
+# defense, rhythm/sandbox y GitHub topics eaglercraft/io-games/browser-game (9
+# confirmados: lobbystrike.com -FPS-, clashroids.com -battle asteroides-,
+# arcadeindex.io, beatcombo.com -rítmico-, cubiccastles.com -sandbox-,
+# taoyuan.wenzi.games -subdominio nuevo de wenzi.games-, doodleduel.ai,
+# letsdraw.it, driftunlocked.com; descartados a mano: david-peter.de/cube-composer
+# -sitio personal con contenido mixto, no dedicado a juegos-, wiki.suroi.io
+# -wiki, no jugable-, y varios resultados del topic unblocked-games de GitHub
+# que eran herramientas de evasión/proxy de filtros, no sitios de juegos
+# -ByePassHub, GoGuardian-Bypass, etc.-), 2026-11-13 ---
+lobbystrike
+clashroids
+arcadeindex
+beatcombo
+cubiccastles
+taoyuan
+doodleduel
+letsdraw
+driftunlocked

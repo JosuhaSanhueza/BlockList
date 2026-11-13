@@ -657,6 +657,7 @@
 ||arcadegames.gitlab.io^
 ||arcadegames.nu^
 ||arcadehideout.com^
+||arcadeindex.io^
 ||arcadeish.com^
 ||arcadelab.ai^
 ||arcadelab.vercel.app^
@@ -1067,6 +1068,7 @@
 ||bean.global.ssl.fastly.net^
 ||bearclicker.net^
 ||beatbone95-source.github.io^
+||beatcombo.com^
 ||beatemupgames.com^
 ||beatsaber.com^
 ||bee.games^
@@ -1840,6 +1842,7 @@
 ||clash3d.com^
 ||clashofskulls.pages.dev^
 ||clashofspace.netlify.app^
+||clashroids.com^
 ||clashroyale-unblocked.pages.dev^
 ||clashroyale.com^
 ||clashroyaleplay.com^
@@ -2344,6 +2347,7 @@
 ||cubelands.com^
 ||cubes-2048.io^
 ||cubes2048.org^
+||cubiccastles.com^
 ||cucumberpork3.github.io^
 ||cuevadeclasicos.org^
 ||culga.com^
@@ -2703,6 +2707,7 @@
 ||doodle-solitaire.pages.dev^
 ||doodlebaseballgame.com^
 ||doodlecricket.org^
+||doodleduel.ai^
 ||doodlejump-2.io^
 ||doodlejump-unblocked.github.io^
 ||doodlejump-unblocked.gitlab.io^
@@ -2882,6 +2887,7 @@
 ||driftking.org^
 ||driftking.surge.sh^
 ||driftking.web.app^
+||driftunlocked.com^
 ||driftwood-games.onrender.com^
 ||drillur.itch.io^
 ||drive-mad-2.pages.dev^
@@ -6319,6 +6325,7 @@
 ||lesliedaft.github.io^
 ||lestersarcade.io^
 ||lets-fish.com^
+||letsdraw.it^
 ||letterboxedpuzzle.com^
 ||level-devil.bitbucket.io^
 ||level-devil.net^
@@ -6388,6 +6395,7 @@
 ||lmogolyan-arcade.vercel.app^
 ||lmyeeuu.github.io^
 ||loadbit6.github.io^
+||lobbystrike.com^
 ||localcas.gameaps.net^
 ||localchess.online^
 ||lockloft.org^
@@ -10603,6 +10611,7 @@
 ||tantoswrld.github.io^
 ||tanukisunsetgame.com^
 ||tanukisunsetgame.github.io^
+||taoyuan.wenzi.games^
 ||tap-nation.io^
 ||tap-road.github.io^
 ||taparcade.app^
