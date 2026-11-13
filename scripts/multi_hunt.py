@@ -19,6 +19,7 @@ import argparse
 import itertools
 import json
 import os
+import random
 import re
 import socket
 import sys
@@ -70,6 +71,37 @@ PROFILES = {
         "middle": ["games", "gamesonline", "onlinegames", "html5games", "iogames", "arcade", "unblockedgames"],
         "tld": ["com", "net", "org", "io", "online", "fun", "games"],
     },
+    "fr": {
+        "urlscan": ["jeux en ligne", "jeux gratuits", "jouer gratuitement", "jeux html5", "jeux de voiture",
+                    "jeux de fille", "jeux pour enfants"],
+        "seed": re.compile(r"\.(fr|be|ch|ca)$|jeux|jeu"),
+        "prefix": ["jeux", "jeu", "jouer"], "middle": ["", "gratuits", "gratuit", "enligne", "-en-ligne", "html5"],
+        "tld": ["fr", "com", "net", "org", "be"],
+    },
+    "de": {
+        "urlscan": ["kostenlose spiele", "online spiele", "spiele kostenlos", "browserspiele", "html5 spiele"],
+        "seed": re.compile(r"\.(de|at|ch)$|spiel"),
+        "prefix": ["spiele", "spiel", "online-spiele"], "middle": ["", "kostenlos", "-kostenlos", "online", "-online"],
+        "tld": ["de", "at", "com", "net", "org"],
+    },
+    "it": {
+        "urlscan": ["giochi online", "giochi gratis", "giocare gratis", "giochi html5"],
+        "seed": re.compile(r"\.it$|giochi|gioco"),
+        "prefix": ["giochi", "gioco", "giocare"], "middle": ["", "gratis", "online", "-online", "html5"],
+        "tld": ["it", "com", "net", "org"],
+    },
+    "pl": {
+        "urlscan": ["gry online", "darmowe gry", "gry za darmo", "gry html5"],
+        "seed": re.compile(r"\.pl$|gry|gra"),
+        "prefix": ["gry", "gra", "graj"], "middle": ["", "online", "-online", "zadarmo", "-za-darmo", "darmowe"],
+        "tld": ["pl", "com", "net", "org"],
+    },
+    "tr": {
+        "urlscan": ["oyun oyna", "ücretsiz oyunlar", "online oyunlar", "kız oyunları"],
+        "seed": re.compile(r"\.tr$|oyun"),
+        "prefix": ["oyun", "oyunlar", "oyna"], "middle": ["", "oyna", "online", "-oyna", "ucretsiz"],
+        "tld": ["com", "net", "org", "com.tr"],
+    },
 }
 
 # Títulos que no son sitios de juegos jugables aunque pasen is_game_website().
@@ -118,10 +150,14 @@ def from_urlscan(profile, days):
     return hunt_sources.search_urlscan(queries, days=days)
 
 
-def from_links(profile, known, limit):
-    """Enlaces externos de las portadas de portales ya bloqueados de este idioma."""
-    seeds = sorted(d for d in known if profile["seed"].search(d) and d.count(".") <= 2)[:limit]
+def seeds_for(profile, known, limit):
+    """Portales ya bloqueados de este idioma, elegidos al azar para no repetir siempre los mismos."""
+    seeds = sorted(d for d in known if profile["seed"].search(d) and d.count(".") <= 2)
+    return random.sample(seeds, min(limit, len(seeds)))
 
+
+def from_links(seeds):
+    """Enlaces externos de las portadas de estos sitios."""
     def links(seed):
         try:
             html = hunt_sources._get(f"https://{seed}/")
@@ -182,14 +218,28 @@ def hunt(lang, sources, known, args):
     if "urlscan" in sources:
         found |= from_urlscan(profile, args.days)
     if "links" in sources:
-        found |= from_links(profile, known, args.max_seeds)
+        found |= from_links(seeds_for(profile, known, args.max_seeds))
     if "names" in sources:
         found |= from_names(profile)
-    cands = sorted(d.removeprefix("www.") for d in found if d)
-    cands = [d for d in cands if plausible(d) and not covered(d, known)][: args.max_verify]
-    with ThreadPoolExecutor(args.workers) as ex:
-        ok = [r for r in ex.map(verify, cands) if r]
-    return len(found), len(cands), ok
+    return verify_rounds(found, known, args)
+
+
+def verify_rounds(found, known, args):
+    """Verifica los candidatos y, con --hops, sigue los enlaces de los sitios recién confirmados:
+    los portales de una misma red se enlazan entre sí."""
+    seen, ok, n_found, n_cands = set(), [], 0, 0
+    for hop in range(args.hops + 1):
+        cands = sorted({d.removeprefix("www.") for d in found if d} - seen)
+        seen |= set(cands)
+        n_found += len(cands)
+        cands = [d for d in cands if plausible(d) and not covered(d, known)][: args.max_verify]
+        n_cands += len(cands)
+        with ThreadPoolExecutor(args.workers) as ex:
+            new = [r for r in ex.map(verify, cands) if r]
+        ok += new
+        if hop < args.hops and new:
+            found = from_links([d for d, _ in new])
+    return n_found, n_cands, ok
 
 
 def main():
@@ -201,14 +251,26 @@ def main():
     ap.add_argument("--max-seeds", type=int, default=150, help="portales ya bloqueados a recorrer por idioma")
     ap.add_argument("--max-verify", type=int, default=600, help="candidatos a verificar por idioma")
     ap.add_argument("--workers", type=int, default=16)
+    ap.add_argument("--hops", type=int, default=1, help="rondas extra siguiendo enlaces de los sitios confirmados")
+    ap.add_argument("--extra", nargs="*", default=[],
+                    help="archivos con más candidatos (el primer campo de cada línea es el dominio)")
     args = ap.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
     known = load_known()
     sources = set(args.sources.split(","))
     start = time.time()
-    with ThreadPoolExecutor(len(args.lang)) as ex:
-        results = dict(zip(args.lang, ex.map(lambda l: hunt(l, sources, known, args), args.lang)))
+    jobs = {lang: (lambda l=lang: hunt(l, sources, known, args)) for lang in args.lang}
+    if args.extra:
+        extra = set()
+        for path in args.extra:
+            with open(path, encoding="utf-8") as f:
+                extra |= {l.split()[0].split("|")[0].lower() for l in f if l.strip() and not l.startswith("#")}
+        extra = {d for d in extra if "." in d}
+        jobs["extra"] = lambda: verify_rounds(extra, known, args)
+    with ThreadPoolExecutor(len(jobs)) as ex:
+        futures = {name: ex.submit(fn) for name, fn in jobs.items()}
+        results = {name: f.result() for name, f in futures.items()}
 
     seen = set()
     for lang, (n_found, n_cands, ok) in results.items():
