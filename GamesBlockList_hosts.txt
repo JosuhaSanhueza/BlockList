@@ -4230,6 +4230,7 @@
 0.0.0.0 gamehubjogos.github.io
 0.0.0.0 gamehubportal-1.github.io
 0.0.0.0 gameinabottle.com
+0.0.0.0 gameinclassroom.github.io
 0.0.0.0 gameis.net
 0.0.0.0 gameistarz.com
 0.0.0.0 gamejolt.com
@@ -4953,6 +4954,7 @@
 0.0.0.0 googledoodlebaseballunblocked.github.io
 0.0.0.0 googlegames.pages.dev
 0.0.0.0 googleminesweeper.org
+0.0.0.0 googlesnake-online.github.io
 0.0.0.0 googlesnake.com
 0.0.0.0 googlesnake.freetls.fastly.net
 0.0.0.0 googlesnake.gitlab.io

@@ -4229,6 +4229,7 @@
 ||gamehubjogos.github.io^
 ||gamehubportal-1.github.io^
 ||gameinabottle.com^
+||gameinclassroom.github.io^
 ||gameis.net^
 ||gameistarz.com^
 ||gamejolt.com^
@@ -4952,6 +4953,7 @@
 ||googledoodlebaseballunblocked.github.io^
 ||googlegames.pages.dev^
 ||googleminesweeper.org^
+||googlesnake-online.github.io^
 ||googlesnake.com^
 ||googlesnake.freetls.fastly.net^
 ||googlesnake.gitlab.io^
