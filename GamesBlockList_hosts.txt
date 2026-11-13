@@ -359,6 +359,7 @@
 0.0.0.0 adfree-sz-games.github.io
 0.0.0.0 adfreegames.com
 0.0.0.0 adfreegames.es
+0.0.0.0 adguard-sem-vds.site
 0.0.0.0 adinplay.com
 0.0.0.0 aditya-coder-h.github.io
 0.0.0.0 adjust.freetls.fastly.net
@@ -411,6 +412,7 @@
 0.0.0.0 agarz.com
 0.0.0.0 agokhanakin-blip.github.io
 0.0.0.0 agooseegg.github.io
+0.0.0.0 agregadorteste.site
 0.0.0.0 agustinquintana401.github.io
 0.0.0.0 ahmeddikinov.github.io
 0.0.0.0 ahrdevelopers.github.io
@@ -3130,6 +3132,7 @@
 0.0.0.0 espacioapkks.com
 0.0.0.0 especially43.github.io
 0.0.0.0 espritgames.com
+0.0.0.0 espritgames.ru
 0.0.0.0 essential.gg
 0.0.0.0 ethandodz.github.io
 0.0.0.0 ethanrepo.github.io
@@ -3830,9 +3833,11 @@
 0.0.0.0 game-vault.dev
 0.0.0.0 game-verify.pages.dev
 0.0.0.0 game.backkampung.com
+0.0.0.0 game.com
 0.0.0.0 game.croffle-play.link
 0.0.0.0 game.giantshaft.com
 0.0.0.0 game.ooo
+0.0.0.0 game.org
 0.0.0.0 game.zerodayclock.com
 0.0.0.0 game01.ru
 0.0.0.0 game3dcar.github.io
@@ -3950,6 +3955,7 @@
 0.0.0.0 gamepilot.com
 0.0.0.0 gamepirate.com
 0.0.0.0 gamepix.com
+0.0.0.0 gameplayscassi.com.br
 0.0.0.0 gameplayup.com
 0.0.0.0 gamepluto.com
 0.0.0.0 gamepluto.gitlab.io
@@ -4025,6 +4031,7 @@
 0.0.0.0 games.co.uk
 0.0.0.0 games.codemeoww.com
 0.0.0.0 games.com
+0.0.0.0 games.daredevs.com.br
 0.0.0.0 games.dictionary.com
 0.0.0.0 games.directory
 0.0.0.0 games.fm
@@ -4039,6 +4046,7 @@
 0.0.0.0 games.meirmsn.dev
 0.0.0.0 games.mirror.co.uk
 0.0.0.0 games.msn.com
+0.0.0.0 games.org
 0.0.0.0 games.seniorstoday.in
 0.0.0.0 games.serp.co
 0.0.0.0 games.tiscali.cz
@@ -4116,6 +4124,7 @@
 0.0.0.0 gamesheep.com
 0.0.0.0 gameshero.com
 0.0.0.0 gameshouse.com
+0.0.0.0 gameshtml5.net
 0.0.0.0 gameshubonline.com
 0.0.0.0 gamesiknow.com
 0.0.0.0 gamesitetemplates.com
@@ -5049,6 +5058,7 @@
 0.0.0.0 igroflot.com
 0.0.0.0 igroutka.github.io
 0.0.0.0 igroutka.ru
+0.0.0.0 igry-online.ru
 0.0.0.0 igry.io
 0.0.0.0 igry.ru
 0.0.0.0 ihackedgames.com
@@ -5928,6 +5938,7 @@
 0.0.0.0 lululataupe.com
 0.0.0.0 luminarylabs-dev.github.io
 0.0.0.0 luminosity-d3v.github.io
+0.0.0.0 luminox.space
 0.0.0.0 lumm256.github.io
 0.0.0.0 lunaclientx.netlify.app
 0.0.0.0 lunar.freetls.fastly.net
@@ -6496,6 +6507,7 @@
 0.0.0.0 mrnico98.github.io
 0.0.0.0 mrnoname42.github.io
 0.0.0.0 mrpootin101-tech.github.io
+0.0.0.0 mrs-tomatogames-dpi107mnzm49.edgeone.dev
 0.0.0.0 mrsgtslaughter.github.io
 0.0.0.0 mrsparkerbio.github.io
 0.0.0.0 mrtemusworkspace-gif.github.io
@@ -7018,6 +7030,7 @@
 0.0.0.0 pangasir.github.io
 0.0.0.0 pangolinworks.dev
 0.0.0.0 panicbuttongames.com
+0.0.0.0 panicky-blush-tkr6nsui-dpleo3tpef28.edgeone.dev
 0.0.0.0 panupongsk-cyber.github.io
 0.0.0.0 panzerrush.com
 0.0.0.0 papagames.net
@@ -7313,8 +7326,22 @@
 0.0.0.0 play.vg
 0.0.0.0 play.vrg.li
 0.0.0.0 play123.com
+0.0.0.0 play123.cz
+0.0.0.0 play123.dk
+0.0.0.0 play123.fi
+0.0.0.0 play123.gr
+0.0.0.0 play123.hu
 0.0.0.0 play123.in
+0.0.0.0 play123.jp
+0.0.0.0 play123.kr
 0.0.0.0 play123.mx
+0.0.0.0 play123.no
+0.0.0.0 play123.pl
+0.0.0.0 play123.ro
+0.0.0.0 play123.se
+0.0.0.0 play123.sk
+0.0.0.0 play123.tr
+0.0.0.0 play123.vn
 0.0.0.0 play2048.co
 0.0.0.0 play2048.io
 0.0.0.0 play2048.org
@@ -7943,6 +7970,7 @@
 0.0.0.0 ratethatgameh5.com
 0.0.0.0 ratz67.github.io
 0.0.0.0 raunak-developer-del.github.io
+0.0.0.0 razblokirovannye-igry-82.pages.dev
 0.0.0.0 rbkgames.com
 0.0.0.0 rbtechngames.com
 0.0.0.0 rbunblocked.gitlab.io
@@ -9066,6 +9094,7 @@
 0.0.0.0 spellen.tv
 0.0.0.0 spellen.ws
 0.0.0.0 spelletjes.nl
+0.0.0.0 spelletjes123.nl
 0.0.0.0 spellingbeegame.com
 0.0.0.0 spellingbeegames.com
 0.0.0.0 spelo.se
@@ -9688,6 +9717,7 @@
 0.0.0.0 tessel.at
 0.0.0.0 test12434315.github.io
 0.0.0.0 testaccount335.github.io
+0.0.0.0 testersoulja.space
 0.0.0.0 teto-0401.github.io
 0.0.0.0 tetr.io
 0.0.0.0 tetris-games.com
@@ -9967,6 +9997,7 @@
 0.0.0.0 travisdeal291-debug.github.io
 0.0.0.0 treeshateyou-game.com
 0.0.0.0 trendgames.io
+0.0.0.0 trendtech.win
 0.0.0.0 tresenraya.com
 0.0.0.0 trex-game.skipser.com
 0.0.0.0 trex-runner.com

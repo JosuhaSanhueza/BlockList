@@ -358,6 +358,7 @@
 ||adfree-sz-games.github.io^
 ||adfreegames.com^
 ||adfreegames.es^
+||adguard-sem-vds.site^
 ||adinplay.com^
 ||aditya-coder-h.github.io^
 ||adjust.freetls.fastly.net^
@@ -410,6 +411,7 @@
 ||agarz.com^
 ||agokhanakin-blip.github.io^
 ||agooseegg.github.io^
+||agregadorteste.site^
 ||agustinquintana401.github.io^
 ||ahmeddikinov.github.io^
 ||ahrdevelopers.github.io^
@@ -3129,6 +3131,7 @@
 ||espacioapkks.com^
 ||especially43.github.io^
 ||espritgames.com^
+||espritgames.ru^
 ||essential.gg^
 ||ethandodz.github.io^
 ||ethanrepo.github.io^
@@ -3829,9 +3832,11 @@
 ||game-vault.dev^
 ||game-verify.pages.dev^
 ||game.backkampung.com^
+||game.com^
 ||game.croffle-play.link^
 ||game.giantshaft.com^
 ||game.ooo^
+||game.org^
 ||game.zerodayclock.com^
 ||game01.ru^
 ||game3dcar.github.io^
@@ -3949,6 +3954,7 @@
 ||gamepilot.com^
 ||gamepirate.com^
 ||gamepix.com^
+||gameplayscassi.com.br^
 ||gameplayup.com^
 ||gamepluto.com^
 ||gamepluto.gitlab.io^
@@ -4024,6 +4030,7 @@
 ||games.co.uk^
 ||games.codemeoww.com^
 ||games.com^
+||games.daredevs.com.br^
 ||games.dictionary.com^
 ||games.directory^
 ||games.fm^
@@ -4038,6 +4045,7 @@
 ||games.meirmsn.dev^
 ||games.mirror.co.uk^
 ||games.msn.com^
+||games.org^
 ||games.seniorstoday.in^
 ||games.serp.co^
 ||games.tiscali.cz^
@@ -4115,6 +4123,7 @@
 ||gamesheep.com^
 ||gameshero.com^
 ||gameshouse.com^
+||gameshtml5.net^
 ||gameshubonline.com^
 ||gamesiknow.com^
 ||gamesitetemplates.com^
@@ -5048,6 +5057,7 @@
 ||igroflot.com^
 ||igroutka.github.io^
 ||igroutka.ru^
+||igry-online.ru^
 ||igry.io^
 ||igry.ru^
 ||ihackedgames.com^
@@ -5927,6 +5937,7 @@
 ||lululataupe.com^
 ||luminarylabs-dev.github.io^
 ||luminosity-d3v.github.io^
+||luminox.space^
 ||lumm256.github.io^
 ||lunaclientx.netlify.app^
 ||lunar.freetls.fastly.net^
@@ -6495,6 +6506,7 @@
 ||mrnico98.github.io^
 ||mrnoname42.github.io^
 ||mrpootin101-tech.github.io^
+||mrs-tomatogames-dpi107mnzm49.edgeone.dev^
 ||mrsgtslaughter.github.io^
 ||mrsparkerbio.github.io^
 ||mrtemusworkspace-gif.github.io^
@@ -7017,6 +7029,7 @@
 ||pangasir.github.io^
 ||pangolinworks.dev^
 ||panicbuttongames.com^
+||panicky-blush-tkr6nsui-dpleo3tpef28.edgeone.dev^
 ||panupongsk-cyber.github.io^
 ||panzerrush.com^
 ||papagames.net^
@@ -7312,8 +7325,22 @@
 ||play.vg^
 ||play.vrg.li^
 ||play123.com^
+||play123.cz^
+||play123.dk^
+||play123.fi^
+||play123.gr^
+||play123.hu^
 ||play123.in^
+||play123.jp^
+||play123.kr^
 ||play123.mx^
+||play123.no^
+||play123.pl^
+||play123.ro^
+||play123.se^
+||play123.sk^
+||play123.tr^
+||play123.vn^
 ||play2048.co^
 ||play2048.io^
 ||play2048.org^
@@ -7942,6 +7969,7 @@
 ||ratethatgameh5.com^
 ||ratz67.github.io^
 ||raunak-developer-del.github.io^
+||razblokirovannye-igry-82.pages.dev^
 ||rbkgames.com^
 ||rbtechngames.com^
 ||rbunblocked.gitlab.io^
@@ -9065,6 +9093,7 @@
 ||spellen.tv^
 ||spellen.ws^
 ||spelletjes.nl^
+||spelletjes123.nl^
 ||spellingbeegame.com^
 ||spellingbeegames.com^
 ||spelo.se^
@@ -9687,6 +9716,7 @@
 ||tessel.at^
 ||test12434315.github.io^
 ||testaccount335.github.io^
+||testersoulja.space^
 ||teto-0401.github.io^
 ||tetr.io^
 ||tetris-games.com^
@@ -9966,6 +9996,7 @@
 ||travisdeal291-debug.github.io^
 ||treeshateyou-game.com^
 ||trendgames.io^
+||trendtech.win^
 ||tresenraya.com^
 ||trex-game.skipser.com^
 ||trex-runner.com^
