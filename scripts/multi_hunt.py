@@ -7,9 +7,14 @@ Cada idioma corre en su propio hilo y junta candidatos de tres fuentes:
   - nombres: combinaciones típicas ("jogos" + "de-carros" + ".com.br") que resuelven en DNS.
 
 Después descarta lo ya cubierto o rechazado, las apuestas y los hostings completos, verifica cada
-dominio con is_game_website() e is_publishable(), y escribe solo `dominio | título` en
-<out>/<idioma>.txt. Ese archivo corto es lo único que hay que revisar a mano (o con un agente),
-en vez de que un agente lea páginas enteras: así la búsqueda gasta muchos menos tokens.
+dominio con is_game_website() e is_publishable(), y escribe `dominio | título | idioma` en tres
+archivos, según el título (ver classify()):
+  - fuertes.txt: el título invita a jugar ("play", "jugar", "unblocked"...). En la prueba del
+    2026-11-12, 1 de 45 era malo: basta con revisar una muestra.
+  - debiles.txt: el título no dice que se juegue ahí. Hay juegos reales y ruido: revisar a mano.
+  - marcados.txt: estudios, motores, noticias, tiendas, herramientas, juegos de palabras o
+    educativos. Casi todo se descarta; revisar solo si se buscan más.
+Revisar esas listas cortas, en vez de que un agente lea páginas enteras, gasta muchos menos tokens.
 
 No modifica las listas. Uso:
   python3 scripts/multi_hunt.py --lang ru pt --out /tmp/hunt
@@ -112,6 +117,31 @@ NOT_A_GAME_SITE = re.compile(
     r"download|скачать|baixar|descargar|torrent|apk|cheat|чит|steam key|"
     r"matemátic|математик|typing|mecanograf|digitação|"
     r"porn|порно|xxx|hentai", re.I)
+
+# Clasificación del título para la revisión (classify()).
+STRONG = re.compile(
+    r"\bplay|jogar|jogue|jogos? (online|grátis|gratis)|jugar|juega|juegos (online|gratis)|spielen|"
+    r"spiele (online|kostenlos)|jouer|jouez|jeux (en ligne|gratuits)|gioca|giochi (online|gratis)|graj|"
+    r"gry (online|za darmo)|oyna|играть|игры онлайн|unblocked|free online|online games|games online|"
+    r"browser ?game|html5 game|in your browser|en el navegador|no download|sin descargar|spil gratis|"
+    r"spela|speel|hrajte|játssz|joacă|pelaa|free games?\b|games? for|juegos de|jogos de|jeux de|giochi di|"
+    r"gry dla|игры для", re.I)
+FLAGGED = re.compile(
+    r"studio|engine|\bign\b|store|steam|support|official|career|museum|archive|database|emulat|"
+    r"forum|communit|review|tracker|rating|moneti|\bads\b|publish|develop|sdk|template|plugin|"
+    r"wordpress|blog|entertainment|software|tools?\b|maker|editor|generator|asset|"
+    r"math|geograph|quiz|trivia|dictionary|word|crossword|letters|palabra|scrabble|\bai\b|"
+    # Redes de herramientas en línea (fotos, mapas, gráficos) que enlazan a portales de juegos.
+    r"foto|photo|bild|image|collage|\bmaps?\b|chart|diagram|\bqr\b|\bzip\b|mind ?map|mind clouds?|poster|"
+    r"glitter|magazine|abandonware|log in|geoguess|funding|award-winning", re.I)
+
+
+def classify(title):
+    """'marcado' si el título apunta a algo que no es un sitio para jugar (o es educativo),
+    'fuerte' si invita a jugar, 'debil' si no dice ninguna de las dos cosas."""
+    if FLAGGED.search(title):
+        return "marcado"
+    return "fuerte" if STRONG.search(title) else "debil"
 
 
 def load_known():
@@ -272,14 +302,19 @@ def main():
         futures = {name: ex.submit(fn) for name, fn in jobs.items()}
         results = {name: f.result() for name, f in futures.items()}
 
+    groups = {"fuerte": [], "debil": [], "marcado": []}
     seen = set()
     for lang, (n_found, n_cands, ok) in results.items():
         ok = [(d, t) for d, t in ok if d not in seen]
         seen |= {d for d, _ in ok}
-        with open(os.path.join(args.out, f"{lang}.txt"), "w", encoding="utf-8") as f:
-            f.writelines(f"{d} | {t}\n" for d, t in sorted(ok))
-        print(f"[{lang}] {n_found} encontrados, {n_cands} verificados, {len(ok)} sitios de juegos "
-              f"-> {os.path.join(args.out, lang + '.txt')}")
+        for d, t in ok:
+            groups[classify(t)].append(f"{d} | {t} | {lang}\n")
+        print(f"[{lang}] {n_found} encontrados, {n_cands} verificados, {len(ok)} sitios de juegos")
+    for name, lines in groups.items():
+        path = os.path.join(args.out, f"{name}s.txt" if name != "debil" else "debiles.txt")
+        with open(path, "w", encoding="utf-8") as f:
+            f.writelines(sorted(lines))
+        print(f"[*] {len(lines):5d} {name}s -> {path}")
     print(f"[*] {time.time() - start:.0f} s")
 
 
