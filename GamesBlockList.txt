@@ -13,6 +13,7 @@
 ||1000unblockedgames.github.io^
 ||1000webgames.com^
 ||1001-juegos.org^
+||1001game.net^
 ||1001games.co.uk^
 ||1001games.com^
 ||1001games.es^
@@ -22,7 +23,9 @@
 ||1001games.net^
 ||1001games.nl^
 ||1001giochi.it^
+||1001hry.cz^
 ||1001jeux.fr^
+||1001jocuri.ro^
 ||1001jogos.com.br^
 ||1001jogos.pt^
 ||1001juegos.com^
@@ -158,6 +161,7 @@
 ||2048-unblockedgames.github.io^
 ||2048.ee^
 ||2048.gg^
+||2048.ovh^
 ||2048free.io^
 ||2048game.com^
 ||2048game.fun^
@@ -270,6 +274,7 @@
 ||75kh0.github.io^
 ||76-games.bitbucket.io^
 ||76-games.gitlab.io^
+||76-games3.github.io^
 ||76-unblocked-games-roblox.pages.dev^
 ||76ezgames.github.io^
 ||76unblockedgamesonline.github.io^
@@ -310,6 +315,7 @@
 ||aagashkumar.github.io^
 ||aanand-km.github.io^
 ||aarigame.com^
+||abc.cfedrer.cloudns.ch^
 ||abc6xyz.github.io^
 ||abcjuegos.com^
 ||abcjuegos.net^
@@ -340,8 +346,11 @@
 ||acideye11413.github.io^
 ||acmegamer.com^
 ||acquaday14-arch.github.io^
+||actiespellen.com^
 ||actiongame.com^
+||actiongames.co.uk^
 ||actiongameshub.com^
+||actionspiele.de^
 ||actuallyab.github.io^
 ||adamben8p-cpu.github.io^
 ||adamcolestock.github.io^
@@ -356,8 +365,11 @@
 ||addictivegames.com^
 ||adenrobinson57-pixel.github.io^
 ||adfree-sz-games.github.io^
+||adfreegames.co.uk^
 ||adfreegames.com^
+||adfreegames.de^
 ||adfreegames.es^
+||adfreegames.nl^
 ||adguard-sem-vds.site^
 ||adinplay.com^
 ||aditya-coder-h.github.io^
@@ -435,6 +447,7 @@
 ||akilesh-him.github.io^
 ||akses-opera-games.pages.dev^
 ||akshun-akxe.github.io^
+||aktionspiele.de^
 ||al652025.github.io^
 ||alcohol.freetls.fastly.net^
 ||alcohol.global.ssl.fastly.net^
@@ -785,6 +798,7 @@
 ||backgammon-play.firebaseapp.com^
 ||backgammon-play.web.app^
 ||backgammon.top^
+||backgammononline.com^
 ||backgammonworld.io^
 ||backkampung.github.io^
 ||backroomsgame.io^
@@ -847,6 +861,7 @@
 ||banhidiboti.github.io^
 ||bansnetsajak007.github.io^
 ||bapenguin.github.io^
+||barbie.online^
 ||bare.freetls.fastly.net^
 ||bare.global.ssl.fastly.net^
 ||barfbagx2.github.io^
@@ -952,16 +967,19 @@
 ||basketballstarsonline.io^
 ||basketballstarsonline.org^
 ||basketballstarsonline.pages.dev^
+||basketballstarsonline1.github.io^
 ||basketballstarss.github.io^
 ||basketballstarsubg.pages.dev^
 ||basketballstarsunblocked.github.io^
 ||basketballstarsunblocked.netlify.app^
 ||basketballstarsunblocked.online^
 ||basketballstarsunblocked.vercel.app^
+||basketballstarsunblockedplay.github.io^
 ||basketballunblocked.github.io^
 ||basketbros-game.github.io^
 ||basketbros-unblocked.github.io^
 ||basketbros.io^
+||basketlegends.pages.dev^
 ||basketrandom-unblocked.org^
 ||basketrandom-unblocked.pages.dev^
 ||basketrandom.co^
@@ -1016,15 +1034,19 @@
 ||berrys2.github.io^
 ||besidegames.com^
 ||bestallgames.com^
+||bestarcade.fun^
 ||bestcrazygames.com^
 ||bestcrosswords.com^
 ||bestdaily.games^
 ||bestdosgames.com^
 ||bestforpuzzles.com^
 ||bestgames.com^
+||bestiogames.com^
 ||bestminecraftserverlist.net^
 ||bestofgooglesites.com^
 ||bestoldgames.net^
+||bestonlinegames.org^
+||bestonlineplaygames.blogspot.com^
 ||bestunblockedgame.github.io^
 ||bestunblockedgames.com^
 ||betrayal.io^
@@ -1070,6 +1092,7 @@
 ||bintangprasetyo95.github.io^
 ||bist.io^
 ||bit-dave.github.io^
+||bit-life-unblocked.pages.dev^
 ||bite-arcade.com^
 ||bitlife-77.github.io^
 ||bitlife-free-online.github.io^
@@ -1079,6 +1102,7 @@
 ||bitlife-game.org^
 ||bitlife-india.vercel.app^
 ||bitlife-life-simulator.github.io^
+||bitlife-now-dppzc04hpd2k.edgeone.dev^
 ||bitlife-online.pages.dev^
 ||bitlife-pro.github.io^
 ||bitlife-simulator.github.io^
@@ -1108,6 +1132,8 @@
 ||bitlifeunblocked.site^
 ||bitlifeunblockedonline.github.io^
 ||bitrunlog.com^
+||bitspiele.de^
+||bitter-crimson-jnwxtvpw-dpw89vzjtfss.edgeone.dev^
 ||bittuhere.github.io^
 ||bizofgames.com^
 ||bizogames.com^
@@ -1248,6 +1274,7 @@
 ||bn-games.vercel.app^
 ||bnogocarft.games^
 ||bns34.github.io^
+||board4uk.com^
 ||boardgamearena.com^
 ||boardgamecentral.com^
 ||boardgameman.com^
@@ -1440,8 +1467,11 @@
 ||bubbleshooter.pages.dev^
 ||bubbleshooter.surge.sh^
 ||bubbleshootergame.io^
+||bubbleshootergames.co.uk^
 ||bubbleshootergames.com^
 ||bubbleshootergames.net^
+||bubbleshooterspellen.nl^
+||bubbleshooterspiele.com^
 ||bubbletrouble.org^
 ||buckbeak0407.github.io^
 ||buckshotroulette.com^
@@ -1480,6 +1510,7 @@
 ||bunnygames.com^
 ||bunnyhop.lol^
 ||burdlad.github.io^
+||burning-tomato-697ahxlo-dp57vgbi7wwf.edgeone.dev^
 ||burnoutdrift.firebaseapp.com^
 ||burnoutdrift.web.app^
 ||burrito-craft.com^
@@ -1548,6 +1579,7 @@
 ||car-parking-game.netlify.app^
 ||car-simulator.com^
 ||caraccio.itch.io^
+||cardgame.com^
 ||cardgames.io^
 ||cardgamesolitaire.com^
 ||cardgamespidersolitaire.com^
@@ -1643,10 +1675,12 @@
 ||chess-online.games^
 ||chess-online.net^
 ||chess-online.org^
+||chess-unblocked.pages.dev^
 ||chess.game^
 ||chess.org^
 ||chessbin.com^
 ||chessfree.net^
+||chessgames.online^
 ||chesshere.com^
 ||chesshotel.com^
 ||chessmentor.com^
@@ -1699,9 +1733,11 @@
 ||civilitythegame.com^
 ||cjis6.github.io^
 ||ckerschen2.github.io^
+||clackzo.pages.dev^
 ||clash-royale.io^
 ||clash3d.com^
 ||clashofspace.netlify.app^
+||clashroyale-unblocked.pages.dev^
 ||clashroyale.com^
 ||clashroyaleplay.com^
 ||clashroyaleunblocked.com^
@@ -1710,11 +1746,15 @@
 ||classes.freetls.fastly.net^
 ||classes.global.ssl.fastly.net^
 ||classgame77.com^
+||classhubtestingupdate-dp850j3oou5p.edgeone.dev^
+||classhubtestingupdate-dpwvz6mtljhw.edgeone.dev^
 ||classic-retro-games.com^
 ||classic.game^
 ||classicarcade.win^
+||classicchess.github.io^
 ||classicfreearcade.com^
 ||classicgame.com^
+||classicgames.com^
 ||classicgames.me^
 ||classicgamesarcade.com^
 ||classicgamesfree.com^
@@ -1803,8 +1843,11 @@
 ||claudered.dev^
 ||clavejuegos.com^
 ||clearrivergames.com^
+||clever-portal.github.io^
 ||cleverappssg.com^
 ||cleverman606.github.io^
+||click.pl^
+||click.unusida.id^
 ||clickacookie.github.io^
 ||clicker-games.com^
 ||clicker-heroes.io^
@@ -1816,6 +1859,7 @@
 ||clickerheroes.org^
 ||clickerheroes.pages.dev^
 ||clickerheroes.web.app^
+||clickfunax.top^
 ||clicking.toys^
 ||clickjogos.com.br^
 ||clickspeedtester.com^
@@ -1854,6 +1898,7 @@
 ||coconut.freetls.fastly.net^
 ||coconut.global.ssl.fastly.net^
 ||coconutgames.com^
+||codecube-edu-github-io.pages.dev^
 ||coderadii58.github.io^
 ||codergautam.github.io^
 ||codetorch.net^
@@ -2004,6 +2049,7 @@
 ||copy.sh^
 ||copyofmasite.pages.dev^
 ||core-social-games.pages.dev^
+||core.ruiz-tagle.com^
 ||corn-games.vercel.app^
 ||corriscant.github.io^
 ||coscoman262.github.io^
@@ -2127,6 +2173,7 @@
 ||credits.global.ssl.fastly.net^
 ||creepydates.org^
 ||cribbage-online.net^
+||cricketgames.tv^
 ||crico-coder.github.io^
 ||crinklecutgames.com^
 ||cristhiangonzalezpy23-boop.github.io^
@@ -2185,6 +2232,7 @@
 ||curseforge.com^
 ||cursor-cafe-game-portal.vercel.app^
 ||cursorball.onrender.com^
+||curved-amethyst-h5gwicht-dpcvrpwmagjv.edgeone.dev^
 ||curvefever.com^
 ||curvefever.pro^
 ||custom-physics-engine-roblox.pages.dev^
@@ -2208,6 +2256,10 @@
 ||cwarloe.github.io^
 ||cxong.github.io^
 ||cyan-fox-avery.github.io^
+||cyber-strike-arena-21.pages.dev^
+||cyber-strike-force-43.pages.dev^
+||cyber-strike-force-48.pages.dev^
+||cyber-strike-online-49.pages.dev^
 ||cyberakuma13.github.io^
 ||cyberarcade.vercel.app^
 ||cyberpunk-unblockedgames.github.io^
@@ -2225,6 +2277,7 @@
 ||d1wnrmoe2jrw0g.cloudfront.net^
 ||d2gve52fz9syn8.cloudfront.net^
 ||d322cqt584bo4o.cloudfront.net^
+||d3mapax0c3izpi.cloudfront.net^
 ||d3qubjunifc70f.cloudfront.net^
 ||d3vtoo1s.github.io^
 ||d4ni3l-sny.github.io^
@@ -2234,6 +2287,7 @@
 ||dacow-zx.github.io^
 ||daditto2012.github.io^
 ||dafioram.github.io^
+||daga-skyminers-biz.pages.dev^
 ||dagamerb01.github.io^
 ||dagper.github.io^
 ||dahmv.github.io^
@@ -2241,6 +2295,7 @@
 ||dailygameindex.com^
 ||dailygames.com^
 ||dailygames.discover.google.com^
+||dailyplayme.lovable.app^
 ||dailypuzzles.com^
 ||dakotamaccree2.github.io^
 ||daksh23gupta10.github.io^
@@ -2281,6 +2336,7 @@
 ||dashvibes.io^
 ||databallr.com^
 ||dataexplorershelp-glitch.github.io^
+||dataluxttgames.com^
 ||davcode149.github.io^
 ||davefsl.github.io^
 ||davidavidavidavidavidavidavid.github.io^
@@ -2314,6 +2370,7 @@
 ||dcs-210.github.io^
 ||ddfungame.com^
 ||ddlc.moe^
+||dead-maroon-m1psr1ml-dpr1n0m3de55.edgeone.dev^
 ||deadagainunblocked.github.io^
 ||deadastronauts.games^
 ||deadlyghost-arch.github.io^
@@ -2394,6 +2451,7 @@
 ||dice-hopper-16.vercel.app^
 ||dice-play.com^
 ||dicegameeos.com^
+||diceydungeons.com^
 ||diddy62626.github.io^
 ||diddygame.vercel.app^
 ||die-staemme.de^
@@ -2456,10 +2514,12 @@
 ||divertissez-vous.com^
 ||divinity.freetls.fastly.net^
 ||divinity.global.ssl.fastly.net^
+||divokekmeny.cz^
 ||djessemann.github.io^
 ||djmarikyan.github.io^
 ||djwkfneifn.github.io^
 ||dkmgames.com^
+||dl-girls.com^
 ||dlfma1985.github.io^
 ||dlpsgames-click-y68.pages.dev^
 ||dluxz09.github.io^
@@ -2514,6 +2574,7 @@
 ||doodlejump2unblocked.gitlab.io^
 ||doodlejumping.pages.dev^
 ||doodlejumponline.github.io^
+||doodlejumponline.pages.dev^
 ||doodlejumpunblocked.github.io^
 ||doodles.goog^
 ||doodlr.io^
@@ -2944,6 +3005,7 @@
 ||edu-games.vercel.app^
 ||edu.freetls.fastly.net^
 ||edu.global.ssl.fastly.net^
+||eduacademy-en.pages.dev^
 ||eduardo50lucas10-crypto.github.io^
 ||eduardo7881.github.io^
 ||eduardoplayss5.github.io^
@@ -2952,6 +3014,9 @@
 ||educationbluemoon.com^
 ||educationbluesky.com^
 ||edugames-ja.pages.dev^
+||edulab-en.pages.dev^
+||eduplay-es.pages.dev^
+||eduquests.netlify.app^
 ||eduquests.onrender.com^
 ||edward-ong-tiliter.github.io^
 ||edwardmonteiro.github.io^
@@ -2999,9 +3064,12 @@
 ||eliio-alpha.vercel.app^
 ||elite-games.net^
 ||elite4r.github.io^
+||elitehustle.online^
 ||eljaybulawan.github.io^
+||elkspel.nl^
 ||ellaz.fun^
 ||ellieeet123.github.io^
+||ellogames.app^
 ||elmourtajia.github.io^
 ||elng12.github.io^
 ||eloquent-tulumba-7667c4.netlify.app^
@@ -3019,6 +3087,7 @@
 ||emojitest.com^
 ||emolingo.games^
 ||emperorvon.duckdns.org^
+||empire.goodgamestudios.com^
 ||emubrowser.com^
 ||emugames-com.bitbucket.io^
 ||emugames-io.bitbucket.io^
@@ -3053,8 +3122,10 @@
 ||energon-a-secas.github.io^
 ||engineering-roblox.pages.dev^
 ||englishpubpool.co.uk^
+||eniyioyunlar.com^
 ||enjoy4fun.com^
 ||enjoydressup.com^
+||enkicsitanyam.hu^
 ||envisionpc.github.io^
 ||enzodacoder.github.io^
 ||eoboy-g.gitlab.io^
@@ -3112,6 +3183,7 @@
 ||escaperoad2unblocked.com^
 ||escaperoad3.io^
 ||escaperoadcity2.com^
+||escaperoadcity2.github.io^
 ||escaperoadcity2.io^
 ||escaperoadgame.io^
 ||escaperoadgame.net^
@@ -3132,6 +3204,7 @@
 ||especially43.github.io^
 ||espritgames.com^
 ||espritgames.ru^
+||espurnescomplementos.blogspot.com^
 ||essential.gg^
 ||ethandodz.github.io^
 ||ethanrepo.github.io^
@@ -3172,6 +3245,7 @@
 ||exploit.freetls.fastly.net^
 ||exploit.global.ssl.fastly.net^
 ||external-green-9nvl6gws-dpbnotsjlvbq.edgeone.dev^
+||extraordinary-red-tq1zoybi-dpxed1o0jsqi.edgeone.dev^
 ||extreme-games.net^
 ||eyebrow-tetris.sanderdesnaijer.com^
 ||eyezmaze.com^
@@ -3205,7 +3279,11 @@
 ||fancy-pantsadventure.github.io^
 ||fancypantsgame.com^
 ||fandejuegos.com^
+||fandesjeux.com^
 ||fanfreegames.com^
+||fangiochi.com^
+||fanhry.cz^
+||fanigry.com^
 ||far-han-sa-d-ik.github.io^
 ||farmerama.com^
 ||farmerama.de^
@@ -3233,13 +3311,17 @@
 ||fengzhou2520-debug.github.io^
 ||fenomen-games.com^
 ||ferals.io^
+||fermavesela.ro^
 ||ff.garena.com^
 ||fflashgames.com^
 ||fg.notipify.com^
 ||fgames.com^
 ||fgl.com^
+||fgn.me^
 ||fightz.io^
 ||filamentgames.com^
+||financebridg.com^
+||financespher.com^
 ||findeaglerservers.com^
 ||fingameon.com^
 ||finishlinegames.com^
@@ -3368,10 +3450,12 @@
 ||fnaf-2.com^
 ||fnaf-2.io^
 ||fnaf-2.org^
+||fnaf-397.pages.dev^
 ||fnaf-free.com^
 ||fnaf-games.github.io^
 ||fnaf-online.io^
 ||fnaf-unblock.github.io^
+||fnaf-unblocked-2.pages.dev^
 ||fnaf-unblocked.com^
 ||fnaf.co^
 ||fnaf.com.mx^
@@ -3391,12 +3475,15 @@
 ||fnafgames.io^
 ||fnafgames.net^
 ||fnafgames.org^
+||fnafgiochi.club^
+||fnafgry.com^
 ||fnafhub.com^
 ||fnafjuegos.com^
 ||fnafonline.com^
 ||fnafonline.org^
 ||fnafplus.io^
 ||fnafsecuritybreach.com^
+||fnafspiele.de^
 ||fnafunblocked.bio.link^
 ||fnafunblocked.com^
 ||fnafunblocked.fun^
@@ -3481,6 +3568,7 @@
 ||fred7cross-cpu.github.io^
 ||fredblumenthal27-blip.github.io^
 ||freddecgames.com^
+||freddy-fnaf.com^
 ||freddyjogos.com^
 ||free-11plus-math-games.duckdns.org^
 ||free-aigames.com^
@@ -3497,6 +3585,7 @@
 ||free-mario.com^
 ||free-pacman.com^
 ||free-play-mahjong.com^
+||free-proxy-roblox-unblocked.pages.dev^
 ||free-spider-solitaire.com^
 ||free-unblocked-html5-games.github.io^
 ||free.freetls.fastly.net^
@@ -3533,6 +3622,7 @@
 ||freegame.com^
 ||freegameplanet.com^
 ||freegames-online.com^
+||freegames.bz^
 ||freegames.com^
 ||freegames.fm^
 ||freegames.fun^
@@ -3561,6 +3651,7 @@
 ||freemahjong.org^
 ||freemcserver.net^
 ||freememorygame.com^
+||freeonline-solitaire.com^
 ||freeonlinegames.com^
 ||freepacman.org^
 ||freepapasgames.com^
@@ -3615,6 +3706,8 @@
 ||fridaynightfunkingame.com^
 ||fridaynightfunkingame.pages.dev^
 ||friendlyfiregame.com^
+||frin2.com^
+||friu.net^
 ||friv-2017.com^
 ||friv-2023.com^
 ||friv-2026.com^
@@ -3627,6 +3720,7 @@
 ||friv.com.br^
 ||friv.com.tr^
 ||friv.com^
+||friv.ee^
 ||friv.info^
 ||friv.io^
 ||friv.lol^
@@ -3671,6 +3765,7 @@
 ||friv4school.com^
 ||friv4school.io^
 ||friv50000.com^
+||friv50000.net^
 ||friv9.org^
 ||friv90000.org^
 ||friv99.com^
@@ -3685,9 +3780,11 @@
 ||frivextra.com^
 ||frivez.com^
 ||frivgames.fun^
+||frivgames.game.blog^
 ||frivgames.net^
 ||frivgames.netlify.app^
 ||frivgames.top^
+||frivgamesmix.com^
 ||frivio.net^
 ||frivjogosonline.com.br^
 ||frivlegend.com^
@@ -3695,6 +3792,7 @@
 ||frivmax.com^
 ||frivoriginal.com^
 ||frivplus.com^
+||frivtest.com^
 ||frivunblocked.com^
 ||frivusa.com^
 ||frivwtf.com^
@@ -3724,6 +3822,7 @@
 ||frustrated.io^
 ||frvr.com^
 ||fscottodifrega.github.io^
+||fsiv.com^
 ||fsjhs1410906.github.io^
 ||ftgames.xyz^
 ||fuegoyagua.es^
@@ -3751,6 +3850,7 @@
 ||fungamesclub.com^
 ||fungamesfree.io^
 ||fungamesonline.io^
+||fungamesonline.online^
 ||funhtml5games.com^
 ||funkin.me^
 ||funkypool.com^
@@ -3771,10 +3871,12 @@
 ||funnygames.org^
 ||funnyshooter.bitbucket.io^
 ||funnyshooter2.org^
+||funonlinegames.org^
 ||funselektor.com^
 ||funtrivia.com^
 ||funyoursgames.com^
 ||fupa.com^
+||furious-emerald-xgix1jfd-dpfr1dwftli0.edgeone.dev^
 ||furryrefuge.com^
 ||fusion-formula.b-cdn.net^
 ||futbol-11.com^
@@ -3837,6 +3939,7 @@
 ||game.giantshaft.com^
 ||game.ooo^
 ||game.org^
+||game.vot.pl^
 ||game.zerodayclock.com^
 ||game01.ru^
 ||game3dcar.github.io^
@@ -3852,6 +3955,7 @@
 ||gameboss.com^
 ||gameboyonline.com^
 ||gamebrew.org^
+||gamebrunch.com^
 ||gamebuddies.io^
 ||gamebuino.com^
 ||gamebusiness.jp^
@@ -3880,6 +3984,7 @@
 ||gameflare.org^
 ||gameforge.com^
 ||gamefreak.co.jp^
+||gamefree.games^
 ||gamefroot.com^
 ||gamefunbar.com^
 ||gamegab.com^
@@ -3948,6 +4053,7 @@
 ||gameofbombs.com^
 ||gameofheroes.com^
 ||gameonh5.cc^
+||gameonlinemix.com^
 ||gamepakin.com^
 ||gamepark.pk^
 ||gamepeppa.com^
@@ -3993,6 +4099,7 @@
 ||gamershood.com^
 ||games-4-free.com^
 ||games-66-ez.github.io^
+||games-76.bitbucket.io^
 ||games-afterhours.pages.dev^
 ||games-alchemist.com^
 ||games-answers.net^
@@ -4033,11 +4140,13 @@
 ||games.daredevs.com.br^
 ||games.dictionary.com^
 ||games.directory^
+||games.doomsplay.com^
 ||games.fm^
 ||games.gacarbla.es^
 ||games.gg^
 ||games.gr^
 ||games.iamdenny.com^
+||games.info^
 ||games.jjv.sh^
 ||games.klyo.pl^
 ||games.lol^
@@ -4050,6 +4159,7 @@
 ||games.serp.co^
 ||games.tiscali.cz^
 ||games.tribuneindia.com^
+||games.triviatoday.com^
 ||games.xhdndmm.net^
 ||games.yahoo.co.jp^
 ||games144.com^
@@ -4165,6 +4275,7 @@
 ||gamesx.com.br^
 ||gamesxl.com^
 ||gamesy4.com^
+||gamesyet.com^
 ||gameszap.com^
 ||gameszila.com^
 ||gameszur.com^
@@ -4213,9 +4324,11 @@
 ||gaming-style.com^
 ||gaming.freetls.fastly.net^
 ||gaming.global.ssl.fastly.net^
+||gamingcloud.com^
 ||gamingcouch.com^
 ||gamingdragons.com^
 ||gaminglab.dev^
+||gamingretro.online^
 ||gamivox-green.vercel.app^
 ||gamo-games.github.io^
 ||gamopoly.com^
@@ -4443,6 +4556,7 @@
 ||ghostgames.app^
 ||ghosttowngames.com^
 ||giantmushy.github.io^
+||gierkionline.pl^
 ||gigamesh.com^
 ||gigglingbeangames.github.io^
 ||gilbertmg.github.io^
@@ -4454,9 +4568,14 @@
 ||gino12340.github.io^
 ||giochi-gratis.eu^
 ||giochi.it^
+||giochi123.it^
 ||giochi123.net^
+||giochibambini.it^
 ||giochigratisonline.it^
+||giochimahjong.it^
+||giochisolitario.it^
 ||giochixl.it^
+||gioco-mahjong.com^
 ||gioco.it^
 ||giogotaura55-boop.github.io^
 ||giovani985.github.io^
@@ -4464,11 +4583,15 @@
 ||girishlade111.github.io^
 ||girjesh-suryawanshi.github.io^
 ||girlgames.com^
+||girlgames.games^
+||girlgames.space^
 ||girlsgames123.com^
+||girlsgogames.co.id^
 ||girlsgogames.co.uk^
 ||girlsgogames.com^
 ||girlsgogames.de^
 ||girlsgogames.fr^
+||girlsgogames.it^
 ||girlsgogamescdn.com^
 ||git-games.github.io^
 ||git-hub-games.github.io^
@@ -4487,6 +4610,7 @@
 ||giveawayoftheday.com^
 ||givemeapizza.github.io^
 ||givemebobux.github.io^
+||given-lavender-wrbdpf3u-dpcijfpasa2m.edgeone.dev^
 ||gkcooking.github.io^
 ||gladihoppers.io^
 ||glairozz.github.io^
@@ -4509,6 +4633,7 @@
 ||gn-math.dev^
 ||gnhustgames.org^
 ||go-get-games.com^
+||go.warms-jmus-amour.com^
 ||goalergame.com^
 ||goandude.github.io^
 ||gobattle.io^
@@ -4523,6 +4648,7 @@
 ||gogogame.com^
 ||gogogogame.com^
 ||gogy.com^
+||gogygames.com^
 ||gokarts.io^
 ||gokugameh5.com^
 ||goldtoken.com^
@@ -4549,7 +4675,10 @@
 ||goobix.com^
 ||goobusgh.github.io^
 ||goodgamebigfarm.eu^
+||goodgameempire.es^
 ||goodgameempire.fr^
+||goodgameempire.hu^
+||goodgameempire.pl^
 ||goodgameempire.sk^
 ||goodgames4u.github.io^
 ||goodkidsgame.com^
@@ -4560,6 +4689,7 @@
 ||google-pacman.github.io^
 ||google-snake-game.netlify.app^
 ||google-snake-game.pages.dev^
+||google-snake-mods-game.pages.dev^
 ||google-snake-unblocked.pages.dev^
 ||google-snake.gitlab.io^
 ||google-snake.net^
@@ -4604,10 +4734,13 @@
 ||gplusunblockgames.gitlab.io^
 ||gpop.io^
 ||gr4ys0n.github.io^
+||gra-mahjong.pl^
 ||graebor.itch.io^
 ||grahamkayton17-art.github.io^
 ||grajteraz.pl^
+||grajzadarmo.blogspot.com^
 ||grandgames.net^
+||grandgames.ru^
 ||granny-game.com^
 ||granny-game.io^
 ||granny-games.com^
@@ -4634,6 +4767,7 @@
 ||grannyunblocked.org^
 ||grannyunblocked.pages.dev^
 ||gratis-spiele-spielen.com^
+||gratisspiele.at^
 ||gratistodo.com^
 ||gratuitsjeux.fr^
 ||gray0072.github.io^
@@ -4643,6 +4777,7 @@
 ||greenhell-game.com^
 ||greenx-client-beta.vercel.app^
 ||gregs-arcade-app.vercel.app^
+||gremlin-child-studios.my.canva.site^
 ||greyaliengames.com^
 ||greyw0lf1888.github.io^
 ||grid-iron.org^
@@ -4662,6 +4797,9 @@
 ||grteam2.github.io^
 ||grummpy.github.io^
 ||gry.pl^
+||grydladzieci.pl^
+||gryfnaf.com^
+||grymini.pl^
 ||gs.pop-sa-saw1-r.pop.cloud.doodles.goog^
 ||gsmedia.b-cdn.net^
 ||gswitch.org^
@@ -4698,6 +4836,7 @@
 ||gunmayhem.web.app^
 ||gunmayhem2.pages.dev^
 ||gunmayhemunblocked.github.io^
+||gunspin-unblocked.pages.dev^
 ||gunspin.org^
 ||gunspingame.com^
 ||gunspinunblocked.com^
@@ -4794,6 +4933,7 @@
 ||headsoccer.pro^
 ||headupgames.com^
 ||heafzedd.github.io^
+||health.happygames.cc^
 ||heardle-game.pages.dev^
 ||heardle.info^
 ||heardlefree.com^
@@ -4825,6 +4965,7 @@
 ||hermes98761234.github.io^
 ||herozerogame.com^
 ||hesham-alpha.github.io^
+||hetaspel.se^
 ||hex-2048-nu.vercel.app^
 ||hexanaut.io^
 ||hexar.io^
@@ -4842,7 +4983,9 @@
 ||hidden4fun.com^
 ||hidden4fun.org^
 ||hiddengame.id^
+||hiddenobjectgames.co.uk^
 ||hiddenobjectgames.com^
+||hiddenobjectspellen.nl^
 ||hideout54755475.github.io^
 ||hieubqdsm.github.io^
 ||hifungames.com^
@@ -4880,6 +5023,7 @@
 ||hiteshkamila56-eng.github.io^
 ||hitokoto-dev.github.io^
 ||hjholivia.github.io^
+||hjtnvideo.com^
 ||hnyigegame.com^
 ||hockeygames.org^
 ||holajuegos.com^
@@ -4936,12 +5080,14 @@
 ||ht83.com^
 ||htfgames.com^
 ||html-online-game.github.io^
+||html001.valkix.com^
 ||html5-games-deploy.vercel.app^
 ||html5-games-wheat.vercel.app^
 ||html5-games.io^
 ||html5-games.netlify.app^
 ||html5-games.vercel.app^
 ||html5game.shop^
+||html5games-9dd3e.web.app^
 ||html5games.app^
 ||html5games.com^
 ||html5games.io^
@@ -5017,6 +5163,7 @@
 ||idle-breakout.github.io^
 ||idle-breakout.netlify.app^
 ||idle-dice.github.io^
+||idle-games.com^
 ||idlebreakout-game.github.io^
 ||idlebreakout.firebaseapp.com^
 ||idlebreakout.github.io^
@@ -5027,12 +5174,15 @@
 ||idledice.github.io^
 ||idlediggold.web.app^
 ||idlegambling.netlify.app^
+||idlegames.co.uk^
+||idlegames.nl^
 ||idlegames.win^
 ||idlegamesusa.github.io^
 ||idlelumbermill.web.app^
 ||idleminer.firebaseapp.com^
 ||idleminer.web.app^
 ||idleminingempire.github.io^
+||idlespiele.de^
 ||idlestartuptycoonunblocked.github.io^
 ||idols-of-ash.com^
 ||idols-of-ash.org^
@@ -5059,7 +5209,9 @@
 ||igroutka.ru^
 ||igry-online.ru^
 ||igry.io^
+||igry.pl^
 ||igry.ru^
+||igryigry.net^
 ||ihackedgames.com^
 ||ihatecamouflage.github.io^
 ||ihebiset-collab.github.io^
@@ -5097,7 +5249,9 @@
 ||incognito.global.ssl.fastly.net^
 ||incrediboxunblocked.pages.dev^
 ||indcoof.com^
+||india.gg^
 ||indian-games-in-roblox.pages.dev^
+||indieradar.games^
 ||infexity5748.github.io^
 ||infinigongames.com^
 ||infinite-craft.com^
@@ -5131,6 +5285,8 @@
 ||instant-games.github.io^
 ||instantgames.top^
 ||instgame.com^
+||insurance.gamefever.cc^
+||insurance.happygames.cc^
 ||interstellarisbackguys.freetls.fastly.net^
 ||interstellarisbackguys.global.ssl.fastly.net^
 ||interval.statisticscontest.com^
@@ -5243,6 +5399,8 @@
 ||jarvisubg.github.io^
 ||jasesherman12345-coder.github.io^
 ||jatchison67.github.io^
+||jatekok.io^
+||jatekokjatekok.hu^
 ||jatekokxl.hu^
 ||javagames.cc^
 ||javierandpjcreations.github.io^
@@ -5264,6 +5422,7 @@
 ||jeffery1uz2.github.io^
 ||jefisalreadytkn.github.io^
 ||jeje.ge^
+||jelly-truck.pages.dev^
 ||jellytruck.bitbucket.io^
 ||jellytruck.github.io^
 ||jellytruck.gitlab.io^
@@ -5287,6 +5446,7 @@
 ||jetztspielen.ws^
 ||jeu-en-ligne.com^
 ||jeu-gratuit-du-net.com^
+||jeu-mahjong.com^
 ||jeu.fr^
 ||jeu.im^
 ||jeu.org^
@@ -5298,13 +5458,16 @@
 ||jeux-gratuits.com^
 ||jeux-jeu.fr^
 ||jeux-jouer.fr^
+||jeux-sacha-creation.com^
 ||jeux-sport.fr^
 ||jeux.co.ma^
 ||jeux.fr^
+||jeux.io^
 ||jeux.org^
 ||jeux123.fr^
 ||jeux7.fr^
 ||jeuxclic.com^
+||jeuxdefreddy.be^
 ||jeuxdefrin.com^
 ||jeuxdefriv.com^
 ||jeuxdefriv2014.com^
@@ -5326,6 +5489,8 @@
 ||jeuxhub.com^
 ||jeuxjeux.fr^
 ||jeuxjeuxjeuxpoki.com^
+||jeuxmahjong.fr^
+||jeuxsolitaire.fr^
 ||jforster89.github.io^
 ||jgames.com^
 ||jglowsoap.github.io^
@@ -5356,6 +5521,7 @@
 ||jocmania.com^
 ||jocs.io^
 ||jocsgratis.cat^
+||jocurigratuite.ro^
 ||joe-the-chicken.github.io^
 ||joebidendillpiclewillyeicle.github.io^
 ||joeheyming.github.io^
@@ -5367,13 +5533,16 @@
 ||jogofriv.com^
 ||jogojogar.com^
 ||jogos-friv.com^
+||jogos-legais.com^
 ||jogos-online.netlify.app^
 ||jogos.com.br^
 ||jogos.com^
+||jogos.de^
 ||jogos.io^
 ||jogos123.net^
 ||jogos24.org^
 ||jogos360.com.br^
+||jogos360friv.com^
 ||jogosbr.net^
 ||jogosdefriv2015.com^
 ||jogosdorei.com.br^
@@ -5431,6 +5600,7 @@
 ||juanes1020.github.io^
 ||jubal.com^
 ||jubulgames.github.io^
+||juega-juegos.es^
 ||juegaenlineachile.com^
 ||juegaenred.com^
 ||juegamix.com^
@@ -5507,6 +5677,7 @@
 ||juegosmahjong.com^
 ||juegosole.com^
 ||juegosonline.cl^
+||juegosparabeber.online^
 ||juegospoki.co^
 ||juegosrompecabezas.com^
 ||juegossd.com^
@@ -5577,6 +5748,7 @@
 ||karlzer.github.io^
 ||kart-bros.bitbucket.io^
 ||kartbros.io^
+||kartenspielen.de^
 ||kartik4f.github.io^
 ||katakrush.github.io^
 ||katim128.github.io^
@@ -5645,6 +5817,9 @@
 ||kiloo.com^
 ||kinda.fun^
 ||kinda.games^
+||kinderspelletjes.be^
+||kinderspelletjes.nl^
+||kinderspiele.de^
 ||kinetic-csharp.github.io^
 ||king.com^
 ||kingbest0.github.io^
@@ -5670,6 +5845,7 @@
 ||kite-games.com^
 ||kiwiarcade.com^
 ||kiwifungames.com^
+||kiwigames.com^
 ||kiwigames.fun^
 ||kiwigames.io^
 ||kiwijuice56.itch.io^
@@ -5684,6 +5860,7 @@
 ||kizi2.com^
 ||kizi2.org^
 ||kizi2games.net^
+||kizi4school.com^
 ||kizi5.com^
 ||kizi7.org^
 ||kj8-thegame.com^
@@ -5728,6 +5905,7 @@
 ||koushik-kt.github.io^
 ||kpopp.io^
 ||krew.io^
+||krillions.fun^
 ||krpather.github.io^
 ||krunker-game-frontend.vercel.app^
 ||krunker-game.github.io^
@@ -5816,6 +5994,7 @@
 ||level-devil.bitbucket.io^
 ||level-devil.net^
 ||level-devil.pages.dev^
+||level36arcade.lovable.app^
 ||leveldevil-unblocked.github.io^
 ||leveldevil-unblocked.pages.dev^
 ||leveldevil.app^
@@ -5830,6 +6009,7 @@
 ||leveldevil2.com^
 ||leveldevil2.github.io^
 ||leveldevilgames.github.io^
+||leveldeviltopvaz.github.io^
 ||levissio.github.io^
 ||levithomas15.github.io^
 ||lexaloffle.com^
@@ -5879,6 +6059,7 @@
 ||lmogolyan-arcade.vercel.app^
 ||lmyeeuu.github.io^
 ||loadbit6.github.io^
+||localcas.gameaps.net^
 ||localchess.online^
 ||lockloft.org^
 ||lofd.de^
@@ -5929,6 +6110,7 @@
 ||ludoking.org^
 ||ludokinggame.pages.dev^
 ||ludoliminal.com^
+||ludora-8m4.pages.dev^
 ||ludorex.com^
 ||ludoteka.com^
 ||lukeaa09.github.io^
@@ -5974,19 +6156,41 @@
 ||magicaltux.github.io^
 ||magictiles.org^
 ||magoia.com^
+||mahajong.in^
 ||mahee.com^
 ||mahjong-3d.com^
+||mahjong-free.eu^
 ||mahjong-game.bitbucket.io^
 ||mahjong-game.com^
+||mahjong-game.org^
 ||mahjong-gratis.com^
+||mahjong-igre.eu^
+||mahjong-igre.si^
+||mahjong-joc.com^
 ||mahjong-jogo.com^
 ||mahjong-juegos.com^
+||mahjong-online.biz^
+||mahjong-online.cz^
+||mahjong-online.eu^
+||mahjong-online.net^
 ||mahjong-online.pages.dev^
+||mahjong-online.sk^
+||mahjong-online.xyz^
+||mahjong-oyna.com^
+||mahjong-peli.com^
+||mahjong-pro.com^
+||mahjong-shanghai.de^
 ||mahjong-solitario.com^
+||mahjong-spel.com^
+||mahjong-spelen.eu^
+||mahjong-spiel.eu^
+||mahjong-spill.com^
+||mahjong.co.uk^
 ||mahjong.com^
 ||mahjong.gg^
 ||mahjong.net^
 ||mahjong.online^
+||mahjong.ooo^
 ||mahjong.pt^
 ||mahjong.us^
 ||mahjongclubgame.com^
@@ -6007,6 +6211,7 @@
 ||mahjongtime.com^
 ||mahjongunblocked.github.io^
 ||mahmoudali-95.github.io^
+||mahyong.net^
 ||main--geometry-dash-the-website.netlify.app^
 ||main-retro-bowl.vercel.app^
 ||majesticwafer.github.io^
@@ -6035,6 +6240,7 @@
 ||marcedwardlee.github.io^
 ||marcuslaf.github.io^
 ||marcusnghiem-ux.github.io^
+||mari0.com^
 ||marianogappa.github.io^
 ||mario-shiritai.web.app^
 ||mario.game^
@@ -6132,10 +6338,12 @@
 ||media.copero.com.ar^
 ||mediagecko.com^
 ||mediatonicgames.com^
+||medieval-white-8cfmyend-dp8ibdquu1we.edgeone.dev^
 ||meegames.com^
 ||meeland.io^
 ||meelandio.com^
 ||meeplixgames.com^
+||mega-drift-heroes-82.pages.dev^
 ||megaapps.online^
 ||megaclip.games^
 ||megafunz.com^
@@ -6321,6 +6529,7 @@
 ||minigiochi.com^
 ||minigolfclub.io^
 ||minijogos.com.br^
+||minijuegos.cl^
 ||minijuegos.com^
 ||minijuegos.es^
 ||minijuegos.fun^
@@ -6336,6 +6545,7 @@
 ||miniscript.gg^
 ||minisgame-love-money-game.pages.dev^
 ||minisnake.vercel.app^
+||minispelletjes.com^
 ||miniwebgames.com^
 ||minix.games^
 ||minjia-hu.github.io^
@@ -6562,10 +6772,21 @@
 ||mycondosgame.netlify.app^
 ||myemulator.cc^
 ||myemulator.onl^
+||myfreefarm.com.hr^
+||myfreefarm.com^
 ||myfreefarm.de^
+||myfreefarm.dk^
+||myfreefarm.gr^
+||myfreefarm.it^
+||myfreefarm.nl^
+||myfreefarm.se^
 ||myfreegames.net^
+||myfreezoo.com.hr^
 ||myfreezoo.de^
+||myfreezoo.dk^
+||myfreezoo.es^
 ||myfreezoo.fr^
+||myfreezoo.gr^
 ||myfreezoo.pl^
 ||mygamesh5.com^
 ||mygamesim.com^
@@ -6843,6 +7064,7 @@
 ||old-games.su^
 ||olddutchman1337.github.io^
 ||oldgames.app^
+||oldgamesreborn.com^
 ||oldnowgames-web.github.io^
 ||oldschoolgames.eu^
 ||oldvideo.games^
@@ -6851,6 +7073,7 @@
 ||ollgames.net^
 ||olliezwmarshall-create.github.io^
 ||olx188-dstplay.pages.dev^
+||olympicgames.online^
 ||omerfarukoktay112-max.github.io^
 ||omgspider.com^
 ||omigames.com^
@@ -7237,6 +7460,7 @@
 ||pixletters.com^
 ||piyushji040.github.io^
 ||pizza-edition-games.bitbucket.io^
+||pizza-edition-games.pages.dev^
 ||pizza-edition-unblocked.github.io^
 ||pizza.freetls.fastly.net^
 ||pizza.global.ssl.fastly.net^
@@ -7352,6 +7576,7 @@
 ||playable.game^
 ||playables.games^
 ||playabsurdle.com^
+||playagame.biz^
 ||playagame.io^
 ||playagame.ws^
 ||playagames.com^
@@ -7360,6 +7585,7 @@
 ||playalberta.ca^
 ||playandtalk.com^
 ||playapex.com^
+||playarcade.net^
 ||playartifact.com^
 ||playatlunch.com^
 ||playback-contact.pages.dev^
@@ -7378,6 +7604,7 @@
 ||playcapybara.com^
 ||playclassic.games^
 ||playclassicsolitaire.com^
+||playclassroom6x-games.pages.dev^
 ||playclassroom6x.com^
 ||playclickergames.org^
 ||playclub-es.com^
@@ -7454,7 +7681,9 @@
 ||playminesweeper.com^
 ||playminesweeper.org^
 ||playminigames.com^
+||playminigames.in^
 ||playminigames.net^
+||playminigames.nl^
 ||playminigames.ru^
 ||playmoki.com^
 ||playmonkeymart.com^
@@ -7471,6 +7700,7 @@
 ||playold.games^
 ||playonhub.com^
 ||playonlinedicegames.com^
+||playonlinegames.org^
 ||playonlinesattamatka.com^
 ||playorbita.com^
 ||playovounblocked.com^
@@ -7558,6 +7788,7 @@
 ||playzen.io^
 ||playzool.com^
 ||plazasesamo.com^
+||plemena.com^
 ||plemiona.pl^
 ||plicerin.github.io^
 ||plinkod.com^
@@ -7650,6 +7881,7 @@
 ||polar-eta.vercel.app^
 ||polo.freetls.fastly.net^
 ||polo.global.ssl.fastly.net^
+||polshiftcore-center.com^
 ||poly-track-game.com^
 ||poly-track-online.github.io^
 ||poly-track-unblocked.pages.dev^
@@ -7694,6 +7926,7 @@
 ||pomu.pl^
 ||poncle.itch.io^
 ||pong-game-8ad96.web.app^
+||pong.online^
 ||ponggame.io^
 ||ponggame.org^
 ||ponjy.com^
@@ -7717,6 +7950,7 @@
 ||populargames.io^
 ||portalgameh5.com^
 ||portedhub.vercel.app^
+||powerful-violet-yuqisylo-dp3sctuh9hva.edgeone.dev^
 ||powerline.io^
 ||powerpets.com^
 ||powerplaygames.net^
@@ -7734,6 +7968,7 @@
 ||prigames.netlify.app^
 ||primarygames.com^
 ||primarygames.gitlab.io^
+||prime-fuchsia-hddpy9wu-dppud9yoyyyh.edgeone.dev^
 ||prime.mathematicscontest.com^
 ||princeton-tower-defense.vercel.app^
 ||printhelloworldasdas.github.io^
@@ -7801,6 +8036,7 @@
 ||puzzle-games.online^
 ||puzzle-games.pages.dev^
 ||puzzle-index.com^
+||puzzle.modawanaakn.com^
 ||puzzledepot.com^
 ||puzzlegame.com^
 ||puzzlegames-click.pages.dev^
@@ -7814,6 +8050,7 @@
 ||puzzleplayground.com^
 ||puzzles.ca^
 ||puzzlescanada.ca^
+||puzzlespiele.com^
 ||puzzlywords.com^
 ||pvz.ee^
 ||pvzol.com^
@@ -7829,6 +8066,7 @@
 ||qman0817.github.io^
 ||qperkz.github.io^
 ||qq-yt.github.io^
+||qrmfgame.com^
 ||qscasino.github.io^
 ||quack.freetls.fastly.net^
 ||quack.global.ssl.fastly.net^
@@ -7867,6 +8105,7 @@
 ||race-game-2.vercel.app^
 ||racecatgames-com.pages.dev^
 ||raceconflicts.com^
+||racesurvival.pages.dev^
 ||racing-games.org^
 ||racing-limits.io^
 ||racinggamesonly.com^
@@ -7943,6 +8182,7 @@
 ||ragdollhitonline.io^
 ||ragdollhitunblocked.com^
 ||ragdollhitunblocked.org^
+||raghio.netlify.app^
 ||ragnar2801.github.io^
 ||raidengame.com^
 ||raihanrahimzai8008-max.github.io^
@@ -7973,6 +8213,7 @@
 ||rbkgames.com^
 ||rbtechngames.com^
 ||rbunblocked.gitlab.io^
+||rbunblocked.pages.dev^
 ||rbx.cn^
 ||rbx.com^
 ||rbxadder.com^
@@ -7980,6 +8221,7 @@
 ||rbxcdn.net^
 ||rbxinfra.com^
 ||rbxinfra.net^
+||rde.dreamfoodcake.com^
 ||re-pack-delta.vercel.app^
 ||realaqilplayz.github.io^
 ||realdenniswong.github.io^
@@ -8009,12 +8251,14 @@
 ||reetahembram184-cloud.github.io^
 ||reggiegamez.github.io^
 ||regnumonlinegame.com^
+||regulatory-red-bfhkyxm1-dpcqj1ltial6.edgeone.dev^
 ||rehxany.github.io^
 ||reldens.com^
 ||reludi.com^
 ||remarkablegames.itch.io^
 ||remarkablegames.org^
 ||remedygames.com^
+||remote-cyan-qpy21kmu-dpktgg3xj75l.edgeone.dev^
 ||remygame.com^
 ||renjiarabara.github.io^
 ||renyi-lang.github.io^
@@ -8026,6 +8270,7 @@
 ||resent5.github.io^
 ||resent5.pages.dev^
 ||restlessmonkeyking.github.io^
+||restorecheck.familyfungames.fun^
 ||resurviv.biz^
 ||retolam.online^
 ||retos.com^
@@ -8157,6 +8402,7 @@
 ||risingstargames.com^
 ||rivegames.com^
 ||rivercombat.com^
+||rivnya.vermilion.net.ua^
 ||rizz-inspector.github.io^
 ||rizzy-ducks.freetls.fastly.net^
 ||rizzy-ducks.global.ssl.fastly.net^
@@ -8180,6 +8426,7 @@
 ||roblox-mist-sound.pages.dev^
 ||roblox-model-id-list.pages.dev^
 ||roblox-mystery-games-detective.pages.dev^
+||roblox-obby-unblocked-76.pages.dev^
 ||roblox-online.bitbucket.io^
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
@@ -8271,6 +8518,7 @@
 ||rooftopsnipers-game.github.io^
 ||rooftopsnipers-online.pages.dev^
 ||rooftopsnipers-unblocked.com^
+||rooftopsnipers.bitbucket.io^
 ||rooftopsnipers.firebaseapp.com^
 ||rooftopsnipers.pages.dev^
 ||rooftopsnipers.surge.sh^
@@ -8295,6 +8543,7 @@
 ||rssutariya28-star.github.io^
 ||ruansilvamartins26-dot.github.io^
 ||rubenm-unity.github.io^
+||ruby-games.blogspot.com^
 ||ruchaakadam.github.io^
 ||rudil24.github.io^
 ||ruffle-player-extended.pages.dev^
@@ -8313,6 +8562,7 @@
 ||run3-game-unblocked.github.io^
 ||run3-online.io^
 ||run3-online.pages.dev^
+||run3-pro.github.io^
 ||run3-unblocked.com^
 ||run3-unblocked.org^
 ||run3.firebaseapp.com^
@@ -8452,6 +8702,8 @@
 ||searchamateur.com^
 ||searide.io^
 ||sebbii59185.github.io^
+||secret-gold-c7vrhruo-dpsa9evvwdx4.edgeone.dev^
+||secret-relict.de^
 ||secretuser23-games.github.io^
 ||sections.freetls.fastly.net^
 ||sections.global.ssl.fastly.net^
@@ -8469,6 +8721,7 @@
 ||sesamo.com^
 ||seven.freetls.fastly.net^
 ||seven.global.ssl.fastly.net^
+||severe-brown-ea4esedo-dpwqh26ty5h3.edgeone.dev^
 ||sfa21142.github.io^
 ||sfbgames.com^
 ||sfgame.cz^
@@ -8523,6 +8776,7 @@
 ||shellshockersunblocked.com^
 ||shellshockerunblocked.github.io^
 ||shellshockgames.org^
+||shellshokers-unblocked.pages.dev^
 ||shhnowisnottheti.me^
 ||shiftyeyegames.com^
 ||shihli0213.github.io^
@@ -8581,6 +8835,7 @@
 ||simply-biographies-education.netlify.app^
 ||simplyph0.gitlab.io^
 ||simsplay-game.com^
+||simulation-games.com^
 ||simulationgameso.com^
 ||singing-in-public-roblox.pages.dev^
 ||sinistersquidward.com^
@@ -8644,6 +8899,7 @@
 ||slapbattlesgame.com^
 ||sled.freetls.fastly.net^
 ||sled.global.ssl.fastly.net^
+||sleepy-moccasin-isefxvuc-dpvz0o708u61.edgeone.dev^
 ||slice-master.io^
 ||slicemaster.bitbucket.io^
 ||slidedown.io^
@@ -8796,6 +9052,7 @@
 ||smashbros.netlify.app^
 ||smashing.freetls.fastly.net^
 ||smashing.global.ssl.fastly.net^
+||smashkart-unblocked.pages.dev^
 ||smashkarts-game.gitlab.io^
 ||smashkarts-online.github.io^
 ||smashkarts-online.pages.dev^
@@ -8836,9 +9093,11 @@
 ||snake-online.github.io^
 ||snake-online.pages.dev^
 ||snake-shadrouh.netlify.app^
+||snake-unblocked.pages.dev^
 ||snake.es^
 ||snake.game^
 ||snake.io^
+||snake.onl^
 ||snakeappgame.com^
 ||snakeapplega.me^
 ||snakeapplegame.com^
@@ -8996,6 +9255,7 @@
 ||solitaire.io^
 ||solitaire.net^
 ||solitaire.online^
+||solitaire.ooo^
 ||solitaire.org^
 ||solitaire.top^
 ||solitaire2.com^
@@ -9018,6 +9278,7 @@
 ||solitarioonline.com^
 ||solli-games.github.io^
 ||solo-mahjong.ru^
+||sologames.com^
 ||solstice.freetls.fastly.net^
 ||solstice.global.ssl.fastly.net^
 ||solvecalc.github.io^
@@ -9049,6 +9310,7 @@
 ||spacetgl1.github.io^
 ||spacetrace.org^
 ||spacewaves-game.github.io^
+||spacewaves-unblocked.pages.dev^
 ||spacewaves.io^
 ||spacewaves2.io^
 ||spacewaves2.org^
@@ -9067,6 +9329,7 @@
 ||speedstars-unblocked.github.io^
 ||speedstars.im^
 ||speedstars.io^
+||speedstars.pages.dev^
 ||speedstarsgame.io^
 ||speedstarsonline.com^
 ||speedstarsonline.io^
@@ -9076,6 +9339,7 @@
 ||speedysebas.github.io^
 ||speele.nl^
 ||spel.nl^
+||spela.se^
 ||speldome.com^
 ||spele.nl^
 ||spellbee-online.github.io^
@@ -9097,6 +9361,7 @@
 ||spellingbeegame.com^
 ||spellingbeegames.com^
 ||spelo.se^
+||speltuin.nl^
 ||spencer112.github.io^
 ||spendtheirmoney.com^
 ||spetnaz971.github.io^
@@ -9121,6 +9386,7 @@
 ||spidersolitairezone.com^
 ||spiel.de^
 ||spielaffe.de^
+||spiele-actionspiele-kostenlos.de^
 ||spiele-kostenlos-online.de^
 ||spiele-umsonst.de^
 ||spiele-zone.de^
@@ -9139,6 +9405,7 @@
 ||spielspiele.de^
 ||spikything.com^
 ||spillarena.no^
+||spilxl.dk^
 ||spinhook.ir^
 ||splitzery.github.io^
 ||splix.io^
@@ -9155,6 +9422,7 @@
 ||spotlightongames.com^
 ||spotygames.com^
 ||spoutog.github.io^
+||sprinter-unblocked.pages.dev^
 ||spritted.com^
 ||sprunke.io^
 ||sprunke.net^
@@ -9265,6 +9533,7 @@
 ||st3771471-alt.github.io^
 ||st4rf1re.space^
 ||stabfish.io^
+||stackrivals.io^
 ||stadtlandflussonline.net^
 ||stahllll.github.io^
 ||stanasko.github.io^
@@ -9284,6 +9553,7 @@
 ||startgamefree.com^
 ||startgamer.net^
 ||startgamesh5.com^
+||startnewgame.com^
 ||startplaying.games^
 ||starve.io^
 ||stasisgame.com^
@@ -9336,6 +9606,7 @@
 ||stickman-arsenal.vercel.app^
 ||stickman-battle-ten.vercel.app^
 ||stickman-builder.vercel.app^
+||stickman-chaos.stickman-c06.workers.dev^
 ||stickman-dark-rpg.vercel.app^
 ||stickman-dojo.vercel.app^
 ||stickman-exe-three.vercel.app^
@@ -9363,6 +9634,7 @@
 ||stickman.pro^
 ||stickman2d.vercel.app^
 ||stickmanbattle.com^
+||stickmanclassarenav37-dpwtyzdmvjlg.edgeone.dev^
 ||stickmanclimb2.github.io^
 ||stickmanepic.vercel.app^
 ||stickmanepiclegends.vercel.app^
@@ -9381,6 +9653,7 @@
 ||stickmanhook.org^
 ||stickmanhook.pages.dev^
 ||stickmanhook.vercel.app^
+||stickmanhook2-online.github.io^
 ||stickmanhook2.com^
 ||stickmanhook2.io^
 ||stickmanhookgame.com^
@@ -9411,6 +9684,7 @@
 ||stickwarsaga.io^
 ||stickwarunblocked.github.io^
 ||stickypiston.co^
+||stingy-salmon-pvzycqz5-dpw66qhn98a7.edgeone.dev^
 ||stonemaiergames.com^
 ||stormindgames.com^
 ||stormyskitten.github.io^
@@ -9572,6 +9846,7 @@
 ||supermarioonline.com^
 ||supermarioplay.com^
 ||superobamaworld.com^
+||superpigandfriends.org^
 ||supersmashflash.firebaseapp.com^
 ||supersmashflash.org^
 ||supersmashflash.web.app^
@@ -9626,6 +9901,7 @@
 ||tactilegames.com^
 ||tag-unblocked-game.github.io^
 ||tag-unblocked-online.github.io^
+||tagonline.gitlab.io^
 ||tagoria.net^
 ||tagpro.koalabeast.com^
 ||taguchieri.github.io^
@@ -9694,6 +9970,7 @@
 ||templerun2unblocked.github.io^
 ||templerungames.github.io^
 ||templerunonline.com^
+||templeruntopvaz.github.io^
 ||templerununblocked.github.io^
 ||tengolyper.github.io^
 ||tennismasters.firebaseapp.com^
@@ -9714,6 +9991,7 @@
 ||territorialio2.pages.dev^
 ||terrycavanaghgames.com^
 ||tessel.at^
+||test.giftstiktok.xyz^
 ||test12434315.github.io^
 ||testaccount335.github.io^
 ||testersoulja.space^
@@ -9761,7 +10039,9 @@
 ||the-overfitters.github.io^
 ||the-pizza-editiongames.github.io^
 ||the-unblocked-repository.vercel.app^
+||the-west.com.pt^
 ||the-west.net^
+||the-west.ru.com^
 ||theamazingyl.github.io^
 ||thearcadecrew.com^
 ||thebananamanalt.github.io^
@@ -9960,8 +10240,10 @@
 ||totally.freetls.fastly.net^
 ||totally.global.ssl.fastly.net^
 ||totallymath-gamma.vercel.app^
+||totallyscience-unblocked.pages.dev^
 ||totallyscience.co^
 ||totallyscience.gitlab.io^
+||totallysciencegame.github.io^
 ||totalmayhemgames.com^
 ||touhou.vip^
 ||touslesjeuxgratuits.net^
@@ -9976,6 +10258,7 @@
 ||townscaper-game.com^
 ||townscaper.org^
 ||tpsreports2.github.io^
+||tr.myfreezoo.com^
 ||traffic-jam-unblocked.pages.dev^
 ||traffic-rider.bitbucket.io^
 ||traffic-rider.org^
@@ -10001,10 +10284,17 @@
 ||trex-game.skipser.com^
 ||trex-runner.com^
 ||tribals.io^
+||tribalwars.ae^
+||tribalwars.co.uk^
+||tribalwars.com.br^
+||tribalwars.com.pt^
 ||tribalwars.es^
 ||tribalwars.fr^
 ||tribalwars.net^
+||tribalwars.us^
+||tribalwars.works^
 ||tribalwars2.com^
+||triburile.ro^
 ||trickjoker312.github.io^
 ||tricksgame.com^
 ||trickstercards.com^
@@ -10127,10 +10417,12 @@
 ||u-bg.github.io^
 ||ub-g.github.io^
 ||ubg-76.github.io^
+||ubg-gplus.github.io^
 ||ubg002.gitlab.io^
 ||ubg003.gitlab.io^
 ||ubg004.gitlab.io^
 ||ubg005.gitlab.io^
+||ubg006.gitlab.io^
 ||ubg01.gitlab.io^
 ||ubg02.gitlab.io^
 ||ubg03.gitlab.io^
@@ -10241,6 +10533,7 @@
 ||unblocked-burritobison.github.io^
 ||unblocked-classroom-6x.github.io^
 ||unblocked-classroom.github.io^
+||unblocked-clicker-games-school.pages.dev^
 ||unblocked-color-switch.pages.dev^
 ||unblocked-cookie-clicker.github.io^
 ||unblocked-cookie-clicker.pages.dev^
@@ -10281,6 +10574,7 @@
 ||unblocked-games-gplus.gitlab.io^
 ||unblocked-games-institution-of-america.github.io^
 ||unblocked-games-lab.github.io^
+||unblocked-games-on-chromebook.pages.dev^
 ||unblocked-games-platform.github.io^
 ||unblocked-games-premium-77.gitlab.io^
 ||unblocked-games-sepia.vercel.app^
@@ -10327,6 +10621,7 @@
 ||unblocked-retrobowl.github.io^
 ||unblocked-retrobowl.pages.dev^
 ||unblocked-roblox.github.io^
+||unblocked-roblox.pages.dev^
 ||unblocked-rooftopsnipers.github.io^
 ||unblocked-slope.github.io^
 ||unblocked-slope.pages.dev^
@@ -10366,6 +10661,7 @@
 ||unblockedgamegalaxy.github.io^
 ||unblockedgamelist.github.io^
 ||unblockedgameplayer.com^
+||unblockedgames-264.blogspot.com^
 ||unblockedgames-66-ez.gitlab.io^
 ||unblockedgames-66-hudson.blogspot.com^
 ||unblockedgames-6969.github.io^
@@ -10492,6 +10788,7 @@
 ||unblockedgameszone.com^
 ||unblockedgameworld.github.io^
 ||unblockedgamewtf.gitlab.io^
+||unblockedgamez-76.github.io^
 ||unblockedgamez.github.io^
 ||unblockedgamingforschools.weebly.com^
 ||unblockedgithubgames.gitlab.io^
@@ -10507,6 +10804,7 @@
 ||unblockedwtf.gitlab.io^
 ||unblockedytcom.vercel.app^
 ||unblockedzugames.com^
+||unblockgame.cloud^
 ||unblockgame.gitlab.io^
 ||unblockgamegplus.github.io^
 ||unblockgameplus-github-io.vercel.app^
@@ -10606,6 +10904,7 @@
 ||vertex-arcades.vercel.app^
 ||vertextvv.github.io^
 ||vertigo-games.com^
+||veselaferma.com^
 ||vex-game.com^
 ||vex-play.com^
 ||vex.game^
@@ -10683,6 +10982,7 @@
 ||voxel-war.vercel.app^
 ||voxiom.io^
 ||voxiom.xyz^
+||voynaplemyon.com^
 ||vr-games-banner.vercel.app^
 ||vrdevil44.github.io^
 ||vresod.gitlab.io^
@@ -10814,6 +11114,7 @@
 ||whytrygames.github.io^
 ||whywhywhyw.github.io^
 ||willinggames.com^
+||wimmelbildspiele.de^
 ||wimpress.itch.io^
 ||winbolo.com^
 ||windows10fan648.github.io^
@@ -10831,6 +11132,7 @@
 ||wmahmoud2842006-lang.github.io^
 ||wobbly-lifeplay.com^
 ||wobblylifegame.com^
+||wog.ch^
 ||wokgame.ru^
 ||wolfattack1993.github.io^
 ||wolfje216-pixel.github.io^
@@ -11109,6 +11411,7 @@
 ||zone.msn.com^
 ||zone4game.com^
 ||zonedelta.github.io^
+||zooescape.com^
 ||zoom.applesana.es^
 ||zoqgames.com^
 ||zplay.com^
