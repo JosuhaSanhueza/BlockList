@@ -170,6 +170,7 @@
 ||jan.ai^
 ||jenni.ai^
 ||julius.ai^
+||khanmigo.ai^
 ||kilo.ai^
 ||kilocode.ai^
 ||kimi.com^
