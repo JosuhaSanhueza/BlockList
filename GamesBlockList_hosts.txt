@@ -106,6 +106,7 @@
 0.0.0.0 1v1lol-unblocked76.github.io
 0.0.0.0 1v1lol-unblockedgame.github.io
 0.0.0.0 1v1lol-unblockedmaybe.vercel.app
+0.0.0.0 1v1lol.bitbucket.io
 0.0.0.0 1v1lol.gg
 0.0.0.0 1v1lol.github.io
 0.0.0.0 1v1lol.io
@@ -193,6 +194,7 @@
 0.0.0.0 2ach2ach.github.io
 0.0.0.0 2dplay.com
 0.0.0.0 2player-online.github.io
+0.0.0.0 2player.co
 0.0.0.0 2player.online
 0.0.0.0 2playergames.gitlab.io
 0.0.0.0 2playergamesunblocked.pages.dev
@@ -2126,6 +2128,7 @@
 0.0.0.0 cryptonartis.github.io
 0.0.0.0 crystalsquid.com
 0.0.0.0 cryzen.io
+0.0.0.0 cs.nostalgia.ar
 0.0.0.0 csjs.live
 0.0.0.0 ctbridge.org
 0.0.0.0 ctrl29.github.io
@@ -2680,6 +2683,7 @@
 0.0.0.0 duck-math.net
 0.0.0.0 duck-math.netlify.app
 0.0.0.0 duck.alltutors.org
+0.0.0.0 duck.coldcallbot.com
 0.0.0.0 duck.deepresearch2markdown.com
 0.0.0.0 duck.exampredictor.org
 0.0.0.0 duck.quackprep.com
@@ -4423,6 +4427,7 @@
 0.0.0.0 globlegame.org
 0.0.0.0 globlegame.pages.dev
 0.0.0.0 gm.azgame.io
+0.0.0.0 gn-math.dev
 0.0.0.0 gnhustgames.org
 0.0.0.0 go-get-games.com
 0.0.0.0 goalergame.com
@@ -6764,6 +6769,7 @@
 0.0.0.0 oriera26.github.io
 0.0.0.0 orisinal.com
 0.0.0.0 orteil.dashnet.org
+0.0.0.0 os.daylit.net
 0.0.0.0 osgameclones.com
 0.0.0.0 oskc.duckdns.org
 0.0.0.0 oskh2012.github.io
@@ -8800,6 +8806,8 @@
 0.0.0.0 solo-mahjong.ru
 0.0.0.0 solstice.freetls.fastly.net
 0.0.0.0 solstice.global.ssl.fastly.net
+0.0.0.0 solvecalc.github.io
+0.0.0.0 solvecalc.net
 0.0.0.0 solvern0mg.github.io
 0.0.0.0 someschoolgames.com
 0.0.0.0 sonicgames.cc

@@ -105,6 +105,7 @@
 ||1v1lol-unblocked76.github.io^
 ||1v1lol-unblockedgame.github.io^
 ||1v1lol-unblockedmaybe.vercel.app^
+||1v1lol.bitbucket.io^
 ||1v1lol.gg^
 ||1v1lol.github.io^
 ||1v1lol.io^
@@ -192,6 +193,7 @@
 ||2ach2ach.github.io^
 ||2dplay.com^
 ||2player-online.github.io^
+||2player.co^
 ||2player.online^
 ||2playergames.gitlab.io^
 ||2playergamesunblocked.pages.dev^
@@ -2125,6 +2127,7 @@
 ||cryptonartis.github.io^
 ||crystalsquid.com^
 ||cryzen.io^
+||cs.nostalgia.ar^
 ||csjs.live^
 ||ctbridge.org^
 ||ctrl29.github.io^
@@ -2679,6 +2682,7 @@
 ||duck-math.net^
 ||duck-math.netlify.app^
 ||duck.alltutors.org^
+||duck.coldcallbot.com^
 ||duck.deepresearch2markdown.com^
 ||duck.exampredictor.org^
 ||duck.quackprep.com^
@@ -4422,6 +4426,7 @@
 ||globlegame.org^
 ||globlegame.pages.dev^
 ||gm.azgame.io^
+||gn-math.dev^
 ||gnhustgames.org^
 ||go-get-games.com^
 ||goalergame.com^
@@ -6763,6 +6768,7 @@
 ||oriera26.github.io^
 ||orisinal.com^
 ||orteil.dashnet.org^
+||os.daylit.net^
 ||osgameclones.com^
 ||oskc.duckdns.org^
 ||oskh2012.github.io^
@@ -8799,6 +8805,8 @@
 ||solo-mahjong.ru^
 ||solstice.freetls.fastly.net^
 ||solstice.global.ssl.fastly.net^
+||solvecalc.github.io^
+||solvecalc.net^
 ||solvern0mg.github.io^
 ||someschoolgames.com^
 ||sonicgames.cc^
