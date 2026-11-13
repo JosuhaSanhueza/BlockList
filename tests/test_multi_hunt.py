@@ -39,3 +39,21 @@ def test_covered_checks_parent_domains():
     assert m.covered("www.poki.com", known)
     assert m.covered("jogos.com.br", known)
     assert not m.covered("igry.ru", known)
+
+
+def test_classify():
+    assert m.classify("Slope Unblocked - Play Online Free") == "fuerte"
+    assert m.classify("Juegos online gratis") == "fuerte"
+    assert m.classify("Игры онлайн бесплатно") == "fuerte"
+    assert m.classify("Dedra Games") == "debil"
+    assert m.classify("Babylon.js: Web-Based 3D Engine") == "marcado"
+    assert m.classify("Online Photo Editor - Edit your photos") == "marcado"
+    assert m.classify("Word Search Puzzles | Play Online") == "marcado"
+    assert m.classify("IGN España") == "marcado"
+
+
+def test_tool_networks_are_flagged():
+    for title in ("Kostenlose Online, In-Browser (Massen)bildkonvertierung", "Generador y escáner de códigos QR",
+                  "Create mind clouds online", "International Games Magazine"):
+        assert m.classify(title) == "marcado", title
+    assert m.classify("Free Game For Girls") == "fuerte"
