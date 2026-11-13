@@ -123,6 +123,7 @@
 ||aniwatch.cx^
 ||aniwatch.me^
 ||aniwatchtv.to^
+||aniwave.gr^
 ||aniwave.to^
 ||aniwaves.ru^
 ||aniworld.domains^
@@ -139,6 +140,7 @@
 ||bluranime.net^
 ||c1anime.net^
 ||capibaratraductor.com^
+||chia-anime.su^
 ||comic.acgn.cc^
 ||comick.dev^
 ||comick.io^
@@ -164,7 +166,9 @@
 ||franime.fr^
 ||franime.me^
 ||french-anime.com^
+||gogoanimes.cv^
 ||gogoanimes.fi^
+||gogoanimez.to^
 ||gokuhd.com^
 ||grupa-mirai.pl^
 ||heavenmanga.com^
@@ -191,6 +195,7 @@
 ||kiboanime.app^
 ||kickanime.org^
 ||kiss-anime.ws^
+||kissanime.cfd^
 ||kissanimes.tv^
 ||kissmanga.org^
 ||klz9.com^
@@ -233,6 +238,8 @@
 ||mangashelf.co.il^
 ||mangavault.lat^
 ||mangaworld.mx^
+||mangazoneth.com^
+||manhwarez.com^
 ||manhwaweb.com^
 ||manhwaweb.top^
 ||miraianime.net^

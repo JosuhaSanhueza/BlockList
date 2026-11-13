@@ -10,6 +10,7 @@
 ||aibox365.com^
 ||aichatting.net^
 ||aider.chat^
+||aifreetextpro.com^
 ||aihumanizer.com^
 ||aiimagegenerator.org^
 ||aipdf.ai^
@@ -76,6 +77,7 @@
 ||claude.ai^
 ||claude.com^
 ||claudeusercontent.com^
+||cleverhumanizer.ai^
 ||cline.bot^
 ||codeium.com^
 ||consensus.app^
@@ -135,6 +137,7 @@
 ||gpt-chatbot.ru^
 ||gpt4all.io^
 ||gptgo.ai^
+||gpthumanizer.io^
 ||gptlite.vercel.app^
 ||gptonline.ai^
 ||gradgpt.com^
@@ -159,6 +162,7 @@
 ||hotpot.ai^
 ||huggingface.co^
 ||humanizeai.pro^
+||humantone.ai^
 ||humata.ai^
 ||hyperwriteai.com^
 ||iask.ai^
@@ -218,8 +222,8 @@
 ||ninjachat.ai^
 ||notebook.google.com^
 ||notebooklm-pa.googleapis.com^
-||notebooklm.google^
 ||notebooklm.google.com^
+||notebooklm.google^
 ||notegpt.io^
 ||oaistatic.com^
 ||oaistatsig.com^
@@ -263,6 +267,7 @@
 ||rephrase.ai^
 ||runway.com^
 ||runwayml.com^
+||ryne.ai^
 ||scispace.com^
 ||share.wendabao.net^
 ||sider.ai^
@@ -289,6 +294,8 @@
 ||talkai.info^
 ||textero.ai^
 ||textero.io^
+||texttohuman.com^
+||thehumanizeai.pro^
 ||thetawise.ai^
 ||thinkbuddy.ai^
 ||tinywow.com^
@@ -298,6 +305,7 @@
 ||typeset.io^
 ||typingmind.com^
 ||udio.com^
+||unaimytext.com^
 ||undetectable.ai^
 ||useblackbox.io^
 ||v0.app^
@@ -311,6 +319,7 @@
 ||wenxin.baidu.com^
 ||windsurf.com^
 ||wombo.art^
+||word-spinner.com^
 ||wordtune.com^
 ||writewithlaika.com^
 ||x.ai^

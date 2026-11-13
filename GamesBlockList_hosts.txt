@@ -1876,6 +1876,7 @@
 0.0.0.0 cookie-clicker.co.uk
 0.0.0.0 cookie-clicker.freetls.fastly.net
 0.0.0.0 cookie-clicker.global.ssl.fastly.net
+0.0.0.0 cookie-clicker.one
 0.0.0.0 cookie-clicker.org
 0.0.0.0 cookie-clicker2.com
 0.0.0.0 cookie-clicker2.pages.dev
@@ -2900,6 +2901,7 @@
 0.0.0.0 education.minecraft.net
 0.0.0.0 educationbluemoon.com
 0.0.0.0 educationbluesky.com
+0.0.0.0 edugames-ja.pages.dev
 0.0.0.0 edward-ong-tiliter.github.io
 0.0.0.0 edwardmonteiro.github.io
 0.0.0.0 edymath.com
@@ -3142,6 +3144,8 @@
 0.0.0.0 falling-sand-game.vercel.app
 0.0.0.0 fallrace.com
 0.0.0.0 fallzone.io
+0.0.0.0 falorant-5qk.pages.dev
+0.0.0.0 falorant.pro
 0.0.0.0 family-arcade.github.io
 0.0.0.0 famobi.com
 0.0.0.0 fancy-pants.gitlab.io
@@ -4543,6 +4547,7 @@
 0.0.0.0 grannyunblocked.org
 0.0.0.0 grannyunblocked.pages.dev
 0.0.0.0 gratis-spiele-spielen.com
+0.0.0.0 gratistodo.com
 0.0.0.0 gratuitsjeux.fr
 0.0.0.0 gray0072.github.io
 0.0.0.0 greatdaygames.com
@@ -10533,6 +10538,7 @@
 0.0.0.0 weregeek.com
 0.0.0.0 werty.me
 0.0.0.0 wgameax.top
+0.0.0.0 wgplayground.com
 0.0.0.0 wgt.com
 0.0.0.0 whackyourbossgame.github.io
 0.0.0.0 whackyourbossunblocked.github.io

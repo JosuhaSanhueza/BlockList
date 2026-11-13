@@ -444,3 +444,9 @@ x-doc.ai
 xuanshuapi.com
 zenable.io
 zerogpt.com
+# Revisados el 2026-11-12 (búsqueda manual):
+agn.ai
+anima.ai
+grammark.org
+vividengine.com
+yourgpt.ai
