@@ -5985,7 +5985,6 @@
 ||mcraft.global.ssl.fastly.net^
 ||mcsrc.dev^
 ||meaburro.com^
-||mecanografiapro.com^
 ||meccabingo.com^
 ||meccha-chameleon-games.pages.dev^
 ||mecchachameleongame.io^

@@ -20,3 +20,5 @@ blankout.forsythk12.tech
 highland-games-houston.pages.dev
 retrohexchat.app
 wgplayer.com
+# Educativo (mecanografía), desbloqueado a pedido del colegio el 2026-11-12:
+mecanografiapro.com
