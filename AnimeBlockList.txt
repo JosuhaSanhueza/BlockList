@@ -133,7 +133,6 @@
 ||ar.kenmanga.com^
 ||assistiranimesonline.net^
 ||asuracomic.net^
-||asurascans.com^
 ||asyaanimeleri.top^
 ||az-animex.com^
 ||azorafly.com^
@@ -234,19 +233,16 @@
 ||mangahub.ru^
 ||mangajikan.is^
 ||mangakakalot.com^
-||mangakakalot.gg^
 ||mangakoma.net^
 ||mangalib.me^
 ||manganami.com^
 ||manganato.com^
 ||mangaoni.com^
 ||mangapark.net^
-||mangaread.org^
 ||mangareader.to^
 ||mangas-origines.fr^
 ||mangasee123.com^
 ||mangashelf.co.il^
-||mangatown.com^
 ||mangavault.lat^
 ||mangaworld.mx^
 ||mangazoneth.com^
