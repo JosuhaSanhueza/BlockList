@@ -452,3 +452,6 @@ vividengine.com
 yourgpt.ai
 # Revisados el 2026-11-13 (búsqueda manual):
 isthisaiwritten.com
+# Revisados el 2026-11-14:
+copysmith.ai
+smalk.ai

@@ -45,6 +45,7 @@
 ||chat.baimoqilin.top^
 ||chat.bumo.ai^
 ||chat.bumo.tech^
+||chat.freeuse.top^
 ||chat.iwoso.co^
 ||chat.together.ai^
 ||chat.webllm.ai^
@@ -196,6 +197,8 @@
 ||mammouth.ai^
 ||manus.im^
 ||manuscdn.com^
+||math-gpt.org^
+||mathful.com^
 ||mathgptpro.com^
 ||mathosai.com^
 ||maxai.co^
@@ -225,8 +228,8 @@
 ||nokeep.ai^
 ||notebook.google.com^
 ||notebooklm-pa.googleapis.com^
-||notebooklm.google^
 ||notebooklm.google.com^
+||notebooklm.google^
 ||notegpt.io^
 ||notrack.ai^
 ||oaistatic.com^
@@ -239,6 +242,7 @@
 ||openart.ai^
 ||opencode.ai^
 ||openrouter.ai^
+||oreateai.com^
 ||overchat.ai^
 ||paperpal.com^
 ||paraphraser.io^
@@ -280,6 +284,7 @@
 ||slidesai.io^
 ||slideswizard.io^
 ||smodin.io^
+||snapxam.com^
 ||solvely.ai^
 ||sora.com^
 ||soundraw.io^
