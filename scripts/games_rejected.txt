@@ -57,3 +57,27 @@ stereostickman.com
 stickmanbuilding.com.au
 sticktale.com
 travle.earth
+# Revisados el 2026-11-14 (multi_hunt.py): apuestas, tiendas, podcasts, juegos de palabras, no juegos:
+2img.es
+8games.org
+8games.vip
+9x999login.org
+abcjuegos.com.ar
+austriavpn.net
+browsergames.at
+browsergames.biz
+cardgamerules.org
+contexto.lol
+dlearena.com
+fragen.cc
+games-fun.fr
+hivemind.news
+partners.playstation.net
+playersalliancehq.org
+playersdepot.com
+sedecordle.pages.dev
+thegamingplaybook.com
+touch-play.com
+tripleogames.com
+wbe002.mibbit.com
+zgames.bh
