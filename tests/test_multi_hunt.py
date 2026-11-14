@@ -57,3 +57,15 @@ def test_tool_networks_are_flagged():
                   "Create mind clouds online", "International Games Magazine"):
         assert m.classify(title) == "marcado", title
     assert m.classify("Free Game For Girls") == "fuerte"
+
+
+def test_brand_of():
+    assert m.brand_of("play123.cz") == "play123"
+    assert m.brand_of("jogos.com.br") == "jogos"
+    assert m.brand_of("the-west.co.uk") == "the-west"
+    assert m.brand_of("games.disney.com") is None
+
+
+def test_language_seeds_match_their_tld():
+    assert m.PROFILES["ja"]["seed"].search("game.jp")
+    assert m.PROFILES["cs"]["seed"].search("hry.cz")

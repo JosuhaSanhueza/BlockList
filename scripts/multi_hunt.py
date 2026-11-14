@@ -107,13 +107,99 @@ PROFILES = {
         "prefix": ["oyun", "oyunlar", "oyna"], "middle": ["", "oyna", "online", "-oyna", "ucretsiz"],
         "tld": ["com", "net", "org", "com.tr"],
     },
+    "ja": {
+        "urlscan": ["無料ゲーム", "ブラウザゲーム", "オンラインゲーム 無料", "ミニゲーム"],
+        "seed": re.compile(r"\.jp$"), "prefix": ["game", "games", "geemu"], "middle": ["", "-free", "free", "online"],
+        "tld": ["jp", "co.jp", "com", "net"],
+    },
+    "ko": {
+        "urlscan": ["무료 게임", "온라인 게임", "웹게임", "미니게임"],
+        "seed": re.compile(r"\.kr$"), "prefix": ["game", "games"], "middle": ["", "online", "free"],
+        "tld": ["kr", "co.kr", "com", "net"],
+    },
+    "zh": {
+        "urlscan": ["小游戏", "在线游戏", "免费游戏", "网页游戏", "h5游戏"],
+        "seed": re.compile(r"\.(cn|tw|hk)$|youxi|xiaoyouxi"),
+        "prefix": ["youxi", "xiaoyouxi", "h5game", "4399", "7k7k"], "middle": ["", "online", "zaixian"],
+        "tld": ["com", "cn", "com.cn", "net", "tw", "com.tw"],
+    },
+    "vi": {
+        "urlscan": ["trò chơi", "game online", "chơi game miễn phí", "game hay"],
+        "seed": re.compile(r"\.vn$|trochoi|choigame"),
+        "prefix": ["trochoi", "choigame", "gamevui", "game"], "middle": ["", "online", "vui", "hay"],
+        "tld": ["vn", "com.vn", "com", "net"],
+    },
+    "th": {
+        "urlscan": ["เกมออนไลน์", "เกมฟรี", "เล่นเกม"],
+        "seed": re.compile(r"\.th$"), "prefix": ["game", "games", "kem"], "middle": ["", "online", "free"],
+        "tld": ["co.th", "in.th", "com", "net"],
+    },
+    "ar": {
+        "urlscan": ["العاب", "ألعاب مجانية", "العاب اون لاين", "العاب بنات"],
+        "seed": re.compile(r"\.(sa|ae|eg|ma|dz)$|alaab|al3ab|3ab"),
+        "prefix": ["alaab", "al3ab", "lo3ba", "games"], "middle": ["", "online", "banat", "-online"],
+        "tld": ["com", "net", "org", "sa", "ae", "eg"],
+    },
+    "hi": {
+        "urlscan": ["ऑनलाइन गेम", "मुफ्त गेम", "गेम खेलें"],
+        "seed": re.compile(r"\.in$"), "prefix": ["games", "khel", "game"], "middle": ["", "online", "free"],
+        "tld": ["in", "co.in", "com", "net"],
+    },
+    "id": {
+        "urlscan": ["permainan online", "game online gratis", "main game gratis", "permainan gratis"],
+        "seed": re.compile(r"\.id$|permainan|mainan"),
+        "prefix": ["permainan", "maingame", "gameonline", "game"], "middle": ["", "gratis", "online", "anak"],
+        "tld": ["id", "co.id", "web.id", "com", "net"],
+    },
+    "nl": {
+        "urlscan": ["spelletjes", "gratis spelletjes", "online spellen", "spellen gratis"],
+        "seed": re.compile(r"\.(nl|be)$|spel"),
+        "prefix": ["spelletjes", "spellen", "spel"], "middle": ["", "online", "gratis", "-online"],
+        "tld": ["nl", "be", "com", "net", "org"],
+    },
+    "sv": {
+        "urlscan": ["gratis spel", "spela gratis", "onlinespel"],
+        "seed": re.compile(r"\.(se|no|dk|fi)$|spel|spil|peli"),
+        "prefix": ["spel", "spela", "spil", "pelit", "spill"], "middle": ["", "online", "gratis", "-online"],
+        "tld": ["se", "no", "dk", "fi", "com", "net"],
+    },
+    "cs": {
+        "urlscan": ["hry online", "hry zdarma", "hrát zdarma", "online hry"],
+        "seed": re.compile(r"\.(cz|sk)$|hry"),
+        "prefix": ["hry", "hra", "onlinehry"], "middle": ["", "online", "zdarma", "-zdarma", "zadarmo"],
+        "tld": ["cz", "sk", "com", "net"],
+    },
+    "ro": {
+        "urlscan": ["jocuri online", "jocuri gratis", "joaca gratis"],
+        "seed": re.compile(r"\.ro$|jocuri"),
+        "prefix": ["jocuri", "joc", "joaca"], "middle": ["", "online", "gratis", "-online", "noi"],
+        "tld": ["ro", "com", "net"],
+    },
+    "hu": {
+        "urlscan": ["ingyenes játékok", "online játékok", "játék online"],
+        "seed": re.compile(r"\.hu$|jatek"),
+        "prefix": ["jatekok", "jatek", "jatekos"], "middle": ["", "online", "ingyen", "-online"],
+        "tld": ["hu", "com", "net"],
+    },
+    "el": {
+        "urlscan": ["παιχνίδια", "δωρεάν παιχνίδια", "παιχνίδια online"],
+        "seed": re.compile(r"\.(gr|cy)$|paixnidia|paixnidi"),
+        "prefix": ["paixnidia", "paixnidi"], "middle": ["", "online", "dorean", "-online"],
+        "tld": ["gr", "com", "net", "eu"],
+    },
+    "uk": {
+        "urlscan": ["ігри онлайн", "безкоштовні ігри", "грати онлайн"],
+        "seed": re.compile(r"\.(ua|kz|by)$|igry|ihry"),
+        "prefix": ["ihry", "igry", "igri"], "middle": ["", "online", "-online", "bezkoshtovno"],
+        "tld": ["ua", "com.ua", "in.ua", "kz", "by", "com", "net"],
+    },
 }
 
 # Títulos que no son sitios de juegos jugables aunque pasen is_game_website().
 NOT_A_GAME_SITE = re.compile(
-    r"casino|казино|ставк|слот|букмекер|aposta|cassino|\bbet\b|bingo|poker|loter|lottery|slots?\b|b[oô]nus|saque|"
+    r"casino|kasino|bandar|\b4d\b|bakara|baccarat|คาสิโน|สล็อต|บาคาร่า|ক্যাসিনো|erotic|erotick|\bsex|casino|казино|ставк|слот|букмекер|aposta|cassino|\bbet\b|bingo|poker|loter|lottery|slots?\b|b[oô]nus|saque|"
     r"plataforma de jogos|r\$\s?\d|\b\d*777|guide|guia\b|^loading|"
-    r"for sale|domain|parked|продается|news|noticias|notícias|новости|wiki|"
+    r"for sale|domain|parked|продается|zum verkauf|à vendre|en venta|te koop|na prodej|mc games brazil|webchat|news|noticias|notícias|новости|wiki|"
     r"download|скачать|baixar|descargar|torrent|apk|cheat|чит|steam key|"
     r"matemátic|математик|typing|mecanograf|digitação|"
     r"porn|порно|xxx|hentai", re.I)
@@ -207,6 +293,55 @@ def generated_names(profile):
             yield f"{name}.{t}"
 
 
+# Terminaciones donde las redes de juegos repiten su marca (play123.cz, the-west.fr...).
+BRAND_TLDS = [
+    "com", "net", "org", "io", "co", "me", "gg", "app", "online", "site", "fun", "games", "game", "top",
+    "xyz", "pro", "vip", "lol", "uno", "club", "live", "world", "school", "cc", "to", "us", "info", "biz",
+    "co.uk", "de", "fr", "es", "it", "nl", "be", "pl", "pt", "com.br", "com.mx", "com.ar", "cl", "com.co",
+    "pe", "co.id", "id", "ru", "ua", "kz", "cz", "sk", "hu", "ro", "gr", "se", "no", "dk", "fi", "ee", "lt",
+    "lv", "si", "hr", "rs", "bg", "tr", "com.tr", "in", "jp", "kr", "vn", "th", "ph", "my", "sg", "ae",
+    "com.au", "ca", "ch", "at", "ie", "eu", "asia", "mx", "ar",
+]
+# Sufijos de dos niveles, para sacar la marca de un dominio (jogos.com.br -> jogos).
+TWO_LEVEL = {"com.br", "co.uk", "com.mx", "com.ar", "com.tr", "co.id", "com.co", "com.ve", "com.pe",
+             "co.za", "com.au", "net.br", "org.uk", "co.kr", "co.jp", "com.cn", "com.pl", "com.ua",
+             "com.hr", "com.es", "in.ua", "com.tw", "com.vn", "co.th", "in.th", "co.in", "web.id"}
+
+
+def brand_of(domain):
+    """La marca de un dominio raíz (play123.cz -> play123), o None si es un subdominio."""
+    parts = domain.split(".")
+    suffix = ".".join(parts[-2:]) if ".".join(parts[-2:]) in TWO_LEVEL else parts[-1]
+    rest = domain[: -len(suffix) - 1]
+    return rest if rest and "." not in rest else None
+
+
+def from_brands(known, min_tlds=2):
+    """Las marcas que ya bloqueamos en min_tlds terminaciones o más, con las demás terminaciones
+    que resuelven en DNS: las redes de juegos repiten su nombre país por país."""
+    seen = {}
+    for d in known:
+        b = brand_of(d)
+        if b:
+            seen.setdefault(b, set()).add(d)
+    names = [f"{b}.{t}" for b, ds in seen.items() if len(ds) >= min_tlds for t in BRAND_TLDS
+             if f"{b}.{t}" not in ds]
+    return resolving(names)
+
+
+def resolving(names):
+    def resolves(d):
+        try:
+            socket.gethostbyname(d)
+            return d
+        except OSError:
+            return None
+
+    socket.setdefaulttimeout(4)
+    with ThreadPoolExecutor(64) as ex:
+        return {d for d in ex.map(resolves, names) if d}
+
+
 def from_names(profile):
     def resolves(d):
         try:
@@ -282,6 +417,8 @@ def main():
     ap.add_argument("--max-verify", type=int, default=600, help="candidatos a verificar por idioma")
     ap.add_argument("--workers", type=int, default=16)
     ap.add_argument("--hops", type=int, default=1, help="rondas extra siguiendo enlaces de los sitios confirmados")
+    ap.add_argument("--brands", action="store_true",
+                    help="probar las marcas que ya bloqueamos en 2+ terminaciones con otras de país")
     ap.add_argument("--extra", nargs="*", default=[],
                     help="archivos con más candidatos (el primer campo de cada línea es el dominio)")
     args = ap.parse_args()
@@ -291,6 +428,8 @@ def main():
     sources = set(args.sources.split(","))
     start = time.time()
     jobs = {lang: (lambda l=lang: hunt(l, sources, known, args)) for lang in args.lang}
+    if args.brands:
+        jobs["marcas"] = lambda: verify_rounds(from_brands(known), known, args)
     if args.extra:
         extra = set()
         for path in args.extra:
@@ -314,7 +453,7 @@ def main():
         path = os.path.join(args.out, f"{name}s.txt" if name != "debil" else "debiles.txt")
         with open(path, "w", encoding="utf-8") as f:
             f.writelines(sorted(lines))
-        print(f"[*] {len(lines):5d} {name}s -> {path}")
+        print(f"[*] {len(lines):5d} {name} -> {path}")
     print(f"[*] {time.time() - start:.0f} s")
 
 
