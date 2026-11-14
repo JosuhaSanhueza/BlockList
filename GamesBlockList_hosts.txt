@@ -303,6 +303,7 @@
 0.0.0.0 8ballpoolonline.gitlab.io
 0.0.0.0 8ballpoolunblocked.github.io
 0.0.0.0 8ballpoolunblocked.gitlab.io
+0.0.0.0 8bitsgamessupport.pages.dev
 0.0.0.0 8f5f24010d137e4e.wccheck-f98929d1-ext.www.fordhouseswolverhampton.duckdns.org.duckdns.org
 0.0.0.0 8fat.com
 0.0.0.0 8games.com
@@ -2065,6 +2066,7 @@
 0.0.0.0 contexto.games
 0.0.0.0 contexto.pages.dev
 0.0.0.0 contimacfull.github.io
+0.0.0.0 controltheorygames.pages.dev
 0.0.0.0 cookey-dev.gitlab.io
 0.0.0.0 cookie-clicker-game.gitlab.io
 0.0.0.0 cookie-clicker-game.pages.dev
@@ -2837,6 +2839,7 @@
 0.0.0.0 driftboss.me
 0.0.0.0 driftboss.net
 0.0.0.0 driftboss.org
+0.0.0.0 driftboss3.com
 0.0.0.0 driftboss3.io
 0.0.0.0 driftbossfree.io
 0.0.0.0 driftbossgame.io
@@ -6070,6 +6073,7 @@
 0.0.0.0 kartchaos.com
 0.0.0.0 kartenspielen.de
 0.0.0.0 kartik4f.github.io
+0.0.0.0 kaspagames-home-client.pages.dev
 0.0.0.0 katakrush.github.io
 0.0.0.0 katim128.github.io
 0.0.0.0 katislunatic.github.io
@@ -6124,6 +6128,7 @@
 0.0.0.0 kickups.net
 0.0.0.0 kidgameshub.com
 0.0.0.0 kids-arcade-five.vercel.app
+0.0.0.0 kidsafe-games.pages.dev
 0.0.0.0 kidsandonlinegames.com
 0.0.0.0 kidscade-psi.vercel.app
 0.0.0.0 kidsgame.com
@@ -6972,6 +6977,7 @@
 0.0.0.0 momachine3-9.github.io
 0.0.0.0 moneyenr123.github.io
 0.0.0.0 moneygman72.github.io
+0.0.0.0 moneyhangame.pages.dev
 0.0.0.0 mongameh5.com
 0.0.0.0 monkey-mart-games.github.io
 0.0.0.0 monkey-mart-unblocked.pages.dev
@@ -7566,6 +7572,7 @@
 0.0.0.0 opal1056.github.io
 0.0.0.0 opboi1234.github.io
 0.0.0.0 open-education.dns.navy
+0.0.0.0 open-games-hub.vercel.app
 0.0.0.0 opendominion.net
 0.0.0.0 opengames-dev.github.io
 0.0.0.0 openhtml5games.com
@@ -7849,6 +7856,7 @@
 0.0.0.0 permainan.io
 0.0.0.0 permainanonline.com
 0.0.0.0 persongaming1234.github.io
+0.0.0.0 pet-care-games-roblox.pages.dev
 0.0.0.0 peterdsouza247.github.io
 0.0.0.0 petezahgame29.freetls.fastly.net
 0.0.0.0 petezahgame29.global.ssl.fastly.net
@@ -8564,6 +8572,7 @@
 0.0.0.0 purityyy1.github.io
 0.0.0.0 purogamer.com
 0.0.0.0 purogames.com.br
+0.0.0.0 purogames.com
 0.0.0.0 purplemoongames.xyz
 0.0.0.0 purpleremains.github.io
 0.0.0.0 purplesstrat.github.io
@@ -9001,6 +9010,7 @@
 0.0.0.0 roblox-horror-games-asmr.pages.dev
 0.0.0.0 roblox-horror-games-easy.pages.dev
 0.0.0.0 roblox-horror-games-horangi99.pages.dev
+0.0.0.0 roblox-horror-games-review.pages.dev
 0.0.0.0 roblox-jailbreak-like-games.pages.dev
 0.0.0.0 roblox-memory-optimizer-plugin.pages.dev
 0.0.0.0 roblox-microprofiler-guide-optimization.pages.dev
@@ -9012,6 +9022,7 @@
 0.0.0.0 roblox-rats.pages.dev
 0.0.0.0 roblox-robot-sound.pages.dev
 0.0.0.0 roblox-sorcerer-temp.pages.dev
+0.0.0.0 roblox-spatial-audio-script.pages.dev
 0.0.0.0 roblox-superman-script-fly.pages.dev
 0.0.0.0 roblox-tiny-script.pages.dev
 0.0.0.0 roblox-trap-esp.pages.dev
@@ -10422,6 +10433,7 @@
 0.0.0.0 subwaysurfers.pages.dev
 0.0.0.0 subwaysurfers.pro
 0.0.0.0 subwaysurfers76.github.io
+0.0.0.0 subwaysurfersbeijing.netlify.app
 0.0.0.0 subwaysurferscity.io
 0.0.0.0 subwaysurfersgame.online
 0.0.0.0 subwaysurfersgame.org
@@ -10826,6 +10838,7 @@
 0.0.0.0 threejs-games.github.io
 0.0.0.0 threejspunk.com
 0.0.0.0 threejspunkdrive.vercel.app
+0.0.0.0 throneback-games.vercel.app
 0.0.0.0 thstudy.com
 0.0.0.0 thunderfulgames.com
 0.0.0.0 thunderlotusgames.com
@@ -11606,6 +11619,7 @@
 0.0.0.0 untap.in
 0.0.0.0 untitledproxy.pages.dev
 0.0.0.0 updaown-hecker.github.io
+0.0.0.0 upgames.games
 0.0.0.0 upjers.com
 0.0.0.0 uplayonline.com
 0.0.0.0 urban-rush-game.vercel.app
@@ -12159,6 +12173,7 @@
 0.0.0.0 zdino.com
 0.0.0.0 ze-man.github.io
 0.0.0.0 zebombagames.com
+0.0.0.0 zebra-gamer-roblox.pages.dev
 0.0.0.0 zechariah-guo.github.io
 0.0.0.0 zeeeeeee1.github.io
 0.0.0.0 zeldamon.pages.dev

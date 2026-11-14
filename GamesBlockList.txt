@@ -302,6 +302,7 @@
 ||8ballpoolonline.gitlab.io^
 ||8ballpoolunblocked.github.io^
 ||8ballpoolunblocked.gitlab.io^
+||8bitsgamessupport.pages.dev^
 ||8f5f24010d137e4e.wccheck-f98929d1-ext.www.fordhouseswolverhampton.duckdns.org.duckdns.org^
 ||8fat.com^
 ||8games.com^
@@ -2064,6 +2065,7 @@
 ||contexto.games^
 ||contexto.pages.dev^
 ||contimacfull.github.io^
+||controltheorygames.pages.dev^
 ||cookey-dev.gitlab.io^
 ||cookie-clicker-game.gitlab.io^
 ||cookie-clicker-game.pages.dev^
@@ -2836,6 +2838,7 @@
 ||driftboss.me^
 ||driftboss.net^
 ||driftboss.org^
+||driftboss3.com^
 ||driftboss3.io^
 ||driftbossfree.io^
 ||driftbossgame.io^
@@ -6069,6 +6072,7 @@
 ||kartchaos.com^
 ||kartenspielen.de^
 ||kartik4f.github.io^
+||kaspagames-home-client.pages.dev^
 ||katakrush.github.io^
 ||katim128.github.io^
 ||katislunatic.github.io^
@@ -6123,6 +6127,7 @@
 ||kickups.net^
 ||kidgameshub.com^
 ||kids-arcade-five.vercel.app^
+||kidsafe-games.pages.dev^
 ||kidsandonlinegames.com^
 ||kidscade-psi.vercel.app^
 ||kidsgame.com^
@@ -6971,6 +6976,7 @@
 ||momachine3-9.github.io^
 ||moneyenr123.github.io^
 ||moneygman72.github.io^
+||moneyhangame.pages.dev^
 ||mongameh5.com^
 ||monkey-mart-games.github.io^
 ||monkey-mart-unblocked.pages.dev^
@@ -7565,6 +7571,7 @@
 ||opal1056.github.io^
 ||opboi1234.github.io^
 ||open-education.dns.navy^
+||open-games-hub.vercel.app^
 ||opendominion.net^
 ||opengames-dev.github.io^
 ||openhtml5games.com^
@@ -7848,6 +7855,7 @@
 ||permainan.io^
 ||permainanonline.com^
 ||persongaming1234.github.io^
+||pet-care-games-roblox.pages.dev^
 ||peterdsouza247.github.io^
 ||petezahgame29.freetls.fastly.net^
 ||petezahgame29.global.ssl.fastly.net^
@@ -8562,6 +8570,7 @@
 ||purepro4562.github.io^
 ||purityyy1.github.io^
 ||purogamer.com^
+||purogames.com^
 ||purogames.com.br^
 ||purplemoongames.xyz^
 ||purpleremains.github.io^
@@ -9000,6 +9009,7 @@
 ||roblox-horror-games-asmr.pages.dev^
 ||roblox-horror-games-easy.pages.dev^
 ||roblox-horror-games-horangi99.pages.dev^
+||roblox-horror-games-review.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
 ||roblox-memory-optimizer-plugin.pages.dev^
 ||roblox-microprofiler-guide-optimization.pages.dev^
@@ -9011,6 +9021,7 @@
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
 ||roblox-sorcerer-temp.pages.dev^
+||roblox-spatial-audio-script.pages.dev^
 ||roblox-superman-script-fly.pages.dev^
 ||roblox-tiny-script.pages.dev^
 ||roblox-trap-esp.pages.dev^
@@ -10421,6 +10432,7 @@
 ||subwaysurfers.pages.dev^
 ||subwaysurfers.pro^
 ||subwaysurfers76.github.io^
+||subwaysurfersbeijing.netlify.app^
 ||subwaysurferscity.io^
 ||subwaysurfersgame.online^
 ||subwaysurfersgame.org^
@@ -10825,6 +10837,7 @@
 ||threejs-games.github.io^
 ||threejspunk.com^
 ||threejspunkdrive.vercel.app^
+||throneback-games.vercel.app^
 ||thstudy.com^
 ||thunderfulgames.com^
 ||thunderlotusgames.com^
@@ -11605,6 +11618,7 @@
 ||untap.in^
 ||untitledproxy.pages.dev^
 ||updaown-hecker.github.io^
+||upgames.games^
 ||upjers.com^
 ||uplayonline.com^
 ||urban-rush-game.vercel.app^
@@ -12158,6 +12172,7 @@
 ||zdino.com^
 ||ze-man.github.io^
 ||zebombagames.com^
+||zebra-gamer-roblox.pages.dev^
 ||zechariah-guo.github.io^
 ||zeeeeeee1.github.io^
 ||zeldamon.pages.dev^
