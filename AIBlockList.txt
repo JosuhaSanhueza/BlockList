@@ -94,6 +94,7 @@
 ||cursor.com^
 ||cursor.sh^
 ||cursor.so^
+||cymath.com^
 ||deepai.org^
 ||deeparena.ai^
 ||deepdreamgenerator.com^
@@ -201,6 +202,7 @@
 ||mathful.com^
 ||mathgptpro.com^
 ||mathosai.com^
+||mathway.com^
 ||maxai.co^
 ||maxai.me^
 ||merlin.foyer.work^
@@ -268,6 +270,7 @@
 ||prompthero.com^
 ||proofreaderpro.ai^
 ||purewrite.io^
+||qanda.ai^
 ||questionai.ai^
 ||questionai.com^
 ||quillbot.com^
@@ -301,6 +304,7 @@
 ||supermaven.com^
 ||supernovasai.com^
 ||sydney.bing.com^
+||symbolab.com^
 ||t3.chat^
 ||talkai.info^
 ||textero.ai^

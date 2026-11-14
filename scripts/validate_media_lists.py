@@ -13,6 +13,8 @@ MEDIA_POPULAR_APPROVED = {
     "anime-sama.to", "animeheaven.me", "animepahe.pw", "aniwaves.ru", "aniworld.to", "crunchyroll.com",
     "fanfox.net", "hentaivietsub.com", "jkanime.net", "komiku.org", "kumanga.com", "mangadex.org",
     "mangafire.to", "mangago.me", "manhwaweb.com", "olympusxyz.com", "weebcentral.com", "yupmanga.com",
+    # Aprobados por el usuario el 2026-11-14: lectores de manga pirata.
+    "asurascans.com", "mangakakalot.gg", "mangaread.org", "mangatown.com", "mgeko.cc", "natomanga.com",
 }
 
 # Sitios legales o de otro tipo que no van en estas listas aunque hablen de anime o manga.
