@@ -81,3 +81,7 @@ touch-play.com
 tripleogames.com
 wbe002.mibbit.com
 zgames.bh
+# Apuestas: las bloquea HaGeZi Gambling siempre; en esta lista se abrirían con "Permitir juegos" (2026-11-14):
+juegaenlineachile.com
+meccabingo.com
+playalberta.ca

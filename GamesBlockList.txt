@@ -6128,7 +6128,6 @@
 ||jubulgames.github.io^
 ||juega-juegos.es^
 ||juegaclub.com^
-||juegaenlineachile.com^
 ||juegaenred.com^
 ||juegamix.com^
 ||juegator.com^
@@ -6934,7 +6933,6 @@
 ||mcsrc.dev^
 ||meaburro.com^
 ||meaningfulplay.msu.edu^
-||meccabingo.com^
 ||meccha-chameleon-games.pages.dev^
 ||mecchachameleongame.io^
 ||mecharoyale.com^
@@ -8316,7 +8314,6 @@
 ||playagames.com^
 ||playagario.org^
 ||playaholics.com^
-||playalberta.ca^
 ||playandtalk.com^
 ||playandwin.co.uk^
 ||playapex.com^
