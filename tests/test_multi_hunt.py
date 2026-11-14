@@ -69,4 +69,3 @@ def test_brand_of():
 def test_language_seeds_match_their_tld():
     assert m.PROFILES["ja"]["seed"].search("game.jp")
     assert m.PROFILES["cs"]["seed"].search("hry.cz")
-    assert not m.PROFILES["cs"]["seed"].search("hry-cz.com.br") or True
