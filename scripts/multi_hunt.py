@@ -197,9 +197,9 @@ PROFILES = {
 
 # Títulos que no son sitios de juegos jugables aunque pasen is_game_website().
 NOT_A_GAME_SITE = re.compile(
-    r"casino|казино|ставк|слот|букмекер|aposta|cassino|\bbet\b|bingo|poker|loter|lottery|slots?\b|b[oô]nus|saque|"
+    r"casino|kasino|bandar|\b4d\b|bakara|baccarat|คาสิโน|สล็อต|บาคาร่า|ক্যাসিনো|erotic|erotick|\bsex|casino|казино|ставк|слот|букмекер|aposta|cassino|\bbet\b|bingo|poker|loter|lottery|slots?\b|b[oô]nus|saque|"
     r"plataforma de jogos|r\$\s?\d|\b\d*777|guide|guia\b|^loading|"
-    r"for sale|domain|parked|продается|news|noticias|notícias|новости|wiki|"
+    r"for sale|domain|parked|продается|zum verkauf|à vendre|en venta|te koop|na prodej|mc games brazil|webchat|news|noticias|notícias|новости|wiki|"
     r"download|скачать|baixar|descargar|torrent|apk|cheat|чит|steam key|"
     r"matemátic|математик|typing|mecanograf|digitação|"
     r"porn|порно|xxx|hentai", re.I)
@@ -453,7 +453,7 @@ def main():
         path = os.path.join(args.out, f"{name}s.txt" if name != "debil" else "debiles.txt")
         with open(path, "w", encoding="utf-8") as f:
             f.writelines(sorted(lines))
-        print(f"[*] {len(lines):5d} {name}s -> {path}")
+        print(f"[*] {len(lines):5d} {name} -> {path}")
     print(f"[*] {time.time() - start:.0f} s")
 
 
