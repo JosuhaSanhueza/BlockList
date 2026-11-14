@@ -443,6 +443,7 @@
 ||agaronline.io^
 ||agarz.com^
 ||agbero-highway.fun^
+||agma.io^
 ||agokhanakin-blip.github.io^
 ||agooseegg.github.io^
 ||agregadorteste.site^
@@ -3498,6 +3499,7 @@
 ||fgames.com^
 ||fgl.com^
 ||fgn.me^
+||fifa10.website^
 ||fifastreet2.fun^
 ||fightz.io^
 ||filamentgames.com^
@@ -4616,6 +4618,7 @@
 ||gdvs.lucsanders.ca^
 ||gdvsakdcvhoedevircho-hue.github.io^
 ||gdwasm.xcv.cx^
+||geekdo-static.com^
 ||geg-bread.github.io^
 ||gembly.com^
 ||genarcy.github.io^
@@ -7394,6 +7397,7 @@
 ||nopeway.com^
 ||nopixel5minigames.pages.dev^
 ||noshkoto.github.io^
+||nostalgiagames.app^
 ||notbzht.github.io^
 ||notcoingame.com^
 ||nothing12-glitch.github.io^
@@ -7460,6 +7464,7 @@
 ||octordlewordle.pages.dev^
 ||odddevelopment.github.io^
 ||oddgames.uk^
+||odioelchocolate.net^
 ||odioelchocolate.org^
 ||ody-seretis.github.io^
 ||odyssey-freeapplegame-com.pages.dev^

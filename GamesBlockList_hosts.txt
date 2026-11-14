@@ -444,6 +444,7 @@
 0.0.0.0 agaronline.io
 0.0.0.0 agarz.com
 0.0.0.0 agbero-highway.fun
+0.0.0.0 agma.io
 0.0.0.0 agokhanakin-blip.github.io
 0.0.0.0 agooseegg.github.io
 0.0.0.0 agregadorteste.site
@@ -3499,6 +3500,7 @@
 0.0.0.0 fgames.com
 0.0.0.0 fgl.com
 0.0.0.0 fgn.me
+0.0.0.0 fifa10.website
 0.0.0.0 fifastreet2.fun
 0.0.0.0 fightz.io
 0.0.0.0 filamentgames.com
@@ -4617,6 +4619,7 @@
 0.0.0.0 gdvs.lucsanders.ca
 0.0.0.0 gdvsakdcvhoedevircho-hue.github.io
 0.0.0.0 gdwasm.xcv.cx
+0.0.0.0 geekdo-static.com
 0.0.0.0 geg-bread.github.io
 0.0.0.0 gembly.com
 0.0.0.0 genarcy.github.io
@@ -7395,6 +7398,7 @@
 0.0.0.0 nopeway.com
 0.0.0.0 nopixel5minigames.pages.dev
 0.0.0.0 noshkoto.github.io
+0.0.0.0 nostalgiagames.app
 0.0.0.0 notbzht.github.io
 0.0.0.0 notcoingame.com
 0.0.0.0 nothing12-glitch.github.io
@@ -7461,6 +7465,7 @@
 0.0.0.0 octordlewordle.pages.dev
 0.0.0.0 odddevelopment.github.io
 0.0.0.0 oddgames.uk
+0.0.0.0 odioelchocolate.net
 0.0.0.0 odioelchocolate.org
 0.0.0.0 ody-seretis.github.io
 0.0.0.0 odyssey-freeapplegame-com.pages.dev
