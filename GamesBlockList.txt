@@ -129,8 +129,8 @@
 ||1v1lol.me^
 ||1v1lol.net^
 ||1v1lol.org^
-||1v1lol.us.com^
 ||1v1lol.us^
+||1v1lol.us.com^
 ||1v1lol.vercel.app^
 ||1v1lol183.github.io^
 ||1v1lolboberts.github.io^
@@ -475,6 +475,7 @@
 ||agustinquintana401.github.io^
 ||ahmeddikinov.github.io^
 ||ahrdevelopers.github.io^
+||ai-friend-in-roblox.pages.dev^
 ||ai-games-portal.pages.dev^
 ||ai-games.luccabuilds.com^
 ||ai-kids-games-fawn.vercel.app^
@@ -1135,6 +1136,7 @@
 ||berrry.wine^
 ||berrys2.github.io^
 ||besidegames.com^
+||best-couple-roblox-games.pages.dev^
 ||bestallgames.com^
 ||bestarcade.fun^
 ||bestcrazygames.com^
@@ -1306,8 +1308,8 @@
 ||blockblast-unblocked.io^
 ||blockblast-unblocked.pages.dev^
 ||blockblast-unblocked76.github.io^
-||blockblast.co.uk^
 ||blockblast.co^
+||blockblast.co.uk^
 ||blockblast.es^
 ||blockblast.firebaseapp.com^
 ||blockblast.free^
@@ -2237,8 +2239,8 @@
 ||coolmath4kids.com^
 ||coolmathcoolgames.com^
 ||coolmathgames.cc^
-||coolmathgames.com.es^
 ||coolmathgames.com^
+||coolmathgames.com.es^
 ||coolmathgames.freetls.fastly.net^
 ||coolmathgames.games^
 ||coolmathgames.global.ssl.fastly.net^
@@ -2353,9 +2355,9 @@
 ||crazygames.be^
 ||crazygames.cc^
 ||crazygames.co.id^
+||crazygames.com^
 ||crazygames.com.br^
 ||crazygames.com.es^
-||crazygames.com^
 ||crazygames.cz^
 ||crazygames.dk^
 ||crazygames.ee^
@@ -2371,8 +2373,8 @@
 ||crazygames.live^
 ||crazygames.my^
 ||crazygames.nl^
-||crazygames.org.es^
 ||crazygames.org^
+||crazygames.org.es^
 ||crazygames.pl^
 ||crazygames.pt^
 ||crazygames.se^
@@ -2988,8 +2990,8 @@
 ||drifthunters-online.pages.dev^
 ||drifthunters-unblocked.pages.dev^
 ||drifthunters.app^
-||drifthunters.com.br^
 ||drifthunters.com^
+||drifthunters.com.br^
 ||drifthunters.firebaseapp.com^
 ||drifthunters.github.io^
 ||drifthunters.gitlab.io^
@@ -3040,8 +3042,8 @@
 ||drivemad-unblocked.com^
 ||drivemad-unblocked.pages.dev^
 ||drivemad.co^
-||drivemad.com.br^
 ||drivemad.com^
+||drivemad.com.br^
 ||drivemad.es^
 ||drivemad.firebaseapp.com^
 ||drivemad.me^
@@ -3165,8 +3167,8 @@
 ||dzrotgame.com^
 ||e9-kkuat.github.io^
 ||eag.pages.dev^
-||eaglecraft.com.co^
 ||eaglecraft.com^
+||eaglecraft.com.co^
 ||eaglecraft.freetls.fastly.net^
 ||eaglecraft.global.ssl.fastly.net^
 ||eaglecraftgame.io^
@@ -3214,8 +3216,8 @@
 ||eaglercraft.app^
 ||eaglercraft.brunys.org^
 ||eaglercraft.club^
-||eaglercraft.com.co^
 ||eaglercraft.com^
+||eaglercraft.com.co^
 ||eaglercraft.dev^
 ||eaglercraft.freetls.fastly.net^
 ||eaglercraft.github.io^
@@ -4121,9 +4123,9 @@
 ||friv-games.site^
 ||friv.cm^
 ||friv.co^
+||friv.com^
 ||friv.com.br^
 ||friv.com.tr^
-||friv.com^
 ||friv.ee^
 ||friv.info^
 ||friv.io^
@@ -4236,6 +4238,7 @@
 ||fuegoyagua.io^
 ||fukgames.com^
 ||fullclear315.github.io^
+||fun-adult-camping-games.pages.dev^
 ||fun-games.app^
 ||fun-games.co^
 ||fun-games.pages.dev^
@@ -4542,6 +4545,7 @@
 ||games-ovo.github.io^
 ||games-play-on-roblox.pages.dev^
 ||games-portal-delta.vercel.app^
+||games-related-to-weeworld.pages.dev^
 ||games-six-mu-17.vercel.app^
 ||games-unblocked-g.github.io^
 ||games-unblocked.bitbucket.io^
@@ -4772,8 +4776,8 @@
 ||gapslice.github.io^
 ||garathor.com^
 ||garbagegarage.bg^
-||garbagegarage.com.hr^
 ||garbagegarage.com^
+||garbagegarage.com.hr^
 ||garbagegarage.de^
 ||garbagegarage.es^
 ||garbagegarage.gr^
@@ -4781,8 +4785,8 @@
 ||garbagegarage.pl^
 ||garbsoftball.com^
 ||garebear5245-ux.github.io^
-||gartic.com.br^
 ||gartic.com^
+||gartic.com.br^
 ||gartic.io^
 ||gartic.me^
 ||garticphone.com^
@@ -4888,8 +4892,8 @@
 ||geometrydash-unblocked.org^
 ||geometrydash-unblocked.pages.dev^
 ||geometrydash-unblockedx.github.io^
-||geometrydash.com.mx^
 ||geometrydash.com^
+||geometrydash.com.mx^
 ||geometrydash.ee^
 ||geometrydash.es^
 ||geometrydash.freetls.fastly.net^
@@ -4901,8 +4905,8 @@
 ||geometrydash.online^
 ||geometrydash.school^
 ||geometrydash.to^
-||geometrydash.us.com^
 ||geometrydash.us^
+||geometrydash.us.com^
 ||geometrydash22.com^
 ||geometrydash3d.com^
 ||geometrydashaapk.com^
@@ -5194,6 +5198,7 @@
 ||gotoplay.fun^
 ||gozogozo.com^
 ||gplockedin.github.io^
+||gplusgames.com^
 ||gplusgames.gitlab.io^
 ||gplusunblocked.github.io^
 ||gplusunblockgames.gitlab.io^
@@ -5442,6 +5447,7 @@
 ||helloneighbor-games.com^
 ||helloneighborgame.com^
 ||hellopir2.github.io^
+||helmetroyale.com^
 ||helmetroyale.io^
 ||henrystickmin.io^
 ||herbert2809.github.io^
@@ -5545,6 +5551,7 @@
 ||honestwar.com^
 ||hoodamath-games.github.io^
 ||hoodamath.com^
+||hoof-game.a2040404.workers.dev^
 ||hoopgame.net^
 ||hopekuf.github.io^
 ||hopesgames.online^
@@ -5553,6 +5560,7 @@
 ||horallapenjo.github.io^
 ||horizon.pnyk.es^
 ||hornex.pro^
+||horror-games-roblox-foltyn.pages.dev^
 ||horror-games-roblox-good.pages.dev^
 ||horror-games-roblox-itsfunneh.pages.dev^
 ||horrorgames.io^
@@ -6057,8 +6065,8 @@
 ||jogos-friv.com^
 ||jogos-legais.com^
 ||jogos-online.netlify.app^
-||jogos.com.br^
 ||jogos.com^
+||jogos.com.br^
 ||jogos.de^
 ||jogos.io^
 ||jogos.x3mmoto.com^
@@ -6076,8 +6084,8 @@
 ||jogosjogos.com^
 ||jogosmahjonggratis.com^
 ||jogosnainternet.com.br^
-||jogosonline.com.br^
 ||jogosonline.com^
+||jogosonline.com.br^
 ||jogosrush.com^
 ||jogostop.net^
 ||jogosweb.com.br^
@@ -6142,8 +6150,8 @@
 ||juegos-poki.mx^
 ||juegos-vestir.net^
 ||juegos-y8.com^
-||juegos.com.ar^
 ||juegos.com^
+||juegos.com.ar^
 ||juegos.games^
 ||juegos.io^
 ||juegos.net^
@@ -6229,6 +6237,7 @@
 ||jugaronline.org^
 ||jugarsolitario.es^
 ||juicyzhou.github.io^
+||jumo-games-support.pages.dev^
 ||jump-doodle.pages.dev^
 ||jumponly.io^
 ||junyi215.github.io^
@@ -6502,8 +6511,8 @@
 ||laedos.github.io^
 ||lafeagle.github.io^
 ||lagged-io.bitbucket.io^
-||lagged.com.br^
 ||lagged.com^
+||lagged.com.br^
 ||lagged.freetls.fastly.net^
 ||lagged.global.ssl.fastly.net^
 ||lagosfashion.vip^
@@ -6854,6 +6863,7 @@
 ||marley5225.github.io^
 ||marsbattle.com^
 ||marselok-games-preview.pages.dev^
+||marshmello-happier-roblox-id.pages.dev^
 ||martianmashaal.github.io^
 ||martingrahn-cmd.github.io^
 ||maruwa-drive.vercel.app^
@@ -7373,11 +7383,11 @@
 ||mundijeux.fr^
 ||mundijogoscash.com^
 ||mundijuegos.cash^
+||mundijuegos.com^
 ||mundijuegos.com.ar^
 ||mundijuegos.com.co^
 ||mundijuegos.com.mx^
 ||mundijuegos.com.ve^
-||mundijuegos.com^
 ||mundijuegoscash.com^
 ||mundogamers.com^
 ||munetios.github.io^
@@ -7402,8 +7412,8 @@
 ||mycondosgame.netlify.app^
 ||myemulator.cc^
 ||myemulator.onl^
-||myfreefarm.com.hr^
 ||myfreefarm.com^
+||myfreefarm.com.hr^
 ||myfreefarm.cz^
 ||myfreefarm.de^
 ||myfreefarm.dk^
@@ -7607,6 +7617,7 @@
 ||nitzan.games^
 ||nixcapegames.com^
 ||nlaratta.github.io^
+||nn-games-earn-money.pages.dev^
 ||no.tribalwars.com^
 ||noagames.co^
 ||noahespfig.github.io^
@@ -8036,6 +8047,7 @@
 ||paperplanegames.com^
 ||papers.freetls.fastly.net^
 ||papers.global.ssl.fastly.net^
+||papugames.com^
 ||paracrafteros-cell.github.io^
 ||parcoil.com^
 ||pardus.at^
@@ -8642,16 +8654,16 @@
 ||poki-unblocked.gitlab.io^
 ||poki.co.com^
 ||poki.co.in^
-||poki.com.cm^
 ||poki.com^
+||poki.com.cm^
 ||poki.ee^
 ||poki.games^
 ||poki.homes^
 ||poki.hu^
 ||poki.io^
+||poki.org^
 ||poki.org.es^
 ||poki.org.mx^
-||poki.org^
 ||poki.to^
 ||poki.us.com^
 ||poki.us.org^
@@ -8828,8 +8840,8 @@
 ||purepro4562.github.io^
 ||purityyy1.github.io^
 ||purogamer.com^
-||purogames.com.br^
 ||purogames.com^
+||purogames.com.br^
 ||purplemoongames.xyz^
 ||purpleremains.github.io^
 ||purplesstrat.github.io^
@@ -9270,7 +9282,10 @@
 ||roblox-horror-games-easy.pages.dev^
 ||roblox-horror-games-horangi99.pages.dev^
 ||roblox-horror-games-review.pages.dev^
+||roblox-horror-map-template.pages.dev^
+||roblox-icon-pack-ranks.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
+||roblox-marvel-games.pages.dev^
 ||roblox-memory-optimizer-plugin.pages.dev^
 ||roblox-microprofiler-guide-optimization.pages.dev^
 ||roblox-mist-sound.pages.dev^
@@ -9278,6 +9293,7 @@
 ||roblox-mystery-games-detective.pages.dev^
 ||roblox-obby-unblocked-76.pages.dev^
 ||roblox-online.bitbucket.io^
+||roblox-police.pages.dev^
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
 ||roblox-sorcerer-temp.pages.dev^
@@ -9295,6 +9311,7 @@
 ||roblox-unblocked.org^
 ||roblox-unblocked.pages.dev^
 ||roblox-unblocked1.github.io^
+||roblox-uncopylocked-simulator-games.pages.dev^
 ||roblox-unlock-script.pages.dev^
 ||roblox-valorant-clone-script.pages.dev^
 ||roblox-violin-sound.pages.dev^
@@ -9311,8 +9328,11 @@
 ||roblox.org^
 ||roblox.qq.com^
 ||roblox.rw^
+||robloxbasicadminessentialsscript.pages.dev^
 ||robloxcdn.com^
+||robloxchakrasandscript.pages.dev^
 ||robloxdev.cn^
+||robloxgamesnana-hack.pages.dev^
 ||robloxgenjutsuscript.pages.dev^
 ||robloxhandtrackingsupportscript.pages.dev^
 ||robloxhapticfeedbackscript.pages.dev^
@@ -9900,6 +9920,7 @@
 ||slopegamebox.com^
 ||slopegamefree.com^
 ||slopegamefree.github.io^
+||slopegamefree.neocities.org^
 ||slopegameonline.com^
 ||slopegameonline.org^
 ||slopegameunblocked.vercel.app^
@@ -10155,8 +10176,8 @@
 ||solitaire-play.com^
 ||solitaire-spielen.de^
 ||solitaire-web-app.com^
-||solitaire.co.uk^
 ||solitaire.co^
+||solitaire.co.uk^
 ||solitaire.com^
 ||solitaire.fyi^
 ||solitaire.game^
@@ -10469,6 +10490,7 @@
 ||sprunkygame.org^
 ||sprunkygames.io^
 ||spunky.games^
+||squad-like-roblox-games.pages.dev^
 ||squares-game-unlimited.pages.dev^
 ||squaresgame.pages.dev^
 ||squid-game-online.pages.dev^
@@ -11178,8 +11200,8 @@
 ||tinyfishing-unblocked.github.io^
 ||tinyfishing-unblocked.pages.dev^
 ||tinyfishing.app^
-||tinyfishing.co.uk^
 ||tinyfishing.co^
+||tinyfishing.co.uk^
 ||tinyfishing.github.io^
 ||tinyfishing.io^
 ||tinyfishing.pages.dev^
@@ -11229,6 +11251,7 @@
 ||top-games.fr^
 ||top-games.net^
 ||top-mcservers.com^
+||top-roblox-games-earnings.pages.dev^
 ||top20.games^
 ||topeaglerservers.com^
 ||topflashgamesarcade.github.io^
@@ -11656,6 +11679,7 @@
 ||unblocked-games76-x.github.io^
 ||unblocked-games76.com^
 ||unblocked-games76s.github.io^
+||unblocked-games77.com^
 ||unblocked-games999.github.io^
 ||unblocked-gamesforschool.github.io^
 ||unblocked-gamesg-plus.github.io^
@@ -11890,6 +11914,7 @@
 ||undeadcorridor.io^
 ||undercovermoose.github.io^
 ||underloaded11-blip.github.io^
+||underrated-anime-roblox-games.pages.dev^
 ||underratedrobloxgamestwitter.pages.dev^
 ||undertale-game.com^
 ||undertale-spanish.com^
@@ -11981,6 +12006,7 @@
 ||verikoolguy.github.io^
 ||verkerkand-cyber.github.io^
 ||vertex-arcades.vercel.app^
+||vertex-games-bundle-mj.pages.dev^
 ||vertextvv.github.io^
 ||vertigo-games.com^
 ||veselaferma.com^
@@ -12183,6 +12209,7 @@
 ||wegcraft.github.io^
 ||welcometo.gitlab.io^
 ||wellesyarthurclub.duckdns.org^
+||wellgame.pages.dev^
 ||wellgames.com^
 ||weloplay.com^
 ||wemakegames.sk^
@@ -12373,8 +12400,8 @@
 ||y8-games.org^
 ||y8.com^
 ||y8.net^
-||y8.org.es^
 ||y8.org^
+||y8.org.es^
 ||y8.pro^
 ||y8games.games^
 ||y8games.info^
