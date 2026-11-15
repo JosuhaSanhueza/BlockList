@@ -7583,6 +7583,7 @@
 ||nidhogggame.com^
 ||night.fire.games^
 ||nightbuilds-games.github.io^
+||nightgames.site^
 ||nightpoint.freetls.fastly.net^
 ||nightpoint.global.ssl.fastly.net^
 ||nightpoint.io^

@@ -7584,6 +7584,7 @@
 0.0.0.0 nidhogggame.com
 0.0.0.0 night.fire.games
 0.0.0.0 nightbuilds-games.github.io
+0.0.0.0 nightgames.site
 0.0.0.0 nightpoint.freetls.fastly.net
 0.0.0.0 nightpoint.global.ssl.fastly.net
 0.0.0.0 nightpoint.io
