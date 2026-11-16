@@ -24,6 +24,7 @@
 ||anthropic.com^
 ||arena.ai^
 ||askaichat.app^
+||asksia.ai^
 ||askyourpdf.com^
 ||assignmentgpt.io^
 ||atalk-ai.com^
@@ -132,7 +133,9 @@
 ||getimg.ai^
 ||getliner.com^
 ||getmerlin.in^
+||getquizsolve.com^
 ||getrecall.ai^
+||getscansolve.com^
 ||gistai.tech^
 ||githubcopilot.com^
 ||gomoonbeam.com^
@@ -234,6 +237,7 @@
 ||notebooklm.google^
 ||notegpt.io^
 ||notrack.ai^
+||nymbot.ai^
 ||oaistatic.com^
 ||oaistatsig.com^
 ||oaiusercontent.com^
@@ -317,6 +321,7 @@
 ||tongyi.aliyun.com^
 ||tryparrotai.com^
 ||turbolearn.ai^
+||tutorgpt.io^
 ||typeset.io^
 ||typingmind.com^
 ||udio.com^

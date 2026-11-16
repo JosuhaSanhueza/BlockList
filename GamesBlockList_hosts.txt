@@ -1888,6 +1888,7 @@
 0.0.0.0 chocitajuegos.com
 0.0.0.0 chomparcade.games
 0.0.0.0 chompers.io
+0.0.0.0 chopsquads.com
 0.0.0.0 chris-tine-wei.github.io
 0.0.0.0 chrisns.github.io
 0.0.0.0 christiansay-del.github.io
@@ -9971,6 +9972,7 @@
 0.0.0.0 slopeunblocked76.net
 0.0.0.0 sloppy.freetls.fastly.net
 0.0.0.0 sloppy.global.ssl.fastly.net
+0.0.0.0 slowden.com
 0.0.0.0 slugstudios.vr-group.gitlab.io
 0.0.0.0 slycooper1324.github.io
 0.0.0.0 sm64games.com

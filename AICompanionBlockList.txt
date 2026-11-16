@@ -46,6 +46,7 @@
 ||luvr.ai^
 ||moescape.ai^
 ||muah.ai^
+||myairomance.com^
 ||myanima.ai^
 ||nastia.ai^
 ||nomi.ai^
@@ -77,4 +78,5 @@
 ||unstability.ai^
 ||venice.ai^
 ||xoul.ai^
+||xpt.chat^
 ||yodayo.com^

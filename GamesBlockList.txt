@@ -1887,6 +1887,7 @@
 ||chocitajuegos.com^
 ||chomparcade.games^
 ||chompers.io^
+||chopsquads.com^
 ||chris-tine-wei.github.io^
 ||chrisns.github.io^
 ||christiansay-del.github.io^
@@ -9970,6 +9971,7 @@
 ||slopeunblocked76.net^
 ||sloppy.freetls.fastly.net^
 ||sloppy.global.ssl.fastly.net^
+||slowden.com^
 ||slugstudios.vr-group.gitlab.io^
 ||slycooper1324.github.io^
 ||sm64games.com^

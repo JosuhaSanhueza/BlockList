@@ -455,3 +455,5 @@ isthisaiwritten.com
 # Revisados el 2026-11-14:
 copysmith.ai
 smalk.ai
+# Revisados el 2026-11-16:
+anyword.com

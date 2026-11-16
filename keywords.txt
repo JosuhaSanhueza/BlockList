@@ -2320,3 +2320,13 @@ taoyuan
 doodleduel
 letsdraw
 driftunlocked
+
+# --- Artículos dirigidos a juegos de cocina cooperativos y horror unblocked
+# (2 confirmados: chopsquads.com -juego de cocina cooperativo con blog propio-,
+# slowden.com -portal de juegos de terror vía Playgama que se autodescribe como
+# "unblocked" para eludir filtros escolares-); descartados a mano varios dominios
+# de GitHub topics eaglercraft/unblocked-games que no pasaron is_game_website
+# (dhyeybg.github.io, fornightowl.github.io, enchantment-niko.github.io,
+# schplay.github.io, funclassroom.github.io, etc.), 2026-11-16 ---
+chopsquads
+slowden
