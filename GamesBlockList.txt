@@ -394,6 +394,7 @@
 ||actiongames.co.uk^
 ||actiongameshub.com^
 ||actionspiele.de^
+||active-learning-games-famparentlife.pages.dev^
 ||actuallyab.github.io^
 ||adamben8p-cpu.github.io^
 ||adamcolestock.github.io^
@@ -492,6 +493,7 @@
 ||airplanegame.us^
 ||airplanegames.org^
 ||ajedrez-online.eu^
+||ajg-games.pages.dev^
 ||akabenji1.gitlab.io^
 ||akilesh-him.github.io^
 ||akofena.reluspatial.com^
@@ -506,6 +508,7 @@
 ||aleex-penguin.github.io^
 ||alekholt.github.io^
 ||aleksandr-litvinenko.github.io^
+||alex-games-roblox.pages.dev^
 ||alex9532.github.io^
 ||alexanderdavies1st.github.io^
 ||alexarchx.github.io^
@@ -714,6 +717,7 @@
 ||arch.lol^
 ||arch.mc^
 ||archie294.github.io^
+||architecture-games-on-roblox.pages.dev^
 ||archix-ubg.github.io^
 ||archixubg-site.pages.dev^
 ||arclabgamesinteractive.github.io^
@@ -1461,6 +1465,7 @@
 ||boredomgames.com^
 ||boredomgames.pages.dev^
 ||borg.games^
+||boringgames-click.pages.dev^
 ||botowner123.github.io^
 ||bottleflipunblocked.github.io^
 ||bounceball.co^
@@ -1787,6 +1792,7 @@
 ||casvandaele3-stack.github.io^
 ||cat-goes-fishing-free.com^
 ||cata5qq.github.io^
+||catalogo-board-games.pages.dev^
 ||catch-the-goblin.vercel.app^
 ||catchy.games^
 ||catdogg561-creator.github.io^
@@ -4471,6 +4477,7 @@
 ||gameofbombs.com^
 ||gameofheroes.com^
 ||gameonh5.cc^
+||gameonline-vip288.pages.dev^
 ||gameonline.co.id^
 ||gameonlinemix.com^
 ||gamepakin.com^
@@ -4539,6 +4546,7 @@
 ||games-library.ru^
 ||games-like-aut-roblox.pages.dev^
 ||games-like-kitty-roblox.pages.dev^
+||games-like-roblox-vr.pages.dev^
 ||games-msn.com^
 ||games-not-filtered-school.pages.dev^
 ||games-online.io^
@@ -5797,6 +5805,7 @@
 ||instgame.com^
 ||insurance.gamefever.cc^
 ||insurance.happygames.cc^
+||interactive-games-vercel.vercel.app^
 ||internetgames365.com^
 ||interstellarisbackguys.freetls.fastly.net^
 ||interstellarisbackguys.global.ssl.fastly.net^
@@ -6148,6 +6157,7 @@
 ||juegos-infantiles.pages.dev^
 ||juegos-poki.bitbucket.io^
 ||juegos-poki.mx^
+||juegos-reunidos.com^
 ||juegos-vestir.net^
 ||juegos-y8.com^
 ||juegos.com^
@@ -6344,6 +6354,7 @@
 ||keyboard-warrior-stickman.vercel.app^
 ||keygames.com^
 ||keysforgames.de^
+||keystone-middle-school-roblox.pages.dev^
 ||kezgames.com^
 ||khalqqqqqq.github.io^
 ||khamir206.github.io^
@@ -6520,6 +6531,7 @@
 ||lamagameshtml.github.io^
 ||lamarke-pixel.github.io^
 ||lamia-0ps.github.io^
+||landingbeastgames.pages.dev^
 ||landofgames.ru^
 ||landsandlords.de^
 ||langwiligi.site^
@@ -8182,6 +8194,7 @@
 ||pixel-number-diy-coloring.pages.dev^
 ||pixelantgames.com^
 ||pixelarena.netlify.app^
+||pixelartegames.com.ar^
 ||pixelburstgame.com^
 ||pixelcoloring.net^
 ||pixelgame.org^
@@ -8351,6 +8364,7 @@
 ||playbrainrot.org^
 ||playbrainrotgames.com^
 ||playbuddy.com^
+||playbyorigins.github.io^
 ||playcandy.pages.dev^
 ||playcanvas.com^
 ||playcapybara.com^
@@ -8394,6 +8408,7 @@
 ||playfestival.de^
 ||playfg.com^
 ||playfiddlebops.com^
+||playforge-3pb.pages.dev^
 ||playfreegamesonlinewithoutdownloading.github.io^
 ||playfreesolitaire.net^
 ||playfridaynightfunkin.com^
@@ -8818,6 +8833,7 @@
 ||protostargames.com^
 ||prototype.engineeringcontest.com^
 ||prototypegame.com^
+||protypinggames.pages.dev^
 ||proxiious.github.io^
 ||proxsolver.github.io^
 ||proxy67.freetls.fastly.net^
@@ -9269,6 +9285,7 @@
 ||roblox-card-games.pages.dev^
 ||roblox-classic-zombie-games.pages.dev^
 ||roblox-custom-validation-script.pages.dev^
+||roblox-fate-games.pages.dev^
 ||roblox-game-download-link.pages.dev^
 ||roblox-games-api-v2.pages.dev^
 ||roblox-games-half-loading.pages.dev^
@@ -9301,6 +9318,7 @@
 ||roblox-spatial-audio-script.pages.dev^
 ||roblox-superman-script-fly.pages.dev^
 ||roblox-tiny-script.pages.dev^
+||roblox-train-ui-library.pages.dev^
 ||roblox-trap-esp.pages.dev^
 ||roblox-unblock.github.io^
 ||roblox-unblocked-for-school.vercel.app^
@@ -9331,8 +9349,10 @@
 ||roblox.rw^
 ||robloxbasicadminessentialsscript.pages.dev^
 ||robloxcdn.com^
+||robloxchakramarkscript.pages.dev^
 ||robloxchakrasandscript.pages.dev^
 ||robloxdev.cn^
+||robloxdronescript.pages.dev^
 ||robloxgamesnana-hack.pages.dev^
 ||robloxgenjutsuscript.pages.dev^
 ||robloxhandtrackingsupportscript.pages.dev^
@@ -9340,6 +9360,8 @@
 ||robloxpiggy.com^
 ||robloxrainbowscriptparticle.pages.dev^
 ||robloxrule34games.pages.dev^
+||robloxsmokescript.pages.dev^
+||robloxspacemaptemplate.pages.dev^
 ||robloxtycoongames2player.pages.dev^
 ||robloxunblocked.gitlab.io^
 ||robloxunblocked.online^
@@ -9500,6 +9522,7 @@
 ||sakibhtml323-source.github.io^
 ||saksamuel21-blip.github.io^
 ||saladbarcodes.github.io^
+||salak138-player.pages.dev^
 ||salarygames.com^
 ||saltsb40.github.io^
 ||saltyseas.io^
@@ -9610,6 +9633,7 @@
 ||sedecordle.com^
 ||segaarcade.com^
 ||selfstudybrain.com^
+||semi-trucks-roblox-games.pages.dev^
 ||senpailord.github.io^
 ||seo-game-website.vercel.app^
 ||seraph-games.github.io^
@@ -11360,6 +11384,7 @@
 ||tripleogames-web.pages.dev^
 ||tripletsandus.com^
 ||tristan-web.github.io^
+||trivia-roblox.pages.dev^
 ||triviando.com^
 ||trivianerd.com^
 ||triviaroyale.io^
@@ -11742,6 +11767,7 @@
 ||unblockedclassroomgames.gitlab.io^
 ||unblockedclvsite.github.io^
 ||unblockedescaperoads.com^
+||unblockedexcelgames.wordpress.com^
 ||unblockedfreegames.github.io^
 ||unblockedfungames.github.io^
 ||unblockedgaames.com^
@@ -11945,6 +11971,7 @@
 ||unoonlineunblocked.github.io^
 ||untap.in^
 ||untitledproxy.pages.dev^
+||up-and-coming-roblox.pages.dev^
 ||updaown-hecker.github.io^
 ||upgames.games^
 ||upjers.com^
@@ -11987,6 +12014,7 @@
 ||vault.global.ssl.fastly.net^
 ||vaults.freetls.fastly.net^
 ||vaults.global.ssl.fastly.net^
+||vava-games.pages.dev^
 ||vbhl-overlord.github.io^
 ||veck-io.pages.dev^
 ||veck.io^
@@ -12550,6 +12578,7 @@
 ||zlite.zatoga.net^
 ||znkgames.com^
 ||zodiac-games.netlify.app^
+||zodiac-knights-roblox-games.pages.dev^
 ||zohair-racing-portfolio.vercel.app^
 ||zohoho.org^
 ||zoidgames.vercel.app^
