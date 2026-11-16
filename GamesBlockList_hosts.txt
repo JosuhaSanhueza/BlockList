@@ -10247,6 +10247,9 @@
 0.0.0.0 solstice.global.ssl.fastly.net
 0.0.0.0 solvecalc.github.io
 0.0.0.0 solvecalc.net
+0.0.0.0 solvecalc.online
+0.0.0.0 solvecalc.pro
+0.0.0.0 solvecalc.site
 0.0.0.0 solvern0mg.github.io
 0.0.0.0 someschoolgames.com
 0.0.0.0 sonar.pnyk.es
