@@ -1892,6 +1892,7 @@
 0.0.0.0 chocitajuegos.com
 0.0.0.0 chomparcade.games
 0.0.0.0 chompers.io
+0.0.0.0 chopsquads.com
 0.0.0.0 chris-tine-wei.github.io
 0.0.0.0 chrisns.github.io
 0.0.0.0 christiansay-del.github.io
@@ -8208,6 +8209,7 @@
 0.0.0.0 pixel-art-games-roblox.pages.dev
 0.0.0.0 pixel-blade-calculator.com
 0.0.0.0 pixel-number-diy-coloring.pages.dev
+0.0.0.0 pixel-shooter.github.io
 0.0.0.0 pixelantgames.com
 0.0.0.0 pixelarena.netlify.app
 0.0.0.0 pixelartegames.com.ar

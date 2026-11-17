@@ -1891,6 +1891,7 @@
 ||chocitajuegos.com^
 ||chomparcade.games^
 ||chompers.io^
+||chopsquads.com^
 ||chris-tine-wei.github.io^
 ||chrisns.github.io^
 ||christiansay-del.github.io^
@@ -8207,6 +8208,7 @@
 ||pixel-art-games-roblox.pages.dev^
 ||pixel-blade-calculator.com^
 ||pixel-number-diy-coloring.pages.dev^
+||pixel-shooter.github.io^
 ||pixelantgames.com^
 ||pixelarena.netlify.app^
 ||pixelartegames.com.ar^

@@ -201,6 +201,7 @@
 ||math-gpt.org^
 ||mathful.com^
 ||mathgptpro.com^
+||mathos.ai^
 ||mathosai.com^
 ||mathway.com^
 ||maxai.co^
@@ -317,6 +318,7 @@
 ||tongyi.aliyun.com^
 ||tryparrotai.com^
 ||turbolearn.ai^
+||tutorgpt.io^
 ||typeset.io^
 ||typingmind.com^
 ||udio.com^
@@ -328,6 +330,7 @@
 ||vidu.cn^
 ||vidu.com^
 ||vidu.studio^
+||viro.app^
 ||vondy.com^
 ||walterwrites.ai^
 ||web.sydney-ai.com^

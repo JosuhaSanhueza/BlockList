@@ -455,3 +455,7 @@ isthisaiwritten.com
 # Revisados el 2026-11-14:
 copysmith.ai
 smalk.ai
+# Revisados el 2026-11-17: anyword.com (copywriting de marketing para negocios), voicestudio.sh
+# (app open-source que se instala y corre local, no un sitio web)
+anyword.com
+voicestudio.sh

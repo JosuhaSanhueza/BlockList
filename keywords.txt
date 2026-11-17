@@ -2320,3 +2320,13 @@ taoyuan
 doodleduel
 letsdraw
 driftunlocked
+
+# --- Artículos "top paginas de juegos" (cocina, terror, unblocked) y GitHub topics
+# eaglercraft/io-games/friv-games (2 confirmados: chopsquads.com -cocina cooperativa-,
+# pixel-shooter.github.io; descartados a mano: innvesti.com -blog de análisis tech, no
+# sitio de juegos-, watermelon46.com -"Interactive Learning & Brain Training", contenido
+# educativo-, arvex.io -"Prime Technology Operator", no gaming-, upjers.com y en.upjers.com
+# ya estaban cubiertos; varios resultados de los topics de GitHub eran repos/docs caídos o
+# sin juego embebido), 2026-11-17 ---
+chopsquads
+pixel-shooter
