@@ -338,6 +338,7 @@
 ||99nightsintheforest.vercel.app^
 ||99nightsio.pages.dev^
 ||9game.online^
+||9games.pages.dev^
 ||a-australian.github.io^
 ||a-dark-cave.com^
 ||a-small-world-cup-unblocked-games.pages.dev^
@@ -619,6 +620,7 @@
 ||animalpetgames.com^
 ||animalwebgames.com^
 ||animation-games-roblox.pages.dev^
+||anime-roblox-games-rpg.pages.dev^
 ||animeshlabs.github.io^
 ||aniruddhaadak80.github.io^
 ||anjos22-el.github.io^
@@ -1150,6 +1152,7 @@
 ||bestdaily.games^
 ||bestdosgames.com^
 ||bestebrowsergames.de^
+||bestfightinggamesonroblox.pages.dev^
 ||bestforpuzzles.com^
 ||bestfreecardgames.com^
 ||bestfreeonlinegames.com^
@@ -2484,6 +2487,7 @@
 ||curvefever.com^
 ||curvefever.pro^
 ||custom-physics-engine-roblox.pages.dev^
+||customs-games.pages.dev^
 ||cut-the-rope-game.firebaseapp.com^
 ||cut-the-rope-game.web.app^
 ||cut-the-rope.firebaseapp.com^
@@ -2895,6 +2899,7 @@
 ||doublespeakgames.com^
 ||downandoutgames.com^
 ||downandoutgames.pages.dev^
+||downloadgamesforpcsignin.pages.dev^
 ||doxplay.in^
 ||dragon-ball-javascript.vercel.app^
 ||dragonawaken.com^
@@ -2921,6 +2926,7 @@
 ||dreamhomearcades.com^
 ||dreamy0002.github.io^
 ||drednot.io^
+||dreeksgames.github.io^
 ||dreiplay.ch^
 ||dress-to-impress.firebaseapp.com^
 ||dress-to-impress.web.app^
@@ -5368,6 +5374,7 @@
 ||haha64142.github.io^
 ||hahagames.com^
 ||halflemongames.com^
+||halftilegames.pages.dev^
 ||halloweenflashgames.com^
 ||halloweengames.biz^
 ||halloweengames.us^
@@ -5383,6 +5390,7 @@
 ||hangman-online.com^
 ||hangman.org^
 ||hangmanhub.com^
+||haniwa-games.pages.dev^
 ||hanoisolo.github.io^
 ||hapagames.com^
 ||hapessad.github.io^
@@ -6236,6 +6244,7 @@
 ||juegosjuegos.com^
 ||juegosjuegos.ws^
 ||juegosmahjong.com^
+||juegosmediosrequisitos.wordpress.com^
 ||juegosole.com^
 ||juegosonline.cl^
 ||juegosparabeber.online^
@@ -7233,6 +7242,7 @@
 ||modd.io^
 ||mode-games.com^
 ||modernclient.online^
+||modilimitado.io^
 ||mods.ninja^
 ||mofunzone.com^
 ||mohammedhachimi93hm-png.github.io^
@@ -7584,6 +7594,7 @@
 ||newga22.github.io^
 ||newgrounds.com^
 ||newresent.vercel.app^
+||newunblockedgames.com^
 ||newunblockedgames.gitlab.io^
 ||newyonogames.pages.dev^
 ||nexaplay.online-nexaplay.workers.dev^
@@ -7622,6 +7633,7 @@
 ||niksid09.neocities.org^
 ||nimcade.vercel.app^
 ||nimogames.qzz.io^
+||ninegame3.netlify.app^
 ||ninjagojuegos.com^
 ||ninjagospielen.com^
 ||ninjakiwi.com^
@@ -7684,6 +7696,7 @@
 ||notsocasual.com^
 ||noufelgaming.github.io^
 ||nova-arcade-ten.vercel.app^
+||novaarcade28.pages.dev^
 ||novadev.vip^
 ||novaloid117.github.io^
 ||novaskin.me^
@@ -7861,6 +7874,7 @@
 ||opensourcegames01.github.io^
 ||openvibe.games^
 ||openzot.github.io^
+||opera-games-panel-dev.pages.dev^
 ||opium-games.com^
 ||opivankristovi.github.io^
 ||oppsgo.com^
@@ -8859,6 +8873,7 @@
 ||proxy67.global.ssl.fastly.net^
 ||proxynova-mc.github.io^
 ||ps1fun.com^
+||psc-games.pages.dev^
 ||pspflashgaming.com^
 ||psychard.github.io^
 ||psychogoldfish.com^
@@ -9306,6 +9321,7 @@
 ||roblox-classic-zombie-games.pages.dev^
 ||roblox-creator-info-script.pages.dev^
 ||roblox-custom-validation-script.pages.dev^
+||roblox-earthquake-sound.pages.dev^
 ||roblox-fate-games.pages.dev^
 ||roblox-friend-color-esp.pages.dev^
 ||roblox-game-download-link.pages.dev^
@@ -9327,6 +9343,7 @@
 ||roblox-icon-pack-ranks.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
 ||roblox-marvel-games.pages.dev^
+||roblox-material-list-enum.pages.dev^
 ||roblox-memory-optimizer-plugin.pages.dev^
 ||roblox-microprofiler-guide-optimization.pages.dev^
 ||roblox-mist-sound.pages.dev^
@@ -9362,6 +9379,7 @@
 ||roblox-violin-sound.pages.dev^
 ||roblox-virus-removal-script.pages.dev^
 ||roblox-vr-roleplay-games.pages.dev^
+||roblox-vr-script-factory.pages.dev^
 ||roblox-vr-script-framework.pages.dev^
 ||roblox-vr-script-property.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
@@ -9377,16 +9395,20 @@
 ||robloxbasicadminessentialsscript.pages.dev^
 ||robloxcdn.com^
 ||robloxchakramarkscript.pages.dev^
+||robloxchakramindscript.pages.dev^
 ||robloxchakrasandscript.pages.dev^
 ||robloxdev.cn^
 ||robloxdronescript.pages.dev^
+||robloxgameslikerust.pages.dev^
 ||robloxgamesnana-hack.pages.dev^
 ||robloxgenjutsuscript.pages.dev^
 ||robloxhandtrackingsupportscript.pages.dev^
 ||robloxhapticfeedbackscript.pages.dev^
 ||robloxpiggy.com^
+||robloxquadtreemoduleluascript.pages.dev^
 ||robloxrainbowscriptparticle.pages.dev^
 ||robloxrule34games.pages.dev^
+||robloxshowcasegamesgraphics.pages.dev^
 ||robloxsmokescript.pages.dev^
 ||robloxspacemaptemplate.pages.dev^
 ||robloxtycoongames2player.pages.dev^
@@ -9395,6 +9417,7 @@
 ||robloxunblocked.org^
 ||robloxunblockedgames.github.io^
 ||robloxunblockedonline.gitlab.io^
+||robloxuncopylockedgames.pages.dev^
 ||robloxuniversalconstraintscript2.pages.dev^
 ||robloxwendigoscriptai.pages.dev^
 ||robo-galactic-shooter.netlify.app^
@@ -10748,6 +10771,7 @@
 ||strikeforceheroes.surge.sh^
 ||strikeforceheroes.web.app^
 ||struckd.com^
+||studio-games.vercel.app^
 ||studuser-git.github.io^
 ||studybreak-cup.pages.dev^
 ||stuff.freetls.fastly.net^
@@ -10896,6 +10920,7 @@
 ||supermarioonline.com^
 ||supermarioplay.com^
 ||superobamaworld.com^
+||superpark-games.vercel.app^
 ||superpigandfriends.org^
 ||supersmashflash.firebaseapp.com^
 ||supersmashflash.org^
@@ -12071,6 +12096,7 @@
 ||verkerkand-cyber.github.io^
 ||vertex-arcades.vercel.app^
 ||vertex-games-bundle-mj.pages.dev^
+||vertex-play.pages.dev^
 ||vertextvv.github.io^
 ||vertigo-games.com^
 ||veselaferma.com^

@@ -339,6 +339,7 @@
 0.0.0.0 99nightsintheforest.vercel.app
 0.0.0.0 99nightsio.pages.dev
 0.0.0.0 9game.online
+0.0.0.0 9games.pages.dev
 0.0.0.0 a-australian.github.io
 0.0.0.0 a-dark-cave.com
 0.0.0.0 a-small-world-cup-unblocked-games.pages.dev
@@ -620,6 +621,7 @@
 0.0.0.0 animalpetgames.com
 0.0.0.0 animalwebgames.com
 0.0.0.0 animation-games-roblox.pages.dev
+0.0.0.0 anime-roblox-games-rpg.pages.dev
 0.0.0.0 animeshlabs.github.io
 0.0.0.0 aniruddhaadak80.github.io
 0.0.0.0 anjos22-el.github.io
@@ -1151,6 +1153,7 @@
 0.0.0.0 bestdaily.games
 0.0.0.0 bestdosgames.com
 0.0.0.0 bestebrowsergames.de
+0.0.0.0 bestfightinggamesonroblox.pages.dev
 0.0.0.0 bestforpuzzles.com
 0.0.0.0 bestfreecardgames.com
 0.0.0.0 bestfreeonlinegames.com
@@ -2485,6 +2488,7 @@
 0.0.0.0 curvefever.com
 0.0.0.0 curvefever.pro
 0.0.0.0 custom-physics-engine-roblox.pages.dev
+0.0.0.0 customs-games.pages.dev
 0.0.0.0 cut-the-rope-game.firebaseapp.com
 0.0.0.0 cut-the-rope-game.web.app
 0.0.0.0 cut-the-rope.firebaseapp.com
@@ -2896,6 +2900,7 @@
 0.0.0.0 doublespeakgames.com
 0.0.0.0 downandoutgames.com
 0.0.0.0 downandoutgames.pages.dev
+0.0.0.0 downloadgamesforpcsignin.pages.dev
 0.0.0.0 doxplay.in
 0.0.0.0 dragon-ball-javascript.vercel.app
 0.0.0.0 dragonawaken.com
@@ -2922,6 +2927,7 @@
 0.0.0.0 dreamhomearcades.com
 0.0.0.0 dreamy0002.github.io
 0.0.0.0 drednot.io
+0.0.0.0 dreeksgames.github.io
 0.0.0.0 dreiplay.ch
 0.0.0.0 dress-to-impress.firebaseapp.com
 0.0.0.0 dress-to-impress.web.app
@@ -5369,6 +5375,7 @@
 0.0.0.0 haha64142.github.io
 0.0.0.0 hahagames.com
 0.0.0.0 halflemongames.com
+0.0.0.0 halftilegames.pages.dev
 0.0.0.0 halloweenflashgames.com
 0.0.0.0 halloweengames.biz
 0.0.0.0 halloweengames.us
@@ -5384,6 +5391,7 @@
 0.0.0.0 hangman-online.com
 0.0.0.0 hangman.org
 0.0.0.0 hangmanhub.com
+0.0.0.0 haniwa-games.pages.dev
 0.0.0.0 hanoisolo.github.io
 0.0.0.0 hapagames.com
 0.0.0.0 hapessad.github.io
@@ -6237,6 +6245,7 @@
 0.0.0.0 juegosjuegos.com
 0.0.0.0 juegosjuegos.ws
 0.0.0.0 juegosmahjong.com
+0.0.0.0 juegosmediosrequisitos.wordpress.com
 0.0.0.0 juegosole.com
 0.0.0.0 juegosonline.cl
 0.0.0.0 juegosparabeber.online
@@ -7234,6 +7243,7 @@
 0.0.0.0 modd.io
 0.0.0.0 mode-games.com
 0.0.0.0 modernclient.online
+0.0.0.0 modilimitado.io
 0.0.0.0 mods.ninja
 0.0.0.0 mofunzone.com
 0.0.0.0 mohammedhachimi93hm-png.github.io
@@ -7585,6 +7595,7 @@
 0.0.0.0 newga22.github.io
 0.0.0.0 newgrounds.com
 0.0.0.0 newresent.vercel.app
+0.0.0.0 newunblockedgames.com
 0.0.0.0 newunblockedgames.gitlab.io
 0.0.0.0 newyonogames.pages.dev
 0.0.0.0 nexaplay.online-nexaplay.workers.dev
@@ -7623,6 +7634,7 @@
 0.0.0.0 niksid09.neocities.org
 0.0.0.0 nimcade.vercel.app
 0.0.0.0 nimogames.qzz.io
+0.0.0.0 ninegame3.netlify.app
 0.0.0.0 ninjagojuegos.com
 0.0.0.0 ninjagospielen.com
 0.0.0.0 ninjakiwi.com
@@ -7685,6 +7697,7 @@
 0.0.0.0 notsocasual.com
 0.0.0.0 noufelgaming.github.io
 0.0.0.0 nova-arcade-ten.vercel.app
+0.0.0.0 novaarcade28.pages.dev
 0.0.0.0 novadev.vip
 0.0.0.0 novaloid117.github.io
 0.0.0.0 novaskin.me
@@ -7862,6 +7875,7 @@
 0.0.0.0 opensourcegames01.github.io
 0.0.0.0 openvibe.games
 0.0.0.0 openzot.github.io
+0.0.0.0 opera-games-panel-dev.pages.dev
 0.0.0.0 opium-games.com
 0.0.0.0 opivankristovi.github.io
 0.0.0.0 oppsgo.com
@@ -8860,6 +8874,7 @@
 0.0.0.0 proxy67.global.ssl.fastly.net
 0.0.0.0 proxynova-mc.github.io
 0.0.0.0 ps1fun.com
+0.0.0.0 psc-games.pages.dev
 0.0.0.0 pspflashgaming.com
 0.0.0.0 psychard.github.io
 0.0.0.0 psychogoldfish.com
@@ -9307,6 +9322,7 @@
 0.0.0.0 roblox-classic-zombie-games.pages.dev
 0.0.0.0 roblox-creator-info-script.pages.dev
 0.0.0.0 roblox-custom-validation-script.pages.dev
+0.0.0.0 roblox-earthquake-sound.pages.dev
 0.0.0.0 roblox-fate-games.pages.dev
 0.0.0.0 roblox-friend-color-esp.pages.dev
 0.0.0.0 roblox-game-download-link.pages.dev
@@ -9328,6 +9344,7 @@
 0.0.0.0 roblox-icon-pack-ranks.pages.dev
 0.0.0.0 roblox-jailbreak-like-games.pages.dev
 0.0.0.0 roblox-marvel-games.pages.dev
+0.0.0.0 roblox-material-list-enum.pages.dev
 0.0.0.0 roblox-memory-optimizer-plugin.pages.dev
 0.0.0.0 roblox-microprofiler-guide-optimization.pages.dev
 0.0.0.0 roblox-mist-sound.pages.dev
@@ -9363,6 +9380,7 @@
 0.0.0.0 roblox-violin-sound.pages.dev
 0.0.0.0 roblox-virus-removal-script.pages.dev
 0.0.0.0 roblox-vr-roleplay-games.pages.dev
+0.0.0.0 roblox-vr-script-factory.pages.dev
 0.0.0.0 roblox-vr-script-framework.pages.dev
 0.0.0.0 roblox-vr-script-property.pages.dev
 0.0.0.0 roblox-vr-script-valuablely.pages.dev
@@ -9378,16 +9396,20 @@
 0.0.0.0 robloxbasicadminessentialsscript.pages.dev
 0.0.0.0 robloxcdn.com
 0.0.0.0 robloxchakramarkscript.pages.dev
+0.0.0.0 robloxchakramindscript.pages.dev
 0.0.0.0 robloxchakrasandscript.pages.dev
 0.0.0.0 robloxdev.cn
 0.0.0.0 robloxdronescript.pages.dev
+0.0.0.0 robloxgameslikerust.pages.dev
 0.0.0.0 robloxgamesnana-hack.pages.dev
 0.0.0.0 robloxgenjutsuscript.pages.dev
 0.0.0.0 robloxhandtrackingsupportscript.pages.dev
 0.0.0.0 robloxhapticfeedbackscript.pages.dev
 0.0.0.0 robloxpiggy.com
+0.0.0.0 robloxquadtreemoduleluascript.pages.dev
 0.0.0.0 robloxrainbowscriptparticle.pages.dev
 0.0.0.0 robloxrule34games.pages.dev
+0.0.0.0 robloxshowcasegamesgraphics.pages.dev
 0.0.0.0 robloxsmokescript.pages.dev
 0.0.0.0 robloxspacemaptemplate.pages.dev
 0.0.0.0 robloxtycoongames2player.pages.dev
@@ -9396,6 +9418,7 @@
 0.0.0.0 robloxunblocked.org
 0.0.0.0 robloxunblockedgames.github.io
 0.0.0.0 robloxunblockedonline.gitlab.io
+0.0.0.0 robloxuncopylockedgames.pages.dev
 0.0.0.0 robloxuniversalconstraintscript2.pages.dev
 0.0.0.0 robloxwendigoscriptai.pages.dev
 0.0.0.0 robo-galactic-shooter.netlify.app
@@ -10749,6 +10772,7 @@
 0.0.0.0 strikeforceheroes.surge.sh
 0.0.0.0 strikeforceheroes.web.app
 0.0.0.0 struckd.com
+0.0.0.0 studio-games.vercel.app
 0.0.0.0 studuser-git.github.io
 0.0.0.0 studybreak-cup.pages.dev
 0.0.0.0 stuff.freetls.fastly.net
@@ -10897,6 +10921,7 @@
 0.0.0.0 supermarioonline.com
 0.0.0.0 supermarioplay.com
 0.0.0.0 superobamaworld.com
+0.0.0.0 superpark-games.vercel.app
 0.0.0.0 superpigandfriends.org
 0.0.0.0 supersmashflash.firebaseapp.com
 0.0.0.0 supersmashflash.org
@@ -12072,6 +12097,7 @@
 0.0.0.0 verkerkand-cyber.github.io
 0.0.0.0 vertex-arcades.vercel.app
 0.0.0.0 vertex-games-bundle-mj.pages.dev
+0.0.0.0 vertex-play.pages.dev
 0.0.0.0 vertextvv.github.io
 0.0.0.0 vertigo-games.com
 0.0.0.0 veselaferma.com
