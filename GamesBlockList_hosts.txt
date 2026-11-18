@@ -1740,8 +1740,6 @@
 0.0.0.0 calcsolver.us
 0.0.0.0 calcsolverpro.com
 0.0.0.0 calcsolverpro.net
-0.0.0.0 calcsolverpro.org
-0.0.0.0 calcsolverpro.uk
 0.0.0.0 calcsolves.net
 0.0.0.0 calculatorforyou.online
 0.0.0.0 calculus.mathlife.org

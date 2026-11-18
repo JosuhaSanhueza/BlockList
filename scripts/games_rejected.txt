@@ -85,3 +85,6 @@ zgames.bh
 juegaenlineachile.com
 meccabingo.com
 playalberta.ca
+# Calculadoras reales (WordPress, sin juegos en el código), revisadas el 2026-11-18:
+calcsolverpro.org
+calcsolverpro.uk

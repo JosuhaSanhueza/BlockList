@@ -1739,8 +1739,6 @@
 ||calcsolver.us^
 ||calcsolverpro.com^
 ||calcsolverpro.net^
-||calcsolverpro.org^
-||calcsolverpro.uk^
 ||calcsolves.net^
 ||calculatorforyou.online^
 ||calculus.mathlife.org^
