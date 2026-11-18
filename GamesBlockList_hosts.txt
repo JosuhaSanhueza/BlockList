@@ -11062,6 +11062,7 @@
 0.0.0.0 tapgames.cc
 0.0.0.0 taproadgame.io
 0.0.0.0 tarcadegames.vercel.app
+0.0.0.0 tarreo.com
 0.0.0.0 taskifygames.com
 0.0.0.0 taskiran97.github.io
 0.0.0.0 tayztunblocker.github.io
