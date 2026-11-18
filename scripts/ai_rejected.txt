@@ -459,3 +459,10 @@ smalk.ai
 # (app open-source que se instala y corre local, no un sitio web)
 anyword.com
 voicestudio.sh
+# Revisados el 2026-11-18: aitoolranked.com y eduvora.net (blogs/directorios de reseñas y
+# guías, no herramientas de uso directo); collegeessay.org y 5staressays.com (servicios de
+# redacción con escritores humanos, "Zero AI" en su propia descripción, no son IA)
+aitoolranked.com
+eduvora.net
+collegeessay.org
+5staressays.com

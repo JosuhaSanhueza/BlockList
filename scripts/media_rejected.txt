@@ -45,3 +45,11 @@ mangalamyatrikbhavan.org
 aktenmangal.com
 escortosmangazi.com
 free-manga-pics.de
+# Revisados el 2026-11-18: mangal-keyfi.com (restaurante de parrillas turco, falso positivo
+# por "mangal"=parrilla; mismo patrón que aktenmangal.com), mangaprops.com (venta de assets
+# 3D para dibujantes de manga, herramienta para creadores, no sitio para leer/ver),
+# hentaifantasy.xxx (porno JAV de personas reales, no hentai/anime; ya cubierto por listas
+# NSFW genéricas)
+mangal-keyfi.com
+mangaprops.com
+hentaifantasy.xxx

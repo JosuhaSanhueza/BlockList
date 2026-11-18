@@ -115,10 +115,12 @@
 ||elicit.org^
 ||ernie.baidu.com^
 ||essayai.com^
+||faddyai.com^
 ||felo.ai^
 ||firefly.adobe.com^
 ||free-gpt.soruxgpt.com^
 ||free.netfly.top^
+||freeessaywriter.ai^
 ||freegpt.cc^
 ||freegpt.one^
 ||g4f.dev^
@@ -132,7 +134,9 @@
 ||getimg.ai^
 ||getliner.com^
 ||getmerlin.in^
+||getquizsolve.com^
 ||getrecall.ai^
+||getscansolve.com^
 ||gistai.tech^
 ||githubcopilot.com^
 ||gomoonbeam.com^
@@ -207,6 +211,7 @@
 ||maxai.co^
 ||maxai.me^
 ||merlin.foyer.work^
+||merlio.app^
 ||meta.ai^
 ||midjourney.com^
 ||mindgrasp.ai^
@@ -324,6 +329,8 @@
 ||udio.com^
 ||unaimytext.com^
 ||undetectable.ai^
+||uniwriter.ai^
+||useaiwriter.com^
 ||useblackbox.io^
 ||v0.app^
 ||v0.dev^

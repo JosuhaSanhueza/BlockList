@@ -192,6 +192,7 @@
 ||japanpaw.com^
 ||jetanimes.com^
 ||jkanime.net^
+||jmanga.beer^
 ||kakamanga.com^
 ||kawaiianime.cc^
 ||kayoanime.com^
