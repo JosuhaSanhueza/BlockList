@@ -1723,6 +1723,9 @@
 0.0.0.0 cakemania.org
 0.0.0.0 calc-solver.co
 0.0.0.0 calc-solver.com
+0.0.0.0 calcgames.net
+0.0.0.0 calcly.com
+0.0.0.0 calcmath.net
 0.0.0.0 calcsolve.net
 0.0.0.0 calcsolve.online
 0.0.0.0 calcsolve.pro
@@ -1738,6 +1741,7 @@
 0.0.0.0 calcsolver.pro
 0.0.0.0 calcsolver.si
 0.0.0.0 calcsolver.us
+0.0.0.0 calcsolver2.net
 0.0.0.0 calcsolverpro.com
 0.0.0.0 calcsolverpro.net
 0.0.0.0 calcsolves.net
@@ -6943,6 +6947,7 @@
 0.0.0.0 math-a2.b-cdn.net
 0.0.0.0 math-playground.bitbucket.io
 0.0.0.0 mathacheivement.duckdns.org
+0.0.0.0 mathcheck.net
 0.0.0.0 matheducation.top
 0.0.0.0 mathematical.freetls.fastly.net
 0.0.0.0 mathematical.global.ssl.fastly.net
@@ -10326,6 +10331,7 @@
 0.0.0.0 solvecalc.online
 0.0.0.0 solvecalc.pro
 0.0.0.0 solvecalc.site
+0.0.0.0 solvecalcs.com
 0.0.0.0 solvercalc.app
 0.0.0.0 solvercalc.com
 0.0.0.0 solvercalc.net

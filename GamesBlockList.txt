@@ -1722,6 +1722,9 @@
 ||cakemania.org^
 ||calc-solver.co^
 ||calc-solver.com^
+||calcgames.net^
+||calcly.com^
+||calcmath.net^
 ||calcsolve.net^
 ||calcsolve.online^
 ||calcsolve.pro^
@@ -1737,6 +1740,7 @@
 ||calcsolver.pro^
 ||calcsolver.si^
 ||calcsolver.us^
+||calcsolver2.net^
 ||calcsolverpro.com^
 ||calcsolverpro.net^
 ||calcsolves.net^
@@ -6942,6 +6946,7 @@
 ||math-a2.b-cdn.net^
 ||math-playground.bitbucket.io^
 ||mathacheivement.duckdns.org^
+||mathcheck.net^
 ||matheducation.top^
 ||mathematical.freetls.fastly.net^
 ||mathematical.global.ssl.fastly.net^
@@ -10325,6 +10330,7 @@
 ||solvecalc.online^
 ||solvecalc.pro^
 ||solvecalc.site^
+||solvecalcs.com^
 ||solvercalc.app^
 ||solvercalc.com^
 ||solvercalc.net^
