@@ -579,6 +579,7 @@
 0.0.0.0 among-us.io
 0.0.0.0 among-us.net
 0.0.0.0 among-usunblocked.github.io
+0.0.0.0 amonggame.com
 0.0.0.0 amonggame.org
 0.0.0.0 amongus-games.github.io
 0.0.0.0 amongus-online.bitbucket.io
@@ -1042,6 +1043,7 @@
 0.0.0.0 basketballlegends.net
 0.0.0.0 basketballlegends.netlify.app
 0.0.0.0 basketballlegends.org
+0.0.0.0 basketballlegends.pro
 0.0.0.0 basketballlegendsunblocked.github.io
 0.0.0.0 basketballrandom-unblocked.github.io
 0.0.0.0 basketballrandom.com
@@ -1742,10 +1744,12 @@
 0.0.0.0 calcsolver.org
 0.0.0.0 calcsolver.pro
 0.0.0.0 calcsolver.si
+0.0.0.0 calcsolver.us.com
 0.0.0.0 calcsolver.us
 0.0.0.0 calcsolver2.net
 0.0.0.0 calcsolverpro.com
 0.0.0.0 calcsolverpro.net
+0.0.0.0 calcsolvers.net
 0.0.0.0 calcsolves.net
 0.0.0.0 calculatorforyou.online
 0.0.0.0 calculus.mathlife.org
@@ -3712,6 +3716,7 @@
 0.0.0.0 fgl.com
 0.0.0.0 fgn.me
 0.0.0.0 fifa10.website
+0.0.0.0 fifa14.online
 0.0.0.0 fifastreet2.fun
 0.0.0.0 fightz.io
 0.0.0.0 filamentgames.com
@@ -3973,6 +3978,7 @@
 0.0.0.0 fosiper.com
 0.0.0.0 fotigames.com
 0.0.0.0 foundationgame.com
+0.0.0.0 foundplay.io
 0.0.0.0 foxcon014-games.github.io
 0.0.0.0 foxypantsroblox.pages.dev
 0.0.0.0 fr33pl4y.github.io
@@ -5579,6 +5585,7 @@
 0.0.0.0 hjholivia.github.io
 0.0.0.0 hjtnvideo.com
 0.0.0.0 hnyigegame.com
+0.0.0.0 hobbyconsolas.com
 0.0.0.0 hockeybros.io
 0.0.0.0 hockeygames.org
 0.0.0.0 holajuegos.com
@@ -7577,6 +7584,7 @@
 0.0.0.0 nealfun.global.ssl.fastly.net
 0.0.0.0 nealfun.org
 0.0.0.0 nealfun.pro
+0.0.0.0 neator.site
 0.0.0.0 nebula.freetls.fastly.net
 0.0.0.0 nebula.global.ssl.fastly.net
 0.0.0.0 nedim-rasimoglu-fiba.github.io
@@ -7648,6 +7656,7 @@
 0.0.0.0 nexwar.io
 0.0.0.0 neymarkingingyt.github.io
 0.0.0.0 nfsmwested.lauta.site
+0.0.0.0 nfsmwonline.com
 0.0.0.0 nfsunderground2.site
 0.0.0.0 ngswing.com
 0.0.0.0 nhineety.github.io
@@ -9749,6 +9758,13 @@
 0.0.0.0 seven.freetls.fastly.net
 0.0.0.0 seven.global.ssl.fastly.net
 0.0.0.0 severe-brown-ea4esedo-dpwqh26ty5h3.edgeone.dev
+0.0.0.0 sf-assets-78u.pages.dev
+0.0.0.0 sf-igi.pages.dev
+0.0.0.0 sf-lib10.pages.dev
+0.0.0.0 sf-lib2.pages.dev
+0.0.0.0 sf-lib6.pages.dev
+0.0.0.0 sf-lib7.pages.dev
+0.0.0.0 sf-lib9.pages.dev
 0.0.0.0 sfa21142.github.io
 0.0.0.0 sfbgames.com
 0.0.0.0 sfgame.cz
@@ -9888,6 +9904,7 @@
 0.0.0.0 skap.nightly.pw
 0.0.0.0 skate.aaddpp.lol
 0.0.0.0 skate3-browser.com
+0.0.0.0 skate3browser-yjc.pages.dev
 0.0.0.0 skate3browser.com
 0.0.0.0 skateboardgames.de
 0.0.0.0 skblinkhelp-cloud.github.io
@@ -10061,6 +10078,7 @@
 0.0.0.0 sloperider-game.github.io
 0.0.0.0 sloperider.github.io
 0.0.0.0 sloperun.github.io
+0.0.0.0 sloperungame.io
 0.0.0.0 slopes-game.github.io
 0.0.0.0 slopetopvaz.gitlab.io
 0.0.0.0 slopeunblock.github.io
@@ -10353,6 +10371,7 @@
 0.0.0.0 solvecalc.online
 0.0.0.0 solvecalc.pro
 0.0.0.0 solvecalc.site
+0.0.0.0 solvecalcpro.info
 0.0.0.0 solvecalcs.com
 0.0.0.0 solvercalc.app
 0.0.0.0 solvercalc.com
@@ -10707,6 +10726,7 @@
 0.0.0.0 stepz-games.vercel.app
 0.0.0.0 steveniotech.github.io
 0.0.0.0 stewpidtnlvr.github.io
+0.0.0.0 stick-manhook.github.io
 0.0.0.0 stick-merge.pages.dev
 0.0.0.0 stick-war-2.com
 0.0.0.0 stick-war-game.pages.dev
@@ -12215,6 +12235,7 @@
 0.0.0.0 vishalgandhi1997.github.io
 0.0.0.0 vision-rubx.github.io
 0.0.0.0 visionarymoon.github.io
+0.0.0.0 visualnovelgames.org
 0.0.0.0 vitalitygames.com
 0.0.0.0 vitezslavcapek.github.io
 0.0.0.0 vitogame.com
@@ -12648,6 +12669,7 @@
 0.0.0.0 zaclikepizza-eng.github.io
 0.0.0.0 zagoat-bot.github.io
 0.0.0.0 zalecishavocwasmttaken.github.io
+0.0.0.0 zamph5.com
 0.0.0.0 zamunda.games
 0.0.0.0 zane3535.github.io
 0.0.0.0 zanvan.github.io

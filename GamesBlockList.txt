@@ -578,6 +578,7 @@
 ||among-us.io^
 ||among-us.net^
 ||among-usunblocked.github.io^
+||amonggame.com^
 ||amonggame.org^
 ||amongus-games.github.io^
 ||amongus-online.bitbucket.io^
@@ -1041,6 +1042,7 @@
 ||basketballlegends.net^
 ||basketballlegends.netlify.app^
 ||basketballlegends.org^
+||basketballlegends.pro^
 ||basketballlegendsunblocked.github.io^
 ||basketballrandom-unblocked.github.io^
 ||basketballrandom.com^
@@ -1742,9 +1744,11 @@
 ||calcsolver.pro^
 ||calcsolver.si^
 ||calcsolver.us^
+||calcsolver.us.com^
 ||calcsolver2.net^
 ||calcsolverpro.com^
 ||calcsolverpro.net^
+||calcsolvers.net^
 ||calcsolves.net^
 ||calculatorforyou.online^
 ||calculus.mathlife.org^
@@ -3711,6 +3715,7 @@
 ||fgl.com^
 ||fgn.me^
 ||fifa10.website^
+||fifa14.online^
 ||fifastreet2.fun^
 ||fightz.io^
 ||filamentgames.com^
@@ -3972,6 +3977,7 @@
 ||fosiper.com^
 ||fotigames.com^
 ||foundationgame.com^
+||foundplay.io^
 ||foxcon014-games.github.io^
 ||foxypantsroblox.pages.dev^
 ||fr33pl4y.github.io^
@@ -5578,6 +5584,7 @@
 ||hjholivia.github.io^
 ||hjtnvideo.com^
 ||hnyigegame.com^
+||hobbyconsolas.com^
 ||hockeybros.io^
 ||hockeygames.org^
 ||holajuegos.com^
@@ -7576,6 +7583,7 @@
 ||nealfun.global.ssl.fastly.net^
 ||nealfun.org^
 ||nealfun.pro^
+||neator.site^
 ||nebula.freetls.fastly.net^
 ||nebula.global.ssl.fastly.net^
 ||nedim-rasimoglu-fiba.github.io^
@@ -7647,6 +7655,7 @@
 ||nexwar.io^
 ||neymarkingingyt.github.io^
 ||nfsmwested.lauta.site^
+||nfsmwonline.com^
 ||nfsunderground2.site^
 ||ngswing.com^
 ||nhineety.github.io^
@@ -9748,6 +9757,13 @@
 ||seven.freetls.fastly.net^
 ||seven.global.ssl.fastly.net^
 ||severe-brown-ea4esedo-dpwqh26ty5h3.edgeone.dev^
+||sf-assets-78u.pages.dev^
+||sf-igi.pages.dev^
+||sf-lib10.pages.dev^
+||sf-lib2.pages.dev^
+||sf-lib6.pages.dev^
+||sf-lib7.pages.dev^
+||sf-lib9.pages.dev^
 ||sfa21142.github.io^
 ||sfbgames.com^
 ||sfgame.cz^
@@ -9887,6 +9903,7 @@
 ||skap.nightly.pw^
 ||skate.aaddpp.lol^
 ||skate3-browser.com^
+||skate3browser-yjc.pages.dev^
 ||skate3browser.com^
 ||skateboardgames.de^
 ||skblinkhelp-cloud.github.io^
@@ -10060,6 +10077,7 @@
 ||sloperider-game.github.io^
 ||sloperider.github.io^
 ||sloperun.github.io^
+||sloperungame.io^
 ||slopes-game.github.io^
 ||slopetopvaz.gitlab.io^
 ||slopeunblock.github.io^
@@ -10352,6 +10370,7 @@
 ||solvecalc.online^
 ||solvecalc.pro^
 ||solvecalc.site^
+||solvecalcpro.info^
 ||solvecalcs.com^
 ||solvercalc.app^
 ||solvercalc.com^
@@ -10706,6 +10725,7 @@
 ||stepz-games.vercel.app^
 ||steveniotech.github.io^
 ||stewpidtnlvr.github.io^
+||stick-manhook.github.io^
 ||stick-merge.pages.dev^
 ||stick-war-2.com^
 ||stick-war-game.pages.dev^
@@ -12214,6 +12234,7 @@
 ||vishalgandhi1997.github.io^
 ||vision-rubx.github.io^
 ||visionarymoon.github.io^
+||visualnovelgames.org^
 ||vitalitygames.com^
 ||vitezslavcapek.github.io^
 ||vitogame.com^
@@ -12647,6 +12668,7 @@
 ||zaclikepizza-eng.github.io^
 ||zagoat-bot.github.io^
 ||zalecishavocwasmttaken.github.io^
+||zamph5.com^
 ||zamunda.games^
 ||zane3535.github.io^
 ||zanvan.github.io^
