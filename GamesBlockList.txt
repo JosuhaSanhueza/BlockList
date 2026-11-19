@@ -668,6 +668,7 @@
 ||arbolabc.com^
 ||arboreal-arcade.vercel.app^
 ||arbyusuf.github.io^
+||arcade-1628.onrender.com^
 ||arcade-collection.vercel.app^
 ||arcade-dock.vercel.app^
 ||arcade-game-zone.vercel.app^
@@ -1190,6 +1191,7 @@
 ||bigallancorbett.github.io^
 ||bigarcade.net^
 ||bigbadwaffle.itch.io^
+||bigboard.games^
 ||bigbubbalewis.github.io^
 ||bigchungus123456.github.io^
 ||bigdino.com^
@@ -2616,6 +2618,7 @@
 ||darkmodegaming.github.io^
 ||darknessday-code.github.io^
 ||darkpawgames.com^
+||darkshadow-studios.com^
 ||darkthronegame.com^
 ||darren-rawlings.github.io^
 ||darrylgoudeausr59-boop.github.io^
@@ -2825,6 +2828,7 @@
 ||dirt-clicker.com^
 ||disc-cover.com^
 ||disney--games.com^
+||diuwin-free-games.github.io^
 ||divertissez-vous.com^
 ||divinity.freetls.fastly.net^
 ||divinity.global.ssl.fastly.net^
@@ -2844,6 +2848,7 @@
 ||dmg013.github.io^
 ||dmnd.games^
 ||dnrweqffuwjtx.cloudfront.net^
+||dobbsgamesweb.netlify.app^
 ||docternachos.github.io^
 ||doddoreul.github.io^
 ||dog-squad-game-app.web.app^
@@ -3401,6 +3406,7 @@
 ||eggycarunblocked.org^
 ||eggycarunblocked76.github.io^
 ||egirlgames.net^
+||egzyda-games.pages.dev^
 ||eieio.games^
 ||einoow.com^
 ||elamigos-games.net^
@@ -4588,6 +4594,7 @@
 ||games-like-roblox-vr.pages.dev^
 ||games-msn.com^
 ||games-not-filtered-school.pages.dev^
+||games-online-offer-review.pages.dev^
 ||games-online.io^
 ||games-ovo.github.io^
 ||games-play-on-roblox.pages.dev^
@@ -5209,6 +5216,7 @@
 ||google-snake.pages.dev^
 ||google777-playwin.pages.dev^
 ||googleclassroom6x.github.io^
+||googledoodle-games.com^
 ||googledoodlebaseballunblocked.github.io^
 ||googlegames.pages.dev^
 ||googleminesweeper.org^
@@ -5942,6 +5950,7 @@
 ||izzygames.com^
 ||j.kleintop12.gitlab.io^
 ||j8192.github.io^
+||jab-arcade.pages.dev^
 ||jackamoe9380.github.io^
 ||jackpot-games-damifidy.vercel.app^
 ||jacksmith-unblocked.github.io^
@@ -6454,6 +6463,7 @@
 ||kingjarvis-byte.github.io^
 ||kingjjboy99-crypto.github.io^
 ||kingjoeishere.github.io^
+||kingmidas-games-merc.pages.dev^
 ||kingmidas2012.github.io^
 ||kingnullboy.github.io^
 ||kings.amaze-apps.com^
@@ -6505,6 +6515,7 @@
 ||knightfight.fr^
 ||knightochaos.github.io^
 ||knightsoft.ca^
+||ko-games.pages.dev^
 ||koalabeast.com^
 ||kobalt-cz.github.io^
 ||kofoten.github.io^
@@ -6523,6 +6534,7 @@
 ||koolua.github.io^
 ||koramgame.com^
 ||korifcan.github.io^
+||korner-arcade.netlify.app^
 ||kostenlose-games.de^
 ||kostenlosespiele.jetzt^
 ||kour-io.com^
@@ -7066,6 +7078,7 @@
 ||metrothegame.com^
 ||mexi.rest^
 ||meyagames.com^
+||mfai-games.pages.dev^
 ||mfhplayz.github.io^
 ||mgalternative.github.io^
 ||mgcowbell-bot.github.io^
@@ -7619,6 +7632,7 @@
 ||newdoku.com^
 ||newga22.github.io^
 ||newgrounds.com^
+||newplaycondofun.vercel.app^
 ||newresent.vercel.app^
 ||newunblockedgames.com^
 ||newunblockedgames.gitlab.io^
@@ -7899,6 +7913,7 @@
 ||opendominion.net^
 ||opengames-dev.github.io^
 ||openhtml5games.com^
+||openingzero.com.ar^
 ||opensourcegames01.github.io^
 ||openvibe.games^
 ||openzot.github.io^
@@ -8162,6 +8177,7 @@
 ||pcjs.org^
 ||pcmobilegames.com^
 ||pcriver.github.io^
+||peakplay.pages.dev^
 ||peargames4help-code.github.io^
 ||pelitpelit.fi^
 ||penaltykickonline.com^
@@ -8544,6 +8560,7 @@
 ||playmurdermystery.com^
 ||playmushies.com^
 ||playmyarcadecenter.pages.dev^
+||playnest-1hc.pages.dev^
 ||playniac.com^
 ||playnova.me^
 ||playnowgames.space^
@@ -9355,6 +9372,7 @@
 ||roblox-game-download-link.pages.dev^
 ||roblox-games-api-v2.pages.dev^
 ||roblox-games-half-loading.pages.dev^
+||roblox-games-like-iscariot.pages.dev^
 ||roblox-games-unblocked-school.vercel.app^
 ||roblox-games-unblocked.github.io^
 ||roblox-games-unblocked.vercel.app^
@@ -9383,6 +9401,7 @@
 ||roblox-prince.pages.dev^
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
+||roblox-scam-robux-games.pages.dev^
 ||roblox-sorcerer-temp.pages.dev^
 ||roblox-spatial-audio-script.pages.dev^
 ||roblox-sports-games-football.pages.dev^
@@ -9411,6 +9430,7 @@
 ||roblox-vr-script-framework.pages.dev^
 ||roblox-vr-script-property.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
+||roblox-vr-script-zero.pages.dev^
 ||roblox-websocketsend.pages.dev^
 ||roblox-window-esp.pages.dev^
 ||roblox-zachs-service-station.pages.dev^
@@ -9425,6 +9445,7 @@
 ||robloxchakramarkscript.pages.dev^
 ||robloxchakramindscript.pages.dev^
 ||robloxchakrasandscript.pages.dev^
+||robloxcontextactionservicemobilebutton.pages.dev^
 ||robloxdev.cn^
 ||robloxdronescript.pages.dev^
 ||robloxgameslikerust.pages.dev^
@@ -9439,6 +9460,7 @@
 ||robloxshowcasegamesgraphics.pages.dev^
 ||robloxsmokescript.pages.dev^
 ||robloxspacemaptemplate.pages.dev^
+||robloxsurvivalgamesmultiplayer.pages.dev^
 ||robloxtycoongames2player.pages.dev^
 ||robloxunblocked.gitlab.io^
 ||robloxunblocked.online^
@@ -11280,6 +11302,7 @@
 ||tiberava.pages.dev^
 ||tic-tac-toe-game.com^
 ||tic-tac-toe.top^
+||ticketlessgames.vercel.app^
 ||tictactoe-game.bitbucket.io^
 ||tictactoe.ee^
 ||tictactoe.game^
@@ -12174,6 +12197,7 @@
 ||videojuegos.com^
 ||vidkidkdi.github.io^
 ||vie.enjoyplanet.fun^
+||vietnam-games-on-roblox.pages.dev^
 ||viglino.github.io^
 ||vigorgame.com^
 ||vihaanmotwani-coder.github.io^
@@ -12467,6 +12491,7 @@
 ||wormax2.io^
 ||worms.zone^
 ||worthplaying.com^
+||worthy-mobile-games-site.pages.dev^
 ||wouwliuqie14432344444444444.github.io^
 ||wowgirls.jp^
 ||wowubg.github.io^
