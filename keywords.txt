@@ -2330,3 +2330,10 @@ driftunlocked
 # sin juego embebido), 2026-11-17 ---
 chopsquads
 pixel-shooter
+
+# --- GitHub topics eaglercraft/unblocked-games/io-games/unblocked (1 confirmado:
+# nintendoboi2/22/222/2222.github.io -portal unblocked games con mirrors-; el resto de
+# los ~50 homepages de esos topics estaban caídos, sin señales de juego, o eran
+# proxies/docs/herramientas de modding, incluyendo yourworstnightmare1.github.io/proxy-list
+# -lista de proxies de evasión, descartada-), 2026-11-20 ---
+nintendoboi

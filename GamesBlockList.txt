@@ -7712,7 +7712,10 @@
 ||nintendo.freetls.fastly.net^
 ||nintendo.global.ssl.fastly.net^
 ||nintendo.hu^
+||nintendoboi2.github.io^
 ||nintendoboi22.github.io^
+||nintendoboi222.github.io^
+||nintendoboi2222.github.io^
 ||nirlivne.github.io^
 ||nirmal91.github.io^
 ||nishant-bn.github.io^

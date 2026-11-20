@@ -7713,7 +7713,10 @@
 0.0.0.0 nintendo.freetls.fastly.net
 0.0.0.0 nintendo.global.ssl.fastly.net
 0.0.0.0 nintendo.hu
+0.0.0.0 nintendoboi2.github.io
 0.0.0.0 nintendoboi22.github.io
+0.0.0.0 nintendoboi222.github.io
+0.0.0.0 nintendoboi2222.github.io
 0.0.0.0 nirlivne.github.io
 0.0.0.0 nirmal91.github.io
 0.0.0.0 nishant-bn.github.io

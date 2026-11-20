@@ -167,6 +167,7 @@
 ||hotbot.com^
 ||hotpot.ai^
 ||huggingface.co^
+||humanizeai.com^
 ||humanizeai.pro^
 ||humantone.ai^
 ||humata.ai^
@@ -243,6 +244,7 @@
 ||oaistatic.com^
 ||oaistatsig.com^
 ||oaiusercontent.com^
+||obscurify.ai^
 ||ollama.ai^
 ||ollama.com^
 ||open-gpt.app^
