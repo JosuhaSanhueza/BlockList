@@ -500,6 +500,7 @@
 0.0.0.0 akilesh-him.github.io
 0.0.0.0 akofena.reluspatial.com
 0.0.0.0 akses-opera-games.pages.dev
+0.0.0.0 aksesgames-indowede.pages.dev
 0.0.0.0 akshun-akxe.github.io
 0.0.0.0 aktionspiele.de
 0.0.0.0 al652025.github.io
@@ -622,6 +623,7 @@
 0.0.0.0 animalpetgames.com
 0.0.0.0 animalwebgames.com
 0.0.0.0 animation-games-roblox.pages.dev
+0.0.0.0 anime-games-roblox-reddit.pages.dev
 0.0.0.0 anime-roblox-games-rpg.pages.dev
 0.0.0.0 animeshlabs.github.io
 0.0.0.0 aniruddhaadak80.github.io
@@ -1170,6 +1172,7 @@
 0.0.0.0 bestoldgames.net
 0.0.0.0 bestonlinegames.org
 0.0.0.0 bestonlineplaygames.blogspot.com
+0.0.0.0 bestsimulatorgamesonroblox.pages.dev
 0.0.0.0 bestunblockedgame.github.io
 0.0.0.0 bestunblockedgames.com
 0.0.0.0 betrayal.io
@@ -1202,6 +1205,7 @@
 0.0.0.0 bigfarm.goodgamestudios.com
 0.0.0.0 bigfinishgames.com
 0.0.0.0 bigfishgames.com
+0.0.0.0 bigfishgamesloginaccount-yz6.pages.dev
 0.0.0.0 bigfishgamesloginaccount.pages.dev
 0.0.0.0 bigmoneyarcade.com
 0.0.0.0 bigmouse1976.github.io
@@ -1760,6 +1764,7 @@
 0.0.0.0 camcimahir.itch.io
 0.0.0.0 camdencustard.github.io
 0.0.0.0 camo123456789.github.io
+0.0.0.0 candidates-hyperplaycity-com.pages.dev
 0.0.0.0 candycc12.github.io
 0.0.0.0 candycrush.com
 0.0.0.0 candycrush.gitlab.io
@@ -1784,6 +1789,7 @@
 0.0.0.0 car-simulator.com
 0.0.0.0 caraccio.itch.io
 0.0.0.0 caracolbob.com
+0.0.0.0 card-games-one.vercel.app
 0.0.0.0 cardgame.com
 0.0.0.0 cardgames.io
 0.0.0.0 cardgamesolitaire.com
@@ -2169,6 +2175,7 @@
 0.0.0.0 comdh.krig.games
 0.0.0.0 comdot-loser.github.io
 0.0.0.0 comdotgame.com
+0.0.0.0 common-core-games.pages.dev
 0.0.0.0 community-server-roblox.pages.dev
 0.0.0.0 comojogarrobloxnaextencao.pages.dev
 0.0.0.0 complex-arcade.github.io
@@ -2855,6 +2862,7 @@
 0.0.0.0 dnrweqffuwjtx.cloudfront.net
 0.0.0.0 dobbsgamesweb.netlify.app
 0.0.0.0 docternachos.github.io
+0.0.0.0 doctor-like-roblox-games.pages.dev
 0.0.0.0 doddoreul.github.io
 0.0.0.0 dog-squad-game-app.web.app
 0.0.0.0 dogbreedergame.com
@@ -3429,6 +3437,7 @@
 0.0.0.0 eliio-alpha.vercel.app
 0.0.0.0 elite-games.net
 0.0.0.0 elite4r.github.io
+0.0.0.0 elitegameshmo.netlify.app
 0.0.0.0 elitehustle.online
 0.0.0.0 eljaybulawan.github.io
 0.0.0.0 elkspel.nl
@@ -3621,6 +3630,7 @@
 0.0.0.0 experimonkey.com
 0.0.0.0 exploit.freetls.fastly.net
 0.0.0.0 exploit.global.ssl.fastly.net
+0.0.0.0 exploration-games-in-roblox.pages.dev
 0.0.0.0 external-green-9nvl6gws-dpbnotsjlvbq.edgeone.dev
 0.0.0.0 extraordinary-red-tq1zoybi-dpxed1o0jsqi.edgeone.dev
 0.0.0.0 extreme-games.net
@@ -4610,6 +4620,7 @@
 0.0.0.0 games-six-mu-17.vercel.app
 0.0.0.0 games-unblocked-g.github.io
 0.0.0.0 games-unblocked.bitbucket.io
+0.0.0.0 games-unblocked.pages.dev
 0.0.0.0 games-website-chi.vercel.app
 0.0.0.0 games-website-eight.vercel.app
 0.0.0.0 games-wheat-chi.vercel.app
@@ -4778,6 +4789,7 @@
 0.0.0.0 gametap.com
 0.0.0.0 gametestedpro.com
 0.0.0.0 gamethat.com
+0.0.0.0 gametio.com
 0.0.0.0 gametje.com
 0.0.0.0 gametop.com
 0.0.0.0 gametoptop.com
@@ -4787,6 +4799,7 @@
 0.0.0.0 gametuno.com
 0.0.0.0 gameunblocked-2025.github.io
 0.0.0.0 gameunblocked.gitlab.io
+0.0.0.0 gameunc.pages.dev
 0.0.0.0 gameup.ir
 0.0.0.0 gamevado.vercel.app
 0.0.0.0 gameverse-10001.vercel.app
@@ -5261,6 +5274,7 @@
 0.0.0.0 gotemmm123.github.io
 0.0.0.0 gotoplay.fun
 0.0.0.0 gozogozo.com
+0.0.0.0 gpark-roblox.pages.dev
 0.0.0.0 gplockedin.github.io
 0.0.0.0 gplusgames.com
 0.0.0.0 gplusgames.gitlab.io
@@ -5631,6 +5645,7 @@
 0.0.0.0 horror-games-roblox-foltyn.pages.dev
 0.0.0.0 horror-games-roblox-good.pages.dev
 0.0.0.0 horror-games-roblox-itsfunneh.pages.dev
+0.0.0.0 horror-games-roblox-mobile.pages.dev
 0.0.0.0 horrorgames.io
 0.0.0.0 horrorgames.us
 0.0.0.0 horse-games.org
@@ -5646,6 +5661,7 @@
 0.0.0.0 howtoplaygames.pages.dev
 0.0.0.0 hpgames.jp
 0.0.0.0 hpproguy8730-ship-it.github.io
+0.0.0.0 hse-econ-games.vercel.app
 0.0.0.0 ht83.com
 0.0.0.0 htfgames.com
 0.0.0.0 html-online-game.github.io
@@ -5855,6 +5871,7 @@
 0.0.0.0 ingamejob.com
 0.0.0.0 inglan2.github.io
 0.0.0.0 ink-saint.vercel.app
+0.0.0.0 inpages.org
 0.0.0.0 inquisitormaster-scary-roblox-games.pages.dev
 0.0.0.0 insanegamesonline.com
 0.0.0.0 insanogame.github.io
@@ -5945,6 +5962,7 @@
 0.0.0.0 ito.gg
 0.0.0.0 its2026.duckdns.org
 0.0.0.0 itsagustinbtw.github.io
+0.0.0.0 itsfunneh-roblox-scary-games.pages.dev
 0.0.0.0 itsukit0723-netizen.github.io
 0.0.0.0 itsvijaysingh1.github.io
 0.0.0.0 itsyourturn.com
@@ -6310,6 +6328,7 @@
 0.0.0.0 jugaronline.org
 0.0.0.0 jugarsolitario.es
 0.0.0.0 juicyzhou.github.io
+0.0.0.0 jumbo-game.netlify.app
 0.0.0.0 jumo-games-support.pages.dev
 0.0.0.0 jump-doodle.pages.dev
 0.0.0.0 jumponly.io
@@ -7456,6 +7475,7 @@
 0.0.0.0 mullergame.com
 0.0.0.0 multilife21c-sketch.github.io
 0.0.0.0 multiplayer-card-games-two.vercel.app
+0.0.0.0 multiplayer-fighting-games-roblox.pages.dev
 0.0.0.0 multiplayerchess.com
 0.0.0.0 multiplayergames.com
 0.0.0.0 multiplayertrivia.com
@@ -7795,6 +7815,7 @@
 0.0.0.0 obsidianig.com
 0.0.0.0 oceanar.io
 0.0.0.0 oceanbreezegames.com
+0.0.0.0 oceangamesv2.pages.dev
 0.0.0.0 ocigames.com
 0.0.0.0 octordle-nyt.pages.dev
 0.0.0.0 octordle.com
@@ -7859,6 +7880,7 @@
 0.0.0.0 online-checkers.com
 0.0.0.0 online-chess.eu
 0.0.0.0 online-emulators.com
+0.0.0.0 online-game-play-roblox.pages.dev
 0.0.0.0 online-games-69bcf.firebaseapp.com
 0.0.0.0 online-games-unblocked-nextjs.vercel.app
 0.0.0.0 online-games.asia
@@ -8176,6 +8198,7 @@
 0.0.0.0 patch-the-hype.github.io
 0.0.0.0 patchesgame.org
 0.0.0.0 patiencespelen.nl
+0.0.0.0 patotero.com.ar
 0.0.0.0 patrasxd.github.io
 0.0.0.0 paulgamerboy101.github.io
 0.0.0.0 paweljarosz.itch.io
@@ -8469,6 +8492,7 @@
 0.0.0.0 playcsonline.com
 0.0.0.0 playcurious.games
 0.0.0.0 playcutegames.com
+0.0.0.0 playdailyguess.pages.dev
 0.0.0.0 playdapp.io
 0.0.0.0 playdecorlife.pages.dev
 0.0.0.0 playdmv.netlify.app
@@ -8705,6 +8729,7 @@
 0.0.0.0 plemena.com
 0.0.0.0 plemiona.pl
 0.0.0.0 plicerin.github.io
+0.0.0.0 plinko-games-on-roblox.pages.dev
 0.0.0.0 plinkod.com
 0.0.0.0 plix.gg
 0.0.0.0 plonga.com
@@ -9392,6 +9417,7 @@
 0.0.0.0 roblox-hockey-simulator-script.pages.dev
 0.0.0.0 roblox-hood-games-leaked.pages.dev
 0.0.0.0 roblox-horror-games-asmr.pages.dev
+0.0.0.0 roblox-horror-games-code.pages.dev
 0.0.0.0 roblox-horror-games-easy.pages.dev
 0.0.0.0 roblox-horror-games-horangi99.pages.dev
 0.0.0.0 roblox-horror-games-review.pages.dev
@@ -9431,6 +9457,7 @@
 0.0.0.0 roblox-unblocked1.github.io
 0.0.0.0 roblox-uncopylocked-simulator-games.pages.dev
 0.0.0.0 roblox-underrated-games-list.pages.dev
+0.0.0.0 roblox-union-ui-library.pages.dev
 0.0.0.0 roblox-unlock-script.pages.dev
 0.0.0.0 roblox-valorant-clone-script.pages.dev
 0.0.0.0 roblox-violin-sound.pages.dev
@@ -9450,6 +9477,7 @@
 0.0.0.0 roblox.org
 0.0.0.0 roblox.qq.com
 0.0.0.0 roblox.rw
+0.0.0.0 robloxautosellscript.pages.dev
 0.0.0.0 robloxbasicadminessentialsscript.pages.dev
 0.0.0.0 robloxcdn.com
 0.0.0.0 robloxchakramarkscript.pages.dev
@@ -9463,6 +9491,7 @@
 0.0.0.0 robloxgenjutsuscript.pages.dev
 0.0.0.0 robloxhandtrackingsupportscript.pages.dev
 0.0.0.0 robloxhapticfeedbackscript.pages.dev
+0.0.0.0 robloxidcodesforgames.pages.dev
 0.0.0.0 robloxpiggy.com
 0.0.0.0 robloxquadtreemoduleluascript.pages.dev
 0.0.0.0 robloxrainbowscriptparticle.pages.dev
@@ -9738,6 +9767,7 @@
 0.0.0.0 secret-relict.nl
 0.0.0.0 secret-relict.pl
 0.0.0.0 secretuser23-games.github.io
+0.0.0.0 sections-bestgameverse-com.pages.dev
 0.0.0.0 sections.freetls.fastly.net
 0.0.0.0 sections.global.ssl.fastly.net
 0.0.0.0 sedecordle-nyt.pages.dev
@@ -11129,6 +11159,7 @@
 0.0.0.0 teespure.github.io
 0.0.0.0 tejapriyan.github.io
 0.0.0.0 telare.nbiappointment.com.ph
+0.0.0.0 teleplay.ai
 0.0.0.0 temple-of-boom.gitlab.io
 0.0.0.0 temple-run-2.com
 0.0.0.0 temple-run-2.pages.dev
@@ -11319,6 +11350,7 @@
 0.0.0.0 thstudy.com
 0.0.0.0 thunderfulgames.com
 0.0.0.0 thunderlotusgames.com
+0.0.0.0 ti-89-calculator-games.pages.dev
 0.0.0.0 tiberava.online
 0.0.0.0 tiberava.pages.dev
 0.0.0.0 tic-tac-toe-game.com
@@ -11378,6 +11410,7 @@
 0.0.0.0 tinyplay.io
 0.0.0.0 tinytakinteller.itch.io
 0.0.0.0 tinytrapgames.pages.dev
+0.0.0.0 titan-army-games-2026.pages.dev
 0.0.0.0 titan-gorilla-loves-unblocked-websites.github.io
 0.0.0.0 titisamshouse-afk.github.io
 0.0.0.0 titotu.io
@@ -11461,6 +11494,7 @@
 0.0.0.0 tower.game
 0.0.0.0 towergames.net
 0.0.0.0 towerpanic.com
+0.0.0.0 towersdefense.com
 0.0.0.0 towersdefense.org
 0.0.0.0 towerunite.com
 0.0.0.0 towerward.com
@@ -12403,6 +12437,7 @@
 0.0.0.0 whims00.github.io
 0.0.0.0 whiskey-games-website.pages.dev
 0.0.0.0 whist-cardgame.com
+0.0.0.0 white-spider-games.pages.dev
 0.0.0.0 whiteboard.games
 0.0.0.0 whitemilkgames.com
 0.0.0.0 whitespider.freetls.fastly.net
