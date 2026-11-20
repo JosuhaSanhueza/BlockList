@@ -123,6 +123,7 @@
 ||1v1lol-unblockedgame.github.io^
 ||1v1lol-unblockedmaybe.vercel.app^
 ||1v1lol.bitbucket.io^
+||1v1lol.fr^
 ||1v1lol.gg^
 ||1v1lol.github.io^
 ||1v1lol.io^
@@ -1721,6 +1722,7 @@
 ||c00lkimx01-creator.github.io^
 ||c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com^
 ||cabahtmlgames.com^
+||cabezones.xyz^
 ||cadawnofthedead.github.io^
 ||cadmium.freetls.fastly.net^
 ||cadmium.global.ssl.fastly.net^
@@ -1752,6 +1754,8 @@
 ||calcsolver2.net^
 ||calcsolverpro.com^
 ||calcsolverpro.net^
+||calcsolverpro.site^
+||calcsolvers.com^
 ||calcsolvers.net^
 ||calcsolves.net^
 ||calculatorforyou.online^
@@ -1851,6 +1855,7 @@
 ||cbgamesdev.github.io^
 ||cbingham222-cpu.github.io^
 ||cc84434bb2299629.www.da.198-251-83-251.plesk.page^
+||ccalcsolver.com^
 ||cdata.github.io^
 ||cdgameclub.com^
 ||cdn-augames.github.io^
@@ -2445,6 +2450,7 @@
 ||crazygamesunblocked.site^
 ||crazygameszone.com^
 ||crazyhunter712.github.io^
+||crazyiogames.com^
 ||crazylabs.com^
 ||crazyluca.github.io^
 ||crazymonkeygames.com^
@@ -3204,6 +3210,7 @@
 ||ducksum.freetls.fastly.net^
 ||ducksum.global.ssl.fastly.net^
 ||ducky-math.vercel.app^
+||ducky443747.github.io^
 ||duckymath2.freetls.fastly.net^
 ||duckymath2.global.ssl.fastly.net^
 ||duckymath3.freetls.fastly.net^
@@ -3615,6 +3622,7 @@
 ||evolution.biologycontest.com^
 ||evolutionaryarcade.com^
 ||evolutionsofgame.github.io^
+||evony.com^
 ||evowars.io^
 ||evowars.net^
 ||evoworld.io^
@@ -5961,6 +5969,7 @@
 ||ito.gg^
 ||its2026.duckdns.org^
 ||itsagustinbtw.github.io^
+||itscalcsolver.com^
 ||itsfunneh-roblox-scary-games.pages.dev^
 ||itsukit0723-netizen.github.io^
 ||itsvijaysingh1.github.io^
@@ -6998,6 +7007,7 @@
 ||mathlete.pages.dev^
 ||mathplayzone.com^
 ||maths-studio.github.io^
+||mathsolver.uk^
 ||mathsspot.com^
 ||mathwizard.pages.dev^
 ||matiascomputador122-crypto.github.io^
@@ -7033,6 +7043,8 @@
 ||mc7-contributors-eaglercraft.github.io^
 ||mca05854-dev.github.io^
 ||mcdle.net^
+||mcdub3.xyz^
+||mcii.online^
 ||mckee8371.github.io^
 ||mcnateyboii.github.io^
 ||mcraft.freetls.fastly.net^
@@ -7982,6 +7994,8 @@
 ||ottomate.games^
 ||ouazgames.com^
 ||ouiheberg.com^
+||our.com^
+||ourgames.net^
 ||outcome-memories.com^
 ||outof.games^
 ||outplay.com^
@@ -8743,6 +8757,7 @@
 ||pnvfdgame.com^
 ||po.ki^
 ||pocketworlds.com^
+||pocoyo.com^
 ||pog.com^
 ||poggygames.vercel.app^
 ||pogo.com^
@@ -9734,6 +9749,11 @@
 ||schoolhackr.github.io^
 ||schoolimpostor.github.io^
 ||schoolmath-dpi39nntz4qp.edgeone.dev^
+||schoolmaths-assets.pages.dev^
+||schoolmaths-lib11.pages.dev^
+||schoolmaths-lib3.pages.dev^
+||schoolmaths-lib4.pages.dev^
+||schoolmaths-lib9.pages.dev^
 ||schoology-1v1lol.github.io^
 ||schoology-unblocked-10x.github.io^
 ||schoology-unblocked.github.io^
@@ -10198,6 +10218,7 @@
 ||snakeappgame.com^
 ||snakeapplega.me^
 ||snakeapplegame.com^
+||snakefree.io^
 ||snakegame-online.bitbucket.io^
 ||snakegame-online.com^
 ||snakegame-unblocked.pages.dev^
@@ -10210,6 +10231,7 @@
 ||snakegameonline.io^
 ||snakegameonline.org^
 ||snakegames.online^
+||snakegratis.es^
 ||snakeio-unblocked.github.io^
 ||snakejuego.com^
 ||snakeonline.io^
@@ -10403,6 +10425,7 @@
 ||solvecalc.online^
 ||solvecalc.pro^
 ||solvecalc.site^
+||solvecalcpro.com^
 ||solvecalcpro.info^
 ||solvecalcs.com^
 ||solvercalc.app^
@@ -11270,6 +11293,7 @@
 ||thebraincodegames.github.io^
 ||thebrotherhoodgames.com^
 ||thebrowserarcade.github.io^
+||thecalcsolver.com^
 ||thechoicervoicergames.com^
 ||thecitizen839.gitlab.io^
 ||thecoderfinder.github.io^
@@ -11277,6 +11301,7 @@
 ||thedecap.github.io^
 ||theerrorexe.github.io^
 ||theforgegames.org^
+||thefreakcircus.cc^
 ||thefreakcircus.my^
 ||thefunkybits.github.io^
 ||thegame.jp^
@@ -12204,6 +12229,7 @@
 ||vectaria.io^
 ||vectorgame.com^
 ||vedia.games^
+||velgames.com^
 ||vemtk.com^
 ||venge-io.io^
 ||venge.io^

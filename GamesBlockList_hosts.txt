@@ -124,6 +124,7 @@
 0.0.0.0 1v1lol-unblockedgame.github.io
 0.0.0.0 1v1lol-unblockedmaybe.vercel.app
 0.0.0.0 1v1lol.bitbucket.io
+0.0.0.0 1v1lol.fr
 0.0.0.0 1v1lol.gg
 0.0.0.0 1v1lol.github.io
 0.0.0.0 1v1lol.io
@@ -1722,6 +1723,7 @@
 0.0.0.0 c00lkimx01-creator.github.io
 0.0.0.0 c42ea1fd-7ebe-4bc4-b543-15c26b1fc457.poki-gdn.com
 0.0.0.0 cabahtmlgames.com
+0.0.0.0 cabezones.xyz
 0.0.0.0 cadawnofthedead.github.io
 0.0.0.0 cadmium.freetls.fastly.net
 0.0.0.0 cadmium.global.ssl.fastly.net
@@ -1753,6 +1755,8 @@
 0.0.0.0 calcsolver2.net
 0.0.0.0 calcsolverpro.com
 0.0.0.0 calcsolverpro.net
+0.0.0.0 calcsolverpro.site
+0.0.0.0 calcsolvers.com
 0.0.0.0 calcsolvers.net
 0.0.0.0 calcsolves.net
 0.0.0.0 calculatorforyou.online
@@ -1852,6 +1856,7 @@
 0.0.0.0 cbgamesdev.github.io
 0.0.0.0 cbingham222-cpu.github.io
 0.0.0.0 cc84434bb2299629.www.da.198-251-83-251.plesk.page
+0.0.0.0 ccalcsolver.com
 0.0.0.0 cdata.github.io
 0.0.0.0 cdgameclub.com
 0.0.0.0 cdn-augames.github.io
@@ -2446,6 +2451,7 @@
 0.0.0.0 crazygamesunblocked.site
 0.0.0.0 crazygameszone.com
 0.0.0.0 crazyhunter712.github.io
+0.0.0.0 crazyiogames.com
 0.0.0.0 crazylabs.com
 0.0.0.0 crazyluca.github.io
 0.0.0.0 crazymonkeygames.com
@@ -3205,6 +3211,7 @@
 0.0.0.0 ducksum.freetls.fastly.net
 0.0.0.0 ducksum.global.ssl.fastly.net
 0.0.0.0 ducky-math.vercel.app
+0.0.0.0 ducky443747.github.io
 0.0.0.0 duckymath2.freetls.fastly.net
 0.0.0.0 duckymath2.global.ssl.fastly.net
 0.0.0.0 duckymath3.freetls.fastly.net
@@ -3616,6 +3623,7 @@
 0.0.0.0 evolution.biologycontest.com
 0.0.0.0 evolutionaryarcade.com
 0.0.0.0 evolutionsofgame.github.io
+0.0.0.0 evony.com
 0.0.0.0 evowars.io
 0.0.0.0 evowars.net
 0.0.0.0 evoworld.io
@@ -5962,6 +5970,7 @@
 0.0.0.0 ito.gg
 0.0.0.0 its2026.duckdns.org
 0.0.0.0 itsagustinbtw.github.io
+0.0.0.0 itscalcsolver.com
 0.0.0.0 itsfunneh-roblox-scary-games.pages.dev
 0.0.0.0 itsukit0723-netizen.github.io
 0.0.0.0 itsvijaysingh1.github.io
@@ -6999,6 +7008,7 @@
 0.0.0.0 mathlete.pages.dev
 0.0.0.0 mathplayzone.com
 0.0.0.0 maths-studio.github.io
+0.0.0.0 mathsolver.uk
 0.0.0.0 mathsspot.com
 0.0.0.0 mathwizard.pages.dev
 0.0.0.0 matiascomputador122-crypto.github.io
@@ -7034,6 +7044,8 @@
 0.0.0.0 mc7-contributors-eaglercraft.github.io
 0.0.0.0 mca05854-dev.github.io
 0.0.0.0 mcdle.net
+0.0.0.0 mcdub3.xyz
+0.0.0.0 mcii.online
 0.0.0.0 mckee8371.github.io
 0.0.0.0 mcnateyboii.github.io
 0.0.0.0 mcraft.freetls.fastly.net
@@ -7983,6 +7995,8 @@
 0.0.0.0 ottomate.games
 0.0.0.0 ouazgames.com
 0.0.0.0 ouiheberg.com
+0.0.0.0 our.com
+0.0.0.0 ourgames.net
 0.0.0.0 outcome-memories.com
 0.0.0.0 outof.games
 0.0.0.0 outplay.com
@@ -8744,6 +8758,7 @@
 0.0.0.0 pnvfdgame.com
 0.0.0.0 po.ki
 0.0.0.0 pocketworlds.com
+0.0.0.0 pocoyo.com
 0.0.0.0 pog.com
 0.0.0.0 poggygames.vercel.app
 0.0.0.0 pogo.com
@@ -9735,6 +9750,11 @@
 0.0.0.0 schoolhackr.github.io
 0.0.0.0 schoolimpostor.github.io
 0.0.0.0 schoolmath-dpi39nntz4qp.edgeone.dev
+0.0.0.0 schoolmaths-assets.pages.dev
+0.0.0.0 schoolmaths-lib11.pages.dev
+0.0.0.0 schoolmaths-lib3.pages.dev
+0.0.0.0 schoolmaths-lib4.pages.dev
+0.0.0.0 schoolmaths-lib9.pages.dev
 0.0.0.0 schoology-1v1lol.github.io
 0.0.0.0 schoology-unblocked-10x.github.io
 0.0.0.0 schoology-unblocked.github.io
@@ -10199,6 +10219,7 @@
 0.0.0.0 snakeappgame.com
 0.0.0.0 snakeapplega.me
 0.0.0.0 snakeapplegame.com
+0.0.0.0 snakefree.io
 0.0.0.0 snakegame-online.bitbucket.io
 0.0.0.0 snakegame-online.com
 0.0.0.0 snakegame-unblocked.pages.dev
@@ -10211,6 +10232,7 @@
 0.0.0.0 snakegameonline.io
 0.0.0.0 snakegameonline.org
 0.0.0.0 snakegames.online
+0.0.0.0 snakegratis.es
 0.0.0.0 snakeio-unblocked.github.io
 0.0.0.0 snakejuego.com
 0.0.0.0 snakeonline.io
@@ -10404,6 +10426,7 @@
 0.0.0.0 solvecalc.online
 0.0.0.0 solvecalc.pro
 0.0.0.0 solvecalc.site
+0.0.0.0 solvecalcpro.com
 0.0.0.0 solvecalcpro.info
 0.0.0.0 solvecalcs.com
 0.0.0.0 solvercalc.app
@@ -11271,6 +11294,7 @@
 0.0.0.0 thebraincodegames.github.io
 0.0.0.0 thebrotherhoodgames.com
 0.0.0.0 thebrowserarcade.github.io
+0.0.0.0 thecalcsolver.com
 0.0.0.0 thechoicervoicergames.com
 0.0.0.0 thecitizen839.gitlab.io
 0.0.0.0 thecoderfinder.github.io
@@ -11278,6 +11302,7 @@
 0.0.0.0 thedecap.github.io
 0.0.0.0 theerrorexe.github.io
 0.0.0.0 theforgegames.org
+0.0.0.0 thefreakcircus.cc
 0.0.0.0 thefreakcircus.my
 0.0.0.0 thefunkybits.github.io
 0.0.0.0 thegame.jp
@@ -12205,6 +12230,7 @@
 0.0.0.0 vectaria.io
 0.0.0.0 vectorgame.com
 0.0.0.0 vedia.games
+0.0.0.0 velgames.com
 0.0.0.0 vemtk.com
 0.0.0.0 venge-io.io
 0.0.0.0 venge.io
