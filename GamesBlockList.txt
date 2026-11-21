@@ -379,6 +379,7 @@
 ||absurdle.cc^
 ||acbrewer12.github.io^
 ||accessgames.github.io^
+||accountancysupergames.netlify.app^
 ||accountdeleted-wsis.github.io^
 ||accra-living.com^
 ||ace127647-cloud.github.io^
@@ -441,6 +442,7 @@
 ||aeriagames.jp^
 ||afiaabid195-cloud.github.io^
 ||aflacck.itch.io^
+||afsimracing.com.ar^
 ||afterplay.io^
 ||agame.com^
 ||agaonline.io^
@@ -1591,6 +1593,7 @@
 ||browsercraft.com^
 ||browsergame-base.de^
 ||browsergame.si^
+||browsergamehub.net^
 ||browsergamer.net^
 ||browsergamers.gg^
 ||browsergames.cc^
@@ -2094,6 +2097,7 @@
 ||clavejuegos.com^
 ||clear.web.freeunblockedgames.com^
 ||clearrivergames.com^
+||clephu-games.pages.dev^
 ||clever-portal.github.io^
 ||cleverappssg.com^
 ||cleverman606.github.io^
@@ -2844,6 +2848,7 @@
 ||dipa0102.github.io^
 ||dirt-clicker.com^
 ||disc-cover.com^
+||disease-spread-simulation-roblox.pages.dev^
 ||disney--games.com^
 ||diuwin-free-games.github.io^
 ||divertissez-vous.com^
@@ -3677,6 +3682,7 @@
 ||fandejuegos.com^
 ||fandesjeux.com^
 ||fanfreegames.com^
+||fangamer.com^
 ||fangiochi.com^
 ||fanhry.cz^
 ||fanigry.com^
@@ -4160,6 +4166,7 @@
 ||freezoneplay.com^
 ||freshnewgames.com^
 ||frev.info^
+||frhmlingames.netlify.app^
 ||friclassic.online^
 ||frictionalgames.com^
 ||friday-night-funkin-unblocked.github.io^
@@ -5274,6 +5281,7 @@
 ||gorillatag.app^
 ||gorillatagfree.com^
 ||gorillatagonline.com^
+||gory-roblox.pages.dev^
 ||gosprunki.com^
 ||gosprunki.net^
 ||got.gtarcade.com^
@@ -5385,6 +5393,7 @@
 ||gudao.games^
 ||guerrastribales.es^
 ||guerretribale.fr^
+||guided-roblox.pages.dev^
 ||guildmaster.yht.one^
 ||guitarflash.com^
 ||gulper.io^
@@ -5443,6 +5452,7 @@
 ||hamachinetwork.info^
 ||hammadshakeelai.github.io^
 ||hammerchen.github.io^
+||hammerplay-portal.pages.dev^
 ||hamnerrc.github.io^
 ||handdrawngames.com^
 ||handduel-revamp.vercel.app^
@@ -5631,6 +5641,7 @@
 ||hollowknightgame.netlify.app^
 ||hollowknightonline.com^
 ||hollowknightunblocked.vercel.app^
+||hollowreefgames-site.pages.dev^
 ||holyunblocker.freetls.fastly.net^
 ||holyunblocker.global.ssl.fastly.net^
 ||hombrearana.com^
@@ -5788,6 +5799,7 @@
 ||idolsofash.io^
 ||idolsofash.live^
 ||idolsofash.org^
+||idplay188-lucid-pointc.pages.dev^
 ||ieitbdk.github.io^
 ||iellogames.com^
 ||igamewin.com^
@@ -5841,6 +5853,7 @@
 ||imperiumgames.com.ar^
 ||impossiblequiz.net^
 ||impostergame.pro^
+||impostergamegenerator-click.pages.dev^
 ||impostor.io^
 ||imsleepybob.github.io^
 ||inblog.io^
@@ -5884,6 +5897,7 @@
 ||insanogame.github.io^
 ||inside-games.jp^
 ||insideoutfan1.github.io^
+||insperity-games-website.vercel.app^
 ||install-game.com^
 ||instant-games.github.io^
 ||instantgames.top^
@@ -6178,6 +6192,7 @@
 ||jogosfriv2.com.br^
 ||jogosfriv2018.net^
 ||jogosgratis.com^
+||jogosgratis.github.io^
 ||jogosjogos.com^
 ||jogosmahjonggratis.com^
 ||jogosnainternet.com.br^
@@ -6736,6 +6751,7 @@
 ||lite.3kh0.net^
 ||lite.nativegames.net^
 ||litgamez.com^
+||little-play-preview-1dd31c85.pages.dev^
 ||littlealchemy2.pages.dev^
 ||littlebigsnake.com^
 ||littlebigsnake.io^
@@ -6787,6 +6803,7 @@
 ||lovey8.com^
 ||lps7x.csb.app^
 ||lr007gitray.github.io^
+||lua-roblox-coding-course.pages.dev^
 ||luanpereiradias-commits.github.io^
 ||luarzin13.github.io^
 ||lucasohdev.github.io^
@@ -7167,6 +7184,7 @@
 ||minecraft-online.net^
 ||minecraft-soundboard.vercel.app^
 ||minecraft-support-web.vercel.app^
+||minecraft-text-for-roblox.pages.dev^
 ||minecraft-unblocked-games.pages.dev^
 ||minecraft-unblocked.com^
 ||minecraft-unblocked6x.github.io^
@@ -7577,6 +7595,7 @@
 ||nail-rinatovich.github.io^
 ||najox.com^
 ||nakamoto.games^
+||nalbakigames.com^
 ||namandhakad712.github.io^
 ||namogame.com^
 ||nanakoinoue-ui.github.io^
@@ -7664,6 +7683,7 @@
 ||nettleweb.pages.dev^
 ||never.freetls.fastly.net^
 ||never.global.ssl.fastly.net^
+||new-retro-bowl-36.github.io^
 ||new66ez.github.io^
 ||newalgebra.com^
 ||newbeetechh5game.com^
@@ -7998,6 +8018,7 @@
 ||ourgames.net^
 ||outcome-memories.com^
 ||outof.games^
+||outofofficegamessitmap.netlify.app^
 ||outplay.com^
 ||outred.github.io^
 ||outred.org^
@@ -8382,6 +8403,7 @@
 ||play-backgammon.top^
 ||play-blockblast.github.io^
 ||play-board-games.com^
+||play-buddy.pages.dev^
 ||play-candy-crush.com^
 ||play-cs.com^
 ||play-domino-online.com^
@@ -9412,6 +9434,7 @@
 ||rmy4143.github.io^
 ||rngrofl.github.io^
 ||robalexdev.gitlab.io^
+||roblox-admin2.pages.dev^
 ||roblox-animation-exporter-tool.pages.dev^
 ||roblox-bodyforce-ui-library.pages.dev^
 ||roblox-card-games.pages.dev^
@@ -9438,6 +9461,7 @@
 ||roblox-horror-games-easy.pages.dev^
 ||roblox-horror-games-horangi99.pages.dev^
 ||roblox-horror-games-review.pages.dev^
+||roblox-horror-games-yt.pages.dev^
 ||roblox-horror-map-template.pages.dev^
 ||roblox-icon-pack-ranks.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
@@ -9450,8 +9474,10 @@
 ||roblox-mystery-games-detective.pages.dev^
 ||roblox-obby-unblocked-76.pages.dev^
 ||roblox-online.bitbucket.io^
+||roblox-player-count-comparison.pages.dev^
 ||roblox-police.pages.dev^
 ||roblox-prince.pages.dev^
+||roblox-r63-games-free.pages.dev^
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
 ||roblox-scam-robux-games.pages.dev^
@@ -9459,6 +9485,7 @@
 ||roblox-spatial-audio-script.pages.dev^
 ||roblox-sports-games-football.pages.dev^
 ||roblox-superman-script-fly.pages.dev^
+||roblox-texture-pack-cartoon.pages.dev^
 ||roblox-tiny-script.pages.dev^
 ||roblox-train-ui-library.pages.dev^
 ||roblox-trap-esp.pages.dev^
@@ -9516,6 +9543,7 @@
 ||robloxshowcasegamesgraphics.pages.dev^
 ||robloxsmokescript.pages.dev^
 ||robloxspacemaptemplate.pages.dev^
+||robloxsportsgamesfootball.pages.dev^
 ||robloxsurvivalgamesmultiplayer.pages.dev^
 ||robloxtycoongames2player.pages.dev^
 ||robloxunblocked.gitlab.io^
@@ -11475,6 +11503,7 @@
 ||toorichfoyall.github.io^
 ||top-games.fr^
 ||top-games.net^
+||top-marvel-games-roblox.pages.dev^
 ||top-mcservers.com^
 ||top-roblox-games-earnings.pages.dev^
 ||top20.games^
@@ -12336,11 +12365,13 @@
 ||vresod.gitlab.io^
 ||vrg.li^
 ||vrstheft.github.io^
+||vtg-horror-games-roblox.pages.dev^
 ||vuigame.win^
 ||vxiyan.github.io^
 ||vynx276.github.io^
 ||w4games.com^
 ||wacky-flip.io^
+||wackygames.netlify.app^
 ||wadehands.github.io^
 ||wadjeteyegames.com^
 ||wafercafe.com^
