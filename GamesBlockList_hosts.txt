@@ -1540,6 +1540,7 @@
 0.0.0.0 brainrotgames.pages.dev
 0.0.0.0 brainrotgamesonline.org
 0.0.0.0 braintle.com
+0.0.0.0 brainworxedu.github.io
 0.0.0.0 brainzilla.com
 0.0.0.0 brawl-stars-unblocked.com
 0.0.0.0 brawl-stars.eu
@@ -7767,6 +7768,7 @@
 0.0.0.0 no.tribalwars.com
 0.0.0.0 noagames.co
 0.0.0.0 noahespfig.github.io
+0.0.0.0 noahstutoring.academy
 0.0.0.0 noble-maroon-8vftdev7-dpepvy73o1nv.edgeone.dev
 0.0.0.0 nobody5231.github.io
 0.0.0.0 nocache.pomu.com

@@ -1539,6 +1539,7 @@
 ||brainrotgames.pages.dev^
 ||brainrotgamesonline.org^
 ||braintle.com^
+||brainworxedu.github.io^
 ||brainzilla.com^
 ||brawl-stars-unblocked.com^
 ||brawl-stars.eu^
@@ -7766,6 +7767,7 @@
 ||no.tribalwars.com^
 ||noagames.co^
 ||noahespfig.github.io^
+||noahstutoring.academy^
 ||noble-maroon-8vftdev7-dpepvy73o1nv.edgeone.dev^
 ||nobody5231.github.io^
 ||nocache.pomu.com^
