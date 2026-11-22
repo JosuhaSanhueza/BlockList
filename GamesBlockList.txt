@@ -692,6 +692,7 @@
 ||arcadeboss.com^
 ||arcadecampushub.github.io^
 ||arcadeclash.github.io^
+||arcadegalaxy49.pages.dev^
 ||arcadegame-vault.vercel.app^
 ||arcadegameplace.com^
 ||arcadegames.gitlab.io^
@@ -1207,6 +1208,7 @@
 ||bigfarm.goodgamestudios.com^
 ||bigfinishgames.com^
 ||bigfishgames.com^
+||bigfishgamesaccountrecovery.pages.dev^
 ||bigfishgamesloginaccount-yz6.pages.dev^
 ||bigfishgamesloginaccount.pages.dev^
 ||bigmoneyarcade.com^
@@ -1556,6 +1558,7 @@
 ||bren-marcomm.github.io^
 ||brettonfox-png.github.io^
 ||brettspielnetz.de^
+||brianduffy-games-privacy.pages.dev^
 ||brianletort.github.io^
 ||brick-arcade-eight.vercel.app^
 ||brick-breaker.io^
@@ -1580,6 +1583,7 @@
 ||brooksbyers-cell.github.io^
 ||brooksch123.github.io^
 ||broooo58.github.io^
+||brownie-badge-making-games.pages.dev^
 ||browser-games-gh-ayman.vercel.app^
 ||browser-games.com^
 ||browser-games.gr^
@@ -2885,6 +2889,7 @@
 ||doll-games.org^
 ||dolldivine.com^
 ||dolygames.com^
+||dombesteindata-play.pages.dev^
 ||dominion.games^
 ||dominoes-game.com^
 ||dominoes.games^
@@ -4822,6 +4827,7 @@
 ||gamevexio.com^
 ||gamevgames.com^
 ||gamevi.github.io^
+||gameviet46.pages.dev^
 ||gameviora.com^
 ||gamevo-staging.pages.dev^
 ||gamevoi.com^
@@ -5665,6 +5671,7 @@
 ||horror-games-roblox-good.pages.dev^
 ||horror-games-roblox-itsfunneh.pages.dev^
 ||horror-games-roblox-mobile.pages.dev^
+||horror-games-roblox-tagalog.pages.dev^
 ||horrorgames.io^
 ||horrorgames.us^
 ||horse-games.org^
@@ -6725,6 +6732,7 @@
 ||lieutran27787-web.github.io^
 ||lifeskillsprogram.net^
 ||ligadegamers.com^
+||like-games-in-roblox.pages.dev^
 ||lilcoder26.github.io^
 ||limax.io^
 ||lin4cre.github.io^
@@ -8155,6 +8163,7 @@
 ||papasgames.onl^
 ||papasgamesfree.com^
 ||papasgamesfree.io^
+||papasgameshub.com^
 ||papasgamesonline.github.io^
 ||papasgaming.com^
 ||papaspancakeria.github.io^
@@ -8428,6 +8437,7 @@
 ||play-minecraft-servers.com^
 ||play-minecraft.games^
 ||play-moto-x3m.com^
+||play-pad.pages.dev^
 ||play-pizza-tower.com^
 ||play-polytrack.com^
 ||play-retro-bowl.com^
@@ -8948,6 +8958,7 @@
 ||poxel.io^
 ||pp7-deacons-quorum-arcade.vercel.app^
 ||ppigame.com^
+||ppsspp-game-football.pages.dev^
 ||practice.mathlessons.co^
 ||predadorbr.github.io^
 ||premiumunblockedgames.github.io^
@@ -9438,15 +9449,19 @@
 ||robalexdev.gitlab.io^
 ||roblox-admin2.pages.dev^
 ||roblox-animation-exporter-tool.pages.dev^
+||roblox-anime-upcoming-games.pages.dev^
 ||roblox-bodyforce-ui-library.pages.dev^
+||roblox-box-teleport-script.pages.dev^
 ||roblox-card-games.pages.dev^
 ||roblox-classic-zombie-games.pages.dev^
 ||roblox-creator-info-script.pages.dev^
 ||roblox-custom-validation-script.pages.dev^
 ||roblox-earthquake-sound.pages.dev^
 ||roblox-fate-games.pages.dev^
+||roblox-fps-games-realistic.pages.dev^
 ||roblox-friend-color-esp.pages.dev^
 ||roblox-game-download-link.pages.dev^
+||roblox-gameplay-horror-games.pages.dev^
 ||roblox-games-api-v2.pages.dev^
 ||roblox-games-half-loading.pages.dev^
 ||roblox-games-like-iscariot.pages.dev^
@@ -9467,6 +9482,8 @@
 ||roblox-horror-map-template.pages.dev^
 ||roblox-icon-pack-ranks.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
+||roblox-lua-guide-book.pages.dev^
+||roblox-mage-sound.pages.dev^
 ||roblox-marvel-games.pages.dev^
 ||roblox-material-list-enum.pages.dev^
 ||roblox-memory-optimizer-plugin.pages.dev^
@@ -9491,6 +9508,7 @@
 ||roblox-tiny-script.pages.dev^
 ||roblox-train-ui-library.pages.dev^
 ||roblox-trap-esp.pages.dev^
+||roblox-trolling-rp-games.pages.dev^
 ||roblox-unblock.github.io^
 ||roblox-unblocked-for-school.vercel.app^
 ||roblox-unblocked-game.github.io^
@@ -9511,6 +9529,7 @@
 ||roblox-vr-roleplay-games.pages.dev^
 ||roblox-vr-script-factory.pages.dev^
 ||roblox-vr-script-framework.pages.dev^
+||roblox-vr-script-productively.pages.dev^
 ||roblox-vr-script-property.pages.dev^
 ||roblox-vr-script-valuablely.pages.dev^
 ||roblox-vr-script-zero.pages.dev^
@@ -10951,6 +10970,7 @@
 ||stupidzombies2.pages.dev^
 ||suasponte1313.github.io^
 ||subagames.com^
+||subway-score-calculator.vercel.app^
 ||subway-surfers-flax.vercel.app^
 ||subway-surfers-free.netlify.app^
 ||subway-surfers-london.tops-games.workers.dev^
@@ -11424,6 +11444,7 @@
 ||tidurand.github.io^
 ||tiermaker.com^
 ||tiermakerpro.com^
+||tiktokgetpaidtoplayblockblasttesterupgamesukk.pages.dev^
 ||tileman.io^
 ||time-shooter-game.github.io^
 ||timepass-games.github.io^
@@ -12733,6 +12754,7 @@
 ||yourfungames.com^
 ||yourplaymat.com^
 ||yourwebgame.com^
+||youtube-and-roblox-collab.pages.dev^
 ||youxionline.com^
 ||yovogames.com^
 ||yoyugame.top^
