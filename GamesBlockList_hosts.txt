@@ -2024,6 +2024,7 @@
 0.0.0.0 classicube.net
 0.0.0.0 classicwebgames.com
 0.0.0.0 classrom6x.gitlab.io
+0.0.0.0 classrom7x.io
 0.0.0.0 classroom-15x-unblocked.github.io
 0.0.0.0 classroom-6x-game.github.io
 0.0.0.0 classroom-6x-games.com
@@ -4019,6 +4020,7 @@
 0.0.0.0 framedgame.io
 0.0.0.0 frankieg33.github.io
 0.0.0.0 fraxur.github.io
+0.0.0.0 freakcircus.io
 0.0.0.0 freaksgames.com
 0.0.0.0 fred-bennett.github.io
 0.0.0.0 fred7cross-cpu.github.io
@@ -4851,6 +4853,7 @@
 0.0.0.0 gamezori.com
 0.0.0.0 gamezworld.de
 0.0.0.0 gamhub.net
+0.0.0.0 gaming-cdn.com
 0.0.0.0 gaming-hub-kohl-delta.vercel.app
 0.0.0.0 gaming-style.com
 0.0.0.0 gaming.freetls.fastly.net
@@ -5332,12 +5335,14 @@
 0.0.0.0 grannygame.org
 0.0.0.0 grannygames.io
 0.0.0.0 grannygames.net
+0.0.0.0 grannygameunblocked.com
 0.0.0.0 grannyhorror.com
 0.0.0.0 grannyhorror.io
 0.0.0.0 grannyonline.io
 0.0.0.0 grannyunblocked.com
 0.0.0.0 grannyunblocked.org
 0.0.0.0 grannyunblocked.pages.dev
+0.0.0.0 grannyunblockedonline.github.io
 0.0.0.0 gratis-spiele-spielen.com
 0.0.0.0 gratisspiele.at
 0.0.0.0 gratistodo.com
@@ -6200,6 +6205,8 @@
 0.0.0.0 jogosfas.com
 0.0.0.0 jogosfriv2.com.br
 0.0.0.0 jogosfriv2018.net
+0.0.0.0 jogosfrivoriginal.com
+0.0.0.0 jogosfrivoriginals.com
 0.0.0.0 jogosgratis.com
 0.0.0.0 jogosgratis.github.io
 0.0.0.0 jogosjogos.com
@@ -7406,6 +7413,7 @@
 0.0.0.0 moonee.io
 0.0.0.0 moons.amaze-apps.com
 0.0.0.0 mooseygooseyy.github.io
+0.0.0.0 moosite.com
 0.0.0.0 moozunobu.github.io
 0.0.0.0 mope-io.pages.dev
 0.0.0.0 mope.freetls.fastly.net
@@ -9769,6 +9777,7 @@
 0.0.0.0 savygamer.co.uk
 0.0.0.0 savzmods2-bit.github.io
 0.0.0.0 say.games
+0.0.0.0 saycheese.games
 0.0.0.0 sayels0202-max.github.io
 0.0.0.0 scalacube.com
 0.0.0.0 scaleminiatures.fun
@@ -9821,6 +9830,7 @@
 0.0.0.0 scratchgamesonline.io
 0.0.0.0 scratchgeometrydash.org
 0.0.0.0 screaminginstoresprank.mooo.com
+0.0.0.0 scritchyscratchy.org
 0.0.0.0 scroll-games.vercel.app
 0.0.0.0 scrunkly.org
 0.0.0.0 scummweb.tsilva.eu

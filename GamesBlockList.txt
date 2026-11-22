@@ -2023,6 +2023,7 @@
 ||classicube.net^
 ||classicwebgames.com^
 ||classrom6x.gitlab.io^
+||classrom7x.io^
 ||classroom-15x-unblocked.github.io^
 ||classroom-6x-game.github.io^
 ||classroom-6x-games.com^
@@ -4018,6 +4019,7 @@
 ||framedgame.io^
 ||frankieg33.github.io^
 ||fraxur.github.io^
+||freakcircus.io^
 ||freaksgames.com^
 ||fred-bennett.github.io^
 ||fred7cross-cpu.github.io^
@@ -4850,6 +4852,7 @@
 ||gamezori.com^
 ||gamezworld.de^
 ||gamhub.net^
+||gaming-cdn.com^
 ||gaming-hub-kohl-delta.vercel.app^
 ||gaming-style.com^
 ||gaming.freetls.fastly.net^
@@ -5331,12 +5334,14 @@
 ||grannygame.org^
 ||grannygames.io^
 ||grannygames.net^
+||grannygameunblocked.com^
 ||grannyhorror.com^
 ||grannyhorror.io^
 ||grannyonline.io^
 ||grannyunblocked.com^
 ||grannyunblocked.org^
 ||grannyunblocked.pages.dev^
+||grannyunblockedonline.github.io^
 ||gratis-spiele-spielen.com^
 ||gratisspiele.at^
 ||gratistodo.com^
@@ -6199,6 +6204,8 @@
 ||jogosfas.com^
 ||jogosfriv2.com.br^
 ||jogosfriv2018.net^
+||jogosfrivoriginal.com^
+||jogosfrivoriginals.com^
 ||jogosgratis.com^
 ||jogosgratis.github.io^
 ||jogosjogos.com^
@@ -7405,6 +7412,7 @@
 ||moonee.io^
 ||moons.amaze-apps.com^
 ||mooseygooseyy.github.io^
+||moosite.com^
 ||moozunobu.github.io^
 ||mope-io.pages.dev^
 ||mope.freetls.fastly.net^
@@ -9768,6 +9776,7 @@
 ||savygamer.co.uk^
 ||savzmods2-bit.github.io^
 ||say.games^
+||saycheese.games^
 ||sayels0202-max.github.io^
 ||scalacube.com^
 ||scaleminiatures.fun^
@@ -9820,6 +9829,7 @@
 ||scratchgamesonline.io^
 ||scratchgeometrydash.org^
 ||screaminginstoresprank.mooo.com^
+||scritchyscratchy.org^
 ||scroll-games.vercel.app^
 ||scrunkly.org^
 ||scummweb.tsilva.eu^
