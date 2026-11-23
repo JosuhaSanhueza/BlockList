@@ -502,6 +502,7 @@
 ||akilesh-him.github.io^
 ||akofena.reluspatial.com^
 ||akses-opera-games.pages.dev^
+||aksesgames-indowede-aoc.pages.dev^
 ||aksesgames-indowede.pages.dev^
 ||akshun-akxe.github.io^
 ||aktionspiele.de^
@@ -875,6 +876,7 @@
 ||b2geravesh-cmd.github.io^
 ||b2server.tk^
 ||b5teacher.github.io^
+||babagames.pages.dev^
 ||babygames.com^
 ||babyhazelgames.com^
 ||babyowl1990-cloud.github.io^
@@ -1153,7 +1155,9 @@
 ||berrry.wine^
 ||berrys2.github.io^
 ||besidegames.com^
+||best-casual-games-roblox.pages.dev^
 ||best-couple-roblox-games.pages.dev^
+||best-roblox-superhero-games.pages.dev^
 ||bestallgames.com^
 ||bestarcade.fun^
 ||bestcrazygames.com^
@@ -1492,6 +1496,7 @@
 ||bouncybasketball.com^
 ||bountyboard.gg^
 ||box10.com^
+||box11games.pages.dev^
 ||boxgames.io^
 ||boxheadjuegos.com^
 ||boxheadplay.com^
@@ -1775,6 +1780,7 @@
 ||camcimahir.itch.io^
 ||camdencustard.github.io^
 ||camo123456789.github.io^
+||campaign-games-in-roblox.pages.dev^
 ||candidates-hyperplaycity-com.pages.dev^
 ||candycc12.github.io^
 ||candycrush.com^
@@ -1898,6 +1904,8 @@
 ||chase020427-dev.github.io^
 ||chaser-man.github.io^
 ||chat7689.github.io^
+||chateagratis.com.ar^
+||chathispano.com.ar^
 ||cheako.gitlab.io^
 ||check-the-game.vercel.app^
 ||checkbox.toys^
@@ -1998,6 +2006,7 @@
 ||classgame77.com^
 ||classhubtestingupdate-dp850j3oou5p.edgeone.dev^
 ||classhubtestingupdate-dpwvz6mtljhw.edgeone.dev^
+||classic-games-online-com.pages.dev^
 ||classic-retro-games.com^
 ||classic.game^
 ||classicarcade.win^
@@ -2113,6 +2122,7 @@
 ||clickacookie.github.io^
 ||clicker-games.com^
 ||clicker-heroes.io^
+||clickergames.com^
 ||clickergames.io^
 ||clickergamesaz.io^
 ||clickergaming.com^
@@ -2373,6 +2383,7 @@
 ||crazy-cattle.pages.dev^
 ||crazy-cattle3d.com^
 ||crazy-game.bitbucket.io^
+||crazy-games-of-roblox.pages.dev^
 ||crazy-games-online.bitbucket.io^
 ||crazy-games-unblocked.pages.dev^
 ||crazy-games.com^
@@ -2629,6 +2640,7 @@
 ||dan-dare.org^
 ||dandysworld.pages.dev^
 ||dandysworldgame.com^
+||dangodangogames.pages.dev^
 ||daniel-hanrahan-tools-and-games.github.io^
 ||danielde8.github.io^
 ||danieldupkx.github.io^
@@ -2641,6 +2653,7 @@
 ||danyilt.github.io^
 ||dappls.github.io^
 ||dariagames.com^
+||dark-rp-games-roblox.pages.dev^
 ||darkbladev47.github.io^
 ||darkmodegaming.github.io^
 ||darknessday-code.github.io^
@@ -3556,6 +3569,7 @@
 ||escape-road.org^
 ||escape-road.pages.dev^
 ||escape-roadgame.github.io^
+||escape-room-roblox-multiplayer.pages.dev^
 ||escapeclub.jp^
 ||escapegames24.com^
 ||escapegamesdaily.com^
@@ -4425,6 +4439,7 @@
 ||game-insight.com^
 ||game-jo.com^
 ||game-monetize-responsive-html-5-gam.vercel.app^
+||game-ohmao.pages.dev^
 ||game-park.com^
 ||game-portal-client.vercel.app^
 ||game-portal-six-liart.vercel.app^
@@ -5196,6 +5211,7 @@
 ||gobattle.io^
 ||goblinarcade.com^
 ||goblinkingdev.github.io^
+||godenotjogodeterrorroblox.pages.dev^
 ||godup233-hash.github.io^
 ||godvillegame.com^
 ||gofreegames.com^
@@ -5392,6 +5408,7 @@
 ||gt2048.com^
 ||gta3browser.vercel.app^
 ||gta5browser.com^
+||gta6minigames.pages.dev^
 ||gta6unblocked.github.io^
 ||gtabrowser.com^
 ||gtagusers.github.io^
@@ -5677,6 +5694,7 @@
 ||horror-games-roblox-itsfunneh.pages.dev^
 ||horror-games-roblox-mobile.pages.dev^
 ||horror-games-roblox-tagalog.pages.dev^
+||horror-maps-roblox.pages.dev^
 ||horrorgames.io^
 ||horrorgames.us^
 ||horse-games.org^
@@ -7112,6 +7130,7 @@
 ||melonsandboxgame.io^
 ||melvoridle.com^
 ||memcat.pages.dev^
+||meme-game-on-roblox.pages.dev^
 ||memory-game.net^
 ||memory.toys^
 ||memorygame.fun^
@@ -7942,6 +7961,7 @@
 ||online-pinball.com^
 ||online-solitaire.com^
 ||online-spades.com^
+||online-top-freeapplegame-com.pages.dev^
 ||online-unblocked-games.github.io^
 ||onlinebrowsergames.nl^
 ||onlinedominogames.com^
@@ -8643,6 +8663,7 @@
 ||playminigames.nl^
 ||playminigames.ru^
 ||playminigolfbattle.pages.dev^
+||playmixy.com^
 ||playmoki.com^
 ||playmonkeymart.com^
 ||playmonkeymart.online^
@@ -9464,6 +9485,7 @@
 ||roblox-classic-zombie-games.pages.dev^
 ||roblox-creator-info-script.pages.dev^
 ||roblox-custom-validation-script.pages.dev^
+||roblox-donation-games-list.pages.dev^
 ||roblox-earthquake-sound.pages.dev^
 ||roblox-fate-games.pages.dev^
 ||roblox-fps-games-realistic.pages.dev^
@@ -9471,6 +9493,7 @@
 ||roblox-game-download-link.pages.dev^
 ||roblox-gameplay-horror-games.pages.dev^
 ||roblox-games-api-v2.pages.dev^
+||roblox-games-for-girls.pages.dev^
 ||roblox-games-half-loading.pages.dev^
 ||roblox-games-like-iscariot.pages.dev^
 ||roblox-games-unblocked-school.vercel.app^
@@ -9512,6 +9535,7 @@
 ||roblox-spatial-audio-script.pages.dev^
 ||roblox-sports-games-football.pages.dev^
 ||roblox-superman-script-fly.pages.dev^
+||roblox-teamwork-games.pages.dev^
 ||roblox-texture-pack-cartoon.pages.dev^
 ||roblox-tiny-script.pages.dev^
 ||roblox-train-ui-library.pages.dev^
@@ -9527,6 +9551,7 @@
 ||roblox-unblocked.org^
 ||roblox-unblocked.pages.dev^
 ||roblox-unblocked1.github.io^
+||roblox-uncopylocked-horror-games2.pages.dev^
 ||roblox-uncopylocked-simulator-games.pages.dev^
 ||roblox-underrated-games-list.pages.dev^
 ||roblox-union-ui-library.pages.dev^
@@ -9553,8 +9578,10 @@
 ||robloxautosellscript.pages.dev^
 ||robloxbasicadminessentialsscript.pages.dev^
 ||robloxcdn.com^
+||robloxchakradamescript.pages.dev^
 ||robloxchakramarkscript.pages.dev^
 ||robloxchakramindscript.pages.dev^
+||robloxchakranaturescript.pages.dev^
 ||robloxchakrasandscript.pages.dev^
 ||robloxcontextactionservicemobilebutton.pages.dev^
 ||robloxdev.cn^
@@ -9564,6 +9591,7 @@
 ||robloxgenjutsuscript.pages.dev^
 ||robloxhandtrackingsupportscript.pages.dev^
 ||robloxhapticfeedbackscript.pages.dev^
+||robloxhopperbinscript.pages.dev^
 ||robloxidcodesforgames.pages.dev^
 ||robloxpiggy.com^
 ||robloxquadtreemoduleluascript.pages.dev^
@@ -9824,6 +9852,7 @@
 ||scienceacheivement.duckdns.org^
 ||scorchediv.github.io^
 ||scorenga.com^
+||scott-cawthon-roblox.pages.dev^
 ||scpshowcases.github.io^
 ||scratch-roblox-cookie-clicker.pages.dev^
 ||scratchgamesonline.io^
@@ -10033,6 +10062,7 @@
 ||skibiditoiletgame.com^
 ||skibiditoiletonline.github.io^
 ||skidrowgamereloaded.co^
+||skill-based-roblox-games.pages.dev^
 ||skilledgamerjoel-art.github.io^
 ||skills.freetls.fastly.net^
 ||skills.global.ssl.fastly.net^
@@ -11112,6 +11142,7 @@
 ||supermariogame.netlify.app^
 ||supermarioonline.com^
 ||supermarioplay.com^
+||supermarket-games-on-roblox.pages.dev^
 ||superobamaworld.com^
 ||superpark-games.vercel.app^
 ||superpigandfriends.org^
@@ -11265,6 +11296,7 @@
 ||tennonaiden078-sys.github.io^
 ||teravisiongames.com^
 ||terminaljs.github.io^
+||terrachat.com.ar^
 ||terrainfnffnf.github.io^
 ||terraria-game.com^
 ||terrariagame.io^
