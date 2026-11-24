@@ -1,4 +1,6 @@
 ||010011010100111101000100.github.io^
+||01af8209.pocket-horizon-games-website.pages.dev^
+||071616-com-games.pages.dev^
 ||0800webdev.github.io^
 ||0ntimer.github.io^
 ||0xciphershard.github.io^
@@ -473,6 +475,7 @@
 ||agaronline.io^
 ||agarz.com^
 ||agbero-highway.fun^
+||agentsox-games.pages.dev^
 ||agma.io^
 ||agokhanakin-blip.github.io^
 ||agooseegg.github.io^
@@ -682,9 +685,11 @@
 ||arcade-games-rho.vercel.app^
 ||arcade-grid.vercel.app^
 ||arcade-hub-arcade-site.vercel.app^
+||arcade-hub-gilt.vercel.app^
 ||arcade-liard.vercel.app^
 ||arcade-portal-delta.vercel.app^
 ||arcade-websites.vercel.app^
+||arcade.ashwinsathian.com^
 ||arcade.joacod.com^
 ||arcade.laughingbuddhagames.com^
 ||arcade.vrg.li^
@@ -1158,6 +1163,7 @@
 ||best-casual-games-roblox.pages.dev^
 ||best-couple-roblox-games.pages.dev^
 ||best-roblox-superhero-games.pages.dev^
+||best-roblox-vr-games.pages.dev^
 ||bestallgames.com^
 ||bestarcade.fun^
 ||bestcrazygames.com^
@@ -2143,6 +2149,7 @@
 ||clockworksilas.github.io^
 ||clodytheo1221-hue.github.io^
 ||clouddeck.app^
+||cloudflare-01-language-games.pages.dev^
 ||cloudfrontgames.com^
 ||cloudgames.gg^
 ||cloudimperiumgames.com^
@@ -2338,6 +2345,7 @@
 ||core-social-games.pages.dev^
 ||core.ruiz-tagle.com^
 ||coreballjp.com^
+||coregamebase.top^
 ||corn-games.vercel.app^
 ||cornholeleague.pages.dev^
 ||corriscant.github.io^
@@ -3804,6 +3812,7 @@
 ||fireproofgames.com^
 ||firesparkt.github.io^
 ||firesquid.games^
+||firewall-safe-games.pages.dev^
 ||fishdom.xyz^
 ||fishfolk.org^
 ||fishinggames.us^
@@ -4644,6 +4653,7 @@
 ||games-lake-omega-54.vercel.app^
 ||games-library.ru^
 ||games-like-aut-roblox.pages.dev^
+||games-like-demonfall-roblox.pages.dev^
 ||games-like-kitty-roblox.pages.dev^
 ||games-like-roblox-vr.pages.dev^
 ||games-msn.com^
@@ -4689,6 +4699,7 @@
 ||games.mirror.co.uk^
 ||games.msn.com^
 ||games.org^
+||games.pavi2410.com^
 ||games.seniorstoday.in^
 ||games.serp.co^
 ||games.tamirsportfolio.com^
@@ -4698,6 +4709,7 @@
 ||games.triviatoday.com^
 ||games.xhdndmm.net^
 ||games.yahoo.co.jp^
+||games.zuujis.com^
 ||games144.com^
 ||games17.com^
 ||games235.com^
@@ -6809,6 +6821,7 @@
 ||lokigames.com^
 ||lol-beans.bitbucket.io^
 ||lol-beans.org^
+||lolavilla.com.ar^
 ||lolbeans.freetls.fastly.net^
 ||lolbeans.global.ssl.fastly.net^
 ||lolbeans.io^
@@ -6971,6 +6984,7 @@
 ||mahyong.net^
 ||main--geometry-dash-the-website.netlify.app^
 ||main-retro-bowl.vercel.app^
+||maitri-games-website.netlify.app^
 ||majesticwafer.github.io^
 ||majingame.com^
 ||majong.cc^
@@ -7973,6 +7987,7 @@
 ||onlinegames.com^
 ||onlinegames.io^
 ||onlinegames.net^
+||onlinegames.stream^
 ||onlinegames.world^
 ||onlinegames247.net^
 ||onlinegamesareanichemarket.wordpress.com^
@@ -8267,6 +8282,7 @@
 ||pasjanse.pl^
 ||passion-industry-game.com^
 ||passiongames-es.com^
+||passportgame.pages.dev^
 ||passwordgate123.gitlab.io^
 ||pastexams.org^
 ||pastplay.net^
@@ -8415,6 +8431,7 @@
 ||pjh-eric.github.io^
 ||pkmnreborn.com^
 ||pkv-games-disdukcapillubuklinggaukota-amp.pages.dev^
+||pkvgames-situs-login.pages.dev^
 ||pla.bad-time-simulator.com^
 ||planet-clicker.net^
 ||planetcapture.io^
@@ -8487,6 +8504,7 @@
 ||play.de^
 ||play.gilect.com^
 ||play.kiwiprojekt.pl^
+||play.mint.gg^
 ||play.msn.com^
 ||play.pokemonblazeonline.com^
 ||play.sonicthefighte.rs^
@@ -8540,6 +8558,7 @@
 ||playbasketballbros.com^
 ||playbay.games^
 ||playben10games.com^
+||playbill-daily.pages.dev^
 ||playblockpost.pages.dev^
 ||playblockuppuzzle.pages.dev^
 ||playbloonstowerdefense.com^
@@ -8592,6 +8611,7 @@
 ||playerepic76.github.io^
 ||playerthree.com^
 ||playerthree.net^
+||playertwo.plus^
 ||playescapegames.com^
 ||playescaperoad2.com^
 ||playfestival.de^
@@ -9005,6 +9025,7 @@
 ||printhelloworldasdas.github.io^
 ||prinxy.app^
 ||prinxy.es^
+||private-7test.arc-services.dev^
 ||privategameservers.com^
 ||pro-playgames.com^
 ||procat999.github.io^
@@ -9511,6 +9532,7 @@
 ||roblox-horror-games-review.pages.dev^
 ||roblox-horror-games-yt.pages.dev^
 ||roblox-horror-map-template.pages.dev^
+||roblox-house-games.pages.dev^
 ||roblox-icon-pack-ranks.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
 ||roblox-lua-guide-book.pages.dev^
@@ -9531,9 +9553,12 @@
 ||roblox-rats.pages.dev^
 ||roblox-robot-sound.pages.dev^
 ||roblox-scam-robux-games.pages.dev^
+||roblox-skill-games.pages.dev^
 ||roblox-sorcerer-temp.pages.dev^
 ||roblox-spatial-audio-script.pages.dev^
 ||roblox-sports-games-football.pages.dev^
+||roblox-squid-games-avatar.pages.dev^
+||roblox-studio-script-library.pages.dev^
 ||roblox-superman-script-fly.pages.dev^
 ||roblox-teamwork-games.pages.dev^
 ||roblox-texture-pack-cartoon.pages.dev^
@@ -9570,6 +9595,7 @@
 ||roblox-window-esp.pages.dev^
 ||roblox-zachs-service-station.pages.dev^
 ||roblox-zombie-elimination-games.pages.dev^
+||roblox-zombie-survival-games.pages.dev^
 ||roblox.cn^
 ||roblox.com^
 ||roblox.org^
@@ -10798,6 +10824,7 @@
 ||squid-game.pro^
 ||squidgameonline.pages.dev^
 ||squishybilliards.com^
+||squistergames-github-io.pages.dev^
 ||sr-frosty-games.vercel.app^
 ||srijal62044.github.io^
 ||srijanreddy.github.io^
@@ -11023,6 +11050,7 @@
 ||subway-surfers.me^
 ||subwaygame.bitbucket.io^
 ||subwaygames.io^
+||subwaysurfers-dpfxoii2gv9b.edgeone.dev^
 ||subwaysurfers-free.github.io^
 ||subwaysurfers-game.com^
 ||subwaysurfers-game.io^
@@ -11161,6 +11189,7 @@
 ||supremacy1914.it^
 ||supremacy1914.nl^
 ||supremacy1914.pl^
+||surf-roblox.pages.dev^
 ||surfers.freetls.fastly.net^
 ||surfers.global.ssl.fastly.net^
 ||suroi.io^
@@ -11169,9 +11198,11 @@
 ||surviv.freetls.fastly.net^
 ||surviv.global.ssl.fastly.net^
 ||surviv.io^
+||survival-horror-games-roblox.pages.dev^
 ||survivewavez.com^
 ||survivor.io^
 ||survivoridlerun.web.app^
+||sus-games.pages.dev^
 ||sussyplugins.github.io^
 ||svavgokulamf1.github.io^
 ||svitlogames.gitlab.io^
@@ -11216,6 +11247,7 @@
 ||tagtopvaz.github.io^
 ||taguchieri.github.io^
 ||tagunblocked.com^
+||tailorgame.com^
 ||take-a-shower.duckdns.org^
 ||takecareofshadowmilk.life^
 ||taktaktak.com^
@@ -12274,6 +12306,7 @@
 ||urban-rush-game.vercel.app^
 ||urlsnake.com^
 ||urmud.com^
+||us-steam-game.pages.dev^
 ||us.freetls.fastly.net^
 ||us.global.ssl.fastly.net^
 ||usama360.github.io^
@@ -12890,6 +12923,7 @@
 ||zohoho.org^
 ||zoidgames.vercel.app^
 ||zokigames.com^
+||zokogames.com^
 ||zolipop2012.github.io^
 ||zombieshooters.com^
 ||zombsroyale-unblocked.github.io^
