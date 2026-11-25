@@ -1913,6 +1913,7 @@
 0.0.0.0 chat7689.github.io
 0.0.0.0 chateagratis.com.ar
 0.0.0.0 chathispano.com.ar
+0.0.0.0 chatsfriends.com.ar
 0.0.0.0 cheako.gitlab.io
 0.0.0.0 check-the-game.vercel.app
 0.0.0.0 checkbox.toys
@@ -2008,6 +2009,7 @@
 0.0.0.0 clashroyaleunblocked.com
 0.0.0.0 class-76.github.io
 0.0.0.0 class6x.gitlab.io
+0.0.0.0 classblitz.com
 0.0.0.0 classes.freetls.fastly.net
 0.0.0.0 classes.global.ssl.fastly.net
 0.0.0.0 classgame77.com
@@ -2424,6 +2426,7 @@
 0.0.0.0 crazycattle3d.io
 0.0.0.0 crazycattle3d.net
 0.0.0.0 crazycattle3d.pages.dev
+0.0.0.0 crazycattle3dgames.com
 0.0.0.0 crazycattle3dgames.github.io
 0.0.0.0 crazycattlegame.com
 0.0.0.0 crazycattlegame.pages.dev
@@ -2603,6 +2606,7 @@
 0.0.0.0 d1rkless.github.io
 0.0.0.0 d1tmbzjih4bfq6.cloudfront.net
 0.0.0.0 d1wnrmoe2jrw0g.cloudfront.net
+0.0.0.0 d22cacc37ef3cc12d1ff.b-cdn.net
 0.0.0.0 d2gve52fz9syn8.cloudfront.net
 0.0.0.0 d2survivors.lol
 0.0.0.0 d322cqt584bo4o.cloudfront.net
@@ -3691,6 +3695,7 @@
 0.0.0.0 faf-gamezs.github.io
 0.0.0.0 faf-gaming.github.io
 0.0.0.0 fafgamess.github.io
+0.0.0.0 fairgames.pages.dev
 0.0.0.0 faisalnatour123-hue.github.io
 0.0.0.0 fake.freetls.fastly.net
 0.0.0.0 fake.global.ssl.fastly.net
@@ -4442,6 +4447,7 @@
 0.0.0.0 gamalod.com
 0.0.0.0 gamaverse.com
 0.0.0.0 game-board-pi.vercel.app
+0.0.0.0 game-dna.pages.dev
 0.0.0.0 game-free.gitlab.io
 0.0.0.0 game-galaxy-hub.vercel.app
 0.0.0.0 game-game.com
@@ -5609,6 +5615,7 @@
 0.0.0.0 hfungame.com
 0.0.0.0 hgt54.github.io
 0.0.0.0 hhool8.github.io
+0.0.0.0 hi-freeapplegame-com.pages.dev
 0.0.0.0 hibzz.games
 0.0.0.0 hidden247.com
 0.0.0.0 hidden4fun.com
@@ -6300,6 +6307,7 @@
 0.0.0.0 juegix.com
 0.0.0.0 juegodezombies.com
 0.0.0.0 juegoloco.com
+0.0.0.0 juegos-desbloqueados.pages.dev
 0.0.0.0 juegos-es.bitbucket.io
 0.0.0.0 juegos-gratis.bitbucket.io
 0.0.0.0 juegos-gratis.netlify.app
@@ -6701,6 +6709,7 @@
 0.0.0.0 lategames.com
 0.0.0.0 later.freetls.fastly.net
 0.0.0.0 later.global.ssl.fastly.net
+0.0.0.0 latinchat.com.ar
 0.0.0.0 latpong22.github.io
 0.0.0.0 launchpad-games-lobby.vercel.app
 0.0.0.0 lavarunio.pages.dev
@@ -7690,6 +7699,7 @@
 0.0.0.0 nebula.global.ssl.fastly.net
 0.0.0.0 nedim-rasimoglu-fiba.github.io
 0.0.0.0 needformadness.com
+0.0.0.0 negativegames-privacy-policy.pages.dev
 0.0.0.0 neilbauman21-hub.github.io
 0.0.0.0 nekogames.jp
 0.0.0.0 nelly-sgamehub.vercel.app
@@ -7854,6 +7864,7 @@
 0.0.0.0 notsocasual.com
 0.0.0.0 noufelgaming.github.io
 0.0.0.0 nova-arcade-ten.vercel.app
+0.0.0.0 nova-galaxy-play-85.pages.dev
 0.0.0.0 novaarcade28.pages.dev
 0.0.0.0 novadev.vip
 0.0.0.0 novaloid117.github.io
@@ -7933,6 +7944,7 @@
 0.0.0.0 okagame.com
 0.0.0.0 okgamer.ru
 0.0.0.0 okonaonline.com
+0.0.0.0 oktaavyagames.vercel.app
 0.0.0.0 old-games.com
 0.0.0.0 old-games.org
 0.0.0.0 old-games.ru
@@ -8161,6 +8173,7 @@
 0.0.0.0 padlet.com
 0.0.0.0 padletusercontent.com
 0.0.0.0 pagamerican.app
+0.0.0.0 paisdelosjuegos.com
 0.0.0.0 paisdelosjuegos.es
 0.0.0.0 paisdelosjuegos.net
 0.0.0.0 paixnidia.com
@@ -8280,6 +8293,7 @@
 0.0.0.0 parthgadge2025.github.io
 0.0.0.0 parthivgvs172.github.io
 0.0.0.0 partidago.com
+0.0.0.0 partisan-games.github.io
 0.0.0.0 pasjanse.pl
 0.0.0.0 passion-industry-game.com
 0.0.0.0 passiongames-es.com
@@ -8393,6 +8407,7 @@
 0.0.0.0 pixel-blade-calculator.com
 0.0.0.0 pixel-number-diy-coloring.pages.dev
 0.0.0.0 pixel-shooter.github.io
+0.0.0.0 pixel-vault-arcade-40.pages.dev
 0.0.0.0 pixelantgames.com
 0.0.0.0 pixelarena.netlify.app
 0.0.0.0 pixelartegames.com.ar
@@ -8657,6 +8672,7 @@
 0.0.0.0 playhopgames.space
 0.0.0.0 playhubhqdk.github.io
 0.0.0.0 playinfinitecraft.com
+0.0.0.0 playing-hub.netlify.app
 0.0.0.0 playingcards.io
 0.0.0.0 playingfungames.com
 0.0.0.0 playironsnout.pages.dev
@@ -9517,6 +9533,7 @@
 0.0.0.0 roblox-games-api-v2.pages.dev
 0.0.0.0 roblox-games-for-girls.pages.dev
 0.0.0.0 roblox-games-half-loading.pages.dev
+0.0.0.0 roblox-games-high-quality.pages.dev
 0.0.0.0 roblox-games-like-iscariot.pages.dev
 0.0.0.0 roblox-games-unblocked-school.vercel.app
 0.0.0.0 roblox-games-unblocked.github.io
@@ -9602,6 +9619,7 @@
 0.0.0.0 roblox.org
 0.0.0.0 roblox.qq.com
 0.0.0.0 roblox.rw
+0.0.0.0 roblox3daudioscript.pages.dev
 0.0.0.0 robloxautosellscript.pages.dev
 0.0.0.0 robloxbasicadminessentialsscript.pages.dev
 0.0.0.0 robloxcdn.com
@@ -9610,6 +9628,7 @@
 0.0.0.0 robloxchakramindscript.pages.dev
 0.0.0.0 robloxchakranaturescript.pages.dev
 0.0.0.0 robloxchakrasandscript.pages.dev
+0.0.0.0 robloxcommunityscript.pages.dev
 0.0.0.0 robloxcontextactionservicemobilebutton.pages.dev
 0.0.0.0 robloxdev.cn
 0.0.0.0 robloxdronescript.pages.dev
@@ -9637,6 +9656,7 @@
 0.0.0.0 robloxunblockedonline.gitlab.io
 0.0.0.0 robloxuncopylockedgames.pages.dev
 0.0.0.0 robloxuniversalconstraintscript2.pages.dev
+0.0.0.0 robloxvetexgamesscript.pages.dev
 0.0.0.0 robloxwendigoscriptai.pages.dev
 0.0.0.0 robo-galactic-shooter.netlify.app
 0.0.0.0 roboaaron.github.io
@@ -10564,6 +10584,7 @@
 0.0.0.0 soumyadityaa.github.io
 0.0.0.0 soups.freetls.fastly.net
 0.0.0.0 soups.global.ssl.fastly.net
+0.0.0.0 source4game.com
 0.0.0.0 sourdays-1.github.io
 0.0.0.0 space-shooter-shadrouh.netlify.app
 0.0.0.0 spacebarclicker2.net
@@ -11023,6 +11044,7 @@
 0.0.0.0 studio-games.vercel.app
 0.0.0.0 studuser-git.github.io
 0.0.0.0 studybreak-cup.pages.dev
+0.0.0.0 studydraftgames.pages.dev
 0.0.0.0 studyloft.us-lax-4.linodeobjects.com
 0.0.0.0 stuff.freetls.fastly.net
 0.0.0.0 stuff.global.ssl.fastly.net
@@ -12897,10 +12919,12 @@
 0.0.0.0 zenslashbs.github.io
 0.0.0.0 zentic.org
 0.0.0.0 zephyruszt.github.io
+0.0.0.0 zero-gravity-arcade-88.pages.dev
 0.0.0.0 zeronvi.github.io
 0.0.0.0 zeropass.live
 0.0.0.0 zeroplaygames.com
 0.0.0.0 zeroxiphyt.github.io
+0.0.0.0 zfgames-chi.vercel.app
 0.0.0.0 zgames.ae
 0.0.0.0 zgames.com
 0.0.0.0 zgames.io

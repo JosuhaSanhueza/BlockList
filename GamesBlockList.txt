@@ -1912,6 +1912,7 @@
 ||chat7689.github.io^
 ||chateagratis.com.ar^
 ||chathispano.com.ar^
+||chatsfriends.com.ar^
 ||cheako.gitlab.io^
 ||check-the-game.vercel.app^
 ||checkbox.toys^
@@ -2007,6 +2008,7 @@
 ||clashroyaleunblocked.com^
 ||class-76.github.io^
 ||class6x.gitlab.io^
+||classblitz.com^
 ||classes.freetls.fastly.net^
 ||classes.global.ssl.fastly.net^
 ||classgame77.com^
@@ -2423,6 +2425,7 @@
 ||crazycattle3d.io^
 ||crazycattle3d.net^
 ||crazycattle3d.pages.dev^
+||crazycattle3dgames.com^
 ||crazycattle3dgames.github.io^
 ||crazycattlegame.com^
 ||crazycattlegame.pages.dev^
@@ -2602,6 +2605,7 @@
 ||d1rkless.github.io^
 ||d1tmbzjih4bfq6.cloudfront.net^
 ||d1wnrmoe2jrw0g.cloudfront.net^
+||d22cacc37ef3cc12d1ff.b-cdn.net^
 ||d2gve52fz9syn8.cloudfront.net^
 ||d2survivors.lol^
 ||d322cqt584bo4o.cloudfront.net^
@@ -3690,6 +3694,7 @@
 ||faf-gamezs.github.io^
 ||faf-gaming.github.io^
 ||fafgamess.github.io^
+||fairgames.pages.dev^
 ||faisalnatour123-hue.github.io^
 ||fake.freetls.fastly.net^
 ||fake.global.ssl.fastly.net^
@@ -4441,6 +4446,7 @@
 ||gamalod.com^
 ||gamaverse.com^
 ||game-board-pi.vercel.app^
+||game-dna.pages.dev^
 ||game-free.gitlab.io^
 ||game-galaxy-hub.vercel.app^
 ||game-game.com^
@@ -5608,6 +5614,7 @@
 ||hfungame.com^
 ||hgt54.github.io^
 ||hhool8.github.io^
+||hi-freeapplegame-com.pages.dev^
 ||hibzz.games^
 ||hidden247.com^
 ||hidden4fun.com^
@@ -6299,6 +6306,7 @@
 ||juegix.com^
 ||juegodezombies.com^
 ||juegoloco.com^
+||juegos-desbloqueados.pages.dev^
 ||juegos-es.bitbucket.io^
 ||juegos-gratis.bitbucket.io^
 ||juegos-gratis.netlify.app^
@@ -6700,6 +6708,7 @@
 ||lategames.com^
 ||later.freetls.fastly.net^
 ||later.global.ssl.fastly.net^
+||latinchat.com.ar^
 ||latpong22.github.io^
 ||launchpad-games-lobby.vercel.app^
 ||lavarunio.pages.dev^
@@ -7689,6 +7698,7 @@
 ||nebula.global.ssl.fastly.net^
 ||nedim-rasimoglu-fiba.github.io^
 ||needformadness.com^
+||negativegames-privacy-policy.pages.dev^
 ||neilbauman21-hub.github.io^
 ||nekogames.jp^
 ||nelly-sgamehub.vercel.app^
@@ -7853,6 +7863,7 @@
 ||notsocasual.com^
 ||noufelgaming.github.io^
 ||nova-arcade-ten.vercel.app^
+||nova-galaxy-play-85.pages.dev^
 ||novaarcade28.pages.dev^
 ||novadev.vip^
 ||novaloid117.github.io^
@@ -7932,6 +7943,7 @@
 ||okagame.com^
 ||okgamer.ru^
 ||okonaonline.com^
+||oktaavyagames.vercel.app^
 ||old-games.com^
 ||old-games.org^
 ||old-games.ru^
@@ -8160,6 +8172,7 @@
 ||padlet.com^
 ||padletusercontent.com^
 ||pagamerican.app^
+||paisdelosjuegos.com^
 ||paisdelosjuegos.es^
 ||paisdelosjuegos.net^
 ||paixnidia.com^
@@ -8279,6 +8292,7 @@
 ||parthgadge2025.github.io^
 ||parthivgvs172.github.io^
 ||partidago.com^
+||partisan-games.github.io^
 ||pasjanse.pl^
 ||passion-industry-game.com^
 ||passiongames-es.com^
@@ -8392,6 +8406,7 @@
 ||pixel-blade-calculator.com^
 ||pixel-number-diy-coloring.pages.dev^
 ||pixel-shooter.github.io^
+||pixel-vault-arcade-40.pages.dev^
 ||pixelantgames.com^
 ||pixelarena.netlify.app^
 ||pixelartegames.com.ar^
@@ -8656,6 +8671,7 @@
 ||playhopgames.space^
 ||playhubhqdk.github.io^
 ||playinfinitecraft.com^
+||playing-hub.netlify.app^
 ||playingcards.io^
 ||playingfungames.com^
 ||playironsnout.pages.dev^
@@ -9516,6 +9532,7 @@
 ||roblox-games-api-v2.pages.dev^
 ||roblox-games-for-girls.pages.dev^
 ||roblox-games-half-loading.pages.dev^
+||roblox-games-high-quality.pages.dev^
 ||roblox-games-like-iscariot.pages.dev^
 ||roblox-games-unblocked-school.vercel.app^
 ||roblox-games-unblocked.github.io^
@@ -9601,6 +9618,7 @@
 ||roblox.org^
 ||roblox.qq.com^
 ||roblox.rw^
+||roblox3daudioscript.pages.dev^
 ||robloxautosellscript.pages.dev^
 ||robloxbasicadminessentialsscript.pages.dev^
 ||robloxcdn.com^
@@ -9609,6 +9627,7 @@
 ||robloxchakramindscript.pages.dev^
 ||robloxchakranaturescript.pages.dev^
 ||robloxchakrasandscript.pages.dev^
+||robloxcommunityscript.pages.dev^
 ||robloxcontextactionservicemobilebutton.pages.dev^
 ||robloxdev.cn^
 ||robloxdronescript.pages.dev^
@@ -9636,6 +9655,7 @@
 ||robloxunblockedonline.gitlab.io^
 ||robloxuncopylockedgames.pages.dev^
 ||robloxuniversalconstraintscript2.pages.dev^
+||robloxvetexgamesscript.pages.dev^
 ||robloxwendigoscriptai.pages.dev^
 ||robo-galactic-shooter.netlify.app^
 ||roboaaron.github.io^
@@ -10563,6 +10583,7 @@
 ||soumyadityaa.github.io^
 ||soups.freetls.fastly.net^
 ||soups.global.ssl.fastly.net^
+||source4game.com^
 ||sourdays-1.github.io^
 ||space-shooter-shadrouh.netlify.app^
 ||spacebarclicker2.net^
@@ -11022,6 +11043,7 @@
 ||studio-games.vercel.app^
 ||studuser-git.github.io^
 ||studybreak-cup.pages.dev^
+||studydraftgames.pages.dev^
 ||studyloft.us-lax-4.linodeobjects.com^
 ||stuff.freetls.fastly.net^
 ||stuff.global.ssl.fastly.net^
@@ -12896,10 +12918,12 @@
 ||zenslashbs.github.io^
 ||zentic.org^
 ||zephyruszt.github.io^
+||zero-gravity-arcade-88.pages.dev^
 ||zeronvi.github.io^
 ||zeropass.live^
 ||zeroplaygames.com^
 ||zeroxiphyt.github.io^
+||zfgames-chi.vercel.app^
 ||zgames.ae^
 ||zgames.com^
 ||zgames.io^
