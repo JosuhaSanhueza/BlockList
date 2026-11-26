@@ -812,6 +812,7 @@
 ||asteroids.es^
 ||asteroids.net^
 ||asteroids3d.com^
+||astraclient.com^
 ||astrix.io^
 ||astroconquest.com^
 ||astrodragon.com^
@@ -1129,6 +1130,7 @@
 ||bds-games.github.io^
 ||beachboxingsimulator.pages.dev^
 ||beachdayarcade.com^
+||beakogames.online^
 ||bean.freetls.fastly.net^
 ||bean.global.ssl.fastly.net^
 ||bearclicker.net^
@@ -1421,6 +1423,7 @@
 ||bloxdunblocked.org^
 ||bloxfruitsonline.com^
 ||bloxgames.io^
+||bloxnitecraft.pages.dev^
 ||bloxorz-unblocked.vercel.app^
 ||bloxorz.net^
 ||bloxorz.org^
@@ -3751,6 +3754,7 @@
 ||fatty.global.ssl.fastly.net^
 ||fbmore.github.io^
 ||fdfdsfadf.github.io^
+||fdzgames-guessmith.pages.dev^
 ||fearlessai-coder.github.io^
 ||febireena.github.io^
 ||federicog94.github.io^
@@ -4952,6 +4956,7 @@
 ||geg-bread.github.io^
 ||gembly.com^
 ||genarcy.github.io^
+||gengame.pages.dev^
 ||genizymath.freetls.fastly.net^
 ||genizymath.github.io^
 ||genizymath.global.ssl.fastly.net^
@@ -5932,6 +5937,7 @@
 ||infinitecraftonline.com^
 ||infinitecrafts.io^
 ||infinitecraftunblocked.com^
+||infinitegames.pages.dev^
 ||infinitrix-games.vercel.app^
 ||infiplay.com^
 ||infloraclient.github.io^
@@ -7590,7 +7596,9 @@
 ||murphys-gesetz.de^
 ||murr88.github.io^
 ||musclelove-games.vercel.app^
+||museo-games.firebaseapp.com^
 ||musicgames.io^
+||mustgame.netlify.app^
 ||mutlugames.com.tr^
 ||my-arcade-game.github.io^
 ||my-arcade-hub.vercel.app^
@@ -8855,6 +8863,7 @@
 ||plutonium.pw^
 ||pnvfdgame.com^
 ||po.ki^
+||pocket-horizon-games-website.pages.dev^
 ||pocketworlds.com^
 ||pocoyo.com^
 ||pog.com^
@@ -9538,6 +9547,7 @@
 ||roblox-games-unblocked.github.io^
 ||roblox-games-unblocked.vercel.app^
 ||roblox-games-without-tags.pages.dev^
+||roblox-graphics-remover-script.pages.dev^
 ||roblox-harry-potter-script.pages.dev^
 ||roblox-hitbox-expander-script.pages.dev^
 ||roblox-hockey-simulator-script.pages.dev^
@@ -9549,6 +9559,7 @@
 ||roblox-horror-games-review.pages.dev^
 ||roblox-horror-games-yt.pages.dev^
 ||roblox-horror-map-template.pages.dev^
+||roblox-house-design-games.pages.dev^
 ||roblox-house-games.pages.dev^
 ||roblox-icon-pack-ranks.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
@@ -10554,6 +10565,7 @@
 ||solitairewave.com^
 ||solitar.io^
 ||solitario-online.es^
+||solitario.ar^
 ||solitariogratis.net^
 ||solitarioonline.com^
 ||solitariosspider.com^
@@ -10893,6 +10905,7 @@
 ||starve.io^
 ||stasisgame.com^
 ||stateofplaygames.com^
+||states-map-game.pages.dev^
 ||staticquasar931.github.io^
 ||stattogories.com^
 ||steakfacegames.com^
@@ -11080,6 +11093,7 @@
 ||subway-surfers.me^
 ||subwaygame.bitbucket.io^
 ||subwaygames.io^
+||subwaysurfer.com.br^
 ||subwaysurfers-dpfxoii2gv9b.edgeone.dev^
 ||subwaysurfers-free.github.io^
 ||subwaysurfers-game.com^
@@ -11249,6 +11263,7 @@
 ||swordbattle.io^
 ||swordmasters.io^
 ||swordz.io^
+||syafikaledugames-wasza-arcade.netlify.app^
 ||sybogame.com^
 ||sycesgameshack.com^
 ||sykritayokie.github.io^
@@ -12317,6 +12332,7 @@
 ||unlimitedwebgames.com^
 ||unload-games.com^
 ||unload.games^
+||unlocked2025.sbs^
 ||uno-online.co^
 ||uno-online.com^
 ||uno-online.gitlab.io^
@@ -12341,6 +12357,7 @@
 ||us.global.ssl.fastly.net^
 ||usama360.github.io^
 ||usaunblockedgames.com^
+||userplay.pages.dev^
 ||usually-broken.github.io^
 ||utoon.net^
 ||utoposgames.com^
@@ -12365,6 +12382,7 @@
 ||vapor.freetls.fastly.net^
 ||vapor.global.ssl.fastly.net^
 ||vaporum-game.com^
+||vastusgames.pages.dev^
 ||vattenfisk3n.github.io^
 ||vault-ubg.pages.dev^
 ||vault-ubg.vercel.app^

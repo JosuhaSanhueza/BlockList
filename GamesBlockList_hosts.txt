@@ -813,6 +813,7 @@
 0.0.0.0 asteroids.es
 0.0.0.0 asteroids.net
 0.0.0.0 asteroids3d.com
+0.0.0.0 astraclient.com
 0.0.0.0 astrix.io
 0.0.0.0 astroconquest.com
 0.0.0.0 astrodragon.com
@@ -1130,6 +1131,7 @@
 0.0.0.0 bds-games.github.io
 0.0.0.0 beachboxingsimulator.pages.dev
 0.0.0.0 beachdayarcade.com
+0.0.0.0 beakogames.online
 0.0.0.0 bean.freetls.fastly.net
 0.0.0.0 bean.global.ssl.fastly.net
 0.0.0.0 bearclicker.net
@@ -1422,6 +1424,7 @@
 0.0.0.0 bloxdunblocked.org
 0.0.0.0 bloxfruitsonline.com
 0.0.0.0 bloxgames.io
+0.0.0.0 bloxnitecraft.pages.dev
 0.0.0.0 bloxorz-unblocked.vercel.app
 0.0.0.0 bloxorz.net
 0.0.0.0 bloxorz.org
@@ -3752,6 +3755,7 @@
 0.0.0.0 fatty.global.ssl.fastly.net
 0.0.0.0 fbmore.github.io
 0.0.0.0 fdfdsfadf.github.io
+0.0.0.0 fdzgames-guessmith.pages.dev
 0.0.0.0 fearlessai-coder.github.io
 0.0.0.0 febireena.github.io
 0.0.0.0 federicog94.github.io
@@ -4953,6 +4957,7 @@
 0.0.0.0 geg-bread.github.io
 0.0.0.0 gembly.com
 0.0.0.0 genarcy.github.io
+0.0.0.0 gengame.pages.dev
 0.0.0.0 genizymath.freetls.fastly.net
 0.0.0.0 genizymath.github.io
 0.0.0.0 genizymath.global.ssl.fastly.net
@@ -5933,6 +5938,7 @@
 0.0.0.0 infinitecraftonline.com
 0.0.0.0 infinitecrafts.io
 0.0.0.0 infinitecraftunblocked.com
+0.0.0.0 infinitegames.pages.dev
 0.0.0.0 infinitrix-games.vercel.app
 0.0.0.0 infiplay.com
 0.0.0.0 infloraclient.github.io
@@ -7591,7 +7597,9 @@
 0.0.0.0 murphys-gesetz.de
 0.0.0.0 murr88.github.io
 0.0.0.0 musclelove-games.vercel.app
+0.0.0.0 museo-games.firebaseapp.com
 0.0.0.0 musicgames.io
+0.0.0.0 mustgame.netlify.app
 0.0.0.0 mutlugames.com.tr
 0.0.0.0 my-arcade-game.github.io
 0.0.0.0 my-arcade-hub.vercel.app
@@ -8856,6 +8864,7 @@
 0.0.0.0 plutonium.pw
 0.0.0.0 pnvfdgame.com
 0.0.0.0 po.ki
+0.0.0.0 pocket-horizon-games-website.pages.dev
 0.0.0.0 pocketworlds.com
 0.0.0.0 pocoyo.com
 0.0.0.0 pog.com
@@ -9539,6 +9548,7 @@
 0.0.0.0 roblox-games-unblocked.github.io
 0.0.0.0 roblox-games-unblocked.vercel.app
 0.0.0.0 roblox-games-without-tags.pages.dev
+0.0.0.0 roblox-graphics-remover-script.pages.dev
 0.0.0.0 roblox-harry-potter-script.pages.dev
 0.0.0.0 roblox-hitbox-expander-script.pages.dev
 0.0.0.0 roblox-hockey-simulator-script.pages.dev
@@ -9550,6 +9560,7 @@
 0.0.0.0 roblox-horror-games-review.pages.dev
 0.0.0.0 roblox-horror-games-yt.pages.dev
 0.0.0.0 roblox-horror-map-template.pages.dev
+0.0.0.0 roblox-house-design-games.pages.dev
 0.0.0.0 roblox-house-games.pages.dev
 0.0.0.0 roblox-icon-pack-ranks.pages.dev
 0.0.0.0 roblox-jailbreak-like-games.pages.dev
@@ -10555,6 +10566,7 @@
 0.0.0.0 solitairewave.com
 0.0.0.0 solitar.io
 0.0.0.0 solitario-online.es
+0.0.0.0 solitario.ar
 0.0.0.0 solitariogratis.net
 0.0.0.0 solitarioonline.com
 0.0.0.0 solitariosspider.com
@@ -10894,6 +10906,7 @@
 0.0.0.0 starve.io
 0.0.0.0 stasisgame.com
 0.0.0.0 stateofplaygames.com
+0.0.0.0 states-map-game.pages.dev
 0.0.0.0 staticquasar931.github.io
 0.0.0.0 stattogories.com
 0.0.0.0 steakfacegames.com
@@ -11081,6 +11094,7 @@
 0.0.0.0 subway-surfers.me
 0.0.0.0 subwaygame.bitbucket.io
 0.0.0.0 subwaygames.io
+0.0.0.0 subwaysurfer.com.br
 0.0.0.0 subwaysurfers-dpfxoii2gv9b.edgeone.dev
 0.0.0.0 subwaysurfers-free.github.io
 0.0.0.0 subwaysurfers-game.com
@@ -11250,6 +11264,7 @@
 0.0.0.0 swordbattle.io
 0.0.0.0 swordmasters.io
 0.0.0.0 swordz.io
+0.0.0.0 syafikaledugames-wasza-arcade.netlify.app
 0.0.0.0 sybogame.com
 0.0.0.0 sycesgameshack.com
 0.0.0.0 sykritayokie.github.io
@@ -12318,6 +12333,7 @@
 0.0.0.0 unlimitedwebgames.com
 0.0.0.0 unload-games.com
 0.0.0.0 unload.games
+0.0.0.0 unlocked2025.sbs
 0.0.0.0 uno-online.co
 0.0.0.0 uno-online.com
 0.0.0.0 uno-online.gitlab.io
@@ -12342,6 +12358,7 @@
 0.0.0.0 us.global.ssl.fastly.net
 0.0.0.0 usama360.github.io
 0.0.0.0 usaunblockedgames.com
+0.0.0.0 userplay.pages.dev
 0.0.0.0 usually-broken.github.io
 0.0.0.0 utoon.net
 0.0.0.0 utoposgames.com
@@ -12366,6 +12383,7 @@
 0.0.0.0 vapor.freetls.fastly.net
 0.0.0.0 vapor.global.ssl.fastly.net
 0.0.0.0 vaporum-game.com
+0.0.0.0 vastusgames.pages.dev
 0.0.0.0 vattenfisk3n.github.io
 0.0.0.0 vault-ubg.pages.dev
 0.0.0.0 vault-ubg.vercel.app
