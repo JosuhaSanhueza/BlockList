@@ -690,8 +690,10 @@
 ||arcade-portal-delta.vercel.app^
 ||arcade-websites.vercel.app^
 ||arcade.ashwinsathian.com^
+||arcade.hefest.ru^
 ||arcade.joacod.com^
 ||arcade.laughingbuddhagames.com^
+||arcade.nitsuah.io^
 ||arcade.vrg.li^
 ||arcadebloom.com^
 ||arcadebomb.com^
@@ -868,6 +870,7 @@
 ||ayhamazad.github.io^
 ||aylestone.duckdns.org^
 ||ayngames.com^
+||ayomain-games.pages.dev^
 ||ayoolopon.netlify.app^
 ||azagames.io^
 ||azaleasdolls.com^
@@ -1164,6 +1167,7 @@
 ||besidegames.com^
 ||best-casual-games-roblox.pages.dev^
 ||best-couple-roblox-games.pages.dev^
+||best-exploration-roblox-games.pages.dev^
 ||best-roblox-superhero-games.pages.dev^
 ||best-roblox-vr-games.pages.dev^
 ||bestallgames.com^
@@ -1221,6 +1225,7 @@
 ||bigfinishgames.com^
 ||bigfishgames.com^
 ||bigfishgamesaccountrecovery.pages.dev^
+||bigfishgameslogin.pages.dev^
 ||bigfishgamesloginaccount-yz6.pages.dev^
 ||bigfishgamesloginaccount.pages.dev^
 ||bigmoneyarcade.com^
@@ -1527,6 +1532,7 @@
 ||bpupadhyaya.github.io^
 ||bqurxe.github.io^
 ||brad-gate-housee.duckdns.org^
+||braden-board-games.vercel.app^
 ||brain-games.co.uk^
 ||brain-lines.io^
 ||brainide.com^
@@ -1835,6 +1841,7 @@
 ||cargames247.com^
 ||cargamesfree.io^
 ||cargamesinc.com^
+||cargamesunblocked-click.pages.dev^
 ||cargamesunblocked.gitlab.io^
 ||cargamesunblocked.net^
 ||carlin23-stack.github.io^
@@ -2779,6 +2786,7 @@
 ||desertorder.com^
 ||deskcontrolset.github.io^
 ||desktopdestroyer.lol^
+||desmume-core-retroarch-download.pages.dev^
 ||desura.com^
 ||detodojuegos.com^
 ||deutschland-spielt.de^
@@ -3428,6 +3436,7 @@
 ||educationbluesky.com^
 ||edugames-ja.pages.dev^
 ||edulab-en.pages.dev^
+||eduplay-cc.pages.dev^
 ||eduplay-es.pages.dev^
 ||eduquests.netlify.app^
 ||eduquests.onrender.com^
@@ -3987,6 +3996,7 @@
 ||fnffree.io^
 ||fnfgame.co^
 ||fnfgame.io^
+||fnfgame24.com^
 ||fnfgame24.github.io^
 ||fnfgameonline.io^
 ||fnfgamesonline.github.io^
@@ -5251,6 +5261,7 @@
 ||goldtoken.com^
 ||golf-orbit-game.pages.dev^
 ||golf-orbit-unblocked.pages.dev^
+||golf-orbit.unblockedgameswtf.workers.dev^
 ||golfhit.org^
 ||golfhitgame.io^
 ||golforbit-unblocked.pages.dev^
@@ -5297,6 +5308,7 @@
 ||google-snake.gitlab.io^
 ||google-snake.net^
 ||google-snake.pages.dev^
+||google-update-the-roblox.pages.dev^
 ||google777-playwin.pages.dev^
 ||googleclassroom6x.github.io^
 ||googledoodle-games.com^
@@ -6797,6 +6809,7 @@
 ||linh5.com^
 ||link.freetls.fastly.net^
 ||link.global.ssl.fastly.net^
+||linkedingameanswer-today.pages.dev^
 ||linkgameh5.com^
 ||linkingtechnologies.github.io^
 ||linkportal.freetls.fastly.net^
@@ -8322,6 +8335,7 @@
 ||pbmcube.com^
 ||pbskids.org^
 ||pcastromendez1971-eng.github.io^
+||pcgamesmeycauayan.netlify.app^
 ||pcjs.org^
 ||pcmobilegames.com^
 ||pcriver.github.io^
@@ -9333,6 +9347,7 @@
 ||rec-room.pages.dev^
 ||rec0ded88.com^
 ||recessgames.vercel.app^
+||recommendedplay.com^
 ||recompiledgames.com^
 ||red.freetls.fastly.net^
 ||red.global.ssl.fastly.net^
@@ -9502,6 +9517,7 @@
 ||rhythm-games.com^
 ||rhythm-games.netlify.app^
 ||rhythmgames.io^
+||rian-games-hub.vercel.app^
 ||richie99in-prog.github.io^
 ||rickdangerousflash.free.fr^
 ||rickniyosaba-offical.github.io^
@@ -9563,9 +9579,11 @@
 ||roblox-house-design-games.pages.dev^
 ||roblox-house-games.pages.dev^
 ||roblox-icon-pack-ranks.pages.dev^
+||roblox-interior-design-games.pages.dev^
 ||roblox-jailbreak-like-games.pages.dev^
 ||roblox-lua-guide-book.pages.dev^
 ||roblox-mage-sound.pages.dev^
+||roblox-map-textures-pack.pages.dev^
 ||roblox-marvel-games.pages.dev^
 ||roblox-material-list-enum.pages.dev^
 ||roblox-memory-optimizer-plugin.pages.dev^
@@ -9658,6 +9676,7 @@
 ||robloxsmokescript.pages.dev^
 ||robloxspacemaptemplate.pages.dev^
 ||robloxsportsgamesfootball.pages.dev^
+||robloxsummerscript.pages.dev^
 ||robloxsurvivalgamesmultiplayer.pages.dev^
 ||robloxtycoongames2player.pages.dev^
 ||robloxunblocked.gitlab.io^
@@ -10518,6 +10537,7 @@
 ||solarsmashonline.com^
 ||solarstreamer.github.io^
 ||solems.github.io^
+||solidstart-games.pages.dev^
 ||solitair.ee^
 ||solitaire-63d.pages.dev^
 ||solitaire-classic.com^
@@ -12208,6 +12228,7 @@
 ||unblockedgames6969.gitlab.io^
 ||unblockedgames6x-online.github.io^
 ||unblockedgames6x.bitbucket.io^
+||unblockedgames6x.com^
 ||unblockedgames6x.net^
 ||unblockedgames6x.org^
 ||unblockedgames6xonline.github.io^
