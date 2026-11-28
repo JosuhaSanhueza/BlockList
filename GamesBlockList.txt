@@ -426,6 +426,7 @@
 ||aditya-coder-h.github.io^
 ||adjust.freetls.fastly.net^
 ||adjust.global.ssl.fastly.net^
+||adlessgamescf.pages.dev^
 ||admeen.com^
 ||admin-hub-games.vercel.app^
 ||adogames.com^
@@ -814,6 +815,7 @@
 ||asteroids.es^
 ||asteroids.net^
 ||asteroids3d.com^
+||astra-games.netlify.app^
 ||astraclient.com^
 ||astrix.io^
 ||astroconquest.com^
@@ -2007,6 +2009,7 @@
 ||cjis6.github.io^
 ||ckerschen2.github.io^
 ||clackzo.pages.dev^
+||claim-free-games.com^
 ||clash-royale.io^
 ||clash3d.com^
 ||clashofskulls.pages.dev^
@@ -2155,6 +2158,7 @@
 ||clickspeedtester.com^
 ||clickspersecond.com^
 ||clickvibegame.com^
+||client-sasktel-5g-game.pages.dev^
 ||client.freetls.fastly.net^
 ||client.global.ssl.fastly.net^
 ||client.knockback.cc^
@@ -2555,6 +2559,7 @@
 ||cubes2048.org^
 ||cubiccastles.com^
 ||cucumberpork3.github.io^
+||cuentolino.es^
 ||cuevadeclasicos.org^
 ||culga.com^
 ||culinariasara.com^
@@ -3752,6 +3757,7 @@
 ||farmerama.ru^
 ||farmerama.sk^
 ||fashion-model-games-roblox.pages.dev^
+||fast-paced-games-roblox.pages.dev^
 ||fastclient.net^
 ||fastgameh5.cc^
 ||fastgames.com^
@@ -4517,10 +4523,12 @@
 ||gamedek.com^
 ||gamedesign.jp^
 ||gamedesire.com^
+||gamedevservice.pages.dev^
 ||gamedfree.com^
 ||gamediscover.co^
 ||gamedistribution.com^
 ||gamedle.wtf^
+||gamedojo-benchmark.github.io^
 ||gameduddles.com^
 ||gameduell.com^
 ||gamee.com^
@@ -4809,6 +4817,7 @@
 ||gamesiknow.com^
 ||gamesitetemplates.com^
 ||gamesito.com^
+||gameslab.vercel.app^
 ||gamesleader.com^
 ||gamesload.de^
 ||gamesload.fr^
@@ -4990,6 +4999,7 @@
 ||geometry-arrow.com^
 ||geometry-arrow.pages.dev^
 ||geometry-dash-1-0.github.io^
+||geometry-dash-apk-cloudflare.pages.dev^
 ||geometry-dash-game-unblocked.netlify.app^
 ||geometry-dash-game.gitlab.io^
 ||geometry-dash-games-unbanned.github.io^
@@ -5205,6 +5215,7 @@
 ||github-games.gitlab.io^
 ||githubgames.bitbucket.io^
 ||githubgames.gitlab.io^
+||githubgamesforschool.pages.dev^
 ||githubio-games.gitlab.io^
 ||githubiogames.com^
 ||githubiogames.gitlab.io^
@@ -5244,6 +5255,7 @@
 ||gobattle.io^
 ||goblinarcade.com^
 ||goblinkingdev.github.io^
+||god-s-will-roblox.pages.dev^
 ||godenotjogodeterrorroblox.pages.dev^
 ||godup233-hash.github.io^
 ||godvillegame.com^
@@ -5254,6 +5266,7 @@
 ||gogoat35.github.io^
 ||gogogame.com^
 ||gogogogame.com^
+||gogunlocked.com^
 ||gogy.com^
 ||gogygames.com^
 ||gokarts.io^
@@ -6746,6 +6759,7 @@
 ||learntofly2.io^
 ||learntofly2.pages.dev^
 ||lebronjames127449-eng.github.io^
+||leesvpn.duckdns.org^
 ||left4rcade.github.io^
 ||legacyminecraftpe.gitlab.io^
 ||legiongames.io^
@@ -7285,6 +7299,7 @@
 ||minecraftero.vercel.app^
 ||minecraftforfreex.com^
 ||minecraftforge.net^
+||minecraftfree.vercel.app^
 ||minecrafthud.vercel.app^
 ||minecraftjava.net^
 ||minecraftjava.pages.dev^
@@ -8316,6 +8331,7 @@
 ||partidago.com^
 ||partisan-games.github.io^
 ||pasjanse.pl^
+||pass-and-play-games.github.io^
 ||passion-industry-game.com^
 ||passiongames-es.com^
 ||passportgame.pages.dev^
@@ -10626,6 +10642,7 @@
 ||soups.global.ssl.fastly.net^
 ||source4game.com^
 ||sourdays-1.github.io^
+||space-exploration-games-roblox.pages.dev^
 ||space-shooter-shadrouh.netlify.app^
 ||spacebarclicker2.net^
 ||spaceblast.io^
@@ -11373,6 +11390,7 @@
 ||teespure.github.io^
 ||tejapriyan.github.io^
 ||telare.nbiappointment.com.ph^
+||telegram-board-games.pages.dev^
 ||teleplay.ai^
 ||temple-of-boom.gitlab.io^
 ||temple-run-2.com^

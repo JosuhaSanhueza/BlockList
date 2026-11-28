@@ -427,6 +427,7 @@
 0.0.0.0 aditya-coder-h.github.io
 0.0.0.0 adjust.freetls.fastly.net
 0.0.0.0 adjust.global.ssl.fastly.net
+0.0.0.0 adlessgamescf.pages.dev
 0.0.0.0 admeen.com
 0.0.0.0 admin-hub-games.vercel.app
 0.0.0.0 adogames.com
@@ -815,6 +816,7 @@
 0.0.0.0 asteroids.es
 0.0.0.0 asteroids.net
 0.0.0.0 asteroids3d.com
+0.0.0.0 astra-games.netlify.app
 0.0.0.0 astraclient.com
 0.0.0.0 astrix.io
 0.0.0.0 astroconquest.com
@@ -2008,6 +2010,7 @@
 0.0.0.0 cjis6.github.io
 0.0.0.0 ckerschen2.github.io
 0.0.0.0 clackzo.pages.dev
+0.0.0.0 claim-free-games.com
 0.0.0.0 clash-royale.io
 0.0.0.0 clash3d.com
 0.0.0.0 clashofskulls.pages.dev
@@ -2156,6 +2159,7 @@
 0.0.0.0 clickspeedtester.com
 0.0.0.0 clickspersecond.com
 0.0.0.0 clickvibegame.com
+0.0.0.0 client-sasktel-5g-game.pages.dev
 0.0.0.0 client.freetls.fastly.net
 0.0.0.0 client.global.ssl.fastly.net
 0.0.0.0 client.knockback.cc
@@ -2556,6 +2560,7 @@
 0.0.0.0 cubes2048.org
 0.0.0.0 cubiccastles.com
 0.0.0.0 cucumberpork3.github.io
+0.0.0.0 cuentolino.es
 0.0.0.0 cuevadeclasicos.org
 0.0.0.0 culga.com
 0.0.0.0 culinariasara.com
@@ -3753,6 +3758,7 @@
 0.0.0.0 farmerama.ru
 0.0.0.0 farmerama.sk
 0.0.0.0 fashion-model-games-roblox.pages.dev
+0.0.0.0 fast-paced-games-roblox.pages.dev
 0.0.0.0 fastclient.net
 0.0.0.0 fastgameh5.cc
 0.0.0.0 fastgames.com
@@ -4518,10 +4524,12 @@
 0.0.0.0 gamedek.com
 0.0.0.0 gamedesign.jp
 0.0.0.0 gamedesire.com
+0.0.0.0 gamedevservice.pages.dev
 0.0.0.0 gamedfree.com
 0.0.0.0 gamediscover.co
 0.0.0.0 gamedistribution.com
 0.0.0.0 gamedle.wtf
+0.0.0.0 gamedojo-benchmark.github.io
 0.0.0.0 gameduddles.com
 0.0.0.0 gameduell.com
 0.0.0.0 gamee.com
@@ -4810,6 +4818,7 @@
 0.0.0.0 gamesiknow.com
 0.0.0.0 gamesitetemplates.com
 0.0.0.0 gamesito.com
+0.0.0.0 gameslab.vercel.app
 0.0.0.0 gamesleader.com
 0.0.0.0 gamesload.de
 0.0.0.0 gamesload.fr
@@ -4991,6 +5000,7 @@
 0.0.0.0 geometry-arrow.com
 0.0.0.0 geometry-arrow.pages.dev
 0.0.0.0 geometry-dash-1-0.github.io
+0.0.0.0 geometry-dash-apk-cloudflare.pages.dev
 0.0.0.0 geometry-dash-game-unblocked.netlify.app
 0.0.0.0 geometry-dash-game.gitlab.io
 0.0.0.0 geometry-dash-games-unbanned.github.io
@@ -5206,6 +5216,7 @@
 0.0.0.0 github-games.gitlab.io
 0.0.0.0 githubgames.bitbucket.io
 0.0.0.0 githubgames.gitlab.io
+0.0.0.0 githubgamesforschool.pages.dev
 0.0.0.0 githubio-games.gitlab.io
 0.0.0.0 githubiogames.com
 0.0.0.0 githubiogames.gitlab.io
@@ -5245,6 +5256,7 @@
 0.0.0.0 gobattle.io
 0.0.0.0 goblinarcade.com
 0.0.0.0 goblinkingdev.github.io
+0.0.0.0 god-s-will-roblox.pages.dev
 0.0.0.0 godenotjogodeterrorroblox.pages.dev
 0.0.0.0 godup233-hash.github.io
 0.0.0.0 godvillegame.com
@@ -5255,6 +5267,7 @@
 0.0.0.0 gogoat35.github.io
 0.0.0.0 gogogame.com
 0.0.0.0 gogogogame.com
+0.0.0.0 gogunlocked.com
 0.0.0.0 gogy.com
 0.0.0.0 gogygames.com
 0.0.0.0 gokarts.io
@@ -6747,6 +6760,7 @@
 0.0.0.0 learntofly2.io
 0.0.0.0 learntofly2.pages.dev
 0.0.0.0 lebronjames127449-eng.github.io
+0.0.0.0 leesvpn.duckdns.org
 0.0.0.0 left4rcade.github.io
 0.0.0.0 legacyminecraftpe.gitlab.io
 0.0.0.0 legiongames.io
@@ -7286,6 +7300,7 @@
 0.0.0.0 minecraftero.vercel.app
 0.0.0.0 minecraftforfreex.com
 0.0.0.0 minecraftforge.net
+0.0.0.0 minecraftfree.vercel.app
 0.0.0.0 minecrafthud.vercel.app
 0.0.0.0 minecraftjava.net
 0.0.0.0 minecraftjava.pages.dev
@@ -8317,6 +8332,7 @@
 0.0.0.0 partidago.com
 0.0.0.0 partisan-games.github.io
 0.0.0.0 pasjanse.pl
+0.0.0.0 pass-and-play-games.github.io
 0.0.0.0 passion-industry-game.com
 0.0.0.0 passiongames-es.com
 0.0.0.0 passportgame.pages.dev
@@ -10627,6 +10643,7 @@
 0.0.0.0 soups.global.ssl.fastly.net
 0.0.0.0 source4game.com
 0.0.0.0 sourdays-1.github.io
+0.0.0.0 space-exploration-games-roblox.pages.dev
 0.0.0.0 space-shooter-shadrouh.netlify.app
 0.0.0.0 spacebarclicker2.net
 0.0.0.0 spaceblast.io
@@ -11374,6 +11391,7 @@
 0.0.0.0 teespure.github.io
 0.0.0.0 tejapriyan.github.io
 0.0.0.0 telare.nbiappointment.com.ph
+0.0.0.0 telegram-board-games.pages.dev
 0.0.0.0 teleplay.ai
 0.0.0.0 temple-of-boom.gitlab.io
 0.0.0.0 temple-run-2.com
